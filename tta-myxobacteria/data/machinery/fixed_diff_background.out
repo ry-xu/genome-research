@@ -1,0 +1,4 @@
+reference S_035318505: 331 families in all 16; 273 with >= 100 sites; pooled fixed rate 578/73268 = 0.0079; median 0.0052
+RF2|RF2_ECOLI: S_035318505|DATHEQ010000314.1_14605_15594_1 sites 262 fixed 17 rate 0.0649; higher than 99.6% of families
+reference S_964421485: 309 families in all 16; 248 with >= 100 sites; pooled fixed rate 553/66903 = 0.0083; median 0.0057
+RF2|RF2_ECOLI: S_964421485|CAYQYG010000050.1_8768_9814_-1 sites 261 fixed 17 rate 0.0651; higher than 99.6% of families

@@ -1,0 +1,69 @@
+check 4: 12 of 31 candidates confirmed
+controls with any passing codon: 17 of 34
+candidates (id, genome, genus, X: O n_hits E ratio log10p -> check 4; other passing codons)
+  g51 GB_GCA_965249245.1 g__CBDAPI01 CCA: O 5 n_hits 105 E 1.06 ratio 4.73 log10p -2.34 -> not confirmed; others passing: none
+  g24 GB_GCA_015063135.1 g__Methanoprimaticola CGA: O 12 n_hits 132 E 0.50 ratio 24.00 log10p -12.49 -> CONFIRMED; others passing: ['TCA', 'CCA', 'AGA', 'GAA', 'GGT']
+  g06 GB_GCA_017519045.1 g__Methanoprimaticola CGA: O 8 n_hits 127 E 0.50 ratio 16.00 log10p -7.21 -> CONFIRMED; others passing: ['CCA', 'GCA']
+  g33 GB_GCA_017540825.1 g__Methanoprimaticola CGA: O 7 n_hits 130 E 0.50 ratio 14.00 log10p -6.00 -> CONFIRMED; others passing: ['CCA', 'GAT', 'GGT']
+  g26 GB_GCA_017613335.1 g__Methanofrustulum CGA: O 4 n_hits 119 E 0.50 ratio 8.00 log10p -2.76 -> not confirmed; others passing: none
+  g43 GB_GCA_028561875.1 g__Methanomethylophilus CGA: O 13 n_hits 130 E 0.50 ratio 26.00 log10p -13.91 -> CONFIRMED; others passing: none
+  g56 GB_GCA_046534355.1 g__UBA168 CGA: O 14 n_hits 107 E 0.50 ratio 28.00 log10p -15.36 -> CONFIRMED; others passing: none
+  g18 GB_GCA_050886295.1 g__UBA168 CGA: O 8 n_hits 111 E 0.50 ratio 16.00 log10p -7.21 -> CONFIRMED; others passing: none
+  g59 GB_GCA_964445265.1 g__Methanoprimaticola CGA: O 11 n_hits 116 E 0.50 ratio 22.00 log10p -11.11 -> CONFIRMED; others passing: none
+  g38 RS_GCF_000165835.1 g__Achromobacter GGA: O 10 n_hits 116 E 0.60 ratio 16.80 log10p -9.05 -> CONFIRMED; others passing: ['AGG']
+  g27 GB_GCA_019239975.1 g__JAFAZE01 TTA: O 0 n_hits 105 E 0.50 ratio 0.00 log10p 0.00 -> not confirmed; others passing: ['CAT', 'GGA']
+  g63 GB_GCA_019245115.1 g__JAFARZ01 TTA: O 1 n_hits 105 E 0.50 ratio 2.00 log10p -0.41 -> not confirmed; others passing: none
+  g17 GB_GCA_019246795.1 g__Palsa-504 TTA: O 3 n_hits 103 E 0.50 ratio 6.00 log10p -1.84 -> not confirmed; others passing: none
+  g61 GB_GCA_020849655.1 g__JADLFU01 TTA: O 9 n_hits 107 E 0.50 ratio 18.00 log10p -8.46 -> CONFIRMED; others passing: none
+  g47 GB_GCA_025057345.1 g__JANWXX01 TTA: O 3 n_hits 102 E 0.50 ratio 6.00 log10p -1.84 -> not confirmed; others passing: none
+  g01 GB_GCA_025453595.1 g__JANWXX01 TTA: O 8 n_hits 99 E 0.50 ratio 16.00 log10p -7.21 -> CONFIRMED; others passing: none
+  g39 GB_GCA_035651595.1 g__JAFARZ01 TTA: O 0 n_hits 119 E 0.50 ratio 0.00 log10p 0.00 -> not confirmed; others passing: ['GCA']
+  g44 GB_GCA_035762175.1 g__DASTPP01 TTA: O 4 n_hits 104 E 0.50 ratio 8.00 log10p -2.76 -> not confirmed; others passing: none
+  g12 GB_GCA_036490795.1 g__JAFARZ01 TTA: O 1 n_hits 77 E 0.50 ratio 2.00 log10p -0.41 -> not confirmed; others passing: none
+  g29 GB_GCA_046351315.1 g__JAXLYQ01 TTA: O 4 n_hits 73 E 0.50 ratio 8.00 log10p -2.76 -> not confirmed; others passing: none
+  g55 GB_GCA_050012355.1 g__JBEKHI01 TTA: O 0 n_hits 95 E 0.50 ratio 0.00 log10p 0.00 -> not confirmed; others passing: none
+  g34 GB_GCA_963169165.1 g__JADLFU01 TTA: O 7 n_hits 85 E 0.50 ratio 14.00 log10p -6.00 -> CONFIRMED; others passing: ['CGA']
+  g54 GB_GCA_963742795.1 g__Palsa-504 TTA: O 1 n_hits 109 E 0.50 ratio 2.00 log10p -0.41 -> not confirmed; others passing: ['CGA']
+  g21 GB_GCA_963743085.1 g__JBEKHI01 TTA: O 0 n_hits 86 E 0.50 ratio 0.00 log10p 0.00 -> not confirmed; others passing: none
+  g03 GB_GCA_963744575.1 g__Palsa-504 TTA: O 0 n_hits 109 E 0.50 ratio 0.00 log10p 0.00 -> not confirmed; others passing: none
+  g40 GB_GCA_963771985.1 g__Trebonia TTA: O 1 n_hits 106 E 0.50 ratio 2.00 log10p -0.41 -> not confirmed; others passing: ['CCA', 'GGA']
+  g60 GB_GCA_963811335.1 g__Trebonia TTA: O 1 n_hits 98 E 0.50 ratio 2.00 log10p -0.41 -> not confirmed; others passing: ['CCA', 'GGA']
+  g04 GB_GCA_963819785.1 g__Palsa-504 TTA: O 1 n_hits 106 E 0.50 ratio 2.00 log10p -0.41 -> not confirmed; others passing: ['CCT', 'CGA', 'GCA']
+  g15 GB_GCA_963835775.1 g__Palsa-504 TTA: O 0 n_hits 96 E 0.50 ratio 0.00 log10p 0.00 -> not confirmed; others passing: ['GCT']
+  g41 GB_GCA_963842265.1 g__Palsa-504 TTA: O 1 n_hits 81 E 0.50 ratio 2.00 log10p -0.41 -> not confirmed; others passing: none
+  g09 GB_GCA_964605685.1 g__JANWXX01 TTA: O 8 n_hits 113 E 0.50 ratio 16.00 log10p -7.21 -> CONFIRMED; others passing: none
+controls (id, genome, role, n_hits, canonical-stop share at e*+1; passing codons)
+  g02 GB_GCA_036497405.1 control:Bog-532 n_hits 45 stop share 0.3333: none
+  g05 GB_GCA_963850115.1 control:Trebonia n_hits 80 stop share 0.3875: none
+  g07 GB_GCA_963753225.1 control:Palsa-504 n_hits 104 stop share 0.3462: none
+  g08 RS_GCF_028368935.1 control:Sorangium n_hits 112 stop share 0.3571: none
+  g10 GB_GCA_050013055.1 control:Palsa-504 n_hits 100 stop share 0.3800: CCA (O 6, log10p -4.8), GGA (O 8, log10p -4.2)
+  g11 GB_GCA_038070365.1 control:Streptomyces n_hits 46 stop share 0.3913: none
+  g13 GB_GCA_002085155.1 control:NIC37A-2 n_hits 113 stop share 0.3186: none
+  g14 RS_GCF_000009045.1 control:Bacillus n_hits 123 stop share 0.3577: none
+  g16 RS_GCF_042651645.1 control:Streptomyces n_hits 106 stop share 0.3774: none
+  g19 GB_GCA_963809195.1 control:Chersky-822 n_hits 83 stop share 0.3735: none
+  g20 GB_GCA_963730825.1 control:Palsa-504 n_hits 75 stop share 0.3867: CCA (O 6, log10p -4.8)
+  g22 GB_GCA_036495425.1 control:Bog-532 n_hits 59 stop share 0.2712: none
+  g23 RS_GCF_000300255.2 control:Methanomethylophilus n_hits 132 stop share 0.3788: none
+  g25 GB_GCA_963640855.1 control:Methanarcanum n_hits 129 stop share 0.3798: GGG (O 6, log10p -4.2)
+  g28 GB_GCA_963777905.1 control:Trebonia n_hits 104 stop share 0.3846: CCA (O 6, log10p -4.6), GCA (O 8, log10p -5.3)
+  g30 GB_GCA_963734665.1 control:Trebonia n_hits 115 stop share 0.3739: none
+  g31 GB_GCA_003242355.2 control:PMG-095 n_hits 86 stop share 0.3372: none
+  g32 RS_GCF_042661845.1 control:Spirillospora n_hits 99 stop share 0.4444: AGG (O 6, log10p -4.4)
+  g35 GB_GCA_002495325.1 control:Methanomethylophilus n_hits 130 stop share 0.3231: none
+  g36 RS_GCF_016863335.1 control:Planotetraspora n_hits 110 stop share 0.3909: CGA (O 6, log10p -4.5)
+  g37 GB_GCA_963625795.1 control:Methanarcanum n_hits 123 stop share 0.3577: GGG (O 6, log10p -4.6), TTT (O 10, log10p -6.9)
+  g42 RS_GCF_039534125.1 control:Actinocorallia n_hits 119 stop share 0.3866: CCT (O 7, log10p -6.0), TCA (O 6, log10p -4.8)
+  g45 GB_GCA_963804455.1 control:RYN-230 n_hits 82 stop share 0.3537: GGA (O 7, log10p -5.1)
+  g46 GB_GCA_963611065.1 control:Methanoprimaticola n_hits 118 stop share 0.3814: GAA (O 11, log10p -4.4), TCA (O 6, log10p -4.8)
+  g48 GB_GCA_963814645.1 control:RYN-230 n_hits 116 stop share 0.3103: CCA (O 7, log10p -4.9), GGA (O 8, log10p -6.3)
+  g49 GB_GCA_949298875.1 control:Methanoprimaticola n_hits 119 stop share 0.3109: ACA (O 6, log10p -4.1), AGA (O 10, log10p -6.1), CGG (O 6, log10p -4.8)
+  g50 RS_GCF_005893125.1 control:Nonomuraea n_hits 112 stop share 0.4018: TCA (O 6, log10p -4.8)
+  g52 GB_GCA_963789225.1 control:Palsa-504 n_hits 80 stop share 0.3125: none
+  g53 GB_GCA_015063165.1 control:Methanoprimaticola n_hits 133 stop share 0.3835: AGA (O 14, log10p -6.0), CCA (O 8, log10p -6.1), GAA (O 14, log10p -4.0), TCA (O 7, log10p -5.5)
+  g57 RS_GCF_000005845.2 control:Escherichia n_hits 126 stop share 0.5238: TCG (O 12, log10p -5.8)
+  g58 GB_GCA_001560915.1 control:Methanomethylophilus n_hits 129 stop share 0.4264: ACA (O 7, log10p -5.0), TTT (O 8, log10p -7.2)
+  g62 GB_GCA_017395275.1 control:SIG5 n_hits 115 stop share 0.3304: TCA (O 8, log10p -6.4), TCT (O 6, log10p -4.8)
+  g64 GB_GCA_030045175.1 control:Chersky-822 n_hits 86 stop share 0.4302: none
+  g65 RS_GCF_001263205.1 control:Labilithrix n_hits 111 stop share 0.3423: none

@@ -1,0 +1,8 @@
+genomes with an RF2 motif call: 161077
+motifs: [('SPF', 143061), ('SPY', 15589), ('SPT', 1874), ('SKY', 353), ('SRF', 27), ('SKF', 20)]
+SPF: 143061 genomes (88.8%); TTA-flagged in Arm A 174 (0.122%)
+SPY: 15589 genomes (9.7%); TTA-flagged in Arm A 24 (0.154%)
+position 201 + motif: [(('L', 'SPF'), 141461), (('L', 'SPY'), 15481), (('M', 'SPF'), 1120), (('I', 'SPF'), 272), (('F', 'SPF'), 140), (('V', 'SPF'), 63), (('M', 'SPY'), 54), (('I', 'SPY'), 38), (('F', 'SPY'), 7), (('X', 'SPF'), 6)]
+F201 + SPY: 7 genomes; TTA-flagged ['GB_GCA_020849655.1', 'GB_GCA_025057345.1', 'GB_GCA_025453595.1', 'GB_GCA_035762175.1', 'GB_GCA_963169165.1', 'GB_GCA_964605685.1']
+   ['GB_GCA_020849655.1', 'GB_GCA_025057345.1', 'GB_GCA_025453595.1', 'GB_GCA_035762175.1', 'GB_GCA_963169165.1', 'GB_GCA_964396175.1', 'GB_GCA_964605685.1']
+F201 + SPF: 140 genomes; TTA-flagged ['GB_GCA_046351315.1']

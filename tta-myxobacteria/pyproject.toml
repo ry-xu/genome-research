@@ -1,0 +1,20 @@
+[project]
+name = "tta-myxobacteria"
+version = "0.1.0"
+description = "Analysis code and data: bacteria that end their genes at TTA, a leucine codon"
+requires-python = ">=3.11"
+dependencies = [
+    "pyrodigal",
+    "pyaragorn",
+    "pyskani",
+    "biopython",
+    "numpy",
+    "scipy",
+    "treeswift",
+    "openpyxl",
+    "requests",
+    "matplotlib",
+]
+
+[tool.uv]
+package = false

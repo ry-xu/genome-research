@@ -1,0 +1,13 @@
+# downloaded / generated (see scripts/setup_reference_data.sh)
+data/genomes/
+data/gtdb_meta/
+data/*.dmnd
+data/uniprot_sprot.fasta.gz
+data/trna_screen/
+data/catalogues/
+results/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env

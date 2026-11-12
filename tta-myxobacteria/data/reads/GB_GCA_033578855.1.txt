@@ -1,0 +1,4 @@
+GB_GCA_033578855.1 TTA; runs SRR15826902,SRR15826901; minimap2 -x sr; 2026-11-11 12:32 EST
+X        sites 20; depth >= 5: 14; >= 90% assembly codon: 14; covered but not supporting: 0; median depth 7
+control  sites 20; depth >= 5: 17; >= 90% assembly codon: 17; covered but not supporting: 0; median depth 8
+check 3: 14 supporting X sites -> PASS (rule >= 10)

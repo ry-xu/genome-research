@@ -1,0 +1,23 @@
+reference S_035318505: 331 families in all 16; 205 with >= 100 sites and >= 2 outgroups; pooled fixed 480/57470, clade-derived 179, sister-side 79
+  fixed: median rate 0.0056
+  RF2|RF2_ECOLI fixed: 17/262 = 0.0649, rank 1 of 205
+  clade-derived: median rate 0.0000
+  RF2|RF2_ECOLI clade-derived: 10/262 = 0.0382, rank 1 of 205
+RF2 fixed differences (reference coordinates):
+  ref 83: clade Q sisters T outgroups TTV -> clade
+  ref 87: clade G sisters D outgroups DDD -> clade
+  ref 115: clade S sisters G outgroups GGG -> clade
+  ref 125: clade L sisters F outgroups FIV -> unresolved
+  ref 126: clade R sisters T outgroups HLL -> unresolved
+  ref 131: clade N sisters SY outgroups FNY -> unresolved
+  ref 145: clade F sisters L outgroups LLL -> clade
+  ref 153: clade S sisters A outgroups AS -> unresolved
+  ref 155: clade G sisters AH outgroups AAG -> clade
+  ref 162: clade V sisters A outgroups AAA -> clade
+  ref 171: clade E sisters D outgroups DDE -> clade
+  ref 180: clade P sisters DE outgroups DPP -> sister
+  ref 260: clade D sisters AH outgroups DEE -> unresolved
+  ref 262: clade A sisters GN outgroups AGG -> clade
+  ref 263: clade W sisters F outgroups FFF -> clade
+  ref 273: clade M sisters A outgroups AAQ -> clade
+  ref 286: clade Q sisters E outgroups KKK -> unresolved

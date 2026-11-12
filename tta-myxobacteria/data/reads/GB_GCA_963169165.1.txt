@@ -1,0 +1,4 @@
+GB_GCA_963169165.1 TTA; runs ERR10643344; minimap2 -x sr; 2026-11-11 12:32 EST
+X        sites 15; depth >= 5: 10; >= 90% assembly codon: 10; covered but not supporting: 0; median depth 7
+control  sites 15; depth >= 5: 13; >= 90% assembly codon: 13; covered but not supporting: 0; median depth 9
+check 3: 10 supporting X sites -> PASS (rule >= 10)

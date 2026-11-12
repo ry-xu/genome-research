@@ -1,0 +1,4 @@
+MAG.1207 TTA; runs SRR12234146,SRR8750958; minimap2 -x sr; 2026-11-11 14:14 EST
+X        sites 28; depth >= 5: 28; >= 90% assembly codon: 28; covered but not supporting: 0; median depth 19
+control  sites 28; depth >= 5: 28; >= 90% assembly codon: 28; covered but not supporting: 0; median depth 18
+check 3: 28 supporting X sites -> PASS (rule >= 10)

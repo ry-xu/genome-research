@@ -1,0 +1,8 @@
+all8 all stops: obs 14 E 10.39 ratio 1.35 P(X>=obs) 0.166
+all8 noTGA: obs 14 E 7.17 ratio 1.95 P(X>=obs) 0.0154
+all8 offGC removed, all stops: obs 10 E 10.16 ratio 0.98 P(X>=obs) 0.562
+all8 offGC removed, noTGA: obs 10 E 7.17 ratio 1.39 P(X>=obs) 0.187
+7 SPY, all stops: obs 11 E 4.45 ratio 2.47 P(X>=obs) 0.00616
+7 SPY noTGA: obs 11 E 3.93 ratio 2.80 P(X>=obs) 0.00249
+7 SPY offGC removed all: obs 7 E 4.45 ratio 1.57 P(X>=obs) 0.163
+7 SPY offGC removed noTGA: obs 7 E 3.93 ratio 1.78 P(X>=obs) 0.104

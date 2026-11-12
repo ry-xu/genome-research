@@ -1,0 +1,4 @@
+spire_mag_00879468 TTA; runs SRR12762302; minimap2 -x sr; 2026-11-11 12:48 EST
+X        sites 21; depth >= 5: 13; >= 90% assembly codon: 13; covered but not supporting: 0; median depth 6
+control  sites 21; depth >= 5: 16; >= 90% assembly codon: 16; covered but not supporting: 0; median depth 7
+check 3: 13 supporting X sites -> PASS (rule >= 10)

@@ -1,0 +1,9 @@
+genome	gtdb_genus	role	tta_ends_vs_clade_orthologs	rf2_motif	trna_leu_uaa
+RS_GCF_004135735.1	Sorangium	nearest-relative control	0/438	SPF	present
+GB_GCA_035275365.1	DASWDH01	nearest-relative control	0/160	SPF	present
+GB_GCA_035318465.1	DASWDH01	nearest-relative control	0/191	SPF	present
+GB_GCA_035318505.1	DASWDH01	nearest-relative control	1/195	SPF	present
+GB_GCA_036395495.1	DASWDH01	nearest-relative control	0/173	SPF	present
+GB_GCA_903893335.1	CAITLX01	nearest-relative control	0/152	SPF	present
+GB_GCA_964372055.1	CAYJPW01	nearest-relative control	0/380	SPF	present
+GB_GCA_964421485.1	CAYQYG01	nearest-relative control	0/336	SPF	present

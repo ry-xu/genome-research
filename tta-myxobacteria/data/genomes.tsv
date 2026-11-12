@@ -1,0 +1,18 @@
+genome	set	gtdb_genus	source	place	completeness_pct	arm_b_families	arm_b_ratio	arm_b_log10p	check1_genus_mate	check2_vs_synonyms	check3_reads_tta_sites	check4_blinded_recheck	tta_ends_vs_sister_orthologs	rf2_motif	trna_leu_uaa	status
+GB_GCA_963169165.1	GTDB R232 representative	JADLFU01	anammox biofilm reactor (Klagshamn WWTP)	Sweden	84.61	15	30	-16.8	yes	62x	10/10	pass	24/269	SPY	absent	all four frozen checks
+GB_GCA_964605685.1	GTDB R232 representative	JANWXX01	hot spring	India	85.61	19	19	-18.4	yes	30x	20/20	pass	46/309	SPY	absent	all four frozen checks
+GB_GCA_020849655.1	GTDB R232 representative	JADLFU01	partial nitritation anammox bioreactor (Sjolunda WWTP)	Sweden	96.94	19	38	-23.0	yes	70x	18/18	pass	21/260	SPY	absent	all four frozen checks
+GB_GCA_025453595.1	GTDB R232 representative	JANWXX01	wetland (Prado Wetlands)	California, USA	81.43	32	50	-41.8	yes	76x	no read runs	pass	63/328	SPY	absent	checks 1, 2, 4
+GB_GCA_025057345.1	GTDB R232 representative	JANWXX01	green biofilm, alkaline hot spring	Perak, Malaysia	84.47	21	16	-18.0	yes	20x	15/15	fail (3 vs 0.5)	36/245	SPY	absent	checks 1-3
+GB_GCA_035762175.1	GTDB R232 representative	DASTPP01	agricultural soil	China	88.4	16	11	-11.4	no other assembly	17x	16/16	fail (4 vs 0.5)	24/524	SPY	absent	checks 2-3
+GB_GCA_046351315.1	GTDB R232 representative	JAXLYQ01	wastewater	Hong Kong	59.41	14	13	-10.8	no other assembly	18x	11/11	fail (4 vs 0.5)	32/208	SPF	absent	checks 2-3
+GB_GCA_964396175.1	GTDB R232 representative	CAYNEK01	wastewater	China	93.34	5	10	-3.8	-	-	-	-	6/196	SPY	absent	below the Arm B bar; in the clade
+GB_GCA_963169955.1	GTDB R232, not a representative	JADLFU01	anammox biofilm reactor (same sample and read run as GB_GCA_963169165.1)	Sweden	86.73	20	39	-24.5	yes	78x	20/20	not run	-	-	-	checks 1-3; not independent of GB_GCA_963169165.1
+GB_GCA_033578855.1	GTDB R232, not a representative	JANWXX01	hybrid reassembly of the GB_GCA_025057345.1 samples	Perak, Malaysia	84.99	20	14	-16.0	yes	17x	14/14	not run	-	-	-	checks 1-3; not independent of GB_GCA_025057345.1
+GCA_982529355.1	outside GTDB (strain 1-FT3.2)	nearest JANWXX01 (AAI 69.9%)	predator-prey co-culture from subarctic peatland soil (Demina et al. 2025)	Pallas, Finland	81.9	102	25	-103.7	-	36x	104/104	not run	-	SPY	absent	Arm B, checks 2-3
+MAG.1207	outside GTDB (AnMAGC)	nearest JANWXX01 (AAI 79.6%)	anammox system	-	-	28	9.9	-18.0	-	16x	28/28	not run	-	-	-	Arm B, checks 2-3
+spire_mag_00879468	outside GTDB (SPIRE)	none clearly (AAI 60-63%)	wastewater	-	-	21	15	-16.9	-	18x	13/13	not run	-	-	-	Arm B, checks 2-3
+GCA_060838245.1	outside GTDB (NCBI, Sept 2026)	none clearly (AAI 62-64%)	wastewater plant	Virginia, USA	-	23	18	-20.8	-	28x	16/16	not run	-	-	-	Arm B, checks 2-3
+bin496	outside GTDB (Brown et al. activated sludge)	none clearly (AAI 61-64%)	activated sludge	-	-	40	27	-41.8	-	42x	source run unknown	not run	-	-	-	Arm B, check 2
+bin242	outside GTDB (Brown et al. activated sludge)	nearest JANWXX01 (AAI 79.4%)	activated sludge	-	-	29	17	-25.5	-	32x	source run unknown	not run	-	-	-	Arm B, check 2
+bin474	outside GTDB (Brown et al. activated sludge)	nearest JAXLYQ01 (AAI 85.7%)	activated sludge	-	-	16	15	-13.2	-	21x	source run unknown	not run	-	-	-	Arm B, check 2
