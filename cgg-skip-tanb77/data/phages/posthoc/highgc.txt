@@ -1,0 +1,12 @@
+== GC>=32: n=42 O=1595 E=1868 O/E=0.85 skip=28 skip/O=0.018
+  crispr connections median: 1.0  agreement median: 100.0
+  kmer host order: [('none', 19), ('o__Lactobacillales', 6), ('o__Oscillospirales', 4), ('o__Lachnospirales', 4), ('o__?', 3)]
+  lifestyle: [('lytic', 21), ('temperate', 21)]  checkv: [('Medium-quality', 24), ('High-quality', 9), ('Complete', 9)]
+  host markers>0: 16  trimmed: [('No', 42)]
+  crispr_host_range_red median: 0.0
+== GC<32: n=394 O=896 E=862 O/E=1.04 skip=524 skip/O=0.585
+  crispr connections median: 38.0  agreement median: 80.0
+  kmer host order: [('o__TANB77', 304), ('none', 71), ('o__?', 11), ('o__ML615J-28', 3), ('o__RF39', 2)]
+  lifestyle: [('temperate', 221), ('lytic', 173)]  checkv: [('High-quality', 179), ('Medium-quality', 173), ('Complete', 42)]
+  host markers>0: 188  trimmed: [('No', 374), ('Yes', 20)]
+  crispr_host_range_red median: 0.0

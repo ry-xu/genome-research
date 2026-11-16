@@ -1,0 +1,8 @@
+data/rna_cgg/strandS 1 20000000 2 SRR37726779
+data/rna_cgg/strandS 1 20000000 2 SRR37726777
+data/rna_cgg/strandS 1 20000000 2 SRR37726776
+data/rna_cgg/strandS 1 20000000 2 SRR37726773
+data/rna_cgg/strandS 1 20000000 2 SRR37726775
+data/rna_cgg/strandS 1 20000000 2 SRR29669627
+data/rna_cgg/strandS 1 20000000 2 SRR29669633
+data/rna_cgg/strandS 1 20000000 2 SRR29669628

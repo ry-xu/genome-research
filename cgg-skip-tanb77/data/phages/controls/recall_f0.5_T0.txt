@@ -1,0 +1,3 @@
+recall: median MH RR O/E = 0.467
+null O/E: n=200 share p<0.05 = 1.000; share p<0.01 = 1.000; median p = 0.001
+null skip/O: n=200 share p<0.05 = 0.115; share p<0.01 = 0.000; median p = 0.525

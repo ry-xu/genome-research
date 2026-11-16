@@ -1,0 +1,18 @@
+Set A genomes 100; excluded (in the original count's set) 6; kept 94
+codon convention check: {True: 10444} (True = site codon reproduced)
+skip-like sites: 6521 in 93 genomes
+inframe-like sites: 3923 in 94 genomes
+  CTT: skip-like 695 vs 99.2 expected (ratio 7.00); in-frame-like 98 vs 59.6 (1.65)
+  TTG: skip-like 122 vs 45.2 expected (ratio 2.70); in-frame-like 94 vs 26.7 (3.52)
+  TCA: skip-like 278 vs 131.6 expected (ratio 2.11); in-frame-like 57 vs 75.8 (0.75)
+  CCA: skip-like 228 vs 103.9 expected (ratio 2.20); in-frame-like 25 vs 61.0 (0.41)
+  GAC: skip-like 125 vs 51.4 expected (ratio 2.43); in-frame-like 51 vs 27.1 (1.88)
+  TTT: skip-like 140 vs 254.8 expected (ratio 0.55); in-frame-like 115 vs 153.7 (0.75)
+  AAA: skip-like 207 vs 437.5 expected (ratio 0.47); in-frame-like 366 vs 263.9 (1.39)
+  GAA: skip-like 132 vs 391.4 expected (ratio 0.34); in-frame-like 223 vs 229.1 (0.97)
+  TAT: skip-like 75 vs 279.5 expected (ratio 0.27); in-frame-like 120 vs 168.1 (0.71)
+top skip-like ratios (expected >= 5): TGC 7.47 (91/12.2), CTT 7.00 (695/99.2), TCG 5.17 (39/7.5), CCT 4.48 (196/43.8), CTC 3.77 (23/6.1), CAG 3.55 (58/16.3), CTG 3.38 (20/5.9), GGG 3.20 (42/13.1)
+bottom: ATA 0.54 (184/340.8), AAA 0.47 (207/437.5), AGA 0.35 (56/158.2), GAA 0.34 (132/391.4), TAT 0.27 (75/279.5), GAT 0.17 (58/333.1)
+CTT skip-like ratio bootstrap over genomes (1,000, seed 1): 95% 5.63-8.83
+P1 (CTT >= 2): True; P2 (skip > in-frame): True; P3 (>= 4 of 5 > 1): True
+decision: replicated

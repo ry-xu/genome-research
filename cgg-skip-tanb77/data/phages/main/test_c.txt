@@ -1,0 +1,27 @@
+T crossing 9 of 721 = 0.0125 (no hrb row: 379 )
+R crossing 29 of 4584 = 0.0063 (no hrb row: 1723 )
+Fisher (T vs R): SignificanceResult(statistic=np.float64(1.985422316931422), pvalue=np.float64(0.09059857158459099))
+ bin 24 {'T': '0/6', 'R': '0/33'}
+ bin 26 {'T': '5/280', 'R': '0/130'}
+ bin 28 {'T': '4/391', 'R': '0/290'}
+ bin 30 {'T': '0/42', 'R': '1/371'}
+ bin 32 {'R': '1/367'}
+ bin 34 {'R': '6/319'}
+ bin 36 {'R': '1/386'}
+ bin 38 {'R': '1/400'}
+ bin 40 {'T': '0/2', 'R': '0/391'}
+ bin 42 {'R': '0/371'}
+ bin 44 {'R': '1/335'}
+ bin 48 {'R': '4/383'}
+ bin 50 {'R': '6/380'}
+ bin 52 {'R': '8/428'}
+crossing T phages (id, set, bin, hrb_rank, O, skip):
+  UHGV-1473232 Tf 26 order 0 0
+  UHGV-1382877 Tf 28 order 1 1
+  UHGV-1527386 Tf 28 order 2 2
+  UHGV-0029169 Tf 26 class 3 3
+  UHGV-0164729 Tf 28 order 1 1
+  UHGV-0000268 Tf 28 class 3 3
+  UHGV-1993490 Tf 26 order 3 3
+  UHGV-0075125 T1 26 order 2 2
+  UHGV-0210202 Tf 26 order 1 1

@@ -1,0 +1,29 @@
+{
+ "genome": "GCA_963931445.1",
+ "contig": "OZ007016.1",
+ "strand": "-",
+ "c_plus0": 1549541,
+ "dna_up": "GTATATATGATGTCTGAATCAGGAGCAAGA",
+ "c": "C",
+ "dna_dn": "GGAAATGTTAACCAGCTAAGACAAATAGCA",
+ "prot_up": "VYMMSESGAR",
+ "prot_dn": "GNVNQLRQIA",
+ "old_frame_from_cgg": "RKC*PAKTNSRY",
+ "refs": {
+  "Bacillus subtilis": {
+   "acc": "GCF_000009045.1",
+   "window": "IYMMSDSGARGNASNFTQLA",
+   "res": 736,
+   "codon": "GGT",
+   "ident20": 12
+  },
+  "Clostridioides difficile": {
+   "acc": "GCF_000009205.2",
+   "window": "IYIMAHSGARGSKNQIRQLA",
+   "res": 708,
+   "codon": "GGT",
+   "ident20": 12
+  }
+ },
+ "prot_window": "VYMMSESGARGNVNQLRQIA"
+}

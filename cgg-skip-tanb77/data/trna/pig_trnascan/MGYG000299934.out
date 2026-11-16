@@ -1,0 +1,13 @@
+Sequence        		tRNA 	Bounds	tRNA	Anti	Intron Bounds	Inf	      
+Name            	tRNA #	Begin	End  	Type	Codon	Begin	End	Score	Note
+--------        	------	-----	------	----	-----	-----	----	------	------
+MGYG000299934_6 	1	8504 	8429 	Thr	GGT	0	0	76.0	
+MGYG000299934_11	1	5416 	5492 	Ile2	CAT	0	0	85.8	
+MGYG000299934_11	2	5520 	5828 	Undet	NNN	0	0	44.5	
+MGYG000299934_22	1	7054 	6962 	Ser	CGA	0	0	83.4	
+MGYG000299934_29	1	5538 	5462 	Arg	TCT	0	0	78.3	
+MGYG000299934_29	2	4518 	4442 	Arg	ACG	0	0	84.0	
+MGYG000299934_54	1	5344 	5269 	Thr	CGT	0	0	60.9	
+MGYG000299934_115	1	3250 	3174 	His	GTG	0	0	75.9	
+MGYG000299934_115	2	3157 	3083 	Gln	TTG	0	0	70.7	
+MGYG000299934_122	1	2994 	3070 	Leu	CAA	0	0	55.7	

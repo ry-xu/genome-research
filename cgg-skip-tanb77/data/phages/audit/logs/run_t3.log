@@ -1,0 +1,11 @@
+18:21 load 11.71, waiting
+18:22 makedb R
+18:22 blastp R
+       40.93 real        39.25 user         0.22 sys
+           940261376  maximum resident set size
+18:23 load 11.19, waiting
+18:24 makedb all
+18:24 blastp all
+       48.57 real        47.71 user         0.23 sys
+          1145683968  maximum resident set size
+18:24 all done

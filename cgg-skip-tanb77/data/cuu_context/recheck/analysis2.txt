@@ -1,0 +1,27 @@
+== Follow-ups (context-matched background: codon before in-frame CGA/CGC/CGT, per genome) ==
+CTT: skip 695/176.8 = 3.932; in-frame 98/92.8 = 1.056; unclear 182/85.6 = 2.127
+five enriched (skip / in-frame): {'CTT': (3.93, 1.06), 'TTG': (1.25, 1.58), 'TCA': (2.72, 0.99), 'CCA': (2.18, 0.39), 'GAC': (1.93, 1.41)}
+four depleted (skip / in-frame): {'TTT': (0.97, 1.45), 'AAA': (0.44, 1.23), 'GAA': (0.41, 1.12), 'TAT': (0.25, 0.72)}
+(GGN bg) unclear class CTT 182/50.5 = 3.601
+bootstrap over genomes (1,000, seed 1), cgn background: 3.222 - 4.722
+drop top 5 genomes by CTT excess (cgn bg): 3.198
+drop top 10 genomes by CTT excess (cgn bg): 3.105
+drop top 20 genomes by CTT excess (cgn bg): 2.547
+genus CAG-269 removed: CTT 335/109.5 = 3.059 (cgn), 4.988 (ggn)
+family CAG-465 skip: genomes 9 n=201 CTT 1/3.5 = 0.28 (cgn; Poisson P(<=obs) 0.135); ggn 0.17
+family CAG-465 inframe: genomes 10 n=421 CTT 7/7.6 = 0.92 (cgn; Poisson P(<=obs) 0.514); ggn 0.62
+family CAG-508 skip: genomes 83 n=6195 CTT 682/169.6 = 4.02 (cgn; Poisson P(<=obs) 1); ggn 7.54
+family CAG-508 inframe: genomes 83 n=3466 CTT 91/84.2 = 1.08 (cgn; Poisson P(<=obs) 0.788); ggn 1.92
+family UBA1234 skip: genomes 1 n=125 CTT 12/3.6 = 3.31 (cgn; Poisson P(<=obs) 1); ggn 4.05
+family UBA1234 inframe: genomes 1 n=36 CTT 0/1.0 = 0.00 (cgn; Poisson P(<=obs) 0.353); ggn 0.00
+pairs with >= 6/20 identical: random real pairs 278, reversed-peptide decoys 215 (of 200,000)
+pairs with >= 8/20 identical: random real pairs 33, reversed-peptide decoys 3 (of 200,000)
+pairs with >= 10/20 identical: random real pairs 24, reversed-peptide decoys 0 (of 200,000)
+pairs with >= 12/20 identical: random real pairs 21, reversed-peptide decoys 0 (of 200,000)
+families at >= 8/20: skip: 3473 families, largest 143, CTT ggn 4.87 cgn 2.85 | inframe: 3060 families, largest 12, CTT ggn 1.62 cgn 1.06
+families at >= 10/20: skip: 3791 families, largest 53, CTT ggn 4.86 cgn 2.84 | inframe: 3319 families, largest 11, CTT ggn 1.63 cgn 1.06
+  family-weighted bootstrap over 3791 skip-like families (>=10/20, ggn bg, seed 1): 4.39 - 5.39
+families at >= 12/20: skip: 3914 families, largest 53, CTT ggn 4.86 cgn 2.84 | inframe: 3385 families, largest 11, CTT ggn 1.62 cgn 1.05
+CTT skip-like sites sharing an identical 20-aa upstream peptide: groups 82 sites in them 221
+top 8 skip-like codons, cgn bg, obs >= 20 (obs/exp=ratio | in-frame ratio): CTT 695/176.8=3.93 | 1.06; TGC 91/31.0=2.94 | 1.80; CCT 196/67.0=2.92 | 0.58; CCG 23/8.3=2.76 | 2.52; TCA 278/102.2=2.72 | 0.99; CTC 23/9.5=2.42 | 1.62; CCA 228/104.6=2.18 | 0.39; TCG 39/18.1=2.15 | 0.97
+CTT share of sites: skip 695/6521, in-frame 98/3923

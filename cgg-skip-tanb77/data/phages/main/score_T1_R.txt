@@ -1,0 +1,22 @@
+target T1: n=436 phage-genus clusters=320; ref R: n=6240; bins=[24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 48, 50, 52]
+  sum O=2491 sum E=2730.8; ref sum O=293870 sum E=308023.9
+  MH rate ratio O/E (target/ref) = 1.066  perm p = 0.2644  cluster-boot 95% CI = 0.974-1.201
+  MH ratio skip/O (target/ref)   = 10.839  perm p = 0.0005  cluster-boot 95% CI = 6.829-19.076
+  sibling CGA: MH RR (target/ref) = 1.116; RR_use(CGG)/RR(CGA) = 0.955
+  sibling CGT: MH RR (target/ref) = 0.991; RR_use(CGG)/RR(CGT) = 1.076
+  sibling CGC: MH RR (target/ref) = 0.933; RR_use(CGG)/RR(CGC) = 1.143
+  classes target: {'unresolved': 324, 'E>=5': 58, 'tRNA_CCG': 1, 'tRNA_TCG': 0, 'ancestral': 35, 'host-style': 76, 'avoid': 1}
+  classes ref:    {'ancestral': 4598, 'E>=5': 5123, 'tRNA_CCG': 27, 'tRNA_TCG': 5, 'unresolved': 1540, 'avoid': 100, 'host-style': 2}   (s99=0.143)
+  leave out CAG-245 (n=22): RR_use=1.071 p=0.2529  RR_skip=10.614 p=0.0005
+  leave out CAG-269 (n=169): RR_use=0.969 p=0.6237  RR_skip=8.849 p=0.0005
+  leave out CAG-273 (n=112): RR_use=1.191 p=0.0090  RR_skip=14.277 p=0.0005
+  leave out CAG-452 (n=14): RR_use=1.080 p=0.1879  RR_skip=10.870 p=0.0005
+  leave out CAG-793 (n=1): RR_use=1.070 p=0.2259  RR_skip=11.220 p=0.0005
+  leave out Merdicola (n=52): RR_use=1.080 p=0.1644  RR_skip=10.734 p=0.0005
+  leave out Scatovivens (n=3): RR_use=1.066 p=0.2554  RR_skip=10.845 p=0.0005
+  leave out UBA1234 (n=16): RR_use=1.090 p=0.1524  RR_skip=12.062 p=0.0005
+  leave out UMGS1663 (n=1): RR_use=1.065 p=0.2724  RR_skip=10.864 p=0.0005
+  leave out UMGS1781 (n=35): RR_use=1.039 p=0.4993  RR_skip=9.761 p=0.0005
+  leave out UMGS1864 (n=2): RR_use=1.079 p=0.1874  RR_skip=10.973 p=0.0005
+  leave out UMGS1933 (n=1): RR_use=1.068 p=0.2429  RR_skip=10.853 p=0.0005
+  leave out UMGS1994 (n=8): RR_use=1.058 p=0.3213  RR_skip=11.152 p=0.0005

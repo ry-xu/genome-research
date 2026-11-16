@@ -1,0 +1,13 @@
+followup	pipeline	class	observations	lacks	sites_observed	genomes	top_genome_obs
+S8	mine	skip	280	0	63	8	154
+S8	mine	inframe	5048	0	157	17	2857
+S8	mine	unclear	2170	0	66	14	1394
+S9	mine	skip	305	0	69	9	156
+S9	mine	inframe	6282	0	166	17	3006
+S9	mine	unclear	2604	0	69	14	1469
+S8	recheck	skip	259	3	60	9	150
+S8	recheck	inframe	4325	0	133	16	2402
+S8	recheck	unclear	2147	0	58	11	1412
+S9	recheck	skip	281	3	66	10	152
+S9	recheck	inframe	5462	0	143	16	2529
+S9	recheck	unclear	2569	0	62	12	1486

@@ -1,0 +1,190 @@
+contig	strand	start0	n_refs	n_clean	consensus	clean_residues	per_ref(ref:res:window_id)	fs_near	first_ref_aa
+CAZVVZ010000001.1	+	10554	5	0			Bsub:X:0.36;Chon:R:0.71;Aint:R:0.57;Alac:R:0.71;Leli:N:0.29	{'+1': 1}	326
+CAZVVZ010000001.1	+	12695	4	0			Bsub:R:0.57;Cdif:R:0.50;Fbut:R:0.50;Bhan:R:0.36	{'+1': 1}	115
+CAZVVZ010000001.1	+	17596	7	1		R	Bsub:E:0.64;Cdif:E:0.43;Chon:R:0.50;Aint:R:0.64;Bhan:K:0.64;Alac:E:0.29;Leli:Q:0.50	{'+1': 1}	260
+CAZVVZ010000001.1	+	18245	6	0			Bsub:R:0.79;Cdif:R:0.64;Chon:R:0.71;Aint:R:0.57;Bhan:R:0.79;Leli:R:0.71	{'+1': 1}	260
+CAZVVZ010000001.1	+	19781	5	0			Bsub:R:0.79;Cdif:R:0.86;Fbut:R:0.86;Bhan:R:0.79;Leli:R:0.79	{'+1': 1}	319
+CAZVVZ010000001.1	+	35411	2	2	P	PP	Bhan:P:0.43;Leli:P:0.43	{}	2356
+CAZVVZ010000002.1	-	3863	7	0			Bsub:K:0.57;Cdif:K:0.36;Chon:K:0.14;Fbut:R:0.36;Aint:X:0.29;Bhan:R:0.57;Leli:R:0.43	{'+1': 1}	328
+CAZVVZ010000002.1	-	4957	4	0			Cdif:R:0.50;Bhan:R:0.64;Alac:R:0.57;Leli:R:0.71	{'+1': 1}	533
+CAZVVZ010000002.1	-	5491	4	1		L	Cdif:K:0.21;Bhan:L:0.43;Alac:R:0.25;Leli:Y:0.07	{}	533
+CAZVVZ010000002.1	-	14582	7	0			Bsub:R:0.71;Cdif:R:0.71;Chon:R:0.64;Fbut:R:0.86;Aint:R:0.71;Bhan:R:0.64;Leli:R:0.57	{'+1': 1}	188
+CAZVVZ010000002.1	-	23476	4	3		KPT	Bsub:P:0.43;Cdif:K:0.79;Bhan:T:0.64;Alac:E:0.36	{}	156
+CAZVVZ010000002.1	-	29151	7	0			Bsub:Q:0.71;Cdif:K:0.86;Chon:R:0.57;Fbut:H:0.79;Aint:R:0.71;Alac:R:0.64;Leli:K:0.36	{'+1': 1}	147
+CAZVVZ010000003.1	+	4235	1	0			Fbut:R:0.43	{}	1386
+CAZVVZ010000003.1	+	13923	7	5	R	EKRRR	Bsub:X:0.36;Cdif:K:0.57;Fbut:E:0.57;Aint:X:0.43;Bhan:R:0.64;Alac:R:0.64;Leli:R:0.71	{}	209
+CAZVVZ010000003.1	+	15123	7	6	R	KKRRRR	Bsub:R:0.57;Cdif:R:0.64;Fbut:R:0.69;Aint:R:0.71;Bhan:K:0.71;Alac:X:0.57;Leli:K:0.71	{}	209
+CAZVVZ010000003.1	+	16064	6	4		AARR	Bsub:A:0.50;Cdif:R:0.57;Chon:R:0.50;Bhan:K:0.36;Alac:K:0.29;Leli:A:0.43	{}	213
+CAZVVZ010000003.1	+	16097	6	5	R	RRRRR	Bsub:R:0.57;Cdif:R:0.64;Chon:R:0.57;Bhan:X:0.57;Alac:R:0.43;Leli:R:0.64	{}	213
+CAZVVZ010000003.1	+	16430	6	4	R	RRRR	Bsub:R:0.64;Cdif:R:0.93;Chon:X:0.71;Bhan:X:0.64;Alac:R:0.50;Leli:R:0.57	{}	213
+CAZVVZ010000004.1	-	8674	2	0			Cdif:R:0.93;Bhan:R:0.86	{'+1': 1}	673
+CAZVVZ010000004.1	-	20893	8	0			Bsub:R:0.86;Cdif:R:0.86;Chon:R:0.86;Fbut:R:0.79;Aint:R:0.86;Bhan:R:0.93;Alac:R:0.86;Leli:R:0.79	{'+1': 1}	18
+CAZVVZ010000005.1	+	16214	3	2		HN	Bsub:H:0.75;Cdif:N:0.62;Chon:R:0.88	{}	195
+CAZVVZ010000006.1	+	2910	7	6		EKPRRR	Bsub:X:0.57;Cdif:E:0.64;Fbut:P:0.57;Aint:K:0.71;Bhan:R:0.64;Alac:R:0.71;Leli:R:0.64	{}	256
+CAZVVZ010000006.1	+	4293	7	4		ARSY	Bsub:S:0.43;Cdif:R:0.50;Fbut:H:0.36;Aint:H:0.29;Bhan:A:0.43;Alac:Y:0.43;Leli:A:0.36	{}	256
+CAZVVZ010000006.1	+	7839	3	3	K	EKK	Bsub:E:0.57;Chon:K:0.57;Alac:K:0.71	{}	283
+CAZVVZ010000007.1	+	8192	3	3		AKS	Chon:K:0.57;Bhan:S:0.50;Leli:A:0.40	{}	1264
+CAZVVZ010000007.1	+	8817	7	0			Bsub:R:0.71;Cdif:R:0.71;Chon:R:0.79;Fbut:R:0.86;Bhan:R:0.86;Alac:R:0.64;Leli:R:0.79	{'+1': 1}	395
+CAZVVZ010000007.1	+	16842	7	0			Bsub:R:0.64;Cdif:R:0.79;Chon:R:0.71;Fbut:R:0.79;Bhan:R:0.71;Alac:R:0.86;Leli:R:0.93	{'+1': 1}	296
+CAZVVZ010000007.1	+	17759	8	0			Bsub:R:0.50;Cdif:R:0.71;Chon:R:0.64;Fbut:R:0.57;Aint:R:0.50;Bhan:R:0.50;Alac:R:0.50;Leli:R:0.50	{'+1': 1}	295
+CAZVVZ010000007.1	-	2310	8	6	R	RRRRRR	Bsub:R:0.57;Cdif:R:0.64;Chon:X:0.64;Fbut:R:0.50;Aint:R:0.50;Bhan:R:0.50;Alac:X:0.43;Leli:R:0.50	{}	105
+CAZVVZ010000008.1	+	8160	5	1		R	Cdif:F:0.36;Chon:R:0.43;Aint:X:0.64;Bhan:K:0.21;Alac:X:0.64	{}	571
+CAZVVZ010000008.1	+	10668	5	0			Cdif:R:0.64;Chon:R:0.57;Fbut:R:0.50;Bhan:R:0.43;Leli:R:0.43	{'+1': 1}	544
+CAZVVZ010000008.1	+	14259	5	5		KKRRS	Bsub:R:0.57;Cdif:K:0.57;Chon:K:0.43;Fbut:S:0.43;Leli:R:0.50	{}	162
+CAZVVZ010000009.1	-	4133	3	0			Cdif:R:0.64;Bhan:R:0.71;Leli:R:0.93	{'+1': 1}	886
+CAZVVZ010000009.1	-	8679	6	2	R	RR	Cdif:R:0.50;Chon:R:0.29;Aint:P:0.21;Bhan:R:0.43;Alac:R:0.36;Leli:P:0.36	{}	772
+CAZVVZ010000009.1	-	18333	2	2	R	RR	Cdif:R:0.50;Aint:R:0.50	{}	812
+CAZVVZ010000010.1	-	3000	8	2		HP	Bsub:H:0.43;Cdif:D:0.29;Chon:A:0.36;Fbut:K:0.36;Aint:P:0.50;Bhan:K:0.43;Alac:A:0.43;Leli:K:0.50	{}	269
+CAZVVZ010000010.1	-	11741	4	3	R	DRR	Cdif:D:0.50;Chon:Q:0.64;Aint:R:0.79;Alac:R:0.79	{}	737
+CAZVVZ010000010.1	-	11966	4	2	R	RR	Cdif:R:0.50;Chon:R:0.57;Aint:X:0.86;Alac:X:0.86	{}	737
+CAZVVZ010000010.1	-	12242	4	3	K	KKR	Cdif:K:0.64;Chon:K:0.93;Aint:R:0.93;Alac:X:0.93	{}	737
+CAZVVZ010000010.1	-	13619	3	0			Cdif:R:0.71;Aint:R:0.86;Alac:R:0.79	{'+1': 1}	736
+CAZVVZ010000011.1	+	3866	8	0			Bsub:R:0.79;Cdif:R:0.93;Chon:R:0.86;Fbut:R:0.64;Aint:R:0.86;Bhan:R:0.79;Alac:R:0.93;Leli:R:1.00	{'+1': 1}	203
+CAZVVZ010000012.1	-	11265	8	7	R	RRRRRRS	Bsub:S:0.86;Cdif:R:0.86;Chon:R:0.79;Fbut:X:0.79;Aint:R:0.93;Bhan:R:0.93;Alac:R:0.79;Leli:R:0.93	{}	275
+CAZVVZ010000012.1	-	12504	8	6	R	RRRRRR	Bsub:X:0.71;Cdif:R:0.86;Chon:R:0.64;Fbut:R:0.86;Aint:X:0.79;Bhan:R:0.79;Alac:R:0.57;Leli:R:0.93	{}	275
+CAZVVZ010000013.1	-	886	7	4		KKRR	Bsub:R:0.43;Cdif:K:0.79;Chon:X:0.36;Aint:X:0.57;Bhan:K:0.64;Alac:R:0.36;Leli:R:0.64	{}	288
+CAZVVZ010000013.1	-	3606	5	4	R	RRRR	Cdif:R:0.64;Chon:R:0.36;Fbut:R:0.50;Aint:R:0.57;Bhan:R:0.50	{}	877
+CAZVVZ010000013.1	-	3721	5	0			Cdif:R:0.64;Chon:R:0.43;Fbut:R:0.79;Aint:R:0.57;Bhan:R:0.71	{'+1': 1}	877
+CAZVVZ010000014.1	-	12694	2	0			Alac:K:0.36;Leli:L:0.14	{}	2902
+CAZVVZ010000015.1	-	233	4	0			Fbut:K:0.57;Aint:K:0.50;Bhan:R:0.57;Leli:K:0.57	{'+1': 1}	1455
+CAZVVZ010000015.1	-	734	7	7	R	RRRRRRR	Cdif:R:0.57;Chon:R:0.57;Fbut:R:0.57;Aint:R:0.50;Bhan:R:0.71;Alac:R:0.43;Leli:R:0.71	{}	655
+CAZVVZ010000015.1	-	1358	7	7		KKRRRRS	Cdif:S:0.71;Chon:K:0.79;Fbut:R:0.93;Aint:R:0.71;Bhan:R:0.79;Alac:R:0.64;Leli:K:0.71	{}	655
+CAZVVZ010000015.1	-	11734	7	0			Bsub:R:0.43;Cdif:R:0.50;Chon:R:0.50;Fbut:R:0.64;Bhan:R:0.57;Alac:R:0.64;Leli:R:0.79	{'+1': 1}	134
+CAZVVZ010000016.1	-	5182	8	6	R	HHRRRR	Bsub:H:0.43;Cdif:R:0.64;Chon:H:0.57;Fbut:R:0.64;Aint:X:0.64;Bhan:R:0.64;Alac:X:0.86;Leli:R:0.64	{}	208
+CAZVVZ010000016.1	-	5717	6	0			Bsub:R:0.57;Cdif:R:0.50;Fbut:R:0.50;Aint:R:0.64;Bhan:R:0.71;Leli:R:0.79	{'+1': 1}	208
+CAZVVZ010000016.1	-	11576	3	0			Bsub:K:0.57;Chon:R:0.57;Leli:R:0.64	{'+1': 1}	95
+CAZVVZ010000019.1	+	380	2	2	R	RR	Bsub:R:0.57;Bhan:R:0.64	{}	138
+CAZVVZ010000019.1	+	4818	8	7		AAQTVVV	Bsub:T:0.43;Cdif:V:0.64;Chon:A:0.43;Fbut:Q:0.50;Aint:A:0.50;Bhan:V:0.50;Alac:X:0.43;Leli:V:0.57	{}	142
+CAZVVZ010000019.1	+	8022	4	0			Bsub:R:0.57;Cdif:R:0.43;Chon:R:0.50;Leli:R:0.36	{'+1': 1}	145
+CAZVVZ010000019.1	+	10380	8	6		ANNQSS	Bsub:Q:0.71;Cdif:A:0.71;Chon:S:0.79;Fbut:S:0.71;Aint:X:0.71;Bhan:N:0.79;Alac:X:0.79;Leli:N:0.71	{}	315
+CAZVVZ010000019.1	+	10620	5	0			Bsub:R:0.64;Cdif:R:0.50;Chon:R:0.71;Bhan:R:0.71;Leli:R:0.71	{'+1': 1}	315
+CAZVVZ010000019.1	+	12749	3	1		A	Bsub:A:0.43;Bhan:A:0.36;Leli:A:0.29	{}	249
+CAZVVZ010000020.1	-	4633	7	0			Bsub:R:0.50;Cdif:R:0.43;Chon:R:0.57;Aint:R:0.57;Bhan:R:0.50;Alac:R:0.50;Leli:R:0.50	{'+1': 1}	2
+CAZVVZ010000021.1	-	6955	8	0			Bsub:R:0.79;Cdif:R:0.57;Chon:R:0.71;Fbut:R:0.71;Aint:R:0.79;Bhan:R:0.71;Alac:R:0.71;Leli:R:0.71	{'+1': 1}	24
+CAZVVZ010000021.1	-	10529	7	0			Bsub:R:0.64;Cdif:R:0.71;Chon:R:0.43;Fbut:R:0.29;Aint:R:0.14;Bhan:R:0.57;Leli:R:0.36	{'+1': 1}	420
+CAZVVZ010000022.1	-	770	5	4	R	RRRR	Bsub:R:0.50;Cdif:R:0.43;Fbut:R:0.50;Aint:X:0.50;Bhan:R:0.57	{}	306
+CAZVVZ010000022.1	-	1788	3	1		R	Cdif:R:0.50;Alac:R:0.14;Leli:R:0.36	{}	920
+CAZVVZ010000023.1	-	666	8	0			Bsub:R:0.71;Cdif:R:0.71;Chon:R:0.86;Fbut:R:0.64;Aint:R:0.57;Bhan:R:0.71;Alac:R:0.71;Leli:R:0.64	{'+1': 1}	289
+CAZVVZ010000024.1	-	5050	7	0			Bsub:R:0.86;Cdif:R:0.79;Chon:R:0.93;Fbut:R:0.71;Bhan:R:0.93;Alac:R:0.71;Leli:R:0.93	{'+1': 1}	28
+CAZVVZ010000025.1	-	4447	7	6		HKKKQQ	Bsub:K:0.57;Cdif:Q:0.43;Chon:K:0.43;Aint:Q:0.50;Bhan:K:0.57;Alac:K:0.36;Leli:H:0.43	{}	27
+CAZVVZ010000026.1	-	5966	8	0			Bsub:R:0.86;Cdif:R:0.57;Chon:R:0.79;Fbut:R:0.79;Aint:R:0.71;Bhan:R:0.64;Alac:R:0.71;Leli:R:0.64	{'+1': 1}	374
+CAZVVZ010000027.1	+	1914	1	0			Bhan:R:0.79	{'+1': 1}	2193
+CAZVVZ010000027.1	-	663	6	0			Bsub:V:0.21;Cdif:V:0.14;Fbut:I:0.21;Aint:X:0.36;Bhan:K:0.29;Leli:R:0.36	{}	231
+CAZVVZ010000027.1	-	1299	6	4	R	RRRR	Bsub:R:0.57;Cdif:R:0.64;Fbut:X:0.43;Aint:X:0.43;Bhan:R:0.43;Leli:R:0.64	{}	231
+CAZVVZ010000027.1	-	3181	6	0			Bsub:K:0.71;Cdif:R:0.71;Fbut:K:0.43;Aint:K:0.50;Bhan:K:0.57;Leli:L:0.64	{'+1': 1}	149
+CAZVVZ010000027.1	-	6302	4	1		R	Chon:R:0.64;Aint:R:0.43;Bhan:K:0.57;Leli:R:0.64	{'+1': 1}	1072
+CAZVVZ010000027.1	-	7623	6	0			Cdif:R:0.64;Chon:R:0.86;Aint:R:0.57;Bhan:R:0.79;Alac:R:0.93;Leli:R:0.79	{'+1': 1}	782
+CAZVVZ010000027.1	-	8785	5	0			Cdif:R:0.57;Chon:R:0.86;Bhan:R:0.71;Alac:R:0.79;Leli:R:0.79	{'+1': 1}	782
+CAZVVZ010000029.1	-	3461	8	0			Bsub:R:0.71;Cdif:R:0.93;Chon:R:0.64;Fbut:R:0.50;Aint:X:0.43;Bhan:R:0.43;Alac:R:0.50;Leli:R:0.43	{'+1': 1}	3
+CAZVVZ010000029.1	-	4863	8	0			Bsub:R:0.86;Cdif:R:0.93;Chon:R:0.93;Fbut:R:0.86;Aint:R:0.86;Bhan:R:0.86;Alac:R:0.79;Leli:R:0.86	{'+1': 1}	3
+CAZVVZ010000030.1	+	11236	8	0			Bsub:R:0.64;Cdif:T:0.43;Chon:T:0.64;Fbut:R:0.86;Aint:R:0.79;Bhan:R:0.86;Alac:K:0.50;Leli:R:0.86	{'+1': 1}	101
+CAZVVZ010000032.1	-	2157	5	0			Bsub:R:0.71;Cdif:R:0.50;Chon:R:0.57;Aint:R:0.50;Leli:R:0.64	{'+1': 1}	175
+CAZVVZ010000034.1	+	3162	7	1		R	Cdif:R:0.64;Chon:R:0.57;Fbut:R:0.86;Aint:R:0.71;Bhan:R:0.71;Alac:R:0.50;Leli:R:0.71	{'+1': 1}	679
+CAZVVZ010000035.1	+	10807	5	1		V	Bsub:T:0.29;Cdif:K:0.43;Chon:V:0.36;Bhan:T:0.36;Leli:V:0.43	{}	96
+CAZVVZ010000035.1	+	10981	5	5	R	RRRRR	Bsub:R:0.64;Cdif:R:0.64;Chon:R:0.43;Bhan:R:0.71;Leli:R:0.71	{}	96
+CAZVVZ010000035.1	+	11281	5	0			Bsub:E:0.14;Cdif:S:0.07;Chon:M:0.07;Bhan:E:0.14;Leli:D:0.36	{}	96
+CAZVVZ010000035.1	+	11374	5	4		CPTV	Bsub:V:0.29;Cdif:V:0.57;Chon:C:0.57;Bhan:P:0.57;Leli:T:0.50	{}	96
+CAZVVZ010000036.1	-	1162	2	1		R	Bhan:R:0.64;Leli:K:0.36	{}	2289
+CAZVVZ010000037.1	+	239	2	1		H	Bhan:Q:0.36;Leli:H:0.43	{}	2365
+CAZVVZ010000038.1	-	9246	5	5	R	KRRRR	Bsub:K:0.43;Cdif:R:0.50;Chon:R:0.43;Aint:R:0.43;Leli:R:0.71	{}	180
+CAZVVZ010000038.1	-	10741	4	0			Bsub:R:0.57;Cdif:R:0.71;Chon:R:0.71;Leli:R:0.50	{'+1': 1}	180
+CAZVVZ010000039.1	+	2432	8	0			Bsub:R:0.57;Cdif:R:0.64;Chon:R:0.50;Fbut:R:0.50;Aint:R:0.50;Bhan:R:0.64;Alac:R:0.50;Leli:R:0.64	{'+1': 1}	43
+CAZVVZ010000039.1	+	4246	8	0			Bsub:R:0.93;Cdif:R:0.93;Chon:R:0.93;Fbut:R:0.86;Aint:R:0.93;Bhan:R:0.93;Alac:R:0.86;Leli:R:0.93	{'+1': 1}	44
+CAZVVZ010000039.1	+	7732	6	0			Cdif:R:0.71;Chon:R:0.71;Fbut:R:0.86;Bhan:R:0.86;Alac:R:0.79;Leli:R:0.93	{'+1': 1}	444
+CAZVVZ010000040.1	+	3334	6	0			Bsub:E:0.36;Cdif:E:0.71;Fbut:R:0.43;Aint:R:0.57;Bhan:R:0.71;Leli:R:0.64	{'+1': 1}	12
+CAZVVZ010000041.1	-	5574	6	1		L	Bsub:R:0.29;Cdif:R:0.21;Chon:R:0.36;Bhan:L:0.43;Alac:X:0.21;Leli:V:0.36	{}	34
+CAZVVZ010000041.1	-	7068	8	4		EHRT	Bsub:H:0.64;Cdif:L:0.21;Chon:T:0.71;Fbut:L:0.21;Aint:R:0.79;Bhan:I:0.21;Alac:E:0.64;Leli:M:0.29	{}	259
+CAZVVZ010000043.1	-	4826	8	1		L	Bsub:K:0.36;Cdif:I:0.21;Chon:R:0.21;Fbut:L:0.36;Aint:E:0.29;Bhan:L:0.43;Alac:X:0.29;Leli:Y:0.21	{}	337
+CAZVVZ010000043.1	-	9381	3	0			Bsub:I:0.43;Cdif:R:0.57;Leli:R:0.64	{'+1': 1}	263
+CAZVVZ010000046.1	-	1261	8	0			Bsub:R:0.64;Cdif:R:0.64;Chon:R:0.57;Fbut:R:0.64;Aint:R:0.79;Bhan:R:0.64;Alac:R:0.57;Leli:R:0.71	{'+1': 1}	187
+CAZVVZ010000046.1	-	6419	7	0			Bsub:R:0.36;Cdif:R:0.64;Chon:R:0.57;Aint:R:0.64;Bhan:R:0.43;Alac:R:0.64;Leli:R:0.43	{'+1': 1}	297
+CAZVVZ010000047.1	-	4026	5	0			Cdif:R:0.43;Fbut:R:0.29;Bhan:R:0.50;Alac:R:0.50;Leli:R:0.64	{'+1': 1}	651
+CAZVVZ010000048.1	-	8689	5	0			Bsub:K:0.36;Chon:R:0.50;Fbut:R:0.43;Bhan:R:0.64;Leli:R:0.50	{'+1': 1}	310
+CAZVVZ010000049.1	+	5335	6	0			Cdif:R:0.57;Chon:R:0.50;Fbut:R:0.36;Bhan:R:0.79;Alac:R:0.64;Leli:R:0.50	{'+1': 1}	430
+CAZVVZ010000049.1	+	6334	5	0			Cdif:R:0.64;Aint:R:0.43;Bhan:R:0.71;Alac:R:0.57;Leli:R:0.57	{'+1': 1}	431
+CAZVVZ010000050.1	-	537	5	4	R	KRRR	Cdif:K:0.79;Fbut:X:0.64;Aint:R:0.79;Bhan:R:0.57;Leli:R:0.57	{}	558
+CAZVVZ010000051.1	+	909	5	0			Cdif:L:0.36;Chon:X:0.64;Aint:R:0.43;Bhan:K:0.64;Leli:R:0.71	{'+1': 1}	727
+CAZVVZ010000051.1	+	918	1	0			Cdif:K:0.43	{'+1': 1}	727
+CAZVVZ010000052.1	+	307	6	0			Bsub:R:0.93;Cdif:R:0.86;Chon:R:0.86;Aint:R:0.50;Bhan:R:0.86;Leli:R:0.79	{'+1': 1}	300
+CAZVVZ010000052.1	+	4379	8	5		EKLMN	Bsub:N:0.57;Cdif:L:0.71;Chon:G:0.36;Fbut:E:0.43;Aint:Q:0.36;Bhan:K:0.43;Alac:M:0.43;Leli:Q:0.36	{}	161
+CAZVVZ010000052.1	+	4430	6	0			Bsub:R:0.71;Cdif:R:1.00;Chon:R:0.64;Aint:R:0.79;Bhan:R:0.86;Leli:R:0.86	{'+1': 1}	161
+CAZVVZ010000052.1	+	6441	6	0			Bsub:Q:0.71;Cdif:R:0.50;Fbut:R:0.50;Aint:R:0.71;Alac:R:0.64;Leli:R:0.64	{'+1': 1}	340
+CAZVVZ010000053.1	+	4828	8	6	R	RRRRRR	Bsub:X:0.86;Cdif:R:0.93;Chon:R:0.57;Fbut:R:0.71;Aint:X:0.57;Bhan:R:0.79;Alac:R:0.71;Leli:R:0.86	{}	255
+CAZVVZ010000055.1	-	413	8	8		AEEEGGNQ	Bsub:G:0.57;Cdif:E:0.79;Chon:E:0.64;Fbut:A:0.57;Aint:E:0.64;Bhan:N:0.50;Alac:Q:0.71;Leli:G:0.64	{}	167
+CAZVVZ010000057.1	-	5438	2	2		KR	Chon:K:0.71;Leli:R:0.43	{}	1363
+CAZVVZ010000058.1	+	3644	5	0			Bsub:R:0.79;Cdif:R:0.57;Chon:K:0.50;Fbut:K:0.50;Leli:R:0.71	{'+1': 1}	165
+CAZVVZ010000060.1	-	538	5	0			Chon:R:0.50;Fbut:R:0.43;Aint:R:0.50;Bhan:R:0.43;Leli:R:0.57	{'+1': 1}	1308
+CAZVVZ010000060.1	-	3541	8	8	R	RRRRRRRR	Bsub:R:0.93;Cdif:R:0.93;Chon:R:0.86;Fbut:R:0.86;Aint:R:0.86;Bhan:R:1.00;Alac:R:0.93;Leli:R:0.93	{}	173
+CAZVVZ010000060.1	-	4600	8	7	R	RRRRRRR	Bsub:R:0.43;Cdif:R:0.64;Chon:R:0.57;Fbut:R:0.43;Aint:R:0.50;Bhan:R:0.43;Alac:R:0.36;Leli:R:0.50	{}	173
+CAZVVZ010000060.1	-	4805	8	0			Bsub:R:0.57;Cdif:R:0.64;Chon:R:0.64;Fbut:K:0.57;Aint:K:0.50;Bhan:R:0.57;Alac:R:0.36;Leli:R:0.57	{'+1': 1}	173
+CAZVVZ010000060.1	-	5573	3	0			Cdif:R:0.43;Chon:R:0.79;Bhan:R:0.64	{'+1': 1}	634
+CAZVVZ010000061.1	-	5556	8	0			Bsub:R:0.79;Cdif:R:0.57;Chon:R:0.64;Fbut:R:0.79;Aint:R:0.71;Bhan:R:0.86;Alac:R:0.71;Leli:R:0.79	{'+1': 1}	128
+CAZVVZ010000062.1	-	3262	5	5	K	KKKNN	Fbut:N:0.75;Aint:K:0.75;Bhan:K:0.75;Alac:N:0.50;Leli:K:0.75	{}	1681
+CAZVVZ010000062.1	-	5030	7	0			Bsub:R:0.50;Cdif:R:0.57;Chon:R:0.64;Aint:R:0.64;Bhan:R:0.64;Alac:R:0.71;Leli:R:0.71	{'+1': 1}	58
+CAZVVZ010000063.1	+	5524	2	1		G	Chon:A:0.14;Fbut:G:0.43	{'+1': 1}	1122
+CAZVVZ010000063.1	+	5532	2	0			Bsub:R:0.50;Bhan:R:0.29	{'+1': 1}	355
+CAZVVZ010000064.1	+	3838	4	0			Cdif:R:0.43;Fbut:K:0.29;Bhan:R:0.57;Leli:R:0.57	{'+1': 1}	833
+CAZVVZ010000064.1	+	6825	1	0			Aint:G:0.36	{}	1936
+CAZVVZ010000065.1	-	954	6	0			Bsub:R:0.71;Cdif:R:0.79;Fbut:R:0.86;Bhan:K:0.86;Alac:R:0.71;Leli:R:0.71	{'+1': 1}	303
+CAZVVZ010000065.1	-	3206	7	7		AHKKKKR	Bsub:K:0.71;Cdif:K:0.64;Chon:A:0.79;Aint:K:0.64;Bhan:K:0.64;Alac:H:0.64;Leli:R:0.64	{}	7
+CAZVVZ010000065.1	-	3494	7	7	R	RRRRRRR	Bsub:R:0.64;Cdif:R:0.64;Chon:R:0.64;Aint:R:0.64;Bhan:R:0.64;Alac:R:0.50;Leli:R:0.57	{}	7
+CAZVVZ010000066.1	-	846	2	0			Cdif:V:0.36;Aint:V:0.36	{}	587
+CAZVVZ010000067.1	+	589	5	0			Bsub:K:0.36;Cdif:R:0.43;Chon:K:0.36;Bhan:R:0.64;Leli:R:0.64	{'+1': 1}	171
+CAZVVZ010000067.1	+	1048	4	2		EI	Bsub:S:0.29;Cdif:I:0.43;Chon:E:0.29;Bhan:E:0.43	{}	172
+CAZVVZ010000067.1	+	2409	7	1		R	Bsub:R:0.38;Cdif:R:0.38;Fbut:R:0.62;Aint:R:0.38;Bhan:R:0.38;Alac:T:0.25;Leli:R:0.38	{}	409
+CAZVVZ010000067.1	+	2907	7	4	R	RRRR	Bsub:R:0.86;Cdif:R:0.86;Fbut:X:0.93;Aint:R:0.86;Bhan:X:0.93;Alac:X:0.71;Leli:R:0.86	{}	409
+CAZVVZ010000067.1	+	5276	5	5	R	KKRRR	Chon:K:0.93;Fbut:R:0.93;Bhan:K:0.86;Alac:R:0.79;Leli:R:0.93	{}	1218
+CAZVVZ010000069.1	+	6206	3	2	K	KK	Bsub:K:0.57;Cdif:K:0.29;Chon:K:0.43	{}	179
+CAZVVZ010000072.1	+	578	7	6	R	KQRRRR	Cdif:R:0.50;Chon:R:0.43;Fbut:Q:0.71;Aint:R:0.50;Bhan:K:0.50;Alac:K:0.29;Leli:R:0.43	{}	867
+CAZVVZ010000072.1	+	1304	7	0			Bsub:R:0.79;Cdif:R:0.71;Chon:R:0.79;Fbut:R:0.86;Bhan:R:0.86;Alac:R:0.71;Leli:R:0.86	{'+1': 1}	321
+CAZVVZ010000072.1	+	2259	8	7		AEEEKQQ	Bsub:R:0.36;Cdif:E:0.64;Chon:E:0.50;Fbut:A:0.50;Aint:Q:0.50;Bhan:K:0.57;Alac:E:0.43;Leli:Q:0.57	{}	321
+CAZVVZ010000072.1	+	2586	6	0			Bsub:R:0.36;Cdif:R:0.64;Fbut:R:0.64;Aint:R:0.71;Bhan:R:0.43;Leli:R:0.50	{'+1': 1}	321
+CAZVVZ010000072.1	+	3811	6	0			Bsub:R:0.93;Fbut:R:0.93;Aint:R:0.93;Bhan:R:0.93;Alac:R:0.93;Leli:R:0.93	{'+1': 1}	370
+CAZVVZ010000076.1	+	1923	7	0			Bsub:R:0.50;Cdif:R:0.71;Chon:R:0.57;Fbut:R:0.64;Aint:R:0.50;Bhan:R:0.57;Leli:R:0.57	{'+1': 1}	46
+CAZVVZ010000076.1	+	3419	8	0			Bsub:R:0.71;Cdif:R:0.71;Chon:R:0.57;Fbut:R:0.86;Aint:R:0.57;Bhan:R:0.71;Alac:R:0.57;Leli:R:0.71	{'+1': 1}	48
+CAZVVZ010000077.1	+	511	1	1		W	Cdif:W:0.73	{}	485
+CAZVVZ010000077.1	+	574	1	0			Cdif:Q:0.64	{}	485
+CAZVVZ010000079.1	+	641	8	0			Bsub:R:0.86;Cdif:R:0.93;Chon:R:0.86;Fbut:R:0.79;Aint:R:0.79;Bhan:R:0.86;Alac:R:0.86;Leli:R:0.86	{'+1': 1}	39
+CAZVVZ010000079.1	+	1467	8	0			Bsub:R:0.93;Cdif:R:1.00;Chon:R:1.00;Fbut:R:0.93;Aint:R:0.93;Bhan:R:0.93;Alac:R:0.93;Leli:R:0.93	{'+1': 1}	39
+CAZVVZ010000079.1	+	2782	7	0			Bsub:R:0.86;Cdif:R:0.86;Chon:R:0.86;Fbut:R:0.79;Aint:R:1.00;Bhan:R:1.00;Leli:R:0.86	{'+1': 1}	40
+CAZVVZ010000079.1	+	4274	7	0			Bsub:E:0.14;Cdif:R:0.64;Chon:R:0.64;Fbut:R:0.36;Bhan:R:0.71;Alac:R:0.36;Leli:R:0.57	{'+1': 1}	40
+CAZVVZ010000081.1	-	2974	6	3	R	RRR	Bsub:X:0.50;Cdif:R:0.57;Chon:R:0.64;Fbut:R:0.71;Aint:X:0.64;Leli:L:0.36	{}	93
+CAZVVZ010000081.1	-	3245	6	0			Bsub:R:0.79;Cdif:R:0.93;Chon:R:0.43;Fbut:R:0.86;Aint:R:0.86;Leli:R:0.79	{'+1': 1}	93
+CAZVVZ010000081.1	-	4786	8	7	R	RRRRRRR	Bsub:R:0.50;Cdif:R:0.50;Chon:R:0.43;Fbut:R:0.57;Aint:R:0.43;Bhan:R:0.50;Alac:R:0.36;Leli:R:0.57	{}	331
+CAZVVZ010000083.1	+	2881	8	0			Bsub:R:0.43;Cdif:R:0.50;Chon:X:0.57;Fbut:R:0.64;Aint:R:0.57;Bhan:R:0.64;Alac:R:0.57;Leli:R:0.64	{'+1': 1}	339
+CAZVVZ010000085.1	+	2678	7	0			Bsub:R:0.79;Cdif:K:0.57;Chon:Y:0.64;Fbut:R:0.86;Bhan:R:0.64;Alac:K:0.50;Leli:R:0.79	{'+1': 1}	334
+CAZVVZ010000086.1	-	2062	6	3		QRT	Bsub:A:0.29;Chon:K:0.29;Fbut:T:0.21;Aint:Q:0.43;Bhan:R:0.50;Alac:T:0.43	{}	416
+CAZVVZ010000087.1	-	1622	7	0			Bsub:R:0.57;Cdif:R:0.64;Fbut:R:0.64;Aint:R:0.71;Bhan:K:0.71;Alac:K:0.64;Leli:R:0.64	{'+1': 1}	232
+CAZVVZ010000088.1	+	1659	7	1		R	Bsub:R:0.50;Cdif:R:0.64;Chon:R:0.57;Fbut:R:0.71;Aint:R:0.64;Bhan:R:0.50;Leli:R:0.50	{'+1': 1}	318
+CAZVVZ010000088.1	+	3732	2	2	R	RR	Bhan:R:0.71;Leli:R:0.71	{}	2354
+CAZVVZ010000090.1	-	2980	1	0			Bhan:R:0.86	{'+1': 1}	2216
+CAZVVZ010000093.1	+	3786	1	1		S	Bhan:S:0.43	{}	2454
+CAZVVZ010000093.1	+	4962	6	5	R	RRRRR	Bsub:R:0.57;Cdif:R:0.71;Chon:R:0.57;Aint:X:0.36;Bhan:R:0.43;Leli:R:0.43	{}	159
+CAZVVZ010000094.1	-	4505	3	0			Cdif:R:0.36;Fbut:X:0.71;Aint:X:0.64	{}	607
+CAZVVZ010000095.1	-	3335	2	1		K	Bsub:Q:0.36;Bhan:K:0.43	{}	77
+CAZVVZ010000096.1	-	3979	8	0			Bsub:R:0.93;Cdif:R:1.00;Chon:R:1.00;Fbut:R:0.93;Aint:R:0.86;Bhan:R:0.93;Alac:R:0.86;Leli:R:1.00	{'+1': 1}	204
+CAZVVZ010000097.1	+	853	8	2		KQ	Bsub:Q:0.64;Cdif:R:0.36;Chon:K:0.29;Fbut:K:0.21;Aint:R:0.29;Bhan:K:0.36;Alac:X:0.14;Leli:K:0.50	{}	90
+CAZVVZ010000098.1	-	3869	6	6		EEKKKQ	Chon:K:0.64;Fbut:Q:0.86;Aint:K:0.71;Bhan:E:0.64;Alac:E:0.57;Leli:K:0.71	{}	968
+CAZVVZ010000100.1	+	479	4	0			Fbut:R:0.57;Bhan:R:0.79;Alac:R:0.36;Leli:R:0.64	{'+1': 1}	1599
+CAZVVZ010000101.1	+	1301	7	0			Bsub:R:0.57;Cdif:R:0.71;Chon:R:0.50;Fbut:R:0.43;Bhan:R:0.50;Alac:R:0.43;Leli:R:0.43	{'+1': 1}	402
+CAZVVZ010000102.1	-	2058	8	0			Bsub:R:0.79;Cdif:R:0.71;Chon:R:0.36;Fbut:R:0.50;Aint:R:0.57;Bhan:R:0.64;Alac:R:0.57;Leli:R:0.57	{'+1': 1}	133
+CAZVVZ010000105.1	-	1181	6	0			Bsub:K:0.50;Chon:R:0.79;Fbut:R:0.50;Aint:K:0.57;Bhan:K:0.79;Leli:K:0.64	{'+1': 1}	341
+CAZVVZ010000107.1	-	2433	8	0			Bsub:R:0.71;Cdif:R:0.79;Chon:R:0.71;Fbut:R:0.79;Aint:R:0.86;Bhan:R:0.86;Alac:R:0.71;Leli:R:0.79	{'+1': 1}	272
+CAZVVZ010000109.1	+	1183	2	1		D	Bsub:D:0.71;Aint:R:0.36	{}	205
+CAZVVZ010000109.1	+	1294	2	0			Bsub:E:0.36;Aint:X:0.14	{}	205
+CAZVVZ010000111.1	-	2728	2	0			Bhan:R:0.64;Leli:R:0.64	{'+1': 1}	2476
+CAZVVZ010000114.1	+	2915	3	0			Bsub:Q:0.36;Cdif:G:0.36;Chon:S:0.36	{}	230
+CAZVVZ010000121.1	+	1905	8	0			Bsub:R:0.64;Cdif:R:0.79;Chon:R:0.57;Fbut:R:0.71;Aint:R:0.57;Bhan:R:0.64;Alac:R:0.79;Leli:R:0.64	{'+1': 1}	323
+CAZVVZ010000125.1	-	2137	7	0			Bsub:R:0.86;Cdif:R:1.00;Chon:R:0.86;Fbut:R:0.86;Bhan:R:0.86;Alac:R:0.93;Leli:R:0.86	{'+1': 1}	375
+CAZVVZ010000127.1	-	2154	3	0			Cdif:R:0.64;Chon:R:0.71;Leli:R:0.50	{'+1': 1}	913
+CAZVVZ010000134.1	-	932	7	0			Cdif:R:0.57;Chon:R:0.71;Fbut:R:0.71;Aint:R:0.86;Bhan:R:0.79;Alac:R:0.86;Leli:R:0.86	{'+1': 1}	747
+CAZVVZ010000134.1	-	1683	7	0			Cdif:R:0.79;Chon:R:0.93;Fbut:R:0.93;Aint:R:0.93;Bhan:R:1.00;Alac:R:0.93;Leli:R:0.93	{'+1': 1}	747
+CAZVVZ010000135.1	-	917	5	0			Bsub:R:0.93;Cdif:R:0.86;Aint:R:0.86;Alac:R:0.71;Leli:R:0.71	{'+1': 1}	381
+CAZVVZ010000136.1	+	926	2	2		NS	Chon:S:0.64;Aint:N:0.64	{}	1365
+CAZVVZ010000138.1	-	1982	7	0			Bsub:R:0.71;Cdif:R:0.79;Chon:R:0.50;Fbut:R:0.57;Bhan:R:0.64;Alac:R:0.71;Leli:R:0.64	{'+1': 1}	193
+CAZVVZ010000139.1	-	1221	7	0			Bsub:K:0.43;Chon:R:0.57;Fbut:N:0.50;Aint:K:0.64;Bhan:R:0.57;Alac:Q:0.43;Leli:K:0.36	{'+1': 1}	330
+CAZVVZ010000147.1	-	651	4	0			Chon:R:0.86;Aint:R:0.93;Alac:R:0.86;Leli:R:0.57	{'+1': 1}	1197
+CAZVVZ010000152.1	-	517	1	0			Leli:K:0.50	{'+1': 2}	3081
+CAZVVZ010000152.1	-	526	3	1		K	Cdif:R:0.50;Chon:K:0.50;Leli:K:0.43	{'+1': 1}	500
+CAZVVZ010000152.1	-	607	3	1		K	Cdif:K:0.43;Chon:L:0.07;Leli:K:0.36	{}	500
+CAZVVZ010000188.1	-	702	2	2	K	KK	Cdif:K:0.79;Bhan:K:0.64	{}	779

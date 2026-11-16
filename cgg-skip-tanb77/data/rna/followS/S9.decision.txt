@@ -1,0 +1,5 @@
+set A: D 0.0000 (95% 0.0000-0.0000), lacks 0 of 9191 observations over 304 sites
+set C: D 0.0000 (95% 0.0000-0.0000), lacks 0 of 22389 observations over 2591 sites
+set A0: D 0.0000 (95% 0.0000-0.0000), lacks 0 of 976 observations over 17 sites
+set B: D 0.0000 (95% 0.0000-0.0000), lacks 0 of 37 observations over 17 sites
+decision: transcripts keep the C

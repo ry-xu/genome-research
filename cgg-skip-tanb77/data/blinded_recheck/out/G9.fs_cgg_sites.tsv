@@ -1,0 +1,30 @@
+contig	strand	cgg_start0	dir	context(-6..+10, CGG at 7-9)	next_nt	n_refs	clean_residues	consensus	per_ref
+CASDSU010000013.1	+	12099	+1	tggcttCGGaaagtgt	A	6	GGGGGG	G	Bhan:G:1:0.65;Bsub:G:1:0.75;Cdif:G:1:0.70;Chon:G:1:0.50;Fbut:G:1:0.60;Leli:G:1:0.65
+CASDSU010000013.1	+	12331	+1	ggaatcCGGaaagtca	A	6	GGGGGG	G	Bhan:G:1:0.65;Bsub:G:1:0.65;Cdif:G:1:0.60;Chon:G:1:0.65;Fbut:G:1:0.60;Leli:G:1:0.70
+CASDSU010000013.1	+	56058	+1	gaattaCGGgaaaagg	G	1			Cdif:L:1:0.25
+CASDSU010000013.1	+	72004	+1	gttttgCGGtatgagg	T	2	G		Chon:G:1:0.40;Leli:G:0:0.64
+CASDSU010000013.1	+	183967	+1	gccaaaCGGaatgttt	A	5	GG	G	Aint:G:0:0.42;Bhan:G:1:0.45;Chon:G:1:0.35;Fbut:G:0:0.25;Leli:G:0:0.55
+CASDSU010000013.1	+	194540	+1	gttccaCGGaaatatt	A	3	GGG	G	Bhan:G:1:0.50;Bsub:G:1:0.40;Cdif:G:1:0.65
+CASDSU010000016.1	+	150434	+1	acattgCGGttgtaag	T	4	GGGG	G	Bsub:G:1:0.81;Cdif:G:1:0.89;Chon:G:1:0.88;Fbut:G:1:0.71
+CASDSU010000016.1	-	3315	+1	atgcttCGGaatatcg	A	6	GGGGGG	G	Aint:G:1:0.85;Bhan:G:1:0.95;Bsub:G:1:0.85;Cdif:G:1:0.95;Fbut:G:1:0.85;Leli:G:1:1.00
+CASDSU010000016.1	-	63779	+1	gatgtcCGGaacagaa	A	5	AGGGG	G	Aint:G:1:0.60;Bhan:A:1:0.70;Bsub:G:1:0.56;Cdif:G:1:0.45;Leli:G:1:0.60
+CASDSU010000021.1	-	50619	-1	atagttCGGatacata	A	4			Aint:-:0:0.00;Alac:-:0:0.00;Cdif:-:0:0.00;Chon:-:0:0.00
+CASDSU010000028.1	+	95306	+1	ttcgtaCGGagttaca	A	1			Cdif:T:1:0.18
+CASDSU010000028.1	+	105523	+1	ggtgtaCGGtatattt	T	2	GG	G	Fbut:G:1:0.50;Leli:G:1:0.55
+CASDSU010000028.1	+	240322	+1	ataggtCGGatcaact	A	1			Cdif:G:0:0.36
+CASDSU010000028.1	+	398107	+1	ggaatcCGGcgtggtt	C	2	GS		Cdif:G:1:0.35;Chon:S:1:0.35
+CASDSU010000028.1	+	398315	+1	gttaatCGGcgcaact	C	1	G		Cdif:G:1:0.31
+CASDSU010000028.1	+	398397	+1	ggactgCGGcaaagtg	C	4	AA	A	Alac:S:0:0.55;Bsub:A:1:0.50;Cdif:A:1:0.29;Chon:A:1:0.33
+CASDSU010000028.1	+	497620	+1	gaaaatCGGagtttca	A	1	G		Chon:G:1:0.30
+CASDSU010000028.1	-	86629	+1	gattcaCGGaataaag	A	2	GG	G	Aint:G:1:0.60;Chon:G:1:0.60
+CASDSU010000028.1	-	233656	+1	gtaagcCGGatgtcca	A	1	G		Bhan:G:1:0.50
+CASDSU010000028.1	-	288341	+1	aaggacCGGattttgc	A	4	GIQV		Bhan:Q:1:0.70;Bsub:V:1:0.55;Cdif:G:1:0.85;Leli:I:1:0.80
+CASDSU010000028.1	-	302448	+1	ccttacCGGctataaa	C	5	GGGGG	G	Aint:G:1:0.60;Bhan:G:1:0.64;Cdif:G:1:0.69;Chon:G:1:0.54;Fbut:G:1:0.64
+CASDSU010000031.1	+	192930	+1	gctcttCGGccaggat	C	6	DGGGG	G	Aint:D:1:0.50;Bhan:G:1:0.55;Bsub:G:1:0.55;Cdif:G:1:0.50;Fbut:E:1:0.25;Leli:G:1:0.55
+CASDSU010000031.1	-	84263	+1	aattttCGGgaaagaa	G	4	GGGG	G	Alac:G:1:0.40;Bhan:G:1:0.50;Fbut:G:1:0.55;Leli:G:1:0.50
+CASDSU010000035.1	-	23715	+1	acaattCGGaattgtt	A	2	GG	G	Bhan:G:1:0.70;Bsub:G:1:0.60
+CASDSU010000036.1	+	26912	+1	ggcttaCGGaaatccg	A	1	G		Cdif:G:1:0.71
+CASDSU010000036.1	+	46950	+1	aaaatgCGGaaagtat	A	6	LYYY	Y	Aint:Y:1:0.35;Alac:L:1:0.46;Bhan:V:1:0.20;Cdif:Y:1:0.60;Fbut:Y:1:0.45;Leli:V:1:0.27
+CASDSU010000036.1	+	56656	+1	gaacttCGGtagaaaa	T	1	G		Bsub:G:1:0.65
+CASDSU010000036.1	+	102936	+1	ctattaCGGagagatt	A	2	GG	G	Cdif:G:1:0.80;Leli:G:1:0.85
+CASDSU010000036.1	+	120765	+1	gttccaCGGtgttggt	T	1	G		Bsub:G:1:0.50

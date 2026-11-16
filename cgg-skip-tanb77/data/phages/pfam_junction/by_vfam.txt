@@ -1,0 +1,5 @@
+CTRL	other	sites 223	spanned 12 (0.054)	hallmark 0
+CTRL	vFAM-00025	sites 377	spanned 6 (0.016)	hallmark 5
+RCGG	other	sites 600	spanned 3 (0.005)	hallmark 0
+SKIP	other	sites 139	spanned 52 (0.374)	hallmark 15
+SKIP	vFAM-00025	sites 461	spanned 187 (0.406)	hallmark 68

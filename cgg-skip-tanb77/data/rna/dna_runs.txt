@@ -1,0 +1,8 @@
+data/rna_cgg/dna 1 20000000 2 ERR15873836
+data/rna_cgg/dna 1 20000000 2 ERR15873817
+data/rna_cgg/dna 1 20000000 2 ERR15873827
+data/rna_cgg/dna 1 20000000 2 ERR15873839
+data/rna_cgg/dna 1 20000000 2 ERR15873890
+data/rna_cgg/dna 1 20000000 2 ERR15873832
+data/rna_cgg/dna 1 20000000 2 ERR15873889
+data/rna_cgg/dna 1 20000000 2 ERR15873891

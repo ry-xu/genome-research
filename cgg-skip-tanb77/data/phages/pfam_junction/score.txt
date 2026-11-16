@@ -1,0 +1,12 @@
+SKIP	sites 600	SPANNED 239 (0.398)	HALLMARK 83
+  Complete	59	SPANNED 19 (0.322)
+  High-quality	311	SPANNED 128 (0.412)
+  Medium-quality	230	SPANNED 92 (0.400)
+CTRL	sites 600	SPANNED 18 (0.030)	HALLMARK 5
+  Complete	80	SPANNED 2 (0.025)
+  High-quality	317	SPANNED 11 (0.035)
+  Medium-quality	203	SPANNED 5 (0.025)
+RCGG	sites 600	SPANNED 3 (0.005)	HALLMARK 0
+  Complete	170	SPANNED 0 (0.000)
+  High-quality	236	SPANNED 0 (0.000)
+  Medium-quality	194	SPANNED 3 (0.015)

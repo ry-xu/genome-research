@@ -1,0 +1,20 @@
+windows: 8292 dropped: 4
+clusters: 4338
+
+== T: CGGs 2458, skip 1515
+(a) clusters with T members: 682; called skip: 353 = 0.518
+(b) one-genus clusters: 448 clusters, skip clusters 219 = 0.489; CGGs skip/O 258/507 = 0.509
+    clusters in >= 5 genera: 81, CGGs 1498, skip 1014
+
+== R: CGGs 5834, skip 115
+(a) clusters with R members: 3662; called skip: 57 = 0.016
+(b) one-genus clusters: 3072 clusters, skip clusters 51 = 0.017; CGGs skip/O 58/3416 = 0.017
+    clusters in >= 5 genera: 112, CGGs 1107, skip 49
+
+(c) clusters with both T and R members: 6
+  T skip 40/40 (37 genera) | R skip 1/1 (1 genera) | AAAATCAGTCTTAAACGGAAAAGATATAAATTT
+  T skip 0/8 (6 genera) | R skip 0/1 (1 genera) | CCTTAAATGGAAAAACGGAGGACATTTGGAATG
+  T skip 3/5 (5 genera) | R skip 1/1 (1 genera) | TGTTATCCATGTATGCGGATGCAGGAGTTTTTT
+  T skip 0/2 (1 genera) | R skip 0/1 (1 genera) | ACTGTCTTACACCCTCGGGCAAAAAAGAAGCCA
+  T skip 0/1 (1 genera) | R skip 0/1 (1 genera) | GCTAGAAGGACTTGTCGGATATATTCGGAACTA
+  T skip 0/1 (1 genera) | R skip 0/1 (1 genera) | TTTGAAGAAAAGATGCGGGTTGATAAATTACTA

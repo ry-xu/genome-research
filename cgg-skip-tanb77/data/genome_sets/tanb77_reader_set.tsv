@@ -1,0 +1,3 @@
+acc	gca	domain	phylum	class	order	family	genus	species	compl	contam	contigs	n50	gc	size	cdens	ttable	level	local	score
+GB_GCA_944392485.1	GCA_944392485.1	Bacteria	Bacillota	Clostridia	TANB77	CAG-508	CAG-452	CAG-452 sp944392485	93.83	2.94	22	123549	27.596423842986628	1374660	87.14052929451647	none	Contig	data/atlas/genomes/GCA_9443/GCA_944392485.1.fna.gz	79.13
+GB_GCA_045643205.1	GCA_045643205.1	Bacteria	Bacillota	Clostridia	TANB77	CAG-508	CAG-793	CAG-793 sp045643205	100	1.16	10	119025	28.34563753064479	1008328	90.34788283177696	none	Contig		94.2

@@ -1,0 +1,2 @@
+contig	strand	cgg_start0	dir	context(-6..+10, CGG at 7-9)	next_nt	n_refs	clean_residues	consensus	per_ref
+NZ_LT906477.1	+	2308676	+1	aatgtcCGGcaacctg	C	1	S		Bsub:S:1:0.55

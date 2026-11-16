@@ -1,0 +1,172 @@
+== Inputs ==
+Set A genomes: 100 | excluded (on cgg_test_T list): 6 ['GCA_944388605.1', 'GCA_944388625.1', 'GCA_944390965.1', 'GCA_944393615.1', 'GCA_946496695.1', 'GCA_947856825.1'] | used: 94
+site codons reproduced: 171335 bad: 0 | Set A class + both run lengths reproduced: 14677 mismatch: 0 | internal stops in CDS calls: 0
+Set A sites used by class: {'skip': 6521, 'unclear': 3451, 'inframe': 3923}
+Set A sites with no clean upstream codon: 0 | upstream codon is a stop: 0
+Set A sites in-frame inside their called CDS: Counter({('skip', '1'): 5711, ('inframe', '1'): 3905, ('unclear', '1'): 2785, ('skip', '0'): 810, ('unclear', '0'): 666, ('inframe', '0'): 18})
+upstream codon inside the called CDS (codon_idx>=1): Counter({('skip', 1): 5711, ('inframe', 1): 3905, ('unclear', 1): 2785, ('skip', 0): 810, ('unclear', 0): 666, ('inframe', 0): 18})
+
+== All codons, observed / expected (background: codon before in-frame GGN, per genome) ==
+codon aa  skip_obs skip_exp skip_ratio | inframe_obs inframe_exp inframe_ratio
+TGC        91     12.2   7.47 |     33      7.0   4.72
+CTT       695     99.2   7.00 |     98     59.6   1.65
+TCG        39      7.5   5.17 |      8      4.4   1.83
+CCT       196     43.8   4.48 |     22     28.0   0.79
+CCC        13      3.0   4.29 |      4      2.1   1.93
+CTC        23      6.1   3.77 |      9      2.8   3.16
+CAG        58     16.3   3.55 |     44     10.0   4.41
+CTG        20      5.9   3.38 |     25      3.9   6.36
+GGG        42     13.1   3.20 |     25      7.4   3.40
+TCC        20      6.8   2.93 |     17      4.2   4.01
+TTG       122     45.2   2.70 |     94     26.7   3.52
+GTC        28     10.8   2.60 |     18      6.5   2.76
+ATC        67     25.8   2.59 |     73     16.3   4.49
+CCG        23      9.5   2.43 |     14      6.1   2.28
+GAC       125     51.4   2.43 |     51     27.1   1.88
+CGC         4      1.8   2.20 |      9      1.1   8.34
+CCA       228    103.9   2.20 |     25     61.0   0.41
+TCA       278    131.6   2.11 |     57     75.8   0.75
+AGC        49     24.9   1.97 |     31     13.7   2.26
+TCT       234    121.5   1.93 |     41     76.8   0.53
+GTG        50     26.1   1.91 |     37     15.2   2.44
+AAG        98     55.6   1.76 |    141     33.1   4.26
+AAC        87     49.7   1.75 |     64     29.0   2.21
+AGG        22     12.6   1.74 |     37      7.4   5.02
+GCC        20     12.2   1.64 |     12      7.9   1.52
+ACT       186    114.0   1.63 |     80     71.5   1.12
+CAC        22     13.5   1.63 |      9      6.4   1.40
+GCT       177    113.9   1.55 |     70     72.3   0.97
+GTT       264    174.3   1.51 |     81    108.0   0.75
+GAG        75     50.8   1.48 |     97     32.5   2.99
+ACG        21     14.3   1.47 |     11      8.4   1.31
+TAC        24     20.3   1.18 |     47     12.2   3.86
+GCG        19     16.3   1.17 |     14      9.2   1.52
+GGA       190    165.5   1.15 |     97     98.2   0.99
+ACC        12     10.8   1.11 |     14      6.8   2.05
+CTA        66     61.9   1.07 |     27     35.8   0.75
+ATT       293    275.8   1.06 |    212    167.7   1.26
+TGT        95     89.5   1.06 |     42     53.7   0.78
+GGC        28     30.0   0.93 |     21     18.1   1.16
+TTC        20     21.9   0.92 |     62     11.8   5.24
+GTA       162    186.6   0.87 |     73    112.3   0.65
+AGT       116    139.0   0.83 |     46     83.6   0.55
+GCA       184    239.5   0.77 |     84    137.1   0.61
+CAT        58     76.3   0.76 |     43     48.1   0.89
+CGA         5      6.7   0.75 |      6      3.7   1.60
+TGG        35     47.2   0.74 |     37     28.8   1.28
+TTA       235    344.3   0.68 |    141    207.8   0.68
+GGT       117    174.8   0.67 |     46    106.4   0.43
+AAT       275    422.0   0.65 |    164    258.1   0.64
+CGT        11     17.5   0.63 |     15     10.2   1.47
+ACA       180    299.6   0.60 |     58    175.5   0.33
+CAA        86    155.5   0.55 |     67     92.6   0.72
+ATG        81    146.6   0.55 |    157     87.6   1.79
+TTT       140    254.8   0.55 |    115    153.7   0.75
+ATA       184    340.8   0.54 |    138    202.4   0.68
+AAA       207    437.5   0.47 |    366    263.9   1.39
+AGA        56    158.2   0.35 |     96     95.0   1.01
+GAA       132    391.4   0.34 |    223    229.1   0.97
+TAT        75    279.5   0.27 |    120    168.1   0.71
+GAT        58    333.1   0.17 |     55    212.7   0.26
+TAA         0      0.0    nan |      0      0.0    nan
+TAG         0      0.0    nan |      0      0.0    nan
+TGA         0      0.0    nan |      0      0.0    nan
+CGG         0      0.8   0.00 |      0      0.5   0.00
+
+== Predictions ==
+P1 CTT skip-like: 695 obs / 99.22 exp = 7.004 (>= 2?) -> HOLDS
+P2 CTT in-frame-like: 98 / 59.57 = 1.645; skip 7.004 > in-frame? -> HOLDS
+P3 skip-like ratios: {'CTT': 7.004, 'TTG': 2.701, 'TCA': 2.112, 'CCA': 2.195, 'GAC': 2.431} -> 5/5 > 1 -> HOLDS
+Depleted four, skip-like: {'TTT': (140, 254.8, 0.55), 'AAA': (207, 437.5, 0.473), 'GAA': (132, 391.4, 0.337), 'TAT': (75, 279.5, 0.268)}
+Depleted four, in-frame-like: {'TTT': (115, 153.7, 0.748), 'AAA': (366, 263.9, 1.387), 'GAA': (223, 229.1, 0.974), 'TAT': (120, 168.1, 0.714)}
+Enriched five, in-frame-like: {'CTT': 1.645, 'TTG': 3.523, 'TCA': 0.752, 'CCA': 0.41, 'GAC': 1.884}
+Decision: REPLICATED
+
+Bootstrap over the 93 genomes with >= 1 skip-like site (1,000, random.Random(1)): CTT ratio 95% percentile interval 5.634 - 8.826
+Same over all 94 used genomes (zero-site genomes included): 5.456 - 8.681
+
+== Break (a): is the CTT excess carried by a few genomes, genera or genes? ==
+genomes with >= 1 CTT skip-like site: 73 of 93
+top 10 genomes by CTT excess (obs - exp): genome genus n_skip obs exp ratio
+  GCA_944388035.1 CAG-269 136 48 2.34 20.48
+  GCA_944393325.1 CAG-269 171 46 2.44 18.89
+  GCA_944388785.1 CAG-269 211 44 2.83 15.55
+  GCA_944393755.1 CAG-269 141 43 2.37 18.11
+  GCA_944387455.1 CAG-269 134 39 2.31 16.88
+  GCA_944393135.1 CAG-269 138 33 1.76 18.79
+  GCA_944391665.1 Scatovivens 389 32 6.12 5.23
+  GCA_944387565.1 CAG-269 92 23 1.21 19.06
+  GCA_944389125.1 Scatovivens 175 25 3.44 7.26
+  GCA_944386135.1 JAAWPK01 357 29 9.14 3.17
+share of CTT skip-like sites in the top 5 genomes by excess: 220/695
+drop top 5 by excess: CTT 475/86.93 = 5.464 over 5728 skip-like sites
+drop top 5 by CTT count: CTT 475/86.93 = 5.464 over 5728 skip-like sites
+drop top 5 by skip-like site count: CTT 559/75.37 = 7.417 over 5131 skip-like sites
+drop top 10 by excess: CTT 333/65.26 = 5.102
+drop top 20 by excess: CTT 206/51.67 = 3.987
+leave-one-genome-out CTT ratio range: 6.678 - 7.393
+per-genome CTT ratio for genomes with exp >= 1 (33): median 7.09, share > 1: 31/33, share >= 2: 31/33
+by genus (n_skip, CTT obs, exp, ratio), genera with >= 100 skip-like sites:
+  CAG-269: 2511 360 32.1 11.23
+  Scatovivens: 842 83 14.4 5.78
+  CALXVA01: 582 78 10.5 7.41
+  UMGS1754: 383 16 4.7 3.38
+  JAAWPK01: 357 29 9.1 3.17
+  CAG-273: 278 13 3.3 3.98
+  UMGS1663: 187 25 1.1 21.82
+  CAG-465: 184 1 5.4 0.19
+  Merdicola: 163 13 2.1 6.29
+  UMGS1864: 130 9 2.6 3.48
+  UBA1234: 125 12 3.0 4.05
+  CAG-793: 110 4 2.1 1.94
+  UMGS1933: 101 16 1.4 11.51
+  other genera pooled: 568 36 7.6 4.76
+CTT skip-like sites per CDS: Counter({1: 663, 2: 16})
+one random skip-like site per CDS (5763 sites): CTT 630/87.11 = 7.232
+
+Families (anchored 20-aa upstream peptide, >= 8/20 identical, single linkage): decoy random pairs reaching the threshold: 42/200000
+skip: 6520 sites in 3473 families (largest 143); CTT sites in 322 families (largest 15); family-weighted CTT 264.9/54.38 = 4.872
+  largest CTT families (size, genera): [(15, ['CAG-269', 'CALXUC01', 'CALXVA01', 'UMGS1663', 'UMGS1754', 'UMGS1781']), (13, ['CAG-269', 'CALXVA01', 'Merdicola', 'UMGS1754']), (11, ['CAG-269', 'CALXVA01']), (11, ['CAG-269']), (11, ['CAG-269', 'CALXVA01', 'Scatovivens', 'UMGS1933'])]
+inframe: 3916 sites in 3060 families (largest 12); CTT sites in 88 families (largest 2); family-weighted CTT 76.6/47.31 = 1.619
+
+== Break (b): the class rule applied to other sites ==
+Set C skip-like (CGA/CGC/CGT, same walks, same rule, my classes) [bg ggn]: n=998 CTT 15/14.21 = 1.056; TTG=2.18 TCA=0.49 CCA=0.51 GAC=0.78 TTT=0.39 AAA=1.38 GAA=0.98 TAT=1.14
+Set C skip-like (CGA/CGC/CGT, same walks, same rule, my classes) [bg cgn]: n=998 CTT 15/23.69 = 0.633; TTG=1.02 TCA=0.64 CCA=0.48 GAC=0.58 TTT=0.66 AAA=1.26 GAA=1.18 TAT=1.01
+Set C in-frame-like [bg ggn]: n=109667 CTT 2673/1597.16 = 1.674; TTG=2.09 TCA=0.84 CCA=1.11 GAC=1.29 TTT=0.61 AAA=1.09 GAA=0.83 TAT=1.17
+Set C in-frame-like [bg cgn]: n=109667 CTT 2673/2609.11 = 1.024; TTG=1.00 TCA=1.07 CCA=1.08 GAC=0.93 TTT=0.98 AAA=1.01 GAA=1.03 TAT=0.99
+Set C all [bg ggn]: n=147803 CTT 3485/2153.50 = 1.618; TTG=2.08 TCA=0.82 CCA=1.08 GAC=1.29 TTT=0.62 AAA=1.10 GAA=0.81 TAT=1.17
+Set C all [bg cgn]: n=147803 CTT 3485/3521.73 = 0.990; TTG=0.99 TCA=1.04 CCA=1.04 GAC=0.93 TTT=1.00 AAA=1.02 GAA=1.01 TAT=1.00
+  Set C skip-like CGA: n=458 CTT 3/10.76 = 0.279
+  Set C skip-like CGC: n=133 CTT 4/2.94 = 1.358
+  Set C skip-like CGT: n=407 CTT 8/9.98 = 0.802
+random CDS positions skip-like: n=1072 CTT 11/12.24 = 0.899
+random CDS positions inframe-like: n=145638 CTT 1693/1677.35 = 1.009
+random CDS positions unclear-like: n=41290 CTT 489/475.62 = 1.028
+random positions at an in-frame GGN, skip-like (bg ggn): n=63 CTT 0/0.94 = 0.000
+random positions within 30 codons of the called stop: n=19698 CTT 227/226.59 = 1.002
+
+== Break (c): other backgrounds, synonyms, nucleotides, geometry ==
+bg = codon before in-frame CGG in CDS calls: CTT skip 1.338, in-frame 0.506; P3 count 4/5
+bg = codon before in-frame CGA/CGC/CGT: CTT skip 3.932, in-frame 1.056; P3 count 5/5
+bg = all in-frame codons: CTT skip 9.240, in-frame 2.200; P3 count 5/5
+own-CDS codon usage as background, skip: CTT 695/83.30 = 8.343 (n=6521)
+own-CDS codon usage as background, inframe: CTT 98/80.23 = 1.222 (n=3923)
+skip: Leu codons obs/exp 1161/562.6 = 2.064; CTT share of Leu obs 0.599 vs exp 0.176; per Leu codon: CTT=7.00 CTC=3.77 CTA=1.07 CTG=3.38 TTA=0.68 TTG=2.70
+inframe: Leu codons obs/exp 394/336.7 = 1.170; CTT share of Leu obs 0.249 vs exp 0.177; per Leu codon: CTT=1.65 CTC=3.16 CTA=0.75 CTG=6.36 TTA=0.68 TTG=3.52
+skip upstream-codon nucleotide ratios: 1A=0.77 1C=2.43 1G=0.84 1T=1.02 2A=0.59 2C=1.47 2G=0.96 2T=1.21 3A=0.73 3C=2.10 3G=1.51 3T=1.10
+  NTT: {'ATT': 1.06, 'CTT': 7.0, 'GTT': 1.51, 'TTT': 0.55}  CTN: {'CTA': 1.07, 'CTC': 3.77, 'CTG': 3.38, 'CTT': 7.0}
+inframe upstream-codon nucleotide ratios: 1A=1.11 1C=1.12 1G=0.84 1T=0.98 2A=1.05 2C=0.71 2G=1.01 2T=1.12 3A=0.81 3C=2.74 3G=2.64 3T=0.74
+  NTT: {'ATT': 1.26, 'CTT': 1.65, 'GTT': 0.75, 'TTT': 0.75}  CTN: {'CTA': 0.75, 'CTC': 3.16, 'CTG': 6.36, 'CTT': 1.65}
+skip: codon -2 (two before the CGG, bg all codons) CTT 1.26; top 5: CCG=3.75 GGC=3.66 CGT=2.98 GGG=2.60 GCT=2.45
+inframe: codon -2 (two before the CGG, bg all codons) CTT 1.37; top 5: CAG=3.70 GTC=3.61 GCC=3.58 ATC=3.09 GTG=2.72
+inside called CDS, in frame, >= 30 codons from start: skip n=5529 CTT 596/83.7 = 7.12 | in-frame n=1213 1.79
+inside called CDS, in frame, < 30 codons from start: skip n=182 CTT 29/2.7 = 10.86 | in-frame n=2692 1.58
+not in frame in its called CDS (past an earlier skip or beyond the call): skip n=810 CTT 70/12.9 = 5.43 | in-frame n=18 0.00
+C not in a C run (run length 1): skip n=5888 CTT 695/89.4 = 7.77 | in-frame n=3449 1.88
++1 frame closed upstream within 10 codons: skip n=4631 CTT 480/70.7 = 6.79 | in-frame n=2280 1.45
++1 frame open >= 60 codons upstream: skip n=33 CTT 0/0.5 = 0.00 | in-frame n=37 3.49
+skip-like with old-frame stop 0-5 codons after: n=3226 CTT 6.77
+skip-like with old-frame stop 6-15 codons after: n=2457 CTT 7.18
+skip-like with old-frame stop 16-30 codons after: n=838 CTT 7.39
+
+(reference) the 6 excluded genomes, skip-like: n=445 CTT 23/6.32 = 3.638

@@ -1,0 +1,37 @@
+filter=hostgenus phages kept 340; per set {'R': 252, 'T1': 13, 'C15': 43, 'Tf': 1, 'P2': 22, 'Tx': 7, 'T0': 2}
+
+CGG skip/O by set and GC bin (skip/O [n phages])
+24 T1 0/0 [0] | T0 0/0 [0] | Tf 0/0 [0] | Tx 0/0 [0] | R 0/6=0.000 [2]
+26 T1 2/8=0.250 [3] | T0 0/0 [0] | Tf 0/0 [0] | Tx 1/2=0.500 [1] | R 0/16=0.000 [3]
+28 T1 2/5=0.400 [6] | T0 0/0 [1] | Tf 2/3=0.667 [1] | Tx 0/0 [2] | R 0/12=0.000 [13]
+30 T1 0/0 [1] | T0 0/0 [0] | Tf 0/0 [0] | Tx 1/1=1.000 [2] | R 3/52=0.058 [13]
+32 T1 0/0 [0] | T0 0/0 [0] | Tf 0/0 [0] | Tx 0/0 [0] | R 3/196=0.015 [13]
+34 T1 0/0 [0] | T0 0/0 [0] | Tf 0/0 [0] | Tx 0/0 [0] | R 4/348=0.011 [25]
+36 T1 0/0 [0] | T0 0/0 [0] | Tf 0/0 [0] | Tx 0/0 [0] | R 1/197=0.005 [10]
+38 T1 0/0 [0] | T0 0/0 [0] | Tf 0/0 [0] | Tx 0/0 [0] | R 7/598=0.012 [22]
+40 T1 0/0 [0] | T0 0/0 [0] | Tf 0/0 [0] | Tx 0/0 [0] | R 9/727=0.012 [13]
+42 T1 0/0 [0] | T0 0/0 [0] | Tf 0/0 [0] | Tx 0/9=0.000 [1] | R 19/1268=0.015 [22]
+44 T1 0/104=0.000 [1] | T0 0/0 [0] | Tf 0/0 [0] | Tx 0/0 [0] | R 20/1941=0.010 [31]
+48 T1 0/0 [0] | T0 0/0 [0] | Tf 0/0 [0] | Tx 0/0 [0] | R 41/3062=0.013 [33]
+50 T1 0/0 [0] | T0 0/0 [0] | Tf 0/0 [0] | Tx 0/0 [0] | R 39/2579=0.015 [23]
+52 T1 0/0 [0] | T0 0/0 [0] | Tf 0/0 [0] | Tx 0/0 [0] | R 48/2640=0.018 [19]
+
+Pooled bins 24-28:
+  T1: 4/13 = 0.308
+  T0: 0/0 = nan
+  Tf: 2/3 = 0.667
+  Tx: 1/2 = 0.500
+  R: 0/34 = 0.000
+  MH RR_skip T1 vs R: inf  cluster(phage)-bootstrap 95% CI inf-inf
+  MH RR_skip T0 vs R: inf  cluster(phage)-bootstrap 95% CI inf-inf
+  MH RR_skip Tf vs R: inf  cluster(phage)-bootstrap 95% CI inf-inf
+
+Pooled bins 24-30:
+  T1: 4/13 = 0.308
+  T0: 0/0 = nan
+  Tf: 2/3 = 0.667
+  Tx: 2/3 = 0.667
+  R: 3/86 = 0.035
+  MH RR_skip T1 vs R: inf  cluster(phage)-bootstrap 95% CI inf-inf
+  MH RR_skip T0 vs R: inf  cluster(phage)-bootstrap 95% CI inf-inf
+  MH RR_skip Tf vs R: inf  cluster(phage)-bootstrap 95% CI inf-inf

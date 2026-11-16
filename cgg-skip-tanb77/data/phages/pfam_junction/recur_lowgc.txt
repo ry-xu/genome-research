@@ -1,0 +1,2 @@
+skip sites 1515 {'1 genus or none': (321, 249), '2-4 genera': (230, 66), '5+ genera': (964, 47)} (sites, clusters)
+non-skip sites 943 {'1 genus or none': (290, 248), '2-4 genera': (224, 70), '5+ genera': (429, 36)} (sites, clusters)

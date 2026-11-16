@@ -1,0 +1,39 @@
+diamond v2.2.8.188 (C) Max Planck Society for the Advancement of Science, Benjamin J. Buchfink, University of Tuebingen
+Documentation, support and updates available at http://www.diamondsearch.org
+Please cite: http://dx.doi.org/10.1038/s41592-021-01101-x Nature Methods (2021)
+
+#CPU threads: 1
+Scoring parameters: (Matrix=BLOSUM62 Lambda=0.267 K=0.041 Penalties=11/1)
+Database input file: targets_R.faa
+Opening the database file...  [0.001s]
+Loading sequences...  [0.303s]
+Masking sequences...  [3.107s]
+Writing sequences...  [0.055s]
+Hashing sequences...  [0.024s]
+Loading sequences...  [0s]
+Writing trailer...  [0.029s]
+Closing the input file...  [0s]
+Closing the database file...  [0s]
+
+Database sequences  388977
+  Database letters  85226420
+     Database hash  16e31ebaed91af3206357e3b80f814d5
+        Total time  3.523000s
+        3.53 real         3.46 user         0.07 sys
+           146309120  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+               16849  page reclaims
+                   5  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   6  voluntary context switches
+                2020  involuntary context switches
+         56139256372  instructions retired
+         12514393997  cycles elapsed
+           144720448  peak memory footprint

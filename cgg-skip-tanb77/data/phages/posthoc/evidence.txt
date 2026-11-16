@@ -1,0 +1,36 @@
+R	conn	1	n=235 skip/O=134/8946=0.015
+R	conn	2-4	n=441 skip/O=172/14750=0.012
+R	conn	>=5	n=5564 skip/O=3824/270174=0.014
+R	conn x GC	1/GC>=32	n=166 skip/O=130/8767=0.015
+R	conn x GC	1/lowGC	n=69 skip/O=4/179=0.022
+R	conn x GC	2-4/GC>=32	n=286 skip/O=166/14327=0.012
+R	conn x GC	2-4/lowGC	n=155 skip/O=6/423=0.014
+R	conn x GC	>=5/GC>=32	n=4482 skip/O=3718/264902=0.014
+R	conn x GC	>=5/lowGC	n=1082 skip/O=106/5272=0.020
+R	kmer	TANB77	n=56 skip/O=8/498=0.016
+R	kmer	none	n=2094 skip/O=1440/92242=0.016
+R	kmer	other	n=4090 skip/O=2682/201130=0.013
+R	kmer x GC	TANB77/GC>=32	n=21 skip/O=4/356=0.011
+R	kmer x GC	TANB77/lowGC	n=35 skip/O=4/142=0.028
+R	kmer x GC	none/GC>=32	n=1720 skip/O=1397/90042=0.016
+R	kmer x GC	none/lowGC	n=374 skip/O=43/2200=0.020
+R	kmer x GC	other/GC>=32	n=3193 skip/O=2613/197598=0.013
+R	kmer x GC	other/lowGC	n=897 skip/O=69/3532=0.020
+T	conn	1	n=43 skip/O=28/1161=0.024
+T	conn	2-4	n=59 skip/O=59/219=0.269
+T	conn	>=5	n=998 skip/O=1548/2851=0.543
+T	conn x GC	1/GC>=32	n=24 skip/O=12/1112=0.011
+T	conn x GC	1/lowGC	n=19 skip/O=16/49=0.327
+T	conn x GC	2-4/GC>=32	n=9 skip/O=10/118=0.085
+T	conn x GC	2-4/lowGC	n=50 skip/O=49/101=0.485
+T	conn x GC	>=5/GC>=32	n=10 skip/O=6/367=0.016
+T	conn x GC	>=5/lowGC	n=988 skip/O=1542/2484=0.621
+T	kmer	TANB77	n=869 skip/O=1286/2078=0.619
+T	kmer	none	n=172 skip/O=262/843=0.311
+T	kmer	other	n=59 skip/O=87/1310=0.066
+T	kmer x GC	TANB77/GC>=32	n=2 skip/O=0/0=nan
+T	kmer x GC	TANB77/lowGC	n=867 skip/O=1286/2078=0.619
+T	kmer x GC	none/GC>=32	n=19 skip/O=8/405=0.020
+T	kmer x GC	none/lowGC	n=153 skip/O=254/438=0.580
+T	kmer x GC	other/GC>=32	n=22 skip/O=20/1192=0.017
+T	kmer x GC	other/lowGC	n=37 skip/O=67/118=0.568

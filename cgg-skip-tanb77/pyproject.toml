@@ -1,0 +1,19 @@
+[project]
+name = "cgg-skip-tanb77"
+version = "0.1.0"
+description = "Analysis code and data: gut bacteria (order TANB77) that skip the C of CGG"
+requires-python = ">=3.11"
+dependencies = [
+    "biopython",
+    "duckdb",
+    "matplotlib",
+    "numpy",
+    "pyahocorasick",
+    "pyaragorn",
+    "pyrodigal",
+    "requests",
+    "scipy",
+]
+
+[tool.uv]
+package = false

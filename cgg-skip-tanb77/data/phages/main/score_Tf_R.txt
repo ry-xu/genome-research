@@ -1,0 +1,9 @@
+target Tf: n=664 phage-genus clusters=488; ref R: n=1806; bins=[24, 26, 28, 30, 32]
+  sum O=1740 sum E=1225.4; ref sum O=14466 sum E=22100.1
+  MH rate ratio O/E (target/ref) = 2.941  perm p = 0.0005  cluster-boot 95% CI = 2.540-3.469
+  MH ratio skip/O (target/ref)   = 32.959  perm p = 0.0005  cluster-boot 95% CI = 17.459-83.843
+  sibling CGA: MH RR (target/ref) = 1.033; RR_use(CGG)/RR(CGA) = 2.846
+  sibling CGT: MH RR (target/ref) = 0.998; RR_use(CGG)/RR(CGT) = 2.946
+  sibling CGC: MH RR (target/ref) = 1.194; RR_use(CGG)/RR(CGC) = 2.463
+  classes target: {'unresolved': 503, 'E>=5': 7, 'tRNA_CCG': 0, 'tRNA_TCG': 0, 'host-style': 161}
+  classes ref:    {'unresolved': 1102, 'E>=5': 837, 'tRNA_CCG': 17, 'tRNA_TCG': 3, 'ancestral': 663, 'avoid': 39, 'host-style': 2}   (s99=0.333)

@@ -1,0 +1,3 @@
+set A: observations 426 over 153 sites, other 0
+set B: observations 1 over 1 sites, other 0
+set C: observations 5845 over 2663 sites, other 3

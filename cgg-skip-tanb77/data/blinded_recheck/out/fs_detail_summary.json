@@ -1,0 +1,909 @@
+{
+ "G1": {
+  "collapsed_duplicate_sites": 0,
+  "events_p1": 236,
+  "events_m1": 11,
+  "events_p1_with_CGG": 194,
+  "events_m1_with_CGG": 5,
+  "cgg_sites_p1": 178,
+  "cgg_sites_m1": 3,
+  "unique_sites_p1": null,
+  "consensus_p1": {
+   "G": 127,
+   "A": 3,
+   "K": 1,
+   "L": 1,
+   "N": 1,
+   "S": 1
+  },
+  "consensus_m1": {},
+  "pairs_p1": {
+   "G": 657,
+   "A": 36,
+   "S": 22,
+   "K": 9,
+   "N": 9,
+   "D": 6,
+   "E": 5,
+   "V": 5,
+   "L": 5,
+   "P": 5,
+   "T": 4,
+   "Q": 4,
+   "M": 3,
+   "H": 2,
+   "R": 1,
+   "Y": 1
+  },
+  "next_nt_p1": {
+   "A": 103,
+   "T": 53,
+   "G": 13,
+   "C": 9
+  },
+  "prev_codon_top_p1": [
+   [
+    "GTT",
+    17
+   ],
+   [
+    "TTA",
+    13
+   ],
+   [
+    "GCT",
+    13
+   ],
+   [
+    "TCA",
+    12
+   ],
+   [
+    "ACA",
+    11
+   ],
+   [
+    "GTA",
+    10
+   ],
+   [
+    "CGG",
+    10
+   ],
+   [
+    "CCA",
+    10
+   ]
+  ],
+  "prev_codon_top_m1": [
+   [
+    "ATA",
+    2
+   ],
+   [
+    "AGA",
+    2
+   ],
+   [
+    "AAG",
+    1
+   ],
+   [
+    "GAC",
+    1
+   ],
+   [
+    "GAA",
+    1
+   ]
+  ]
+ },
+ "G2": {
+  "collapsed_duplicate_sites": 0,
+  "events_p1": 65,
+  "events_m1": 29,
+  "events_p1_with_CGG": 0,
+  "events_m1_with_CGG": 0,
+  "cgg_sites_p1": 0,
+  "cgg_sites_m1": 0,
+  "unique_sites_p1": null,
+  "consensus_p1": {},
+  "consensus_m1": {},
+  "pairs_p1": {},
+  "next_nt_p1": {},
+  "prev_codon_top_p1": [
+   [
+    "ACT",
+    17
+   ],
+   [
+    "TCA",
+    16
+   ],
+   [
+    "CCT",
+    15
+   ],
+   [
+    "ATA",
+    3
+   ],
+   [
+    "AAA",
+    3
+   ],
+   [
+    "AAG",
+    1
+   ],
+   [
+    "TAT",
+    1
+   ],
+   [
+    "AAT",
+    1
+   ]
+  ],
+  "prev_codon_top_m1": [
+   [
+    "TAT",
+    15
+   ],
+   [
+    "TTT",
+    2
+   ],
+   [
+    "AAA",
+    2
+   ],
+   [
+    "ATG",
+    1
+   ],
+   [
+    "GCA",
+    1
+   ]
+  ]
+ },
+ "G3": {
+  "collapsed_duplicate_sites": 0,
+  "events_p1": 22,
+  "events_m1": 1,
+  "events_p1_with_CGG": 16,
+  "events_m1_with_CGG": 0,
+  "cgg_sites_p1": 13,
+  "cgg_sites_m1": 0,
+  "unique_sites_p1": null,
+  "consensus_p1": {
+   "A": 1
+  },
+  "consensus_m1": {},
+  "pairs_p1": {
+   "G": 6,
+   "A": 3,
+   "E": 2,
+   "C": 1,
+   "R": 1,
+   "H": 1
+  },
+  "next_nt_p1": {
+   "A": 9,
+   "T": 3,
+   "G": 1
+  },
+  "prev_codon_top_p1": [
+   [
+    "CGG",
+    4
+   ],
+   [
+    "GGA",
+    2
+   ],
+   [
+    "ATT",
+    2
+   ],
+   [
+    "CTA",
+    1
+   ],
+   [
+    "GTT",
+    1
+   ],
+   [
+    "CTG",
+    1
+   ],
+   [
+    "TCA",
+    1
+   ],
+   [
+    "AAG",
+    1
+   ]
+  ],
+  "prev_codon_top_m1": [
+   [
+    "GCT",
+    1
+   ]
+  ]
+ },
+ "G4": {
+  "collapsed_duplicate_sites": 0,
+  "events_p1": 70,
+  "events_m1": 18,
+  "events_p1_with_CGG": 43,
+  "events_m1_with_CGG": 0,
+  "cgg_sites_p1": 40,
+  "cgg_sites_m1": 0,
+  "unique_sites_p1": null,
+  "consensus_p1": {
+   "G": 25,
+   "S": 1
+  },
+  "consensus_m1": {},
+  "pairs_p1": {
+   "G": 121,
+   "S": 5,
+   "R": 5,
+   "A": 4,
+   "N": 3,
+   "L": 2,
+   "D": 1,
+   "E": 1,
+   "K": 1,
+   "C": 1,
+   "T": 1
+  },
+  "next_nt_p1": {
+   "A": 28,
+   "T": 8,
+   "G": 3,
+   "C": 1
+  },
+  "prev_codon_top_p1": [
+   [
+    "TTA",
+    7
+   ],
+   [
+    "CGG",
+    6
+   ],
+   [
+    "CTT",
+    5
+   ],
+   [
+    "ACT",
+    4
+   ],
+   [
+    "AAA",
+    4
+   ],
+   [
+    "TCA",
+    4
+   ],
+   [
+    "GAT",
+    3
+   ],
+   [
+    "ATA",
+    3
+   ]
+  ],
+  "prev_codon_top_m1": [
+   [
+    "GCA",
+    2
+   ],
+   [
+    "GAA",
+    2
+   ],
+   [
+    "CTA",
+    2
+   ],
+   [
+    "TTA",
+    2
+   ],
+   [
+    "TGC",
+    2
+   ]
+  ]
+ },
+ "G5": {
+  "collapsed_duplicate_sites": 0,
+  "events_p1": 22,
+  "events_m1": 26,
+  "events_p1_with_CGG": 0,
+  "events_m1_with_CGG": 0,
+  "cgg_sites_p1": 0,
+  "cgg_sites_m1": 0,
+  "unique_sites_p1": null,
+  "consensus_p1": {},
+  "consensus_m1": {},
+  "pairs_p1": {},
+  "next_nt_p1": {},
+  "prev_codon_top_p1": [
+   [
+    "ACT",
+    6
+   ],
+   [
+    "TTG",
+    1
+   ],
+   [
+    "ATG",
+    1
+   ],
+   [
+    "CCG",
+    1
+   ],
+   [
+    "GTT",
+    1
+   ],
+   [
+    "AAA",
+    1
+   ],
+   [
+    "AGT",
+    1
+   ],
+   [
+    "CTT",
+    1
+   ]
+  ],
+  "prev_codon_top_m1": [
+   [
+    "TCT",
+    5
+   ],
+   [
+    "AGT",
+    5
+   ],
+   [
+    "ATG",
+    5
+   ],
+   [
+    "CCT",
+    1
+   ],
+   [
+    "GAG",
+    1
+   ]
+  ]
+ },
+ "G6": {
+  "collapsed_duplicate_sites": 0,
+  "events_p1": 9,
+  "events_m1": 10,
+  "events_p1_with_CGG": 0,
+  "events_m1_with_CGG": 0,
+  "cgg_sites_p1": 0,
+  "cgg_sites_m1": 0,
+  "unique_sites_p1": null,
+  "consensus_p1": {},
+  "consensus_m1": {},
+  "pairs_p1": {},
+  "next_nt_p1": {},
+  "prev_codon_top_p1": [
+   [
+    "GTA",
+    1
+   ],
+   [
+    "TTT",
+    1
+   ],
+   [
+    "AAA",
+    1
+   ],
+   [
+    "GAG",
+    1
+   ],
+   [
+    "CTA",
+    1
+   ],
+   [
+    "CTT",
+    1
+   ],
+   [
+    "GAA",
+    1
+   ],
+   [
+    "AAT",
+    1
+   ]
+  ],
+  "prev_codon_top_m1": [
+   [
+    "TTG",
+    2
+   ],
+   [
+    "ACG",
+    1
+   ],
+   [
+    "AAC",
+    1
+   ],
+   [
+    "CTT",
+    1
+   ],
+   [
+    "AAA",
+    1
+   ]
+  ]
+ },
+ "G7": {
+  "collapsed_duplicate_sites": 3,
+  "events_p1": 413,
+  "events_m1": 14,
+  "events_p1_with_CGG": 299,
+  "events_m1_with_CGG": 7,
+  "cgg_sites_p1": 280,
+  "cgg_sites_m1": 8,
+  "unique_sites_p1": null,
+  "consensus_p1": {
+   "G": 134,
+   "A": 3,
+   "E": 2,
+   "T": 2,
+   "Q": 2,
+   "K": 1,
+   "S": 1
+  },
+  "consensus_m1": {},
+  "pairs_p1": {
+   "G": 675,
+   "A": 40,
+   "S": 37,
+   "E": 28,
+   "Q": 27,
+   "D": 18,
+   "N": 17,
+   "K": 15,
+   "T": 13,
+   "H": 9,
+   "I": 8,
+   "L": 8,
+   "R": 7,
+   "Y": 3,
+   "P": 3,
+   "V": 3,
+   "F": 2,
+   "C": 2,
+   "M": 1
+  },
+  "next_nt_p1": {
+   "A": 195,
+   "G": 39,
+   "T": 30,
+   "C": 16
+  },
+  "prev_codon_top_p1": [
+   [
+    "CGG",
+    41
+   ],
+   [
+    "CTT",
+    28
+   ],
+   [
+    "ATA",
+    21
+   ],
+   [
+    "GTT",
+    17
+   ],
+   [
+    "GCT",
+    16
+   ],
+   [
+    "GCA",
+    12
+   ],
+   [
+    "AGA",
+    12
+   ],
+   [
+    "GTG",
+    11
+   ]
+  ],
+  "prev_codon_top_m1": [
+   [
+    "CTT",
+    3
+   ],
+   [
+    "AGC",
+    1
+   ],
+   [
+    "AAG",
+    1
+   ],
+   [
+    "GCT",
+    1
+   ],
+   [
+    "CGG",
+    1
+   ]
+  ]
+ },
+ "G8": {
+  "collapsed_duplicate_sites": 6,
+  "events_p1": 17,
+  "events_m1": 49,
+  "events_p1_with_CGG": 7,
+  "events_m1_with_CGG": 0,
+  "cgg_sites_p1": 7,
+  "cgg_sites_m1": 0,
+  "unique_sites_p1": null,
+  "consensus_p1": {},
+  "consensus_m1": {},
+  "pairs_p1": {
+   "S": 1
+  },
+  "next_nt_p1": {
+   "C": 1
+  },
+  "prev_codon_top_p1": [
+   [
+    "ACT",
+    7
+   ],
+   [
+    "CCT",
+    7
+   ],
+   [
+    "TCT",
+    1
+   ],
+   [
+    "CTT",
+    1
+   ],
+   [
+    "ATT",
+    1
+   ]
+  ],
+  "prev_codon_top_m1": [
+   [
+    "ATC",
+    7
+   ],
+   [
+    "AAA",
+    7
+   ],
+   [
+    "AAG",
+    6
+   ],
+   [
+    "AAT",
+    3
+   ],
+   [
+    "ATA",
+    3
+   ]
+  ]
+ },
+ "G9": {
+  "collapsed_duplicate_sites": 0,
+  "events_p1": 42,
+  "events_m1": 11,
+  "events_p1_with_CGG": 29,
+  "events_m1_with_CGG": 2,
+  "cgg_sites_p1": 28,
+  "cgg_sites_m1": 1,
+  "unique_sites_p1": null,
+  "consensus_p1": {
+   "G": 14,
+   "A": 1,
+   "Y": 1
+  },
+  "consensus_m1": {},
+  "pairs_p1": {
+   "G": 61,
+   "A": 3,
+   "Y": 3,
+   "S": 1,
+   "V": 1,
+   "Q": 1,
+   "I": 1,
+   "D": 1,
+   "L": 1
+  },
+  "next_nt_p1": {
+   "A": 16,
+   "T": 5,
+   "C": 5,
+   "G": 2
+  },
+  "prev_codon_top_p1": [
+   [
+    "CTT",
+    5
+   ],
+   [
+    "GTA",
+    4
+   ],
+   [
+    "GGT",
+    3
+   ],
+   [
+    "GAA",
+    3
+   ],
+   [
+    "GAT",
+    3
+   ],
+   [
+    "ATC",
+    2
+   ],
+   [
+    "CCA",
+    2
+   ],
+   [
+    "TAC",
+    2
+   ]
+  ],
+  "prev_codon_top_m1": [
+   [
+    "ATA",
+    3
+   ],
+   [
+    "AAT",
+    2
+   ],
+   [
+    "AGA",
+    1
+   ],
+   [
+    "CAG",
+    1
+   ],
+   [
+    "GGT",
+    1
+   ]
+  ]
+ },
+ "G6planted": {
+  "collapsed_duplicate_sites": 0,
+  "events_p1": 389,
+  "events_m1": 210,
+  "events_p1_with_CGG": 163,
+  "events_m1_with_CGG": 8,
+  "cgg_sites_p1": 153,
+  "cgg_sites_m1": 7,
+  "unique_sites_p1": null,
+  "consensus_p1": {
+   "G": 135
+  },
+  "consensus_m1": {
+   "P": 2,
+   "A": 1,
+   "N": 1
+  },
+  "pairs_p1": {
+   "G": 736,
+   "S": 12,
+   "A": 6,
+   "H": 5,
+   "N": 3,
+   "E": 3,
+   "Q": 3,
+   "T": 2,
+   "K": 2,
+   "D": 1
+  },
+  "next_nt_p1": {
+   "A": 70,
+   "T": 49,
+   "G": 19,
+   "C": 15
+  },
+  "prev_codon_top_p1": [
+   [
+    "GTT",
+    21
+   ],
+   [
+    "ATT",
+    16
+   ],
+   [
+    "GAT",
+    15
+   ],
+   [
+    "AAT",
+    15
+   ],
+   [
+    "AAA",
+    14
+   ],
+   [
+    "GAA",
+    14
+   ],
+   [
+    "AAG",
+    14
+   ],
+   [
+    "TTA",
+    13
+   ]
+  ],
+  "prev_codon_top_m1": [
+   [
+    "AAT",
+    16
+   ],
+   [
+    "AAA",
+    16
+   ],
+   [
+    "ATT",
+    12
+   ],
+   [
+    "TTT",
+    11
+   ],
+   [
+    "TTA",
+    10
+   ]
+  ]
+ },
+ "G6plantR": {
+  "collapsed_duplicate_sites": 0,
+  "events_p1": 137,
+  "events_m1": 10,
+  "events_p1_with_CGG": 117,
+  "events_m1_with_CGG": 0,
+  "cgg_sites_p1": 103,
+  "cgg_sites_m1": 0,
+  "unique_sites_p1": null,
+  "consensus_p1": {
+   "R": 84,
+   "K": 2
+  },
+  "consensus_m1": {},
+  "pairs_p1": {
+   "R": 506,
+   "K": 37,
+   "E": 6,
+   "Q": 4,
+   "S": 3,
+   "A": 3,
+   "G": 3,
+   "T": 3,
+   "N": 2,
+   "Y": 2,
+   "H": 1,
+   "L": 1,
+   "I": 1,
+   "P": 1,
+   "V": 1,
+   "D": 1
+  },
+  "next_nt_p1": {
+   "T": 28,
+   "G": 27,
+   "C": 25,
+   "A": 23
+  },
+  "prev_codon_top_p1": [
+   [
+    "CGG",
+    89
+   ],
+   [
+    "GCA",
+    4
+   ],
+   [
+    "GAA",
+    3
+   ],
+   [
+    "AGT",
+    3
+   ],
+   [
+    "ATA",
+    2
+   ],
+   [
+    "ATT",
+    2
+   ],
+   [
+    "TCC",
+    2
+   ],
+   [
+    "TTA",
+    2
+   ]
+  ],
+  "prev_codon_top_m1": [
+   [
+    "TTG",
+    2
+   ],
+   [
+    "ACG",
+    1
+   ],
+   [
+    "AAC",
+    1
+   ],
+   [
+    "CTT",
+    1
+   ],
+   [
+    "AAA",
+    1
+   ]
+  ]
+ }
+}

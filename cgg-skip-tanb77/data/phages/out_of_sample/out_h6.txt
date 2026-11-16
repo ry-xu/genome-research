@@ -1,0 +1,16 @@
+windows Counter({'R': 5834, 'T': 2458, 'KR': 146, 'KT': 50}) skip Counter({'T': 1515, 'R': 115, 'KT': 20, 'KR': 1})
+clusters 4481
+H6a: T skip units 353/682 = 0.518; R 57/3662 = 0.0156; ratio 33.3; Fisher p 9.01e-259
+H6a singletons(one vGENUS): T skip units 218/443 = 0.492; R 49/3057 = 0.0160; ratio 30.7; Fisher p 3.44e-169
+descr T1-only units: skip 197/377; R 57/3662
+descr T1-only one-vGENUS clusters: skip 99/210; R 49/3057
+T1 CGGs 832 skip 490 | R CGGs 5834 skip 115
+H6b mixed clusters 6: T skip 43/57, R skip 2/6; T-skip-only 0, R-skip-only 0
+  cluster 41 T 40 / 40 R 1 / 1 aaaatcagtcttaaaCGGaaaagatataaattt
+  cluster 9 T 0 / 8 R 0 / 1 ccttaaatggaaaaaCGGaggacatttggaatg
+  cluster 6 T 3 / 5 R 1 / 1 tgttatccatgtatgCGGatgcaggagtttttt
+  cluster 3 T 0 / 2 R 0 / 1 actgtcttacaccctCGGgcaaaaaagaagcca
+  cluster 2 T 0 / 1 R 0 / 1 gctagaaggacttgtCGGatatattcggaacta
+  cluster 2 T 0 / 1 R 0 / 1 tttgaagaaaagatgCGGgttgataaattacta
+H6c KT skip sites 20, in a cluster with a T1/Tf CGG 12
+    KT CGGs outside T clusters: skip 8/31; KR outside: 1/146

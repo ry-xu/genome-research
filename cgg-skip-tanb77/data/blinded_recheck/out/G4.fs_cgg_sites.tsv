@@ -1,0 +1,41 @@
+contig	strand	cgg_start0	dir	context(-6..+10, CGG at 7-9)	next_nt	n_refs	clean_residues	consensus	per_ref
+OZ007016.1	+	229601	+1	gctaaaCGGagaaatc	A	2	SS	S	Aint:S:1:0.35;Bhan:S:1:0.35
+OZ007016.1	+	229707	+1	ccgttaCGGtgaaaat	T	2			Aint:A:0:0.36;Bhan:G:0:0.64
+OZ007016.1	+	230278	+1	aatattCGGagaaata	A	2	G		Aint:G:0:0.58;Bhan:G:1:0.45
+OZ007016.1	+	230435	+1	tgtcttCGGtgcagca	T	2	GG	G	Aint:G:1:0.60;Bhan:G:1:0.50
+OZ007016.1	+	355052	+1	aaagatCGGttatagt	T	7	AGGGGGG	G	Aint:G:1:0.85;Alac:G:1:0.80;Bhan:G:1:0.80;Bsub:A:1:0.70;Cdif:G:1:0.80;Chon:G:1:0.85;Leli:G:1:0.75
+OZ007016.1	+	402974	+1	gctattCGGaagttta	A	1	G		Alac:G:1:0.55
+OZ007016.1	+	428383	+1	tggccaCGGaaaaaca	A	3	GGG	G	Aint:G:1:0.75;Bhan:G:1:0.75;Cdif:G:1:0.70
+OZ007016.1	+	428774	+1	tgtagtCGGaaaaata	A	1	D		Cdif:D:1:0.30
+OZ007016.1	+	429492	+1	agttcgCGGaaaacaa	A	2	GG	G	Aint:G:1:0.50;Bhan:G:1:0.60
+OZ007016.1	+	441529	+1	tcacttCGGaacagca	A	6	GGGGG	G	Alac:G:1:0.55;Bhan:G:1:0.55;Bsub:G:1:0.20;Cdif:G:1:0.75;Fbut:G:1:0.45;Leli:G:1:0.55
+OZ007016.1	+	491561	+1	agattaCGGttcactt	T	7	GGGGGSS	G	Aint:G:1:0.40;Bhan:G:1:0.65;Bsub:S:1:0.40;Cdif:S:1:0.65;Chon:G:1:0.50;Fbut:G:1:0.55;Leli:G:1:0.70
+OZ007016.1	+	513376	+1	aagaagCGGaagttta	A	3	EG		Alac:F:0:0.45;Bhan:E:1:0.30;Chon:G:1:0.46
+OZ007016.1	+	531504	+1	gctactCGGagcagct	A	5	GGGGG	G	Aint:G:1:0.70;Alac:G:1:0.60;Cdif:G:1:0.65;Chon:G:1:0.55;Leli:G:1:0.70
+OZ007016.1	+	602101	+1	gtaactCGGaggagtt	A	7	GGGGGGG	G	Aint:G:1:1.00;Alac:G:1:1.00;Bhan:G:1:1.00;Bsub:G:1:0.94;Chon:G:1:0.94;Fbut:G:1:0.94;Leli:G:1:0.84
+OZ007016.1	+	635107	+1	actggtCGGgccaggt	G	8	GGGGGGGG	G	Aint:G:1:0.50;Alac:G:1:0.75;Bhan:G:1:0.60;Bsub:G:1:0.50;Cdif:G:1:0.60;Chon:G:1:0.70;Fbut:G:1:0.55;Leli:G:1:0.50
+OZ007016.1	+	636185	+1	gcacaaCGGaagtgaa	A	1	G		Cdif:G:1:0.55
+OZ007016.1	+	702659	+1	attcttCGGaggtatg	A	8	GGGGGNNN	G	Aint:G:1:0.65;Alac:G:1:0.65;Bhan:G:1:0.80;Bsub:N:1:0.30;Cdif:N:1:0.35;Chon:G:1:0.90;Fbut:N:1:0.30;Leli:G:1:0.70
+OZ007016.1	+	787347	+1	agattaCGGaggtttg	A	2	GG	G	Bsub:G:1:0.45;Chon:G:1:0.40
+OZ007016.1	+	807083	+1	cttcttCGGaccaaat	A	3	GGG	G	Alac:G:1:0.40;Bsub:G:1:0.70;Cdif:G:1:0.70
+OZ007016.1	+	839309	+1	ttaacaCGGagcatgg	A	5	GGGGG	G	Aint:G:1:0.65;Alac:G:1:0.65;Cdif:G:1:0.65;Fbut:G:1:0.55;Leli:G:1:0.65
+OZ007016.1	+	1314677	+1	cgttctCGGgaatcgt	G	3	GGG	G	Bhan:G:1:0.90;Cdif:G:1:0.80;Leli:G:1:0.80
+OZ007016.1	-	188736	+1	tatcctCGGacaatta	A	1	K		Chon:K:1:0.75
+OZ007016.1	-	207473	+1	cattgtCGGttggcaa	T	2	GG	G	Aint:G:1:0.43;Fbut:G:1:0.43
+OZ007016.1	-	207945	+1	gcatatCGGatataaa	A	2	GG	G	Aint:G:1:0.35;Fbut:G:1:0.35
+OZ007016.1	-	208225	+1	gaagtaCGGtaaaata	T	1	G		Fbut:G:1:0.40
+OZ007016.1	-	708992	+1	gcaagcCGGaaatctt	A	8	GGGGGGGG	G	Aint:G:1:0.45;Alac:G:1:0.60;Bhan:G:1:0.80;Bsub:G:1:0.60;Cdif:G:1:0.70;Chon:G:1:0.55;Fbut:G:1:0.70;Leli:G:1:0.55
+OZ007016.1	-	1024449	+1	ccggaaCGGaactggt	A	4	GGG	G	Aint:G:1:0.70;Cdif:-:0:0.00;Chon:G:1:0.75;Fbut:G:1:0.75
+OZ007016.1	-	1024777	+1	caattaCGGagtagat	A	4	GGG	G	Aint:G:1:0.65;Cdif:-:0:0.00;Chon:G:1:0.85;Fbut:G:1:0.90
+OZ007016.1	-	1056949	+1	tgctcaCGGtaatact	T	3	GGG	G	Aint:G:1:0.60;Bhan:G:1:0.60;Cdif:G:1:0.60
+OZ007016.1	-	1109792	+1	aaatacCGGtggaaaa	T	3	GGG	G	Bsub:G:1:0.50;Cdif:G:1:0.50;Fbut:G:1:0.60
+OZ007016.1	-	1118318	+1	ggctcaCGGgaaaact	G	3	GGG	G	Aint:G:1:0.55;Bsub:G:1:0.30;Fbut:G:1:0.45
+OZ007016.1	-	1120557	+1	ctttctCGGacttgat	A	6	CGGGLL		Alac:L:1:0.50;Bhan:C:1:0.35;Bsub:L:1:0.40;Cdif:G:1:0.50;Fbut:G:1:0.55;Leli:G:1:0.45
+OZ007016.1	-	1219686	+1	gcaagtCGGaaatttt	A	2			Aint:R:0:0.20;Bhan:T:1:0.20
+OZ007016.1	-	1220101	+1	tgtacaCGGaaaatct	A	1	R		Aint:R:1:0.35
+OZ007016.1	-	1252268	+1	gattttCGGcccactt	C	8	AARRRRST		Aint:A:1:0.45;Alac:S:1:0.60;Bhan:R:1:0.40;Bsub:R:1:0.65;Cdif:T:1:0.85;Chon:R:1:0.65;Fbut:R:1:0.50;Leli:A:1:0.40
+OZ007016.1	-	1283769	+1	ggttcaCGGaaaaact	A	8	GGGGGGGG	G	Aint:G:1:0.70;Alac:G:1:0.60;Bhan:G:1:0.70;Bsub:G:1:0.85;Cdif:G:1:0.70;Chon:G:1:0.60;Fbut:G:1:0.70;Leli:G:1:0.70
+OZ007016.1	-	1286728	+1	agcaaaCGGacttaat	A	2	G		Bhan:L:0:0.64;Leli:G:1:0.45
+OZ007016.1	-	1361129	+1	catgatCGGaatgata	A	1	A		Cdif:A:1:0.60
+OZ007016.1	-	1484898	+1	acgcttCGGaggagca	A	8	GGGGGGGG	G	Aint:G:1:0.60;Alac:G:1:0.75;Bhan:G:1:0.75;Bsub:G:1:0.65;Cdif:G:1:0.75;Chon:G:1:0.65;Fbut:G:1:0.65;Leli:G:1:0.85
+OZ007016.1	-	1549539	+1	gcaagaCGGaaatgtt	A	8	GGGGGGGG	G	Aint:G:1:0.50;Alac:G:1:0.50;Bhan:G:1:0.50;Bsub:G:1:0.60;Cdif:G:1:0.60;Chon:G:1:0.65;Fbut:G:1:0.55;Leli:G:1:0.50

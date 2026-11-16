@@ -1,0 +1,9 @@
+lineage	reader	genomes	cgg_breaks	clean_plus1_breaks	cgg_share	inframe_cgg_per_k_median
+TANB77	no reader	45	1026	1744	0.588	0.013
+TANB77	reader	2	0	8	0.000	0.384
+CAG-698	no reader	7	1	33	0.030	0.035
+CAG-698	reader	15	3	106	0.028	1.669
+Mollicutes	no reader	7	0	28	0.000	0.173
+Mollicutes	reader	3	0	7	0.000	0.958
+Other low-GC Clostridia	no reader	6	0	54	0.000	0.167
+Other low-GC Clostridia	reader	44	2	521	0.004	0.394

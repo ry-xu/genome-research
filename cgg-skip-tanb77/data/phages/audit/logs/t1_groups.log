@@ -1,0 +1,19 @@
+skipper genera 54 mixed set()
+my sets (all lengths): Counter({'R': 42378, 'Tf': 664, 'T1': 436, 'T0': 137, 'Tx_other': 69})
+my sets (>=5kb): Counter({'R': 41757, 'Tf': 664, 'T1': 436, 'T0': 137, 'Tx_other': 69})
+T1: mine=436 run=436 both=436 mine_only=0 run_only=0
+T0: mine=137 run=137 both=137 mine_only=0 run_only=0
+Tf: mine=664 run=664 both=664 mine_only=0 run_only=0
+R: mine=41757 run=6307 both=6240 mine_only=35517 run_only=67
+   run_only ex UHGV-2204553 R (48, 4558, 'Medium-quality', 'd__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Dysosmobacter;s__Dysosmobacter sp001916835')
+   run_only ex UHGV-0848909 R (42, 3222, 'Medium-quality', 'd__Bacteria;p__Firmicutes_A;c__Clostridia;o__Clostridiales;f__Clostridiaceae;g__Clostridium;s__Clostridium saccharobutylicum')
+   run_only ex UHGV-1128281 R (44, 4671, 'Complete', 'd__Bacteria;p__Firmicutes_A;c__Clostridia;o__Christensenellales;f__Borkfalkiaceae;g__Scatosoma;s__Scatosoma sp900552625')
+   run_only ex UHGV-1351147 R (42, 4405, 'Complete', 'd__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__UBA738;s__UBA738 sp003522945')
+   run_only ex UHGV-1374543 R (44, 4789, 'Complete', 'd__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__UBA738;s__UBA738 sp003522945')
+   mine_only ex UHGV-0127770 None (44, 41347, 'Complete', 'd__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae')
+   mine_only ex UHGV-0040302 None (42, 35664, 'High-quality', 'd__Bacteria;p__Firmicutes_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae')
+   mine_only ex UHGV-0268243 None (44, 21426, 'Medium-quality', 'd__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Ruminiclostridium_E;s__Ruminiclostridium_E siraeum')
+   mine_only ex UHGV-0023673 None (52, 21177, 'Medium-quality', 'd__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales')
+   mine_only ex UHGV-1372272 None (60, 36702, 'Complete', 'd__Bacteria;p__Firmicutes_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__CAG-83')
+gc_bin disagreements among overlapping ids: 0 of 7613
+R pool vs run per bin: [(22, 3, 0), (24, 51, 51), (26, 255, 256), (28, 678, 500), (30, 913, 500), (32, 1376, 500), (34, 1170, 500), (36, 2762, 500), (38, 4281, 500), (40, 4946, 500), (42, 3576, 500), (44, 3329, 500), (46, 2700, 0), (48, 2638, 500), (50, 2429, 500), (52, 3065, 500), (54, 2822, 0), (56, 2164, 0), (58, 1574, 0), (60, 770, 0), (62, 220, 0), (64, 31, 0), (66, 3, 0), (68, 1, 0)]

@@ -1,0 +1,2 @@
+low 24-30: KT skip/O 7/28 = 0.250 (12 phages); KR 1/146 = 0.007 (107 phages); MH 115.81
+all: KT skip/O 11/344 = 0.032 (37 phages); KR 17/1786 = 0.010 (230 phages); MH 4.26

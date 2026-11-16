@@ -1,0 +1,104 @@
+contig	strand	cgg_start0	dir	context(-6..+10, CGG at 7-9)	next_nt	n_refs	clean_residues	consensus	per_ref
+CAZVVZ010000001.1	+	10554	+1	ctaaaaCGGtcattat	T	5	NRRR	R	Aint:R:1:0.55;Alac:R:1:0.60;Bsub:X:1:0.45;Chon:R:1:0.65;Leli:N:1:0.30
+CAZVVZ010000001.1	+	12695	+1	aatatgCGGgataatt	G	4	RRRR	R	Bhan:R:1:0.35;Bsub:R:1:0.50;Cdif:R:1:0.45;Fbut:R:1:0.50
+CAZVVZ010000001.1	+	17596	+1	gcaagaCGGaacaata	A	6	EEEKQR		Alac:E:1:0.30;Bhan:K:1:0.70;Bsub:E:1:0.65;Cdif:E:1:0.45;Chon:R:1:0.55;Leli:Q:1:0.55
+CAZVVZ010000001.1	+	18245	+1	gagtgcCGGgataaat	G	7	RRRRRR	R	Aint:R:1:0.69;Alac:X:1:0.62;Bhan:R:1:0.65;Bsub:R:1:0.70;Cdif:R:1:0.55;Chon:R:1:0.65;Leli:R:1:0.56
+CAZVVZ010000001.1	+	19781	+1	gctttaCGGtcaaatg	T	8	RRRRR	R	Aint:X:1:0.65;Alac:X:1:0.70;Bhan:R:1:0.70;Bsub:R:1:0.80;Cdif:R:1:0.85;Chon:X:1:0.65;Fbut:R:1:0.75;Leli:R:1:0.70
+CAZVVZ010000002.1	-	3863	+1	aattccCGGacatgga	A	6	KKRR		Aint:X:1:0.30;Bhan:R:1:0.45;Bsub:K:1:0.45;Cdif:K:1:0.35;Fbut:-:0:0.00;Leli:R:1:0.45
+CAZVVZ010000002.1	-	4957	+1	tctcacCGGacttgca	A	4	RRRR	R	Alac:R:1:0.60;Bhan:R:1:0.65;Cdif:R:1:0.55;Leli:R:1:0.75
+CAZVVZ010000002.1	-	14582	+1	atttcaCGGtactcac	T	8	RRRRRRR	R	Aint:R:1:0.65;Alac:X:1:0.75;Bhan:R:1:0.65;Bsub:R:1:0.70;Cdif:R:1:0.70;Chon:R:1:0.65;Fbut:R:1:0.80;Leli:R:1:0.45
+CAZVVZ010000002.1	-	29151	+1	ggtgcaCGGgggagta	G	8	HKQRRRSS		Aint:R:1:0.65;Alac:R:1:0.70;Bhan:S:1:0.67;Bsub:Q:1:0.80;Cdif:K:1:0.85;Chon:R:1:0.60;Fbut:H:1:0.70;Leli:S:1:0.72
+CAZVVZ010000004.1	-	8674	+1	tcacctCGGagaaaga	A	3	RR	R	Aint:X:1:0.65;Bhan:R:1:0.85;Cdif:R:1:0.90
+CAZVVZ010000004.1	-	20893	+1	gaaatcCGGtggcgcc	T	8	RRRRR	R	Aint:-:0:0.00;Alac:R:1:0.80;Bhan:-:0:0.00;Bsub:R:1:0.85;Cdif:R:1:1.00;Chon:R:1:0.85;Fbut:R:1:0.70;Leli:-:0:0.00
+CAZVVZ010000007.1	+	8817	+1	gttcaaCGGcgttccg	C	8	RRRRRRR	R	Aint:X:1:0.80;Alac:R:1:0.75;Bhan:R:1:0.85;Bsub:R:1:0.75;Cdif:R:1:0.75;Chon:R:1:0.80;Fbut:R:1:0.85;Leli:R:1:0.80
+CAZVVZ010000007.1	+	16842	+1	acttttCGGtcctgtt	T	8	RRRRRRR	R	Aint:X:1:0.85;Alac:R:1:0.75;Bhan:R:1:0.70;Bsub:R:1:0.60;Cdif:R:1:0.80;Chon:R:1:0.60;Fbut:R:1:0.80;Leli:R:1:0.95
+CAZVVZ010000007.1	+	17759	+1	gctaaaCGGgtgtaaa	G	8	RRRRRR	R	Aint:R:0:0.50;Alac:R:0:0.67;Bhan:R:1:0.54;Bsub:R:1:0.45;Cdif:R:1:0.70;Chon:R:1:0.71;Fbut:R:1:0.62;Leli:R:1:0.46
+CAZVVZ010000008.1	+	10668	+1	ctttcaCGGggaactg	G	6	RRRRR	R	Aint:X:1:0.50;Bhan:R:1:0.35;Cdif:R:1:0.50;Chon:R:1:0.45;Fbut:R:1:0.45;Leli:R:1:0.30
+CAZVVZ010000009.1	-	4133	+1	attccaCGGtgcagat	T	3	RRR	R	Bhan:R:1:0.65;Cdif:R:1:0.55;Leli:R:1:0.75
+CAZVVZ010000010.1	-	13619	+1	ggttttCGGtactttt	T	3	RRR	R	Aint:R:1:0.75;Alac:R:1:0.70;Cdif:R:1:0.75
+CAZVVZ010000011.1	+	3866	+1	tctgtaCGGactggat	A	8	RRRRRRRR	R	Aint:R:1:0.80;Alac:R:1:0.90;Bhan:R:1:0.85;Bsub:R:1:0.80;Cdif:R:1:0.90;Chon:R:1:0.80;Fbut:R:1:0.70;Leli:R:1:1.00
+CAZVVZ010000013.1	-	3721	+1	cagattCGGtaattcg	T	5	RRRRR	R	Aint:R:1:0.60;Bhan:R:1:0.75;Cdif:R:1:0.70;Chon:R:1:0.45;Fbut:R:1:0.80
+CAZVVZ010000015.1	-	233	+1	gcaggcCGGgcaggta	G	7	AEKKKRY		Aint:K:1:0.55;Alac:E:1:0.43;Bhan:R:1:0.55;Cdif:Y:1:0.50;Chon:A:1:0.70;Fbut:K:1:0.55;Leli:K:1:0.60
+CAZVVZ010000015.1	-	11734	+1	agagacCGGtctattt	T	8	RRRRRRR	R	Aint:X:1:0.65;Alac:R:1:0.60;Bhan:R:1:0.50;Bsub:R:1:0.40;Cdif:R:1:0.50;Chon:R:1:0.50;Fbut:R:1:0.50;Leli:R:1:0.70
+CAZVVZ010000016.1	-	5717	+1	gacggaCGGccatcct	C	8	RRRRRR	R	Aint:R:1:0.50;Alac:X:1:0.40;Bhan:R:1:0.65;Bsub:R:1:0.44;Cdif:R:1:0.40;Chon:X:1:0.69;Fbut:R:1:0.40;Leli:R:1:0.70
+CAZVVZ010000016.1	-	11576	+1	ggacaaCGGaactgaa	A	3	KRR	R	Bsub:K:1:0.55;Chon:R:1:0.55;Leli:R:1:0.55
+CAZVVZ010000019.1	+	8022	+1	atttggCGGgggattt	G	4	RRRR	R	Bsub:R:1:0.50;Cdif:R:1:0.35;Chon:R:1:0.45;Leli:R:1:0.40
+CAZVVZ010000019.1	+	10620	+1	aatattCGGatctttt	A	7	RRRRR	R	Alac:X:1:0.45;Bhan:R:1:0.70;Bsub:R:1:0.65;Cdif:R:1:0.60;Chon:R:1:0.65;Fbut:X:1:0.50;Leli:R:1:0.75
+CAZVVZ010000020.1	-	4633	+1	aaaataCGGctatgat	C	8	RRRRRRR	R	Aint:R:1:0.65;Alac:R:1:0.50;Bhan:R:1:0.50;Bsub:R:1:0.55;Cdif:R:1:0.50;Chon:R:1:0.55;Fbut:X:1:0.75;Leli:R:1:0.50
+CAZVVZ010000021.1	-	6955	+1	ggtgccCGGcattccg	C	8	RRRRRRRR	R	Aint:R:1:0.80;Alac:R:1:0.70;Bhan:R:1:0.70;Bsub:R:1:0.75;Cdif:R:1:0.65;Chon:R:1:0.70;Fbut:R:1:0.75;Leli:R:1:0.65
+CAZVVZ010000021.1	-	10529	+1	atacttCGGgaaactc	G	8	RRRRRR	R	Aint:R:1:0.25;Alac:X:1:0.45;Bhan:R:1:0.55;Bsub:R:1:0.65;Cdif:R:1:0.65;Chon:R:1:0.45;Fbut:R:1:0.42;Leli:R:1:0.45
+CAZVVZ010000023.1	-	666	+1	ggaaaaCGGcgcaggt	C	8	RRRRRRR	R	Aint:R:1:0.55;Alac:X:1:0.75;Bhan:R:1:0.70;Bsub:R:1:0.65;Cdif:R:1:0.70;Chon:R:1:0.85;Fbut:R:1:0.60;Leli:R:1:0.70
+CAZVVZ010000024.1	-	5050	+1	aaaaatCGGatttggt	A	8	RRRRRRR	R	Aint:X:1:0.80;Alac:R:1:0.70;Bhan:R:1:0.85;Bsub:R:1:0.80;Cdif:R:1:0.75;Chon:R:1:0.75;Fbut:R:1:0.70;Leli:R:1:0.90
+CAZVVZ010000026.1	-	5966	+1	actgaaCGGttctcag	T	8	RRRRRRRR	R	Aint:R:1:0.70;Alac:R:1:0.71;Bhan:R:1:0.65;Bsub:R:1:0.80;Cdif:R:1:0.65;Chon:R:1:0.80;Fbut:R:1:0.75;Leli:R:1:0.65
+CAZVVZ010000027.1	+	1914	+1	tataaaCGGcaaaggt	C	1	R		Bhan:R:1:0.80
+CAZVVZ010000027.1	-	3181	+1	gatggaCGGaactcaa	A	6	KKKKLR	K	Aint:K:1:0.50;Bhan:K:1:0.60;Bsub:K:1:0.80;Cdif:R:1:0.70;Fbut:K:1:0.50;Leli:L:1:0.55
+CAZVVZ010000027.1	-	6302	+1	gcaattCGGcgaagaa	C	5	GKRR		Aint:R:1:0.50;Alac:G:1:0.55;Bhan:K:1:0.60;Cdif:V:1:0.25;Chon:R:1:0.65
+CAZVVZ010000027.1	-	7623	+1	cttagcCGGctctcgt	C	6	RRRRRR	R	Aint:R:1:0.60;Alac:R:1:0.95;Bhan:R:1:0.80;Cdif:R:1:0.70;Chon:R:1:0.90;Leli:R:1:0.75
+CAZVVZ010000027.1	-	8785	+1	attccaCGGttataaa	T	6	RRRRR	R	Aint:X:1:0.55;Alac:R:1:0.75;Bhan:R:1:0.70;Cdif:R:1:0.55;Chon:R:1:0.85;Leli:R:1:0.75
+CAZVVZ010000029.1	-	3461	+1	attaaaCGGtcttccg	T	8	RRRRRRR	R	Aint:X:1:0.50;Alac:R:1:0.45;Bhan:R:1:0.40;Bsub:R:1:0.70;Cdif:R:1:0.90;Chon:R:1:0.55;Fbut:R:1:0.55;Leli:R:1:0.40
+CAZVVZ010000029.1	-	4863	+1	gttcacCGGgaggatt	G	8	RRRRRRRR	R	Aint:R:1:0.75;Alac:R:1:0.76;Bhan:R:1:0.85;Bsub:R:1:0.75;Cdif:R:1:0.90;Chon:R:1:0.90;Fbut:R:1:0.75;Leli:R:1:0.85
+CAZVVZ010000030.1	+	11236	+1	atacgaCGGgcttccg	G	8	RRRRRTT	R	Aint:R:1:0.80;Alac:X:1:0.55;Bhan:R:1:0.80;Bsub:R:1:0.65;Cdif:T:1:0.40;Chon:T:1:0.60;Fbut:R:1:0.75;Leli:R:1:0.75
+CAZVVZ010000030.1	+	11248	+1	tccgaaCGGatataac	A	1	G		Leli:G:1:0.55
+CAZVVZ010000032.1	-	2157	+1	ttagtcCGGagttaaa	A	5	RRRRR	R	Aint:R:1:0.55;Bsub:R:1:0.75;Cdif:R:1:0.60;Chon:R:1:0.65;Leli:R:1:0.70
+CAZVVZ010000034.1	+	3162	+1	gtttacCGGcagaggc	C	6	RRRRRR	R	Aint:R:1:0.70;Bhan:R:1:0.67;Cdif:R:1:0.71;Chon:R:1:0.65;Fbut:R:1:0.85;Leli:R:1:0.67
+CAZVVZ010000038.1	-	10741	+1	atgtttCGGcttaggc	C	5	RRRR	R	Aint:X:1:0.70;Bsub:R:1:0.60;Cdif:R:1:0.65;Chon:R:1:0.75;Leli:R:1:0.55
+CAZVVZ010000039.1	+	2432	+1	aaagaaCGGggttgga	G	8	RRRRRRRR	R	Aint:R:1:0.60;Alac:R:1:0.60;Bhan:R:1:0.75;Bsub:R:1:0.65;Cdif:R:1:0.75;Chon:R:1:0.65;Fbut:R:1:0.55;Leli:R:1:0.75
+CAZVVZ010000039.1	+	4246	+1	acaggtCGGtggtaca	T	8	RRRRRRRR	R	Aint:R:1:0.95;Alac:R:1:0.90;Bhan:R:1:0.90;Bsub:R:1:0.95;Cdif:R:1:0.95;Chon:R:1:0.95;Fbut:R:1:0.85;Leli:R:1:0.95
+CAZVVZ010000039.1	+	7732	+1	gaaacaCGGgccgttt	G	7	RRRRRR	R	Aint:X:1:0.75;Alac:R:1:0.80;Bhan:R:1:0.85;Cdif:R:1:0.75;Chon:R:1:0.80;Fbut:R:1:0.80;Leli:R:1:0.90
+CAZVVZ010000040.1	+	3334	+1	caaggtCGGgctagct	G	6	EERRRR	R	Aint:R:1:0.50;Bhan:R:1:0.75;Bsub:E:1:0.50;Cdif:E:1:0.75;Fbut:R:1:0.55;Leli:R:1:0.70
+CAZVVZ010000043.1	-	9381	+1	gaggccCGGtattaga	T	3	IRR	R	Bsub:I:1:0.50;Cdif:R:1:0.60;Leli:R:1:0.65
+CAZVVZ010000046.1	-	1261	+1	gttgttCGGgaaagga	G	8	RRRRRRRR	R	Aint:R:1:0.81;Alac:R:1:0.56;Bhan:R:1:0.62;Bsub:R:1:0.62;Cdif:R:1:0.62;Chon:R:1:0.50;Fbut:R:1:0.55;Leli:R:1:0.69
+CAZVVZ010000046.1	-	6419	+1	gtaaaaCGGttctgct	T	8	RRRRRRR	R	Aint:R:1:0.60;Alac:R:1:0.60;Bhan:R:1:0.50;Bsub:R:1:0.45;Cdif:R:1:0.55;Chon:R:1:0.45;Fbut:X:1:0.55;Leli:R:1:0.40
+CAZVVZ010000047.1	-	4026	+1	atgggtCGGccataca	C	6	RRR	R	Alac:R:0:0.45;Bhan:R:1:0.45;Cdif:R:1:0.40;Chon:X:1:0.20;Fbut:R:1:0.25;Leli:R:1:0.50
+CAZVVZ010000048.1	-	8689	+1	cctggtCGGgtgcttt	G	6	KRRRR	R	Aint:X:1:0.65;Bhan:R:1:0.60;Bsub:K:1:0.40;Chon:R:1:0.55;Fbut:R:1:0.44;Leli:R:1:0.50
+CAZVVZ010000049.1	+	5335	+1	aatataCGGtgagtta	T	7	RRRRRR	R	Alac:R:1:0.55;Bhan:R:1:0.65;Bsub:X:1:0.65;Cdif:R:1:0.60;Chon:R:1:0.50;Fbut:R:1:0.40;Leli:R:1:0.40
+CAZVVZ010000049.1	+	6334	+1	ataataCGGtaaactt	T	5	RRRRR	R	Aint:R:1:0.35;Alac:R:1:0.40;Bhan:R:1:0.55;Cdif:R:1:0.55;Leli:R:1:0.55
+CAZVVZ010000051.1	+	909	+1	ggtttaCGGgaagaac	G	7	AKPR		Aint:-:0:0.00;Alac:X:1:0.45;Bhan:K:1:0.60;Bsub:A:1:0.40;Chon:X:1:0.55;Fbut:P:1:0.40;Leli:R:1:0.65
+CAZVVZ010000051.1	+	918	+1	gaagaaCGGagtggaa	A	1	K		Cdif:K:1:0.55
+CAZVVZ010000052.1	+	307	+1	ggacttCGGaaacctt	A	6	RRRRRR	R	Aint:R:1:0.50;Bhan:R:1:0.80;Bsub:R:1:0.90;Cdif:R:1:0.75;Chon:R:1:0.85;Leli:R:1:0.75
+CAZVVZ010000052.1	+	4430	+1	attccgCGGcactctt	C	8	RRRRRR	R	Aint:R:1:0.80;Alac:X:1:0.90;Bhan:R:1:0.85;Bsub:R:1:0.60;Cdif:R:1:0.95;Chon:R:1:0.60;Fbut:X:1:0.75;Leli:R:1:0.85
+CAZVVZ010000052.1	+	6441	+1	gcatttCGGgtatgga	G	7	QRRRRR	R	Aint:R:1:0.70;Alac:R:1:0.70;Bsub:Q:1:0.75;Cdif:R:1:0.60;Chon:X:1:0.55;Fbut:R:1:0.60;Leli:R:1:0.70
+CAZVVZ010000058.1	+	3644	+1	acccgtCGGggtatat	G	7	KKRRR	R	Aint:X:1:0.55;Alac:X:1:0.65;Bsub:R:1:0.65;Cdif:R:1:0.55;Chon:K:1:0.45;Fbut:K:1:0.45;Leli:R:1:0.65
+CAZVVZ010000060.1	-	538	+1	gttgttCGGtcacctt	T	5	RRRRR	R	Aint:R:1:0.40;Bhan:R:1:0.45;Chon:R:1:0.55;Fbut:R:1:0.50;Leli:R:1:0.55
+CAZVVZ010000060.1	-	4805	+1	aatataCGGcggaaaa	C	8	KKRRRRRR	R	Aint:K:1:0.50;Alac:R:1:0.35;Bhan:R:1:0.60;Bsub:R:1:0.60;Cdif:R:1:0.70;Chon:R:1:0.65;Fbut:K:1:0.60;Leli:R:1:0.50
+CAZVVZ010000060.1	-	5573	+1	cctataCGGcaatagg	C	3	RRR	R	Bhan:R:1:0.55;Cdif:R:1:0.40;Chon:R:1:0.65
+CAZVVZ010000061.1	-	5556	+1	atagcaCGGagcttta	A	8	RRRRRRRR	R	Aint:R:1:0.70;Alac:R:1:0.70;Bhan:R:1:0.80;Bsub:R:1:0.80;Cdif:R:1:0.65;Chon:R:1:0.75;Fbut:R:1:0.80;Leli:R:1:0.80
+CAZVVZ010000062.1	-	5030	+1	cctaaaCGGtggattt	T	8	RRRRRRRV	R	Aint:R:1:0.60;Alac:R:1:0.70;Bhan:R:1:0.60;Bsub:R:1:0.55;Cdif:R:1:0.60;Chon:R:1:0.65;Fbut:V:1:0.65;Leli:R:1:0.65
+CAZVVZ010000063.1	+	5532	+1	gagggaCGGcagagct	C	4	DR		Bhan:R:1:0.25;Bsub:R:1:0.40;Cdif:D:1:0.35;Leli:S:1:0.15
+CAZVVZ010000064.1	+	3838	+1	cttgcaCGGcagaaat	C	4	KRRR	R	Bhan:R:1:0.65;Cdif:R:1:0.55;Fbut:K:1:0.40;Leli:R:1:0.60
+CAZVVZ010000065.1	-	954	+1	tatacaCGGcgaagca	C	8	AKRRRRR	R	Aint:X:1:0.70;Alac:R:1:0.70;Bhan:K:1:0.65;Bsub:R:1:0.60;Cdif:R:1:0.65;Chon:A:1:0.55;Fbut:R:1:0.70;Leli:R:1:0.65
+CAZVVZ010000067.1	+	589	+1	tggattCGGgactaat	G	6	KKRRRT		Aint:T:1:0.50;Bhan:R:1:0.70;Bsub:K:1:0.45;Cdif:R:1:0.55;Chon:K:1:0.55;Leli:R:1:0.70
+CAZVVZ010000072.1	+	1304	+1	tttgaaCGGattttta	A	8	RRRRRRR	R	Aint:X:1:0.80;Alac:R:1:0.75;Bhan:R:1:0.90;Bsub:R:1:0.85;Cdif:R:1:0.80;Chon:R:1:0.85;Fbut:R:1:0.90;Leli:R:1:0.85
+CAZVVZ010000072.1	+	2586	+1	acaataCGGctttggg	C	7	RRRRRR	R	Aint:R:1:0.65;Bhan:R:1:0.45;Bsub:R:1:0.35;Cdif:R:1:0.60;Chon:X:1:0.45;Fbut:R:1:0.60;Leli:R:1:0.44
+CAZVVZ010000072.1	+	3811	+1	ggacaaCGGtagatat	T	7	RRRRRR	R	Aint:R:1:0.90;Alac:R:1:0.90;Bhan:R:1:0.90;Bsub:R:1:0.95;Chon:X:1:1.00;Fbut:R:1:0.90;Leli:R:1:0.90
+CAZVVZ010000076.1	+	1923	+1	gaaatgCGGcttgata	C	8	RRRRRRR	R	Aint:R:1:0.50;Alac:X:1:0.55;Bhan:R:1:0.55;Bsub:R:1:0.40;Cdif:R:1:0.70;Chon:R:1:0.55;Fbut:R:1:0.60;Leli:R:1:0.60
+CAZVVZ010000076.1	+	3419	+1	gaaaacCGGtgtaact	T	8	RRRRRRRR	R	Aint:R:1:0.55;Alac:R:1:0.60;Bhan:R:1:0.65;Bsub:R:1:0.65;Cdif:R:1:0.70;Chon:R:1:0.60;Fbut:R:1:0.80;Leli:R:1:0.65
+CAZVVZ010000079.1	+	641	+1	atgcaaCGGgcaagca	G	8	RRRRRRRR	R	Aint:R:1:0.75;Alac:R:1:0.70;Bhan:R:1:0.80;Bsub:R:1:0.75;Cdif:R:1:0.80;Chon:R:1:0.75;Fbut:R:1:0.75;Leli:R:1:0.75
+CAZVVZ010000079.1	+	1467	+1	gcaggaCGGtcacggt	T	8	RRRRRRRR	R	Aint:R:1:0.90;Alac:R:1:0.90;Bhan:R:1:0.95;Bsub:R:1:0.85;Cdif:R:1:0.95;Chon:R:1:0.95;Fbut:R:1:0.90;Leli:R:1:0.90
+CAZVVZ010000079.1	+	2782	+1	ccaagtCGGaatggga	A	8	RRRRRRR	R	Aint:R:1:1.00;Alac:X:1:0.85;Bhan:R:1:1.00;Bsub:R:1:0.90;Cdif:R:1:0.90;Chon:R:1:0.90;Fbut:R:1:0.85;Leli:R:1:0.80
+CAZVVZ010000079.1	+	4274	+1	gttgacCGGtagtatt	T	8	RRRRR	R	Aint:X:1:0.70;Alac:R:1:0.35;Bhan:R:1:0.60;Bsub:E:1:0.13;Cdif:R:0:0.73;Chon:R:1:0.65;Fbut:R:1:0.35;Leli:R:1:0.50
+CAZVVZ010000081.1	-	3245	+1	gtatctCGGcgctact	C	6	RRRRRR	R	Aint:R:1:0.70;Bsub:R:1:0.70;Cdif:R:1:0.85;Chon:R:1:0.40;Fbut:R:1:0.70;Leli:R:1:0.70
+CAZVVZ010000083.1	+	2881	+1	attgcaCGGagcttta	A	8	RRRRRR	R	Aint:R:1:0.55;Alac:X:1:0.60;Bhan:R:1:0.55;Bsub:R:1:0.40;Cdif:R:1:0.45;Chon:X:1:0.45;Fbut:R:1:0.60;Leli:R:1:0.60
+CAZVVZ010000085.1	+	2678	+1	tggtcgCGGggaagta	G	8	KKRRRRY		Aint:X:1:0.75;Alac:K:1:0.45;Bhan:R:1:0.45;Bsub:R:1:0.65;Cdif:K:1:0.50;Chon:Y:1:0.50;Fbut:R:1:0.75;Leli:R:1:0.65
+CAZVVZ010000087.1	-	1616	+1	cggtgcCGGagaatat	A	1	G		Aint:G:1:0.60
+CAZVVZ010000087.1	-	1622	+1	aatcatCGGtgccgga	T	6	KKRRRR	R	Alac:K:1:0.55;Bhan:K:1:0.75;Bsub:R:1:0.55;Cdif:R:1:0.65;Fbut:R:1:0.55;Leli:R:1:0.65
+CAZVVZ010000088.1	+	1659	+1	tttgttCGGaagcaaa	A	7	RRRRRRS	R	Aint:R:1:0.55;Alac:S:1:0.55;Bhan:R:1:0.50;Bsub:R:1:0.45;Cdif:R:1:0.55;Fbut:R:1:0.65;Leli:R:1:0.40
+CAZVVZ010000090.1	-	2980	+1	gttgggCGGtaaaacc	T	1	R		Bhan:R:1:0.75
+CAZVVZ010000096.1	-	3979	+1	aagggaCGGcattatt	C	8	RRRRRRRR	R	Aint:R:1:0.80;Alac:R:1:0.75;Bhan:R:1:0.85;Bsub:R:1:0.85;Cdif:R:1:0.90;Chon:R:1:0.90;Fbut:R:1:0.85;Leli:R:1:0.90
+CAZVVZ010000100.1	+	479	+1	tatataCGGgcgtgaa	G	4	RRRR	R	Alac:R:1:0.30;Bhan:R:1:0.75;Fbut:R:1:0.65;Leli:R:1:0.70
+CAZVVZ010000101.1	+	1301	+1	ttgtttCGGcgtaaga	C	8	RRRRRRR	R	Aint:X:1:0.75;Alac:R:1:0.55;Bhan:R:1:0.50;Bsub:R:1:0.65;Cdif:R:1:0.70;Chon:R:1:0.50;Fbut:R:1:0.55;Leli:R:1:0.55
+CAZVVZ010000102.1	-	2058	+1	ttgtctCGGaattgcg	A	8	RRRRRRRR	R	Aint:R:1:0.55;Alac:R:1:0.60;Bhan:R:1:0.65;Bsub:R:1:0.75;Cdif:R:1:0.75;Chon:R:1:0.45;Fbut:R:1:0.50;Leli:R:1:0.60
+CAZVVZ010000105.1	-	1181	+1	tacggaCGGgaacgaa	G	7	KKKKRR	K	Aint:K:1:0.50;Alac:X:1:0.50;Bhan:K:1:0.85;Bsub:K:1:0.55;Chon:R:1:0.70;Fbut:R:1:0.50;Leli:K:1:0.75
+CAZVVZ010000107.1	-	2433	+1	atgcaaCGGattaaaa	A	8	RRRRRRRR	R	Aint:R:1:0.75;Alac:R:1:0.80;Bhan:R:1:0.75;Bsub:R:1:0.70;Cdif:R:1:0.75;Chon:R:1:0.75;Fbut:R:1:0.80;Leli:R:1:0.75
+CAZVVZ010000111.1	-	2728	+1	ttggcgCGGcgaactt	C	3	RR	R	Alac:X:1:0.35;Bhan:R:1:0.55;Leli:R:1:0.55
+CAZVVZ010000121.1	+	1905	+1	ggaacaCGGctgtggt	C	8	RRRRRRRR	R	Aint:R:1:0.55;Alac:R:1:0.70;Bhan:R:1:0.60;Bsub:R:1:0.70;Cdif:R:1:0.80;Chon:R:1:0.65;Fbut:R:1:0.65;Leli:R:1:0.65
+CAZVVZ010000125.1	-	2137	+1	accggaCGGccttatg	C	8	RRRRRRR	R	Aint:X:1:0.85;Alac:R:1:0.85;Bhan:R:1:0.65;Bsub:R:1:0.75;Cdif:R:1:0.85;Chon:R:1:0.65;Fbut:R:1:0.80;Leli:R:1:0.65
+CAZVVZ010000127.1	-	2154	+1	gtacatCGGtctagat	T	3	RRR	R	Cdif:R:1:0.65;Chon:R:1:0.70;Leli:R:1:0.41
+CAZVVZ010000134.1	-	932	+1	gaagaaCGGggaagct	G	7	RRRRRRR	R	Aint:R:1:0.90;Alac:R:1:0.75;Bhan:R:1:0.75;Cdif:R:1:0.65;Chon:R:1:0.75;Fbut:R:1:0.75;Leli:R:1:0.80
+CAZVVZ010000134.1	-	1683	+1	caaactCGGtaacggt	T	7	RRRRRRR	R	Aint:R:1:0.85;Alac:R:1:0.90;Bhan:R:1:1.00;Cdif:R:1:0.70;Chon:R:1:0.90;Fbut:R:1:0.90;Leli:R:1:0.95
+CAZVVZ010000135.1	-	917	+1	gggcttCGGgactggt	G	5	RRRRR	R	Aint:R:1:0.70;Alac:R:1:0.60;Bsub:R:1:0.80;Cdif:R:1:0.75;Leli:R:1:0.65
+CAZVVZ010000138.1	-	1982	+1	cagaaaCGGtgaggga	T	8	RRRRRRR	R	Aint:X:1:0.80;Alac:R:1:0.75;Bhan:R:1:0.75;Bsub:R:1:0.75;Cdif:R:1:0.85;Chon:R:1:0.60;Fbut:R:1:0.60;Leli:R:1:0.70
+CAZVVZ010000139.1	-	1221	+1	ccgtcaCGGggctgaa	G	7	KKKNQRR		Aint:K:1:0.55;Alac:Q:1:0.45;Bhan:R:1:0.60;Bsub:K:1:0.40;Chon:R:1:0.45;Fbut:N:1:0.40;Leli:K:1:0.35
+CAZVVZ010000147.1	-	651	+1	gatttaCGGgacacca	G	4	RRRR	R	Aint:R:1:0.90;Alac:R:1:0.90;Chon:R:1:0.90;Leli:R:1:0.50
+CAZVVZ010000152.1	-	517	+1	agagtgCGGagttgga	A	1	K		Leli:K:1:0.45
+CAZVVZ010000152.1	-	526	+1	gaattaCGGagagtgc	A	2	KR		Cdif:R:1:0.50;Chon:K:1:0.50

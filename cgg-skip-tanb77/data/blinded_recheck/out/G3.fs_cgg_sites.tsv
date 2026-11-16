@@ -1,0 +1,14 @@
+contig	strand	cgg_start0	dir	context(-6..+10, CGG at 7-9)	next_nt	n_refs	clean_residues	consensus	per_ref
+USEX01000002.1	+	78689	+1	aaaattCGGtggttta	T	1	C		Chon:C:1:0.50
+USEX01000002.1	-	8164	+1	gatggtCGGagcggtt	A	2	G		Chon:T:0:0.18;Leli:G:1:0.45
+USEX01000004.1	+	51177	+1	ggctcaCGGaaaaacc	A	1	G		Cdif:G:1:0.50
+USEX01000004.1	-	15608	+1	ctggggCGGactagca	A	2	G		Bsub:G:0:0.67;Chon:G:1:0.37
+USEX01000005.1	-	20863	+1	attaagCGGaactaaa	A	1	E		Bsub:E:1:0.40
+USEX01000006.1	+	3992	+1	gaattgCGGaacaatt	A	3	AAA	A	Cdif:A:1:0.70;Fbut:A:1:0.50;Leli:A:1:0.35
+USEX01000009.1	-	33224	+1	aaattgCGGtaagtct	T	2			Cdif:R:1:0.29;Leli:K:1:0.15
+USEX01000013.1	-	14591	+1	cagcctCGGaattgca	A	3	G		Aint:G:1:0.30;Alac:G:1:0.25;Cdif:G:1:0.25
+USEX01000016.1	-	6497	+1	gtaggaCGGttcaggt	T	1	G		Aint:G:1:0.56
+USEX01000017.1	-	7629	+1	aaaaatCGGattacaa	A	2	ER		Bsub:R:1:0.40;Leli:E:1:0.45
+USEX01000018.1	+	9335	+1	aaaaagCGGagaaata	A	1	H		Alac:H:1:0.40
+USEX01000024.1	-	2690	+1	aagaagCGGaaaagaa	A	1			Cdif:G:0:0.70
+USEX01000042.1	-	1700	+1	agggcaCGGgtttaat	G	3	G		Bhan:G:1:0.20;Bsub:N:1:0.25;Fbut:G:1:0.35

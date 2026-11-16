@@ -1,0 +1,23 @@
+# downloaded / generated (see scripts/setup_reference_data.sh)
+data/atlas/
+data/gtdb_meta/
+data/uniprot_sprot.fasta.gz
+data/taxdump/
+data/trna_screen/
+data/sprot_*.faa
+data/sprot_*.tsv
+data/*.dmnd
+data/proteomics/
+data/rna_cgg/
+data/rna_chicken/
+data/uhgv/
+data/pfam/
+results/
+scratch/
+recheck_work/
+phages_work/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env

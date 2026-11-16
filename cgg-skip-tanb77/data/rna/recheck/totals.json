@@ -1,0 +1,221 @@
+{
+ "runs": {
+  "ERR15738679": {
+   "spots": 20000000,
+   "reads": 40000000,
+   "units": 8,
+   "unit_seconds": 837
+  },
+  "ERR15873938": {
+   "spots": 20000000,
+   "reads": 40000000,
+   "units": 8,
+   "unit_seconds": 819
+  },
+  "ERR15873922": {
+   "spots": 18467619,
+   "reads": 36935238,
+   "units": 8,
+   "unit_seconds": 750
+  },
+  "ERR15873927": {
+   "spots": 20000000,
+   "reads": 40000000,
+   "units": 8,
+   "unit_seconds": 858
+  },
+  "ERR15873933": {
+   "spots": 20000000,
+   "reads": 40000000,
+   "units": 8,
+   "unit_seconds": 837
+  },
+  "ERR15873934": {
+   "spots": 20000000,
+   "reads": 40000000,
+   "units": 8,
+   "unit_seconds": 779
+  },
+  "ERR15873936": {
+   "spots": 20000000,
+   "reads": 40000000,
+   "units": 8,
+   "unit_seconds": 734
+  },
+  "ERR15873944": {
+   "spots": 20000000,
+   "reads": 40000000,
+   "units": 8,
+   "unit_seconds": 772
+  },
+  "ERR15873926": {
+   "spots": 20000000,
+   "reads": 40000000,
+   "units": 8,
+   "unit_seconds": 799
+  },
+  "SRR37726778": {
+   "spots": 20000000,
+   "reads": 40000000,
+   "units": 8,
+   "unit_seconds": 1047
+  }
+ },
+ "sets": {
+  "A": {
+   "sites": 2779,
+   "sites_observed": 615,
+   "obs": 5489,
+   "discordant": 0
+  },
+  "C": {
+   "sites": 30943,
+   "sites_observed": 10675,
+   "obs": 51787,
+   "discordant": 0
+  }
+ },
+ "per_run": {
+  "ERR15738679": {
+   "A": {
+    "sites": 2779,
+    "sites_observed": 60,
+    "obs": 337,
+    "discordant": 0
+   },
+   "C": {
+    "sites": 30943,
+    "sites_observed": 1093,
+    "obs": 6707,
+    "discordant": 0
+   }
+  },
+  "ERR15873938": {
+   "A": {
+    "sites": 2779,
+    "sites_observed": 208,
+    "obs": 522,
+    "discordant": 0
+   },
+   "C": {
+    "sites": 30943,
+    "sites_observed": 2490,
+    "obs": 4828,
+    "discordant": 0
+   }
+  },
+  "ERR15873922": {
+   "A": {
+    "sites": 2779,
+    "sites_observed": 123,
+    "obs": 352,
+    "discordant": 0
+   },
+   "C": {
+    "sites": 30943,
+    "sites_observed": 2246,
+    "obs": 4794,
+    "discordant": 0
+   }
+  },
+  "ERR15873927": {
+   "A": {
+    "sites": 2779,
+    "sites_observed": 167,
+    "obs": 656,
+    "discordant": 0
+   },
+   "C": {
+    "sites": 30943,
+    "sites_observed": 4277,
+    "obs": 8947,
+    "discordant": 0
+   }
+  },
+  "ERR15873933": {
+   "A": {
+    "sites": 2779,
+    "sites_observed": 131,
+    "obs": 307,
+    "discordant": 0
+   },
+   "C": {
+    "sites": 30943,
+    "sites_observed": 2117,
+    "obs": 4458,
+    "discordant": 0
+   }
+  },
+  "ERR15873934": {
+   "A": {
+    "sites": 2779,
+    "sites_observed": 125,
+    "obs": 251,
+    "discordant": 0
+   },
+   "C": {
+    "sites": 30943,
+    "sites_observed": 2043,
+    "obs": 3990,
+    "discordant": 0
+   }
+  },
+  "ERR15873936": {
+   "A": {
+    "sites": 2779,
+    "sites_observed": 113,
+    "obs": 234,
+    "discordant": 0
+   },
+   "C": {
+    "sites": 30943,
+    "sites_observed": 1840,
+    "obs": 3881,
+    "discordant": 0
+   }
+  },
+  "ERR15873944": {
+   "A": {
+    "sites": 2779,
+    "sites_observed": 184,
+    "obs": 674,
+    "discordant": 0
+   },
+   "C": {
+    "sites": 30943,
+    "sites_observed": 2522,
+    "obs": 5364,
+    "discordant": 0
+   }
+  },
+  "ERR15873926": {
+   "A": {
+    "sites": 2779,
+    "sites_observed": 166,
+    "obs": 575,
+    "discordant": 0
+   },
+   "C": {
+    "sites": 30943,
+    "sites_observed": 1755,
+    "obs": 4350,
+    "discordant": 0
+   }
+  },
+  "SRR37726778": {
+   "A": {
+    "sites": 2779,
+    "sites_observed": 82,
+    "obs": 1581,
+    "discordant": 0
+   },
+   "C": {
+    "sites": 30943,
+    "sites_observed": 670,
+    "obs": 4468,
+    "discordant": 0
+   }
+  }
+ },
+ "powered": true
+}

@@ -1,0 +1,12 @@
+contig	strand	start0	n_refs	n_clean	consensus	clean_residues	per_ref(ref:res:window_id)	fs_near	first_ref_aa
+CASDSU010000011.1	-	41705	2	1		D	Aint:Q:0.29;Leli:D:0.43	{}	2107
+CASDSU010000013.1	+	183967	1	0			Fbut:R:0.43	{'+1': 1}	1653
+CASDSU010000013.1	-	32000	2	1		G	Cdif:G:0.29;Bhan:G:0.71	{}	670
+CASDSU010000013.1	-	33019	3	0			Bsub:K:0.29;Cdif:R:0.36;Bhan:R:0.29	{}	308
+CASDSU010000015.1	+	939	2	1		R	Fbut:R:0.86;Aint:X:0.86	{}	1365
+CASDSU010000021.1	-	50619	2	0			Cdif:G:0.57;Chon:G:0.64	{'-1': 1}	849
+CASDSU010000021.1	-	54559	1	0			Leli:H:0.36	{}	3135
+CASDSU010000021.1	-	55111	1	0			Leli:T:0.33	{}	3135
+CASDSU010000028.1	-	288341	2	0			Bhan:Q:0.71;Leli:I:0.79	{'+1': 1}	2653
+CASDSU010000031.1	+	192930	1	0			Fbut:E:0.36	{'+1': 1}	1592
+CASDSU010000036.1	+	46950	6	0			Cdif:Y:0.71;Fbut:Y:0.43;Aint:Y:0.36;Bhan:V:0.21;Alac:R:0.29;Leli:V:0.29	{'+1': 1}	461

@@ -1,0 +1,10 @@
+data/rna_cgg/main2 1 20000000 2 ERR15738679
+data/rna_cgg/main2 1 20000000 2 ERR15873938
+data/rna_cgg/main2 1 18467619 2 ERR15873922
+data/rna_cgg/main2 1 20000000 2 ERR15873927
+data/rna_cgg/main2 1 20000000 2 ERR15873933
+data/rna_cgg/main2 1 20000000 2 ERR15873934
+data/rna_cgg/main2 1 20000000 2 ERR15873936
+data/rna_cgg/main2 1 20000000 2 ERR15873944
+data/rna_cgg/main2 1 20000000 2 ERR15873926
+data/rna_cgg/main2 1 20000000 2 SRR37726778

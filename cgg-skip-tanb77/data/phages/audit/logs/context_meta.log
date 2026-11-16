@@ -1,0 +1,7 @@
+T1 skip: n=490 next base {'A': 308, 'C': 27, 'G': 25, 'T': 130}; codons-from-end bins(0-3,4-7,8-11,12-15) [166, 147, 116, 61]; open median 205; reached_end 4
+T1 CGG non-skip: n=344 next base {'A': 216, 'C': 27, 'G': 25, 'T': 76}; codons-from-end bins(0-3,4-7,8-11,12-15) [75, 32, 43, 194]; open median 25; reached_end 4
+T1 CGG last16 non-skip: n=161 next base {'A': 102, 'C': 11, 'G': 9, 'T': 39}; codons-from-end bins(0-3,4-7,8-11,12-15) [75, 32, 43, 11]; open median 27; reached_end 4
+R skip: n=115 next base {'A': 38, 'C': 11, 'G': 3, 'T': 63}; codons-from-end bins(0-3,4-7,8-11,12-15) [66, 22, 19, 8]; open median 186; reached_end 0
+R CGG all: n=5835 next base {'A': 2357, 'C': 745, 'G': 1025, 'T': 1708}; codons-from-end bins(0-3,4-7,8-11,12-15) [220, 126, 130, 5359]; open median 9; reached_end 3
+T1 internal CGG (not last16): n 183 with +1 open>=50: 64
+R internal CGG (not last16): n 5280 with +1 open>=50: 173

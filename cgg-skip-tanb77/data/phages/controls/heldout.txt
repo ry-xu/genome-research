@@ -1,0 +1,1 @@
+N heldout: n=3120 E>=5=2555 avoid=58 share_of_E5=0.0227 host-style=1 classes={'unresolved': 794, 'E>=5': 2555, 'tRNA_CCG': 16, 'tRNA_TCG': 3, 'ancestral': 2267, 'avoid': 58, 'host-style': 1}

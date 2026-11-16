@@ -1,0 +1,286 @@
+contig	strand	cgg_start0	dir	context(-6..+10, CGG at 7-9)	next_nt	n_refs	clean_residues	consensus	per_ref
+WQVL01000001.1	+	1682	+1	gaactcCGGaagatta	A	8	GGGGGGGG	G	Aint:G:1:0.70;Alac:G:1:0.65;Bhan:G:1:0.65;Bsub:G:1:0.70;Cdif:G:1:0.75;Chon:G:1:0.65;Fbut:G:1:0.70;Leli:G:1:0.55
+WQVL01000001.1	+	3488	+1	ttaaccCGGagctctt	A	8	GGGGGGGG	G	Aint:G:1:0.65;Alac:G:1:0.55;Bhan:G:1:0.75;Bsub:G:1:0.65;Cdif:G:1:0.80;Chon:G:1:0.75;Fbut:G:1:0.55;Leli:G:1:0.75
+WQVL01000001.1	+	4212	+1	acatctCGGgctaaac	G	4	DGGG	G	Alac:G:1:0.35;Bhan:G:1:0.45;Cdif:D:1:0.45;Fbut:G:1:0.45
+WQVL01000001.1	+	5242	+1	ttgcctCGGgaaaaag	G	2	GG	G	Aint:G:1:0.75;Chon:G:1:0.50
+WQVL01000001.1	+	24837	+1	gcaataCGGatatact	A	1	G		Aint:G:1:0.45
+WQVL01000001.1	+	29801	+1	gcaatgCGGagaagat	A	8	EEEEEKQQ	E	Aint:E:1:0.65;Alac:E:1:0.50;Bhan:E:1:0.80;Bsub:Q:1:0.70;Cdif:E:1:0.60;Chon:E:1:0.50;Fbut:K:1:0.45;Leli:Q:1:0.80
+WQVL01000001.1	+	44880	+1	atagtgCGGtaatgga	T	6	GGGGGG	G	Aint:G:1:0.42;Bhan:G:1:0.45;Bsub:G:1:0.42;Chon:G:1:0.42;Fbut:G:1:0.37;Leli:G:1:0.42
+WQVL01000001.1	+	44911	+1	aaagacCGGaggaatt	A	6	AEEEK	E	Aint:X:1:0.61;Bhan:K:1:0.71;Bsub:E:1:0.67;Chon:E:1:0.65;Fbut:A:1:0.59;Leli:E:1:0.71
+WQVL01000001.1	+	45059	+1	gcttatCGGaatacct	A	6	GGGGGG	G	Aint:G:1:0.65;Bhan:G:1:0.70;Bsub:G:1:0.60;Chon:G:1:0.60;Fbut:G:1:0.85;Leli:G:1:0.65
+WQVL01000001.1	+	45114	+1	tatgggCGGagaaatg	A	6	GGGGGS	G	Aint:G:1:0.65;Bhan:G:1:0.60;Bsub:S:1:0.45;Chon:G:1:0.50;Fbut:G:1:0.70;Leli:G:1:0.70
+WQVL01000001.1	+	59659	+1	ataactCGGaaagcta	A	4	AHS		Bsub:A:1:0.30;Cdif:S:1:0.45;Chon:E:1:0.20;Fbut:H:1:0.30
+WQVL01000001.1	+	59714	+1	atttttCGGtaatgca	T	1			Fbut:X:1:0.35
+WQVL01000001.1	+	60988	+1	aggcttCGGaatatat	A	7	GGGGGGG	G	Aint:G:1:0.55;Alac:G:1:0.65;Bhan:G:1:0.55;Bsub:G:1:0.70;Cdif:G:1:0.60;Chon:G:1:0.70;Leli:G:1:0.60
+WQVL01000001.1	+	71776	+1	tatatgCGGaggagat	A	5	EKQ		Aint:X:1:0.45;Bhan:Q:1:0.60;Bsub:K:1:0.60;Cdif:E:0:0.36;Leli:E:1:0.55
+WQVL01000001.1	+	72218	+1	ggacttCGGtggcgaa	T	5	AFGTY		Aint:G:1:0.35;Bhan:Y:1:0.60;Cdif:T:1:0.50;Fbut:A:1:0.40;Leli:F:1:0.55
+WQVL01000001.1	+	73129	+1	ggcaatCGGaagaaca	A	1	G		Aint:G:1:0.70
+WQVL01000001.1	+	75872	+1	gcgataCGGaaataaa	A	5	EEGKQ		Aint:Q:1:0.45;Bhan:G:1:0.55;Bsub:E:1:0.40;Cdif:E:1:0.60;Fbut:K:1:0.50
+WQVL01000001.1	+	76416	+1	tcaatgCGGacaatat	A	5	GGGGG	G	Aint:G:1:0.70;Bhan:G:1:0.65;Bsub:G:1:0.60;Cdif:G:1:0.80;Fbut:G:1:0.60
+WQVL01000001.1	+	76540	+1	ttggccCGGacaaacc	A	5	DGGGG	G	Aint:G:1:0.50;Bhan:G:1:0.55;Bsub:G:1:0.60;Cdif:G:1:0.55;Fbut:D:1:0.60
+WQVL01000001.1	+	84885	+1	gcggttCGGgctagca	G	7	GTTTTTT	T	Aint:T:1:0.60;Alac:T:1:0.65;Bhan:T:1:0.65;Bsub:T:1:0.60;Cdif:G:1:0.65;Fbut:T:1:0.60;Leli:T:1:0.70
+WQVL01000001.1	+	85045	+1	gcggatCGGagaaaca	A	7	GGGGGGG	G	Aint:G:1:0.65;Alac:G:1:0.65;Bhan:G:1:0.75;Bsub:G:1:0.75;Cdif:G:1:0.75;Fbut:G:1:0.65;Leli:G:1:0.85
+WQVL01000001.1	+	86782	+1	ggtaccCGGaccagta	A	1	G		Chon:G:1:0.50
+WQVL01000001.1	+	109198	+1	gaaaccCGGaccatat	A	1	G		Cdif:G:1:0.50
+WQVL01000001.1	+	125088	+1	gaacctCGGggtaata	G	2	GG	G	Chon:G:1:0.45;Leli:G:1:0.65
+WQVL01000001.1	+	127866	+1	ccatctCGGaactggg	A	1	G		Cdif:G:1:0.55
+WQVL01000001.1	+	131282	+1	agtgttCGGaacagtt	A	5	GGGGG	G	Aint:G:1:0.45;Alac:G:1:0.55;Bsub:G:1:0.45;Chon:G:1:0.75;Leli:G:1:0.40
+WQVL01000001.1	+	133746	+1	gtagtgCGGaacggtt	A	8	CGGGGSST		Aint:S:1:0.50;Alac:T:1:0.40;Bhan:G:1:0.50;Bsub:G:1:0.45;Cdif:S:1:0.45;Chon:G:1:0.45;Fbut:C:1:0.45;Leli:G:1:0.40
+WQVL01000001.1	+	144285	+1	aagttgCGGattacct	A	8	EEGGGGKN		Aint:G:1:0.80;Alac:N:1:0.70;Bhan:E:1:0.75;Bsub:G:1:0.75;Cdif:E:1:0.75;Chon:K:1:0.80;Fbut:G:1:0.60;Leli:G:1:0.70
+WQVL01000001.1	+	144394	+1	tatagaCGGgcttgcg	G	8	AAQQQQQS	Q	Aint:A:1:0.55;Alac:Q:1:0.68;Bhan:Q:1:0.55;Bsub:Q:1:0.55;Cdif:Q:1:0.65;Chon:S:1:0.50;Fbut:A:1:0.65;Leli:Q:1:0.70
+WQVL01000001.1	+	144458	+1	actactCGGaaggata	A	6	N		Aint:G:0:0.58;Bhan:G:0:0.55;Bsub:H:1:0.20;Cdif:N:1:0.50;Fbut:G:0:0.45;Leli:G:0:0.45
+WQVL01000001.1	+	154530	+1	aaacttCGGgaagcgt	G	2	DK		Aint:K:1:0.45;Fbut:D:1:0.45
+WQVL01000001.1	-	168241	+1	gggggaCGGagtgtac	A	1	G		Bsub:G:1:0.47
+WQVL01000002.1	+	31897	+1	aagataCGGagacgct	A	8	AGGGGGGG	G	Aint:G:1:0.45;Alac:G:1:0.45;Bhan:G:1:0.35;Bsub:G:1:0.55;Cdif:G:1:0.60;Chon:A:1:0.50;Fbut:G:1:0.45;Leli:G:1:0.40
+WQVL01000002.1	+	57960	+1	acaggaCGGctcaaga	C	2	AG		Cdif:G:1:0.44;Leli:A:1:0.53
+WQVL01000002.1	+	62024	+1	gcacccCGGatttgca	A	1			Alac:E:1:0.25
+WQVL01000002.1	+	69849	+1	agacttCGGaaaacca	A	4	GGGG	G	Aint:G:1:0.30;Bsub:G:1:0.40;Chon:G:1:0.35;Fbut:G:1:0.35
+WQVL01000002.1	-	6789	+1	ggtgctCGGaacaaat	A	7	GGGGGGG	G	Aint:G:1:0.80;Alac:G:1:0.70;Bhan:G:1:0.90;Bsub:G:1:0.75;Cdif:G:1:0.85;Chon:G:1:0.85;Leli:G:1:0.75
+WQVL01000002.1	-	24896	+1	gacgttCGGactaata	A	8	GGGGGGGG	G	Aint:G:1:0.55;Alac:G:1:0.55;Bhan:G:1:0.35;Bsub:G:1:0.55;Cdif:G:1:0.60;Chon:G:1:0.55;Fbut:G:1:0.45;Leli:G:1:0.55
+WQVL01000003.1	+	3454	+1	agaactCGGatttgta	A	8	HILMNQQQ		Aint:N:1:0.85;Alac:H:1:0.45;Bhan:L:1:0.55;Bsub:Q:1:0.50;Cdif:I:1:0.65;Chon:M:1:0.50;Fbut:Q:1:0.65;Leli:Q:1:0.65
+WQVL01000003.1	+	6338	+1	attggcCGGaggaccg	A	2	GG	G	Cdif:G:1:0.62;Fbut:G:1:0.73
+WQVL01000003.1	+	7614	+1	agtacaCGGatatgtt	A	2	GG	G	Cdif:G:1:0.86;Chon:G:1:0.80
+WQVL01000003.1	+	8126	+1	gaactcCGGagcagaa	A	6	EGGGG	G	Aint:G:1:0.20;Bhan:G:1:0.55;Bsub:G:1:0.50;Cdif:G:1:0.47;Chon:E:1:0.50;Fbut:G:1:0.35
+WQVL01000003.1	+	30514	+1	tcagccCGGaaattca	A	1	G		Bsub:G:1:0.45
+WQVL01000003.1	+	48447	+1	gggcttCGGgctttcg	G	7	GGGGGGG	G	Alac:G:1:0.50;Bhan:G:1:0.45;Bsub:G:1:0.65;Cdif:G:1:0.55;Chon:G:1:0.40;Fbut:G:1:0.50;Leli:G:1:0.50
+WQVL01000003.1	+	72320	+1	aaagttCGGgtcagag	G	1	Q		Cdif:Q:1:0.55
+WQVL01000003.1	+	72876	+1	ttagagCGGagaaatt	A	1	G		Bhan:G:1:0.55
+WQVL01000003.1	+	75393	+1	cgtgtaCGGattcttc	A	1	G		Aint:G:1:0.65
+WQVL01000003.1	-	68038	+1	atacttCGGaaaacct	A	4	GGKN		Aint:G:1:0.45;Bhan:G:1:0.40;Bsub:K:1:0.35;Cdif:N:1:0.40
+WQVL01000003.1	-	68675	+1	attttgCGGagctata	A	4	GGGL	G	Aint:G:1:0.50;Bhan:G:1:0.47;Bsub:L:1:0.45;Cdif:G:1:0.55
+WQVL01000003.1	-	69069	+1	ggaagcCGGtataacc	T	4	GGGG	G	Aint:G:1:0.45;Bhan:G:1:0.60;Bsub:G:1:0.75;Cdif:G:1:0.60
+WQVL01000004.1	+	5053	+1	ataactCGGgtttgat	G	8			Aint:C:1:0.21;Alac:-:0:0.00;Bhan:A:1:0.21;Bsub:I:1:0.13;Cdif:-:0:0.00;Chon:P:1:0.18;Fbut:-:0:0.00;Leli:-:0:0.00
+WQVL01000004.1	+	6152	+1	tcttttCGGggttgtt	G	6	AAASS	A	Aint:A:1:0.55;Alac:S:1:0.30;Bhan:A:1:0.25;Chon:A:1:0.40;Fbut:A:1:0.40;Leli:S:1:0.35
+WQVL01000004.1	+	6783	+1	ccagtcCGGaacagat	A	1	G		Cdif:G:1:0.75
+WQVL01000004.1	+	13428	+1	atggtcCGGagagaaa	A	1	G		Bhan:G:1:0.45
+WQVL01000004.1	+	16529	+1	cgattcCGGgcatgac	G	2	GG	G	Aint:G:1:0.45;Cdif:G:1:0.56
+WQVL01000004.1	+	18407	+1	actgctCGGattagta	A	2	GG	G	Bhan:G:1:0.65;Leli:G:1:0.55
+WQVL01000004.1	+	23169	+1	ggagctCGGcaaaaca	C	7	GGGGGGG	G	Aint:G:1:0.61;Alac:G:1:0.50;Bhan:G:1:0.61;Bsub:G:1:0.80;Chon:G:1:0.65;Fbut:G:1:0.60;Leli:G:1:0.65
+WQVL01000004.1	+	24160	+1	ttagttCGGagttgtt	A	7	AGGGGGG	G	Aint:G:1:0.60;Alac:G:1:0.65;Bhan:G:1:0.70;Bsub:G:1:0.65;Chon:A:1:0.60;Fbut:G:1:0.50;Leli:G:1:0.70
+WQVL01000004.1	+	24272	+1	gagaagCGGaagagta	A	3	GGG	G	Bhan:G:1:0.60;Chon:G:1:0.69;Fbut:G:1:0.45
+WQVL01000004.1	+	27282	+1	atacttCGGagtattt	A	1	G		Cdif:G:1:0.50
+WQVL01000004.1	+	36340	+1	actaatCGGacatgga	A	1	L		Cdif:L:1:0.64
+WQVL01000004.1	+	36659	+1	gcaacaCGGtaatgaa	T	2	GG	G	Bhan:G:1:0.45;Cdif:G:1:0.40
+WQVL01000004.1	+	36969	+1	aacattCGGagtacta	A	2			Bhan:Y:0:0.42;Cdif:Q:0:0.42
+WQVL01000004.1	+	37922	+1	ctagtcCGGttttata	T	1	G		Bhan:G:1:0.70
+WQVL01000004.1	+	38472	+1	gcggcaCGGaaatgag	A	1	G		Bhan:G:1:0.40
+WQVL01000004.1	+	39881	+1	gcttgtCGGaagagga	A	1	G		Leli:G:1:0.40
+WQVL01000004.1	+	40095	+1	ggactcCGGaacaaat	A	1	G		Leli:G:1:0.30
+WQVL01000004.1	+	40655	+1	gcactcCGGaactatt	A	1	G		Leli:G:1:0.45
+WQVL01000004.1	+	47620	+1	aatgtaCGGaacgaga	A	7	AAIIILS		Aint:I:1:0.35;Bhan:A:1:0.65;Bsub:L:1:0.35;Cdif:I:1:0.65;Chon:A:1:0.60;Fbut:I:1:0.45;Leli:S:1:0.55
+WQVL01000004.1	+	47681	+1	gggaagCGGcgcagaa	C	4	DEHN		Aint:D:1:0.30;Bsub:N:1:0.40;Fbut:E:1:0.40;Leli:H:1:0.35
+WQVL01000004.1	+	53853	+1	gctgagCGGggttgca	G	2	N		Aint:K:1:0.25;Cdif:N:1:0.40
+WQVL01000004.1	+	62751	+1	ggacttCGGaaagttt	A	4	GGGG	G	Bsub:G:1:0.60;Cdif:G:1:0.60;Chon:G:1:0.45;Fbut:G:1:0.45
+WQVL01000004.1	-	30265	-1	caagatCGGcaaccgg	C	1			Alac:-:0:0.00
+WQVL01000004.1	-	30743	+1	gaaatgCGGactaaaa	A	1	R		Alac:R:1:0.55
+WQVL01000004.1	-	34917	+1	gggaagCGGtcatgat	T	3	FGG	G	Bhan:G:1:0.80;Cdif:G:1:0.75;Leli:F:1:0.75
+WQVL01000005.1	+	185	+1	ccgcttCGGaacaata	A	1	K		Leli:K:1:0.60
+WQVL01000005.1	+	53315	+1	ggagccCGGtcttgca	T	3	GG	G	Alac:-:0:0.00;Cdif:G:1:0.55;Fbut:G:1:0.71
+WQVL01000005.1	-	7653	+1	ccagctCGGccaaacc	C	5	GGGG	G	Aint:G:1:0.67;Bhan:G:1:0.71;Chon:G:1:0.68;Fbut:G:1:0.69;Leli:-:0:0.00
+WQVL01000005.1	-	8149	+1	gcagatCGGaagatgc	A	5	GGGGG	G	Aint:G:1:0.79;Bhan:G:1:0.79;Chon:G:1:0.79;Fbut:G:1:0.68;Leli:G:1:0.74
+WQVL01000005.1	-	8177	+1	gcatgtCGGaatatgt	A	4	GGGG	G	Bhan:G:1:0.56;Chon:G:1:0.44;Fbut:G:1:0.39;Leli:G:1:0.61
+WQVL01000005.1	-	24950	+1	agcagaCGGtcatgct	T	1	G		Fbut:G:1:0.55
+WQVL01000005.1	-	51832	+1	gacatcCGGaatgaat	A	1	G		Cdif:G:1:0.40
+WQVL01000006.1	+	7311	+1	atgtggCGGgacaggt	G	7	AGGSSSS		Aint:A:1:0.45;Alac:S:1:0.45;Bhan:G:1:0.45;Bsub:S:1:0.45;Cdif:S:1:0.50;Chon:S:1:0.35;Fbut:G:1:0.40
+WQVL01000006.1	+	24040	+1	gatataCGGgacgcca	G	7	EEKPQQQ		Aint:Q:1:0.60;Alac:P:1:0.80;Bhan:E:1:0.55;Bsub:E:1:0.70;Chon:K:1:0.80;Fbut:Q:1:0.50;Leli:Q:1:0.50
+WQVL01000006.1	+	24191	+1	gaggctCGGaggtctt	A	7	GGGGGGG	G	Aint:G:1:0.45;Alac:G:1:0.70;Bhan:G:1:0.75;Bsub:G:1:0.85;Chon:G:1:0.65;Fbut:G:1:0.65;Leli:G:1:0.70
+WQVL01000006.1	+	34835	+1	gctattCGGgaaagac	G	1			Bhan:K:1:0.25
+WQVL01000006.1	+	35481	+1	cctacaCGGaagagca	A	6	GGGGGG	G	Aint:G:1:0.60;Bhan:G:1:0.60;Cdif:G:1:0.55;Chon:G:1:0.55;Fbut:G:1:0.65;Leli:G:1:0.55
+WQVL01000006.1	+	36400	+1	tctcaaCGGaagtgag	A	5	GGGGG	G	Aint:G:1:0.60;Bhan:G:1:0.55;Cdif:G:1:0.60;Chon:G:1:0.70;Fbut:G:1:0.60
+WQVL01000006.1	+	37526	+1	ggagtgCGGacctaat	A	1	G		Cdif:G:1:0.45
+WQVL01000006.1	+	37809	+1	gtagtcCGGtgagaaa	T	6	GGGG	G	Aint:G:1:0.30;Bhan:G:1:0.25;Cdif:G:1:0.35;Chon:G:1:0.35;Fbut:G:1:0.30;Leli:G:1:0.25
+WQVL01000006.1	+	42901	+1	caggttCGGatgtaaa	A	5	GGGGG	G	Bhan:G:1:0.75;Bsub:G:1:0.60;Cdif:G:1:0.70;Fbut:G:1:0.75;Leli:G:1:0.70
+WQVL01000007.1	+	10803	+1	gaagttCGGagtagta	A	2			Bhan:G:0:0.91;Cdif:G:0:0.91
+WQVL01000007.1	+	18872	+1	ttaacaCGGattgggt	A	4	EKKK	K	Aint:E:1:0.44;Bsub:K:1:0.47;Cdif:K:1:0.40;Fbut:K:1:0.35
+WQVL01000007.1	+	20246	+1	cgctctCGGaggacta	A	1	G		Cdif:G:1:0.60
+WQVL01000007.1	+	20379	+1	gctattCGGcagaata	C	1	G		Cdif:G:1:0.60
+WQVL01000007.1	+	20464	+1	ggaacaCGGgtataga	G	1			Cdif:-:0:0.00
+WQVL01000007.1	+	20603	+1	gggcttCGGcagagca	C	1	G		Cdif:G:1:0.45
+WQVL01000007.1	-	15196	+1	actgcaCGGagcaagc	A	6	AAISST		Alac:S:1:0.50;Bhan:S:1:0.40;Cdif:T:1:0.65;Chon:I:1:0.50;Fbut:A:1:0.40;Leli:A:1:0.45
+WQVL01000007.1	-	37809	+1	gtaactCGGatattta	A	5	DEQ		Aint:E:1:0.20;Bhan:E:1:0.45;Bsub:D:1:0.35;Fbut:-:0:0.00;Leli:Q:1:0.40
+WQVL01000007.1	-	38023	+1	atacttCGGaatctta	A	5	DGGGS	G	Bhan:G:1:0.50;Bsub:G:1:0.50;Cdif:S:1:0.50;Fbut:G:1:0.53;Leli:D:1:0.45
+WQVL01000007.1	-	41791	+1	aatgcaCGGacgatgc	A	1	G		Aint:G:1:0.60
+WQVL01000007.1	-	42129	+1	aaatcaCGGcaatgat	C	1	G		Aint:G:1:0.50
+WQVL01000008.1	+	4129	+1	caagcaCGGaaatgat	A	1	G		Bsub:G:1:0.50
+WQVL01000008.1	+	10422	+1	tctacaCGGatataca	A	1	Y		Chon:Y:1:0.40
+WQVL01000008.1	+	12115	+1	gcaaaaCGGtgaaaca	T	4	GGGG	G	Aint:G:1:0.55;Bhan:G:1:0.45;Bsub:G:1:0.50;Cdif:G:1:0.75
+WQVL01000008.1	+	14585	+1	tctatcCGGaggttca	A	1			Leli:G:1:0.10
+WQVL01000008.1	+	14646	+1	aaaataCGGagcacca	A	1	R		Leli:R:1:0.35
+WQVL01000008.1	+	14686	+1	ccaagtCGGagatccg	A	2	GG	G	Bhan:G:1:0.55;Leli:G:1:0.50
+WQVL01000008.1	+	17492	+1	cgactcCGGaatgtat	A	1	G		Bsub:G:1:0.40
+WQVL01000008.1	+	17934	+1	ggtagcCGGaaaaatt	A	1			Bsub:G:0:0.20
+WQVL01000008.1	+	29585	+1	ttatcaCGGagtttct	A	8	DEGGGGG	G	Aint:E:1:0.35;Alac:G:1:0.80;Bhan:G:1:0.40;Bsub:D:1:0.40;Cdif:K:1:0.25;Chon:G:1:0.40;Fbut:G:1:0.70;Leli:G:1:0.90
+WQVL01000008.1	+	30252	+1	gatgtgCGGagaagaa	A	2	E		Alac:A:0:0.10;Leli:E:1:0.35
+WQVL01000008.1	+	42210	-1	gaatttCGGtcggttt	T	1			Cdif:-:0:0.00
+WQVL01000008.1	+	42662	+1	gaagcgCGGaacagtt	A	2	G		Aint:G:1:0.35;Alac:K:1:0.20
+WQVL01000008.1	+	47205	+1	gcaggaCGGaactttt	A	2	K		Aint:K:1:0.40;Chon:Q:0:0.36
+WQVL01000008.1	-	20580	+1	gcagtcCGGtagcttt	T	1	G		Cdif:G:1:0.65
+WQVL01000009.1	+	9025	+1	ctgcttCGGaataggg	A	2	A		Bhan:R:1:0.25;Cdif:A:1:0.45
+WQVL01000009.1	+	9299	+1	gcccttCGGtcttccg	T	2	GG	G	Bhan:G:1:0.55;Cdif:G:1:0.50
+WQVL01000009.1	+	17330	+1	agggtgCGGaatagct	A	1	G		Bhan:G:1:0.55
+WQVL01000009.1	+	32546	+1	gacatcCGGagcatat	A	3	GGG	G	Bhan:G:1:0.55;Cdif:G:1:0.70;Chon:G:1:0.45
+WQVL01000009.1	+	32772	+1	ggtgtaCGGaagaaac	A	3	GGG	G	Bhan:G:1:0.60;Cdif:G:1:0.65;Chon:G:1:0.55
+WQVL01000009.1	+	39868	+1	gcaatgCGGagaaagc	A	5	GGGGG	G	Alac:G:1:0.55;Bhan:G:1:0.45;Bsub:G:1:0.40;Cdif:G:1:0.45;Chon:G:1:0.50
+WQVL01000009.1	-	11474	+1	ttcataCGGatacatt	A	4	GG	G	Aint:G:1:0.20;Bhan:G:1:0.30;Cdif:G:1:0.30;Leli:G:1:0.25
+WQVL01000010.1	-	2956	+1	gtcaacCGGagtattc	A	1	G		Bhan:G:1:0.47
+WQVL01000010.1	-	7548	+1	agaagaCGGcatttta	C	2	DG		Aint:G:1:0.69;Alac:D:1:0.35
+WQVL01000010.1	-	22031	+1	ttagtaCGGagaagtg	A	1	G		Cdif:G:1:0.40
+WQVL01000010.1	-	22113	+1	ggtgcaCGGaagtaca	A	1			Cdif:F:0:0.36
+WQVL01000010.1	-	22228	+1	tacacaCGGgattgta	G	2	AG		Cdif:A:1:0.60;Chon:G:1:0.65
+WQVL01000010.1	-	25835	+1	gcttgtCGGtggagat	T	7	GGGGGG	G	Aint:G:1:0.35;Alac:G:1:0.25;Bhan:G:1:0.45;Cdif:G:1:0.35;Chon:G:1:0.40;Fbut:G:1:0.40;Leli:G:1:0.50
+WQVL01000010.1	-	27726	+1	tgtttgCGGgttgcta	G	5	QQQQ	Q	Aint:Q:1:0.46;Alac:Q:1:0.38;Bhan:Q:0:0.42;Chon:Q:1:0.54;Fbut:Q:1:0.46
+WQVL01000010.1	-	40166	+1	gacaacCGGaatttcg	A	7	DGGQ		Aint:G:1:0.25;Bhan:G:1:0.20;Bsub:G:1:0.35;Cdif:Q:1:0.35;Chon:D:1:0.35;Fbut:G:1:0.40;Leli:D:1:0.25
+WQVL01000010.1	-	40716	+1	gaccaaCGGaatctac	A	8	SSSSSSSS	S	Aint:S:1:0.65;Alac:S:1:0.70;Bhan:S:1:0.70;Bsub:S:1:0.70;Cdif:S:1:0.75;Chon:S:1:0.75;Fbut:S:1:0.70;Leli:S:1:0.75
+WQVL01000010.1	-	47608	+1	ggcgggCGGaactgga	A	8	GGGGGGGG	G	Aint:G:1:0.90;Alac:G:1:0.90;Bhan:G:1:0.90;Bsub:G:1:0.90;Cdif:G:1:0.95;Chon:G:1:0.70;Fbut:G:1:0.90;Leli:G:1:0.90
+WQVL01000011.1	-	11473	+1	gttaacCGGaacaata	A	1	G		Cdif:G:1:0.46
+WQVL01000011.1	-	11894	+1	cttataCGGaagtgaa	A	1	D		Cdif:D:1:0.47
+WQVL01000011.1	-	15411	+1	gaaaacCGGaagttat	A	1	G		Cdif:G:1:0.65
+WQVL01000011.1	-	28565	+1	gttgctCGGaataata	A	3	GGG	G	Aint:G:1:0.35;Bhan:G:1:0.45;Fbut:G:1:0.40
+WQVL01000011.1	-	29172	+1	tgtgtcCGGaagcatg	A	7	DDDEENS		Aint:E:1:0.65;Alac:D:1:0.55;Bhan:D:1:0.70;Bsub:N:1:0.75;Cdif:D:1:0.60;Fbut:S:1:0.70;Leli:E:1:0.70
+WQVL01000011.1	-	29353	+1	ggacttCGGaattaca	A	7	GGGGGGG	G	Aint:G:1:0.75;Alac:G:1:0.80;Bhan:G:1:0.80;Bsub:G:1:0.85;Cdif:G:1:0.85;Fbut:G:1:0.70;Leli:G:1:0.80
+WQVL01000011.1	-	30116	+1	atgatgCGGtgaatat	T	4	RRST		Bhan:R:1:0.75;Bsub:S:1:0.75;Chon:R:1:0.65;Leli:T:1:0.75
+WQVL01000011.1	-	30474	+1	gttattCGGggcagta	G	4	AGGS		Bhan:G:1:0.60;Bsub:S:1:0.55;Chon:A:1:0.65;Leli:G:1:0.60
+WQVL01000011.1	-	36957	+1	attcttCGGagttcat	A	6	GGGGGG	G	Aint:G:1:0.92;Bhan:G:1:0.71;Bsub:G:1:0.70;Cdif:G:1:0.60;Chon:G:1:0.65;Fbut:G:1:0.60
+WQVL01000011.1	-	37474	+1	acctggCGGtcgaaaa	T	1			Leli:-:0:0.00
+WQVL01000012.1	+	3151	+1	agtcttCGGaattact	A	1	G		Bsub:G:1:0.60
+WQVL01000012.1	+	4332	+1	tcaaccCGGgctaaag	G	1			Bsub:G:1:0.20
+WQVL01000012.1	-	9564	+1	gtgccaCGGaagtgtg	A	5	AAGGG	G	Aint:G:1:0.55;Bhan:A:1:0.55;Chon:A:1:0.67;Fbut:G:1:0.71;Leli:G:1:0.57
+WQVL01000012.1	-	9799	+1	gaacttCGGaattcct	A	5	GGGGN	G	Aint:G:1:0.40;Alac:G:1:0.45;Bhan:N:1:0.60;Fbut:G:1:0.50;Leli:G:1:0.55
+WQVL01000012.1	-	10175	+1	gtaataCGGaaaagaa	A	3	GG	G	Alac:G:1:0.35;Fbut:G:1:0.25;Leli:G:1:0.45
+WQVL01000012.1	-	12551	+1	actactCGGacaacat	A	8	GGGGGGGG	G	Aint:G:1:0.65;Alac:G:1:0.55;Bhan:G:1:0.70;Bsub:G:1:0.70;Cdif:G:1:0.65;Chon:G:1:0.65;Fbut:G:1:0.65;Leli:G:1:0.65
+WQVL01000012.1	-	14728	+1	gaagtaCGGaataatt	A	5	SV		Alac:S:1:0.40;Bhan:T:1:0.25;Bsub:V:1:0.42;Cdif:S:0:0.45;Leli:S:0:0.30
+WQVL01000012.1	-	29555	+1	acacttCGGatgtaag	A	5	GGGGG	G	Bsub:G:1:0.75;Cdif:G:1:0.74;Chon:G:1:0.76;Fbut:G:1:0.71;Leli:G:1:0.47
+WQVL01000012.1	-	36659	+1	gcagcgCGGtagtgga	T	4	GGGG	G	Bhan:G:1:0.85;Bsub:G:1:0.85;Cdif:G:1:0.85;Leli:G:1:0.85
+WQVL01000012.1	-	43446	+1	gctagtCGGagaaatt	A	1	Q		Bsub:Q:1:0.56
+WQVL01000012.1	-	44241	+1	gctataCGGttttata	T	1	G		Bhan:G:1:0.35
+WQVL01000012.1	-	44272	+1	tattcgCGGcgaagag	C	1	L		Bhan:L:1:0.45
+WQVL01000012.1	-	44513	+1	ggtattCGGaacgaaa	A	4	GGG	G	Aint:G:1:0.25;Bhan:G:1:0.47;Fbut:G:1:0.32;Leli:G:1:0.42
+WQVL01000013.1	+	44789	+1	ataattCGGcaaatta	C	1	A		Bsub:A:1:0.40
+WQVL01000013.1	-	2514	+1	gcgcatCGGaaaaatg	A	8	GGGGGGGG	G	Aint:G:1:0.55;Alac:G:1:0.60;Bhan:G:1:0.45;Bsub:G:1:0.60;Cdif:G:1:0.45;Chon:G:1:0.55;Fbut:G:1:0.60;Leli:G:1:0.47
+WQVL01000013.1	-	2938	+1	aagcttCGGtcacgtt	T	6	GGGGGG	G	Aint:G:1:0.55;Bhan:G:1:0.40;Bsub:G:1:0.55;Cdif:G:1:0.55;Fbut:G:1:0.45;Leli:G:1:0.47
+WQVL01000013.1	-	6426	+1	tcaacgCGGaggaaca	A	1	G		Cdif:G:1:0.45
+WQVL01000013.1	-	7775	+1	gagcttCGGagttcag	A	1	G		Cdif:G:1:0.45
+WQVL01000013.1	-	10096	+1	gcagtgCGGagtactt	A	3	GGG	G	Bsub:G:1:0.63;Cdif:G:1:0.59;Chon:G:1:0.50
+WQVL01000013.1	-	10418	+1	ggacttCGGgcaaagc	G	5	GGGGG	G	Bsub:G:1:0.65;Cdif:G:1:0.75;Chon:G:1:0.55;Fbut:G:1:0.45;Leli:G:1:0.70
+WQVL01000013.1	-	10593	+1	gctgcaCGGagcaggg	A	3	C		Cdif:G:1:0.17;Chon:V:1:0.23;Fbut:C:1:0.50
+WQVL01000013.1	-	10906	+1	ggacttCGGaaggact	A	3	GG	G	Bsub:G:1:0.45;Cdif:G:0:0.45;Chon:G:1:0.45
+WQVL01000013.1	-	14727	+1	atttcaCGGagaagca	A	2	GG	G	Bsub:G:1:0.40;Leli:G:1:0.55
+WQVL01000013.1	-	15086	+1	accatgCGGagaaaat	A	1			Leli:T:1:0.07
+WQVL01000013.1	-	15357	+1	gctactCGGtgcagac	T	2	G		Bsub:G:1:0.20;Leli:G:1:0.30
+WQVL01000013.1	-	22027	+1	gaagtgCGGagaggta	A	1	P		Fbut:P:1:0.56
+WQVL01000013.1	-	22046	+1	cttgagCGGtattgta	T	1	G		Fbut:G:1:0.67
+WQVL01000013.1	-	39247	+1	tcagtcCGGgatatca	G	5	GGGGG	G	Aint:G:1:0.30;Bhan:G:1:0.44;Cdif:G:1:0.47;Chon:G:1:0.31;Leli:G:1:0.31
+WQVL01000014.1	+	1326	+1	gtagttCGGaatagtt	A	8	AAAAAAAP	A	Aint:P:1:0.55;Alac:A:1:0.55;Bhan:A:1:0.70;Bsub:A:1:0.75;Cdif:A:1:0.60;Chon:A:1:0.50;Fbut:A:1:0.55;Leli:A:1:0.70
+WQVL01000014.1	+	5716	+1	tacgaaCGGaaaaata	A	1	D		Bhan:D:1:0.40
+WQVL01000014.1	+	7748	+1	tgttcgCGGgaatact	G	3	GGG	G	Aint:G:1:0.55;Bhan:G:1:0.60;Cdif:G:1:0.65
+WQVL01000014.1	+	7863	-1	aatgacCGGactttct	A	2			Aint:A:0:0.40;Cdif:A:0:0.80
+WQVL01000014.1	+	10556	+1	gaagacCGGaagaatt	A	8	GGGGGGGG	G	Aint:G:1:0.70;Alac:G:1:0.70;Bhan:G:1:0.85;Bsub:G:1:0.75;Cdif:G:1:0.85;Chon:G:1:0.80;Fbut:G:1:0.65;Leli:G:1:0.85
+WQVL01000014.1	+	12856	+1	gatataCGGaatgacg	A	1	G		Aint:G:1:0.60
+WQVL01000014.1	+	37554	+1	gtaaatCGGatatatt	A	1	I		Cdif:I:1:0.35
+WQVL01000015.1	+	13660	+1	gaagtgCGGaaaagca	A	3			Aint:R:1:0.15;Cdif:R:1:0.25;Chon:R:1:0.15
+WQVL01000015.1	+	28795	+1	atttttCGGaatagtg	A	1	L		Alac:L:1:0.35
+WQVL01000015.1	+	29390	+1	tatggcCGGaagtgcc	A	2	GG	G	Alac:G:1:0.55;Bsub:G:1:0.45
+WQVL01000016.1	+	1282	+1	agagtaCGGgccttta	G	7	NNNQTY		Aint:Q:1:0.50;Alac:N:1:0.30;Bhan:T:1:0.55;Bsub:E:1:0.11;Cdif:N:1:0.40;Fbut:N:1:0.35;Leli:Y:1:0.50
+WQVL01000016.1	+	10512	+1	atgtggCGGtagtaca	T	2	TT	T	Bsub:T:1:0.35;Chon:T:1:0.55
+WQVL01000017.1	+	490	+1	gtagagCGGtagccaa	T	1	H		Bsub:H:1:0.35
+WQVL01000017.1	+	5894	+1	ggtataCGGaaaaggt	A	6	G		Alac:T:0:0.18;Bhan:G:0:0.36;Bsub:G:1:0.57;Chon:R:1:0.29;Fbut:N:0:0.08;Leli:G:0:0.27
+WQVL01000017.1	+	6114	+1	ccggagCGGtccggca	T	7	GGGGG	G	Alac:G:1:0.30;Bhan:G:1:0.35;Bsub:G:1:0.40;Cdif:G:1:0.25;Chon:G:1:0.20;Fbut:G:1:0.30;Leli:G:1:0.35
+WQVL01000017.1	+	23490	+1	gcagtaCGGaattggt	A	3	GG	G	Bsub:G:1:0.65;Cdif:-:0:0.00;Fbut:G:1:0.40
+WQVL01000017.1	+	23545	+1	atgcttCGGacatggt	A	3	GGG	G	Bsub:G:1:0.45;Cdif:G:1:0.31;Fbut:G:1:0.45
+WQVL01000017.1	+	23945	+1	cttcttCGGgctgaca	G	3	EKS		Bsub:K:1:0.75;Cdif:E:1:0.65;Fbut:S:1:0.70
+WQVL01000017.1	+	24012	+1	tttataCGGagctata	A	2	GG	G	Bsub:G:1:0.80;Cdif:G:1:0.70
+WQVL01000017.1	+	24052	+1	acaatgCGGatacgca	A	2	GG	G	Cdif:G:1:0.50;Fbut:G:1:0.60
+WQVL01000017.1	+	27123	+1	aatgttCGGaaagcta	A	4	GGGG	G	Aint:G:1:0.45;Alac:G:1:0.35;Bsub:G:1:0.65;Chon:G:1:0.40
+WQVL01000017.1	+	27451	+1	gatgatCGGaaaaatt	A	7	GGGGG	G	Aint:G:1:0.55;Alac:G:0:0.64;Bhan:G:1:0.65;Bsub:G:1:0.60;Cdif:G:1:0.60;Chon:G:0:0.45;Leli:G:1:0.65
+WQVL01000017.1	+	27854	+1	tatataCGGgtatatg	G	1			Chon:K:1:0.10
+WQVL01000017.1	+	27987	+1	gattgcCGGaatagca	A	4	NS		Aint:V:0:0.50;Bsub:K:0:0.50;Cdif:N:1:0.62;Chon:S:1:0.40
+WQVL01000017.1	+	35478	+1	gaaatgCGGagactta	A	1			Cdif:E:1:0.20
+WQVL01000017.1	-	24867	+1	aaaggtCGGcttatta	C	2	GG	G	Aint:G:1:0.55;Fbut:G:1:0.45
+WQVL01000018.1	-	2464	+1	gttcttCGGaatgtat	A	1	G		Cdif:G:1:0.30
+WQVL01000018.1	-	2705	+1	gcacttCGGaatagga	A	1	I		Cdif:I:1:0.32
+WQVL01000018.1	-	6186	+1	ttactcCGGtcaaact	T	8	GGGGGGGG	G	Aint:G:1:0.55;Alac:G:1:0.30;Bhan:G:1:0.45;Bsub:G:1:0.37;Cdif:G:1:0.40;Chon:G:1:0.35;Fbut:G:1:0.40;Leli:G:1:0.40
+WQVL01000018.1	-	10209	+1	ccacttCGGagtattt	A	8	GGGGGGGG	G	Aint:G:1:0.70;Alac:G:1:0.70;Bhan:G:1:0.80;Bsub:G:1:0.55;Cdif:G:1:0.80;Chon:G:1:0.50;Fbut:G:1:0.65;Leli:G:1:0.75
+WQVL01000018.1	-	18292	+1	ggctcaCGGaaaaacc	A	8	GGGGGGGG	G	Aint:G:1:0.90;Alac:G:1:0.85;Bhan:G:1:0.90;Bsub:G:1:0.65;Cdif:G:1:0.85;Chon:G:1:0.85;Fbut:G:1:0.90;Leli:G:1:0.80
+WQVL01000018.1	-	36420	+1	gggcagCGGagaagct	A	7	GGGGGSS	G	Aint:G:1:0.70;Bhan:G:1:0.80;Bsub:S:1:0.80;Cdif:G:1:0.85;Chon:G:1:0.75;Fbut:G:1:0.80;Leli:S:1:0.50
+WQVL01000018.1	-	36460	+1	actaaaCGGagcatat	A	7	GGGGGGG	G	Aint:G:1:0.55;Bhan:G:1:0.70;Bsub:G:1:0.85;Cdif:G:1:0.75;Chon:G:1:0.65;Fbut:G:1:0.80;Leli:G:1:0.65
+WQVL01000018.1	-	36494	+1	aaatttCGGaagacca	A	7	GHNNQRR		Aint:R:1:0.60;Bhan:Q:1:0.90;Bsub:N:1:0.85;Cdif:N:1:0.90;Chon:H:1:0.60;Fbut:G:1:0.90;Leli:R:1:0.75
+WQVL01000019.1	+	34528	+1	actgcgCGGagcaatt	A	2	GG	G	Cdif:G:1:0.50;Leli:G:1:0.50
+WQVL01000019.1	-	27753	-1	ataatgCGGagctcgg	A	2			Bsub:-:0:0.00;Cdif:-:0:0.00
+WQVL01000019.1	-	27787	+1	tttgcaCGGagcatgt	A	2	GG	G	Bsub:G:1:0.55;Cdif:G:1:0.55
+WQVL01000020.1	+	3030	+1	agagacCGGatactct	A	6	GGGGGG	G	Aint:G:1:0.90;Alac:G:1:0.80;Bhan:G:1:0.80;Cdif:G:1:0.75;Chon:G:1:0.85;Leli:G:1:0.75
+WQVL01000020.1	+	4270	+1	gcgcttCGGaggaagc	A	3	GGG	G	Aint:G:1:0.50;Bsub:G:1:0.60;Leli:G:1:0.70
+WQVL01000020.1	+	21281	+1	gcagcgCGGattagaa	A	6	GGGGG	G	Aint:G:1:0.25;Alac:G:1:0.40;Bhan:G:1:0.45;Bsub:G:1:0.55;Cdif:G:1:0.65;Chon:G:1:0.30
+WQVL01000020.1	+	23977	+1	gatgttCGGactcata	A	8	GGGGGGGG	G	Aint:G:1:0.80;Alac:G:1:0.80;Bhan:G:1:0.85;Bsub:G:1:0.80;Cdif:G:1:0.80;Chon:G:1:0.85;Fbut:G:1:0.85;Leli:G:1:0.80
+WQVL01000020.1	+	26697	+1	tgtgtaCGGttactta	T	5	GGGGG	G	Aint:G:1:0.33;Bsub:G:1:0.50;Cdif:G:1:0.61;Fbut:G:1:0.35;Leli:G:1:0.42
+WQVL01000020.1	+	26722	+1	gctcttCGGatatatg	A	5	GGGGG	G	Aint:G:1:0.61;Bsub:G:1:0.39;Cdif:G:1:0.44;Fbut:G:1:0.50;Leli:G:1:0.39
+WQVL01000021.1	+	6090	+1	gcaactCGGcccacta	C	5	GGGGG	G	Aint:G:1:0.33;Alac:G:1:0.72;Bsub:G:1:0.56;Chon:G:1:0.45;Fbut:G:1:0.40
+WQVL01000021.1	+	6145	+1	aagaagCGGggtagaa	G	1			Chon:-:0:0.00
+WQVL01000021.1	+	9687	+1	gcaattCGGgcaagat	G	8	GGGGGGGG	G	Aint:G:1:0.45;Alac:G:1:0.40;Bhan:G:1:0.55;Bsub:G:1:0.65;Cdif:G:1:0.50;Chon:G:1:0.55;Fbut:G:1:0.45;Leli:G:1:0.75
+WQVL01000021.1	+	9958	+1	gtagtcCGGaggtcag	A	8	GGGGGGGG	G	Aint:G:1:0.55;Alac:G:1:0.78;Bhan:G:1:0.50;Bsub:G:1:0.60;Cdif:G:1:0.70;Chon:G:1:0.67;Fbut:G:1:0.60;Leli:G:1:0.40
+WQVL01000021.1	+	10325	+1	tttgctCGGagttgga	A	8	GGGGGGGG	G	Aint:G:1:0.65;Alac:G:1:0.60;Bhan:G:1:0.50;Bsub:G:1:0.70;Cdif:G:1:0.60;Chon:G:1:0.65;Fbut:G:1:0.65;Leli:G:1:0.60
+WQVL01000021.1	+	10707	+1	tcgaagCGGaagcggg	A	8	GGGGGGGG	G	Aint:G:1:0.50;Alac:G:1:0.70;Bhan:G:1:0.45;Bsub:G:1:0.50;Cdif:G:1:0.65;Chon:G:1:0.60;Fbut:G:1:0.55;Leli:G:1:0.40
+WQVL01000021.1	+	12481	+1	ttatcaCGGcaatcat	C	8	GGGGGGGG	G	Aint:G:1:0.45;Alac:G:1:0.40;Bhan:G:1:0.55;Bsub:G:1:0.60;Cdif:G:1:0.70;Chon:G:1:0.55;Fbut:G:1:0.40;Leli:G:1:0.60
+WQVL01000021.1	-	17357	+1	ggccctCGGgtcattt	G	3	GGG	G	Aint:G:1:0.60;Bsub:G:1:0.50;Cdif:G:1:0.55
+WQVL01000021.1	-	17918	+1	aataccCGGcgacatc	C	1	G		Cdif:G:1:0.35
+WQVL01000022.1	+	22503	+1	ccagacCGGagagctt	A	5	GGGGG	G	Aint:G:1:0.75;Bhan:G:1:0.75;Bsub:G:1:0.55;Cdif:G:1:0.75;Leli:G:1:0.85
+WQVL01000023.1	+	14714	+1	gatgtcCGGttcgact	T	4	GGGG	G	Aint:G:1:0.53;Cdif:G:1:0.50;Fbut:G:1:0.65;Leli:G:1:0.47
+WQVL01000023.1	+	20729	+1	gcgagtCGGagtgcaa	A	3	GGG	G	Bhan:G:1:0.55;Cdif:G:1:0.55;Fbut:G:1:0.45
+WQVL01000024.1	-	13195	+1	cctcagCGGaatagct	A	5			Alac:A:0:0.60;Bhan:S:0:0.50;Bsub:A:0:0.80;Cdif:A:0:0.80;Fbut:A:0:0.50
+WQVL01000025.1	+	18046	+1	actgtaCGGtaaaata	T	4	GGGG	G	Bhan:G:1:0.40;Cdif:G:1:0.55;Fbut:G:1:0.30;Leli:G:1:0.53
+WQVL01000025.1	+	18698	-1	attttgCGGaggcttt	A	2			Bhan:G:0:0.50;Cdif:T:0:0.50
+WQVL01000025.1	+	18766	+1	cttacaCGGatttggt	A	2	GG	G	Bhan:G:1:0.80;Cdif:G:1:0.62
+WQVL01000025.1	+	18791	+1	gctaggCGGagctatt	A	2	GG	G	Bhan:G:1:0.40;Cdif:G:1:0.40
+WQVL01000025.1	-	2214	+1	tatatcCGGaagaagc	A	4	GG	G	Aint:G:1:0.35;Bhan:G:1:0.40;Cdif:G:1:0.21;Fbut:C:1:0.25
+WQVL01000025.1	-	2416	+1	aagattCGGagtattt	A	2	GG	G	Aint:G:1:0.60;Alac:G:1:0.60
+WQVL01000025.1	-	9158	+1	ggactcCGGgtataaa	G	5	GGGG	G	Alac:E:0:0.50;Bhan:G:1:0.45;Cdif:G:1:0.40;Chon:G:1:0.45;Leli:G:1:0.50
+WQVL01000025.1	-	9591	+1	atagttCGGaggaaca	A	6	GGGGGG	G	Alac:G:1:0.50;Bhan:G:1:0.50;Bsub:G:1:0.55;Cdif:G:1:0.45;Chon:G:1:0.55;Leli:G:1:0.45
+WQVL01000025.1	-	9844	+1	gcttctCGGgaagagt	G	5	GGGGG	G	Bhan:G:1:0.50;Bsub:G:1:0.55;Cdif:G:1:0.50;Chon:G:1:0.65;Leli:G:1:0.55
+WQVL01000025.1	-	11356	+1	cagggaCGGaaaattt	A	6	GGH	G	Aint:G:1:0.40;Bhan:H:1:0.35;Bsub:G:1:0.10;Cdif:G:1:0.20;Fbut:G:1:0.45;Leli:H:1:0.25
+WQVL01000025.1	-	11768	+1	cagactCGGaaccacg	A	4	GGGG	G	Aint:G:1:0.45;Alac:G:1:0.30;Bhan:G:1:0.35;Cdif:G:1:0.35
+WQVL01000026.1	-	1199	+1	cctgtgCGGaaggtta	A	3	GGG	G	Bsub:G:1:0.45;Cdif:G:1:0.45;Chon:G:1:0.60
+WQVL01000026.1	-	1945	+1	aacgaaCGGgactatt	G	6	GGGGGI	G	Bhan:G:1:0.40;Bsub:G:1:0.40;Cdif:I:1:0.40;Chon:G:1:0.45;Fbut:G:1:0.30;Leli:G:1:0.40
+WQVL01000026.1	-	2189	+1	catcctCGGgaatgga	G	7	AAAAAAS	A	Aint:A:1:0.70;Bhan:S:1:0.60;Bsub:A:1:0.60;Cdif:A:1:0.55;Chon:A:1:0.60;Fbut:A:1:0.75;Leli:A:1:0.65
+WQVL01000026.1	-	2697	+1	atagtcCGGattaact	A	1			Cdif:G:1:0.20
+WQVL01000027.1	+	4973	+1	ttagtcCGGaaatctc	A	1			Fbut:A:1:0.23
+WQVL01000027.1	+	17733	+1	gcctctCGGgagaaca	G	2	GS		Cdif:G:1:0.50;Leli:S:1:0.60
+WQVL01000027.1	+	17809	+1	gggattCGGaaaatta	A	1	E		Cdif:E:1:0.44
+WQVL01000027.1	+	18218	+1	ggattgCGGaaagata	A	2	GG	G	Cdif:G:1:0.62;Leli:G:1:0.40
+WQVL01000027.1	-	20624	+1	ttagttCGGaaaatct	A	4	GGGG	G	Bhan:G:1:0.60;Bsub:G:1:0.70;Cdif:G:1:0.65;Leli:G:1:0.60
+WQVL01000027.1	-	21050	+1	tgttctCGGagattta	A	1	G		Aint:G:1:0.90
+WQVL01000029.1	+	395	+1	gcggtgCGGagttaat	A	7	GGGGHSS		Alac:G:1:0.45;Bhan:G:1:0.65;Bsub:G:1:0.55;Cdif:H:1:0.65;Chon:S:1:0.50;Fbut:S:1:0.50;Leli:G:1:0.75
+WQVL01000029.1	+	6729	+1	ggagcgCGGaagagaa	A	2	GG	G	Bhan:G:1:0.40;Leli:G:1:0.40
+WQVL01000030.1	+	5320	+1	gtttcaCGGaggttct	A	6	GGGGK	G	Aint:G:1:0.30;Bhan:G:1:0.35;Bsub:G:1:0.50;Cdif:K:1:0.55;Fbut:G:1:0.15;Leli:G:1:0.40
+WQVL01000030.1	+	15251	+1	actgttCGGcaatata	C	1	D		Fbut:D:1:0.30
+WQVL01000030.1	+	15831	+1	attgtcCGGagcatta	A	2	AG		Bsub:G:1:0.45;Fbut:A:1:0.55
+WQVL01000030.1	+	16021	+1	gctgttCGGattattt	A	1	A		Fbut:A:1:0.30
+WQVL01000030.1	-	1399	+1	gagttgCGGagaattt	A	2	GG	G	Alac:G:1:0.60;Chon:G:1:0.65
+WQVL01000030.1	-	1505	+1	gctatcCGGattattt	A	8	GGH	G	Aint:S:0:0.27;Alac:G:1:0.70;Bhan:H:1:0.31;Bsub:-:0:0.00;Cdif:K:0:0.30;Chon:G:1:0.55;Fbut:H:1:0.28;Leli:-:0:0.00
+WQVL01000030.1	-	1803	+1	agggcaCGGagcaagt	A	5	EGR		Aint:R:1:0.30;Alac:E:1:0.36;Bsub:R:1:0.16;Cdif:-:0:0.00;Chon:G:1:0.60
+WQVL01000030.1	-	2317	+1	ggaactCGGaataagt	A	8	S		Aint:A:1:0.28;Alac:S:1:0.33;Bhan:E:1:0.22;Bsub:T:1:0.20;Cdif:K:1:0.21;Chon:K:0:0.36;Fbut:T:1:0.11;Leli:K:1:0.22
+WQVL01000030.1	-	7124	+1	atagttCGGgatggga	G	1	G		Cdif:G:1:0.50
+WQVL01000030.1	-	7389	+1	acaattCGGtccaata	T	1	Q		Cdif:Q:1:0.65
+WQVL01000030.1	-	11905	+1	gctgaaCGGaaagtta	A	8	DGGGGNNQ		Aint:G:1:0.60;Alac:N:1:0.60;Bhan:G:1:0.70;Bsub:D:1:0.60;Cdif:N:1:0.60;Chon:G:1:0.60;Fbut:Q:1:0.60;Leli:G:1:0.65
+WQVL01000031.1	+	599	+1	gaagctCGGacttcga	A	5	GGGGG	G	Aint:G:1:0.75;Alac:G:1:0.65;Bsub:G:1:0.70;Cdif:G:1:0.65;Leli:G:1:0.55
+WQVL01000031.1	+	2323	+1	aatatgCGGatggaat	A	1			Leli:D:0:0.50
+WQVL01000031.1	+	9248	+1	gtacttCGGagatatg	A	1	G		Bhan:G:1:0.57
+WQVL01000031.1	+	9267	+1	gaacttCGGagagttc	A	1	G		Bhan:G:1:0.50
+WQVL01000031.1	+	9388	+1	gagatgCGGaatgaca	A	3			Bhan:S:0:0.20;Cdif:G:0:0.27;Leli:I:0:0.33
+WQVL01000031.1	+	9892	+1	ttacatCGGaggaatg	A	3	GGG	G	Bhan:G:1:0.60;Chon:G:1:0.60;Leli:G:1:0.55
+WQVL01000031.1	+	9941	+1	atgatgCGGaatcaaa	A	3	GGG	G	Bhan:G:1:0.50;Chon:G:1:0.65;Leli:G:1:0.55
+WQVL01000031.1	+	14437	+1	aagatgCGGgtcagat	G	4	LS		Alac:E:1:0.25;Bsub:S:1:0.45;Cdif:L:1:0.50;Chon:L:1:0.25
+WQVL01000031.1	+	14732	+1	ggcctcCGGcggatac	C	8	GGGGGGG	G	Aint:G:1:0.50;Alac:G:1:0.25;Bhan:G:1:0.50;Bsub:G:1:0.65;Cdif:G:1:0.45;Chon:G:1:0.35;Fbut:G:1:0.40;Leli:G:1:0.40
+WQVL01000031.1	-	7448	+1	attgtcCGGaataatt	A	2	AG		Bsub:G:1:0.65;Cdif:A:1:0.50
+WQVL01000033.1	+	7711	+1	ggttcaCGGaattttt	A	3	GGG	G	Bsub:G:1:0.75;Chon:G:1:0.95;Leli:G:1:0.90
+WQVL01000033.1	-	4133	+1	gtagtaCGGacaagat	A	6	GGGGGG	G	Aint:G:1:0.50;Bhan:G:1:0.50;Bsub:G:1:0.50;Cdif:G:1:0.45;Chon:G:1:0.30;Leli:G:1:0.50
+WQVL01000034.1	-	5311	+1	gctgtgCGGgagaaca	G	5	GGGGG	G	Alac:G:1:0.80;Bhan:G:1:0.75;Chon:G:1:0.84;Fbut:G:1:0.80;Leli:G:1:0.80
+WQVL01000034.1	-	5570	+1	atgcttCGGgtcagca	G	5	GGGGG	G	Alac:G:1:0.50;Bhan:G:1:0.70;Chon:G:1:0.50;Fbut:G:1:0.55;Leli:G:1:0.65
+WQVL01000035.1	+	8188	+1	aaacttCGGaggagga	A	7	EGGGGGG	G	Aint:G:1:0.70;Bhan:G:1:0.70;Bsub:E:1:0.60;Cdif:G:1:0.75;Chon:G:1:0.85;Fbut:G:1:0.70;Leli:G:1:0.65
+WQVL01000037.1	+	260	+1	aatatgCGGaaatccg	A	4	GGGG	G	Bsub:G:1:0.45;Cdif:G:1:0.55;Chon:G:1:0.35;Leli:G:1:0.45
+WQVL01000037.1	+	1427	+1	attgcgCGGaccatct	A	4	AGGG	G	Alac:G:1:0.55;Bhan:G:1:0.65;Cdif:A:1:0.75;Leli:G:1:0.65
+WQVL01000037.1	+	1677	+1	tttactCGGatcaaaa	A	3	GG	G	Alac:G:1:0.25;Bhan:G:1:0.50;Cdif:G:1:0.40
+WQVL01000037.1	+	3772	+1	cagaggCGGaggaggc	A	1	L		Alac:L:1:0.30
+WQVL01000038.1	+	5393	+1	tgtgtgCGGtaagttt	T	3	EGG	G	Bhan:E:1:0.35;Cdif:G:1:0.35;Leli:G:1:0.30
+WQVL01000039.1	+	6953	+1	gcacttCGGgccgaag	G	1	G		Bhan:G:1:0.55
+WQVL01000039.1	-	4589	+1	gctctaCGGaggcatg	A	1	G		Aint:G:1:0.41
+WQVL01000042.1	-	1659	+1	tgcgtgCGGatgtaac	A	7	ADDHNVV		Aint:N:1:0.60;Alac:A:1:0.55;Bhan:V:1:0.65;Cdif:D:1:0.60;Chon:D:1:0.60;Fbut:H:1:0.75;Leli:V:1:0.75
+WQVL01000046.1	+	1689	+1	tgccctCGGaaaaata	A	4	GGGG	G	Bhan:G:1:0.60;Bsub:G:1:0.45;Cdif:G:1:0.55;Leli:G:1:0.38

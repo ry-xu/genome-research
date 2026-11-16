@@ -1,0 +1,12 @@
+label	qseqid	strand	sseqid	shift	ctx
++1 other	OZ007016.1	+	sp|B9E1H0|SMC_CLOK1	+1	atgctaaatctgaaaTGCAAAGTTTGATTC
++1 other	OZ007016.1	+	sp|B9E1H0|SMC_CLOK1	+1	atcaaaacaattttaTGATATAGAGTTTAA
++1 other	OZ007016.1	+	sp|Q7MVL1|FEOB2_PORGI	+1	agaaaagcaggtagtTCGCGGAAAACAAGC
+-1 other	OZ007016.1	+	sp|Q928I2|GPMI_LISIN	-1	atagataaactaatgAAAACATGCCAACAA
++1 other	OZ007016.1	+	sp|Q7U3W6|RF2_PARMW	+1	ataggtgattcacttTGACATTACTAATTT
++1 other	OZ007016.1	+	sp|Q887Q6|ALGI_PSESM	+1	attgtatgggctttaACACGGAGCATGGCA
++1 other	OZ007016.1	-	sp|P37548|PRTG_BACSU	+1	atcaggaagaaattaTGAAGATATATATAA
++1 other	OZ007016.1	-	sp|P40114|TOP1_BACAN	+1	gaagtattgaaagatAGAAAAGAAGAGAAA
++1 other	OZ007016.1	-	sp|Q9WY30|CDPD_THEMA	+1	agaggatatcctcggACAATTAAAAGGTGA
++1 other	OZ007016.1	-	sp|Q58087|Y674_METJA	+1	gcaataaaaattgcaAGAAGCAAACGGACT
++1 other	OZ007016.1	-	sp|Q97ZZ0|IXTPA_SACS2	+1	cactatttttatggaAAACATCCACGGAAA

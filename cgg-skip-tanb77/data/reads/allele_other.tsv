@@ -1,0 +1,12 @@
+site	label	sseqid	with	without	left	right	with_share
+0	+1 other	sp|B9E1H0|SMC_CLOK1	7	0	6	4	1.000
+1	+1 other	sp|B9E1H0|SMC_CLOK1	4	0	6	7	1.000
+2	+1 other	sp|Q7MVL1|FEOB2_PORGI	7	0	5	4	1.000
+3	-1 other	sp|Q928I2|GPMI_LISIN	0	0	2	12	
+4	+1 other	sp|Q7U3W6|RF2_PARMW	2	0	0	1	1.000
+5	+1 other	sp|Q887Q6|ALGI_PSESM	8	0	26	7	1.000
+6	+1 other	sp|P37548|PRTG_BACSU	4	0	3	2	1.000
+7	+1 other	sp|P40114|TOP1_BACAN	2	0	5	3	1.000
+8	+1 other	sp|Q9WY30|CDPD_THEMA	10	0	10	10	1.000
+9	+1 other	sp|Q58087|Y674_METJA	7	0	6	5	1.000
+10	+1 other	sp|Q97ZZ0|IXTPA_SACS2	10	0	9	8	1.000

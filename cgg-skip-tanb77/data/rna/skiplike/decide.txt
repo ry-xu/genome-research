@@ -1,0 +1,30 @@
+== S8_mine_skip
+set A: D 0.0000 (95% 0.0000-0.0000), lacks 0 of 280 observations over 63 sites
+set A0: no observations
+set B: no observations
+decision: transcripts keep the C
+== S9_mine_skip
+set A: D 0.0000 (95% 0.0000-0.0000), lacks 0 of 305 observations over 69 sites
+set A0: no observations
+set B: no observations
+decision: transcripts keep the C
+== S8_recheck_skip
+set A: D 0.0116 (95% 0.0000-0.0608), lacks 3 of 259 observations over 60 sites
+set A0: no observations
+set B: no observations
+decision: transcripts keep the C
+== S9_recheck_skip
+set A: D 0.0107 (95% 0.0000-0.0536), lacks 3 of 281 observations over 66 sites
+set A0: no observations
+set B: no observations
+decision: transcripts keep the C
+== S9_mine_inframe
+set A: D 0.0000 (95% 0.0000-0.0000), lacks 0 of 6282 observations over 166 sites
+set A0: no observations
+set B: no observations
+decision: transcripts keep the C
+== S9_mine_unclear
+set A: D 0.0000 (95% 0.0000-0.0000), lacks 0 of 2604 observations over 69 sites
+set A0: no observations
+set B: no observations
+decision: transcripts keep the C

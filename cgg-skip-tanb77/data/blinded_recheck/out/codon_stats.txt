@@ -1,0 +1,144 @@
+G1 loci 150846 events 212 +1 203 -1 9 >=2refs 165
+  CGG n=    30 in/out=30/308 cons_n=    0 [] fs={'+1': 29, '-1': 1} D=1 junc_old=181 junc_new=0
+  CGA n=    91 in/out=91/395 cons_n=   45 [R38, L3, K2, Q1] fs={'+1': 1} D=1 junc_old=2 junc_new=2
+  CGC n=    23 in/out=23/126 cons_n=   15 [R15] fs={} D=2 junc_old=0 junc_new=1
+  AGG n=   590 in/out=590/2808 cons_n=  307 [R263, K27, Q3, T2] fs={'-1': 1, '+1': 5} D=8 junc_old=9 junc_new=4
+  AGA n=  4596 in/out=4596/6587 cons_n= 2607 [R2205, K224, E27, Q24] fs={'+1': 29, '-1': 2} D=45 junc_old=38 junc_new=14
+  CGT n=   211 in/out=211/122 cons_n=  147 [R133, K6, S2, I1] fs={} D=1 junc_old=0 junc_new=1
+  GCG n=   228 in/out=228/168 cons_n=  129 [A107, G6, V5, T3] fs={'+1': 4} D=2 junc_old=3 junc_new=2
+  CCG n=   115 in/out=115/92 cons_n=   70 [P68, S1, A1] fs={'+1': 1, '-1': 1} D=2 junc_old=0 junc_new=3
+  ACG n=   184 in/out=184/352 cons_n=   92 [T70, A4, S4, V4] fs={'-1': 1} D=3 junc_old=2 junc_new=1
+  TCG n=   135 in/out=135/256 cons_n=   48 [S31, A4, P4, E3] fs={'+1': 3} D=0 junc_old=1 junc_new=4
+  CTC n=    97 in/out=97/579 cons_n=   43 [L37, M2, P1, K1] fs={'+1': 17} D=2 junc_old=2 junc_new=33
+  TGG n=   791 in/out=791/3178 cons_n=  442 [W397, Y14, F13, L5] fs={'+1': 2} D=14 junc_old=7 junc_new=5
+  TAA n=     0 in/out=0/8485 cons_n=    0 [] fs={} D=0 junc_old=20 junc_new=10
+  TAG n=     1 in/out=1/4980 cons_n=    0 [] fs={'-1': 1} D=0 junc_old=4 junc_new=15
+  TGA n=     0 in/out=0/4298 cons_n=    0 [] fs={} D=0 junc_old=10 junc_new=3
+G2 loci 560657 events 41 +1 25 -1 16 >=2refs 5
+  CGG n=    26 in/out=26/1393 cons_n=    2 [R2] fs={} D=0 junc_old=0 junc_new=0
+  CGA n=   327 in/out=327/1894 cons_n=   82 [R70, K6, E1, I1] fs={'-1': 1} D=2 junc_old=0 junc_new=1
+  CGC n=    98 in/out=98/696 cons_n=   27 [R25, K2] fs={'+1': 1} D=1 junc_old=2 junc_new=1
+  AGG n=  1677 in/out=1677/12018 cons_n=  534 [R452, K51, D4, N4] fs={'+1': 1} D=11 junc_old=0 junc_new=3
+  AGA n= 15805 in/out=15805/23015 cons_n= 6274 [R5406, K540, G44, E41] fs={'+1': 5} D=84 junc_old=3 junc_new=4
+  CGT n=   852 in/out=852/1100 cons_n=  351 [R318, K16, E3, H3] fs={'+1': 1} D=10 junc_old=0 junc_new=1
+  GCG n=  1344 in/out=1344/787 cons_n=  546 [A468, S21, G11, T9] fs={'+1': 1} D=8 junc_old=0 junc_new=1
+  CCG n=   735 in/out=735/294 cons_n=  361 [P349, D3, A3, E2] fs={'-1': 1} D=2 junc_old=1 junc_new=0
+  ACG n=  1108 in/out=1108/1608 cons_n=  321 [T247, S16, A11, V11] fs={} D=11 junc_old=1 junc_new=0
+  TCG n=   858 in/out=858/1018 cons_n=  251 [S181, A35, T10, K4] fs={} D=7 junc_old=1 junc_new=0
+  CTC n=   213 in/out=213/3748 cons_n=   43 [L37, M3, V1, K1] fs={} D=0 junc_old=0 junc_new=2
+  TGG n=  2988 in/out=2988/10781 cons_n= 1197 [W1123, Y18, F17, L8] fs={'+1': 3, '-1': 3} D=23 junc_old=8 junc_new=5
+  TAA n=    10 in/out=10/33788 cons_n=    1 [E1] fs={'+1': 2} D=1 junc_old=11 junc_new=6
+  TAG n=     3 in/out=3/23204 cons_n=    0 [] fs={'-1': 1} D=3 junc_old=3 junc_new=1
+  TGA n=     0 in/out=0/17274 cons_n=    0 [] fs={} D=0 junc_old=3 junc_new=2
+G3 loci 154055 events 18 +1 17 -1 1 >=2refs 11
+  CGG n=     5 in/out=5/570 cons_n=    0 [] fs={'+1': 4} D=0 junc_old=14 junc_new=0
+  CGA n=   130 in/out=130/785 cons_n=   53 [R44, K5, H1, M1] fs={} D=3 junc_old=0 junc_new=0
+  CGC n=    44 in/out=44/245 cons_n=   23 [R17, K3, P1, Y1] fs={} D=0 junc_old=0 junc_new=0
+  AGG n=   576 in/out=576/3142 cons_n=  289 [R252, K18, Q6, T3] fs={'+1': 2} D=5 junc_old=2 junc_new=0
+  AGA n=  4780 in/out=4780/6854 cons_n= 2579 [R2177, K204, E33, Q24] fs={'-1': 1, '+1': 1} D=65 junc_old=1 junc_new=2
+  CGT n=   401 in/out=401/344 cons_n=  272 [R252, K8, H3, T3] fs={} D=3 junc_old=0 junc_new=0
+  GCG n=   496 in/out=496/400 cons_n=  259 [A211, S12, G8, E4] fs={'+1': 2} D=3 junc_old=0 junc_new=3
+  CCG n=   252 in/out=252/153 cons_n=  130 [P124, A2, D1, I1] fs={} D=3 junc_old=0 junc_new=0
+  ACG n=   378 in/out=378/664 cons_n=  159 [T124, S7, V4, A4] fs={} D=7 junc_old=0 junc_new=0
+  TCG n=   293 in/out=293/310 cons_n=  111 [S76, A12, T6, G3] fs={} D=6 junc_old=0 junc_new=0
+  CTC n=    44 in/out=44/684 cons_n=   22 [L17, V2, I1, K1] fs={'+1': 1} D=1 junc_old=0 junc_new=1
+  TGG n=   788 in/out=788/3358 cons_n=  423 [W385, F16, Y8, L3] fs={} D=14 junc_old=1 junc_new=1
+  TAA n=     0 in/out=0/8008 cons_n=    0 [] fs={} D=0 junc_old=4 junc_new=2
+  TAG n=     2 in/out=2/5314 cons_n=    1 [Q1] fs={} D=0 junc_old=1 junc_new=1
+  TGA n=     0 in/out=0/4280 cons_n=    0 [] fs={} D=0 junc_old=1 junc_new=0
+G4 loci 179070 events 72 +1 58 -1 14 >=2refs 43
+  CGG n=    16 in/out=16/263 cons_n=    0 [] fs={'+1': 10} D=0 junc_old=40 junc_new=1
+  CGA n=   117 in/out=117/366 cons_n=   36 [R29, K2, Q2, D1] fs={} D=2 junc_old=0 junc_new=0
+  CGC n=    44 in/out=44/132 cons_n=   25 [R23, G1, K1] fs={'+1': 1} D=0 junc_old=0 junc_new=2
+  AGG n=   464 in/out=464/3532 cons_n=  218 [R184, K17, G5, P2] fs={'+1': 5} D=3 junc_old=5 junc_new=4
+  AGA n=  5730 in/out=5730/8055 cons_n= 3122 [R2642, K261, Q30, E30] fs={'+1': 12, '-1': 2} D=77 junc_old=16 junc_new=10
+  CGT n=   288 in/out=288/102 cons_n=  193 [R175, K11, E2, N2] fs={'+1': 2} D=2 junc_old=1 junc_new=2
+  GCG n=   210 in/out=210/188 cons_n=  117 [A104, S6, V2, G2] fs={} D=0 junc_old=0 junc_new=0
+  CCG n=   130 in/out=130/96 cons_n=   71 [P63, K3, A2, L1] fs={'+1': 2, '-1': 1} D=2 junc_old=3 junc_new=0
+  ACG n=   137 in/out=137/266 cons_n=   59 [T40, S4, A4, N3] fs={'+1': 1} D=2 junc_old=1 junc_new=0
+  TCG n=   154 in/out=154/242 cons_n=   45 [S26, A6, T4, P3] fs={'+1': 1} D=1 junc_old=1 junc_new=0
+  CTC n=    76 in/out=76/632 cons_n=   29 [L28, A1] fs={'+1': 1} D=0 junc_old=2 junc_new=7
+  TGG n=   956 in/out=956/3430 cons_n=  524 [W472, Y16, F15, L6] fs={'+1': 5, '-1': 1} D=15 junc_old=2 junc_new=6
+  TAA n=     3 in/out=3/10114 cons_n=    0 [] fs={} D=0 junc_old=9 junc_new=5
+  TAG n=     4 in/out=4/6692 cons_n=    0 [] fs={} D=1 junc_old=3 junc_new=5
+  TGA n=     3 in/out=3/4873 cons_n=    1 [R1] fs={} D=0 junc_old=5 junc_new=2
+G5 loci 441717 events 35 +1 18 -1 17 >=2refs 5
+  CGG n=   308 in/out=308/2896 cons_n=   75 [R64, K4, E2, Q2] fs={} D=5 junc_old=0 junc_new=0
+  CGA n=   994 in/out=994/2214 cons_n=  331 [R253, K50, E5, Q4] fs={} D=18 junc_old=0 junc_new=1
+  CGC n=   704 in/out=704/1412 cons_n=  259 [R221, K20, P5, T2] fs={'+1': 1} D=9 junc_old=1 junc_new=0
+  AGG n=  2755 in/out=2755/10886 cons_n= 1041 [R827, K119, E16, L10] fs={'+1': 2} D=51 junc_old=4 junc_new=3
+  AGA n= 10677 in/out=10677/13114 cons_n= 4820 [R4043, K461, E60, N40] fs={'-1': 1, '+1': 3} D=156 junc_old=4 junc_new=5
+  CGT n=  2170 in/out=2170/1264 cons_n=  877 [R755, K67, E13, T7] fs={} D=27 junc_old=0 junc_new=0
+  GCG n=  2111 in/out=2111/1932 cons_n=  865 [A716, S24, G20, V16] fs={'+1': 1} D=30 junc_old=1 junc_new=0
+  CCG n=  1338 in/out=1338/1254 cons_n=  572 [P533, E12, A9, T5] fs={'+1': 1, '-1': 2} D=21 junc_old=4 junc_new=1
+  ACG n=  1291 in/out=1291/2282 cons_n=  463 [T359, S32, V10, A9] fs={} D=24 junc_old=0 junc_new=0
+  TCG n=   987 in/out=987/1532 cons_n=  339 [S231, A37, T31, G8] fs={} D=19 junc_old=0 junc_new=0
+  CTC n=  1431 in/out=1431/3216 cons_n=  565 [L478, I39, V15, F10] fs={} D=24 junc_old=0 junc_new=3
+  TGG n=  3091 in/out=3091/11206 cons_n= 1232 [W1125, F39, Y29, L6] fs={'+1': 2} D=69 junc_old=3 junc_new=3
+  TAA n=     6 in/out=6/17422 cons_n=    0 [] fs={'-1': 1} D=0 junc_old=11 junc_new=5
+  TAG n=     4 in/out=4/10144 cons_n=    0 [] fs={} D=1 junc_old=4 junc_new=2
+  TGA n=     0 in/out=0/16400 cons_n=    0 [] fs={} D=0 junc_old=3 junc_new=4
+G6 loci 183557 events 17 +1 8 -1 9 >=2refs 8
+  CGG n=    87 in/out=87/2894 cons_n=   37 [R31, K5, P1] fs={} D=1 junc_old=0 junc_new=0
+  CGA n=   331 in/out=331/1727 cons_n=  144 [R122, K13, N2, T1] fs={} D=3 junc_old=0 junc_new=0
+  CGC n=   149 in/out=149/516 cons_n=   77 [R58, K13, G1, E1] fs={} D=3 junc_old=0 junc_new=0
+  AGG n=  1363 in/out=1363/3942 cons_n=  664 [R538, K69, E9, T7] fs={'+1': 1} D=14 junc_old=2 junc_new=2
+  AGA n=  4420 in/out=4420/6531 cons_n= 2403 [R2035, K226, E20, G15] fs={'+1': 1, '-1': 3} D=42 junc_old=2 junc_new=5
+  CGT n=  1109 in/out=1109/762 cons_n=  663 [R569, K65, L7, E3] fs={} D=6 junc_old=1 junc_new=1
+  GCG n=  1345 in/out=1345/788 cons_n=  693 [A566, S34, V18, G16] fs={} D=11 junc_old=0 junc_new=0
+  CCG n=  1869 in/out=1869/980 cons_n= 1159 [P1092, A12, G8, D7] fs={} D=29 junc_old=1 junc_new=0
+  ACG n=  1202 in/out=1202/1406 cons_n=  536 [T427, S25, V16, A13] fs={'-1': 1} D=19 junc_old=1 junc_new=0
+  TCG n=   834 in/out=834/936 cons_n=  351 [S230, A49, T17, E12] fs={} D=11 junc_old=1 junc_new=0
+  CTC n=   248 in/out=248/1132 cons_n=  108 [L94, V3, I3, M2] fs={} D=2 junc_old=0 junc_new=1
+  TGG n=  1015 in/out=1015/3728 cons_n=  544 [W478, F20, Y17, L6] fs={} D=27 junc_old=2 junc_new=0
+  TAA n=     0 in/out=0/8429 cons_n=    0 [] fs={} D=0 junc_old=2 junc_new=2
+  TAG n=     0 in/out=0/4292 cons_n=    0 [] fs={} D=1 junc_old=2 junc_new=2
+  TGA n=     0 in/out=0/6276 cons_n=    0 [] fs={} D=0 junc_old=3 junc_new=0
+G7 loci 164271 events 352 +1 340 -1 12 >=2refs 233
+  CGG n=    93 in/out=93/917 cons_n=    3 [K1, R1, M1] fs={'-1': 5, '+1': 76} D=6 junc_old=288 junc_new=6
+  CGA n=   205 in/out=205/1039 cons_n=   79 [R63, K7, S2, H2] fs={'+1': 8, '-1': 1} D=9 junc_old=7 junc_new=8
+  CGC n=    89 in/out=89/443 cons_n=   31 [R25, P2, Q2, K1] fs={'+1': 3} D=5 junc_old=3 junc_new=11
+  AGG n=   916 in/out=916/3737 cons_n=  406 [R332, K39, E6, S4] fs={'+1': 18, '-1': 1} D=13 junc_old=29 junc_new=12
+  AGA n=  5275 in/out=5275/8028 cons_n= 2616 [R2182, K253, E27, Q26] fs={'+1': 68, '-1': 6} D=102 junc_old=74 junc_new=40
+  CGT n=   444 in/out=444/471 cons_n=  220 [R192, K14, Q4, Y2] fs={'+1': 5} D=9 junc_old=6 junc_new=2
+  GCG n=  1195 in/out=1195/423 cons_n=  559 [A427, S29, G20, T16] fs={'+1': 21, '-1': 1} D=27 junc_old=22 junc_new=6
+  CCG n=   586 in/out=586/228 cons_n=  324 [P300, A7, E5, K2] fs={'+1': 8} D=22 junc_old=2 junc_new=10
+  ACG n=   693 in/out=693/716 cons_n=  270 [T200, A12, V9, S8] fs={'+1': 10} D=14 junc_old=6 junc_new=11
+  TCG n=   477 in/out=477/523 cons_n=  197 [S125, A26, T12, P8] fs={'+1': 6, '-1': 1} D=9 junc_old=10 junc_new=6
+  CTC n=   286 in/out=286/803 cons_n=  106 [L84, I7, M6, Y2] fs={'+1': 24, '-1': 1} D=2 junc_old=11 junc_new=39
+  TGG n=   855 in/out=855/3404 cons_n=  401 [W354, Y15, F11, R3] fs={'+1': 9} D=28 junc_old=12 junc_new=7
+  TAA n=     2 in/out=2/7274 cons_n=    1 [L1] fs={} D=0 junc_old=18 junc_new=17
+  TAG n=     0 in/out=0/6180 cons_n=    0 [] fs={} D=0 junc_old=9 junc_new=35
+  TGA n=     0 in/out=0/4810 cons_n=    0 [] fs={} D=0 junc_old=18 junc_new=8
+G8 loci 354755 events 38 +1 7 -1 31 >=2refs 15
+  CGG n=    45 in/out=45/952 cons_n=    5 [R4, K1] fs={'+1': 1} D=2 junc_old=2 junc_new=0
+  CGA n=   252 in/out=252/760 cons_n=   71 [R56, K7, S2, Q2] fs={} D=2 junc_old=0 junc_new=2
+  CGC n=    85 in/out=85/373 cons_n=   18 [R12, P2, E1, V1] fs={} D=1 junc_old=0 junc_new=0
+  AGG n=  1779 in/out=1779/8976 cons_n=  717 [R582, K75, G9, N8] fs={'+1': 2} D=22 junc_old=1 junc_new=3
+  AGA n= 10576 in/out=10576/14980 cons_n= 5057 [R4269, K453, E49, G41] fs={'-1': 7, '+1': 1} D=122 junc_old=4 junc_new=6
+  CGT n=   455 in/out=455/572 cons_n=  193 [R166, K15, H3, N2] fs={} D=7 junc_old=0 junc_new=0
+  GCG n=   906 in/out=906/452 cons_n=  423 [A367, S12, G11, V8] fs={} D=6 junc_old=0 junc_new=0
+  CCG n=   339 in/out=339/348 cons_n=  170 [P162, A3, E2, L1] fs={'-1': 1} D=4 junc_old=3 junc_new=0
+  ACG n=   481 in/out=481/884 cons_n=  169 [T140, S9, V5, A4] fs={'+1': 1, '-1': 1} D=7 junc_old=2 junc_new=0
+  TCG n=   287 in/out=287/384 cons_n=   99 [S60, A18, T9, K2] fs={'-1': 1} D=2 junc_old=0 junc_new=2
+  CTC n=   291 in/out=291/2142 cons_n=   87 [L71, I5, V3, K2] fs={'-1': 1} D=5 junc_old=1 junc_new=1
+  TGG n=  1976 in/out=1976/7590 cons_n=  815 [W723, Y20, F18, L13] fs={'-1': 1} D=28 junc_old=1 junc_new=0
+  TAA n=     2 in/out=2/20292 cons_n=    0 [] fs={} D=1 junc_old=8 junc_new=5
+  TAG n=     2 in/out=2/14052 cons_n=    0 [] fs={} D=1 junc_old=6 junc_new=1
+  TGA n=     1 in/out=1/9102 cons_n=    0 [] fs={} D=0 junc_old=3 junc_new=2
+G9 loci 189441 events 48 +1 39 -1 9 >=2refs 32
+  CGG n=    11 in/out=11/932 cons_n=    0 [] fs={'+1': 4, '-1': 1} D=1 junc_old=29 junc_new=0
+  CGA n=   311 in/out=311/1526 cons_n=  112 [R81, K22, E4, Q1] fs={} D=5 junc_old=0 junc_new=0
+  CGC n=   164 in/out=164/594 cons_n=   59 [R48, K6, I1, P1] fs={} D=8 junc_old=1 junc_new=0
+  AGG n=   509 in/out=509/3217 cons_n=  187 [R158, K14, A3, P2] fs={'+1': 1} D=12 junc_old=3 junc_new=3
+  AGA n=  5824 in/out=5824/7062 cons_n= 3010 [R2528, K267, E31, Q26] fs={'+1': 3, '-1': 1} D=68 junc_old=6 junc_new=2
+  CGT n=   883 in/out=883/772 cons_n=  441 [R379, K34, G4, L3] fs={'-1': 1, '+1': 1} D=11 junc_old=1 junc_new=2
+  GCG n=  1334 in/out=1334/601 cons_n=  679 [A560, S26, G19, V18] fs={} D=21 junc_old=1 junc_new=0
+  CCG n=   457 in/out=457/247 cons_n=  245 [P233, A3, R2, S2] fs={'-1': 1} D=5 junc_old=0 junc_new=2
+  ACG n=   967 in/out=967/995 cons_n=  411 [T305, S22, A19, V18] fs={'+1': 1} D=17 junc_old=2 junc_new=0
+  TCG n=   724 in/out=724/921 cons_n=  289 [S189, A40, T20, E8] fs={'+1': 1, '-1': 1} D=18 junc_old=1 junc_new=5
+  CTC n=   167 in/out=167/998 cons_n=   63 [L53, I4, V2, P1] fs={} D=6 junc_old=0 junc_new=2
+  TGG n=  1089 in/out=1089/4470 cons_n=  542 [W481, Y20, F17, L4] fs={'+1': 3} D=18 junc_old=2 junc_new=1
+  TAA n=     5 in/out=5/8396 cons_n=    1 [E1] fs={} D=0 junc_old=6 junc_new=4
+  TAG n=     4 in/out=4/4855 cons_n=    1 [W1] fs={} D=0 junc_old=2 junc_new=3
+  TGA n=     0 in/out=0/7366 cons_n=    0 [] fs={} D=0 junc_old=2 junc_new=2

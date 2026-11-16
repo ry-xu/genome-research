@@ -1,0 +1,4 @@
+windows Counter({'R': 5834, 'T': 832}) skip Counter({'T': 490, 'R': 115})
+clusters 4041
+T CGGs 832 sites 384 skip sites 202 | one-genus sites 281 skip 137 CGGs skip/O 159 / 311 | >=5 genera sites 27 CGGs 300
+R CGGs 5834 sites 3662 skip sites 57 | one-genus sites 3072 skip 51 CGGs skip/O 58 / 3416 | >=5 genera sites 112 CGGs 1107

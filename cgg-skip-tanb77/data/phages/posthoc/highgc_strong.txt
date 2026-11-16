@@ -1,0 +1,10 @@
+T1	UHGV-1357527	44.63	O	104	E	101.2	skip	0	tRNA_CCG	0	conn	5	agree	80.0	vFAM-00102	temperate	Complete	host	s__CAG-793 sp000433915	kmer	
+Tf	UHGV-1499501	32.5	O	2	E	8.5	skip	0	tRNA_CCG	0	conn	8	agree	75.0	vFAM-00206	temperate	High-quality	host	f__CAG-508	kmer	o__RF39
+T1	UHGV-1520269	38.47	O	22	E	34.4	skip	0	tRNA_CCG	0	conn	6	agree	83.33	vFAM-00011	lytic	Medium-quality	host	s__CAG-273 sp003534295	kmer	
+T1	UHGV-0016414	33.28	O	4	E	7.5	skip	2	tRNA_CCG	0	conn	5	agree	100.0	vFAM-00245	lytic	Complete	host	g__CAG-245	kmer	
+T1	UHGV-0235614	41.51	O	69	E	55.0	skip	0	tRNA_CCG	0	conn	61	agree	80.33	vFAM-00003	temperate	Complete	host	s__UMGS1994 sp900556975	kmer	o__Lachnospirales
+T1	UHGV-0183820	35.32	O	36	E	37.3	skip	1	tRNA_CCG	0	conn	7	agree	85.71	vFAM-00022	temperate	High-quality	host	s__CAG-273 sp003534295	kmer	o__Selenomonadales
+T1	UHGV-0189712	42.13	O	51	E	65.9	skip	2	tRNA_CCG	0	conn	11	agree	72.73	vFAM-00017	lytic	High-quality	host	s__UMGS1864 sp900555835	kmer	
+T1	UHGV-1499329	41.41	O	69	E	57.3	skip	1	tRNA_CCG	0	conn	62	agree	79.03	vFAM-00003	lytic	High-quality	host	s__UMGS1994 sp900556975	kmer	o__Lachnospirales
+T1	UHGV-1480107	36.6	O	10	E	22.5	skip	0	tRNA_CCG	0	conn	6	agree	83.33	vFAM-00011	temperate	Medium-quality	host	s__CAG-273 sp003534295	kmer	
+T1	UHGV-0050564	32.59	O	0	E	3.5	skip	0	tRNA_CCG	0	conn	13	agree	84.62	vFAM-00040	lytic	Medium-quality	host	g__UBA1234	kmer	o__TANB77

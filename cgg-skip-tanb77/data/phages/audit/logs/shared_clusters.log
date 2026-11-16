@@ -1,0 +1,38 @@
+vgenus: shared clusters 6
+   TAN: phages 9 skip/O 7/392; GC<30%: phages 5 skip/O 4/10
+   R: phages 10 skip/O 5/908; GC<30%: phages 4 skip/O 1/4
+     vGENUS-00784: TAN 2/241 | R 4/808 (R n=4, R GC 49.8-51.5)
+     vGENUS-02925: TAN 1/138 | R 0/85 (R n=1, R GC 41.2-41.2)
+     vGENUS-04652: TAN 0/3 | R 0/11 (R n=1, R GC 33.4-33.4)
+     vGENUS-06445: TAN 3/5 | R 1/4 (R n=1, R GC 27.9-27.9)
+     vGENUS-14670: TAN 1/5 | R 0/0 (R n=1, R GC 27.6-27.6)
+vfam: shared clusters 27
+   TAN: phages 1261 skip/O 1723/4356; GC<30%: phages 1163 skip/O 1655/2692
+   R: phages 3495 skip/O 1903/146488; GC<30%: phages 556 skip/O 14/940
+     vFAM-00001: TAN 69/1029 | R 332/29052 (R n=444, R GC 26.9-54.0)
+     vFAM-00002: TAN 0/9 | R 19/882 (R n=197, R GC 35.7-53.6)
+     vFAM-00003: TAN 64/355 | R 344/33345 (R n=705, R GC 26.8-53.7)
+     vFAM-00005: TAN 0/1 | R 146/15051 (R n=269, R GC 26.8-53.9)
+     vFAM-00006: TAN 18/33 | R 596/33663 (R n=466, R GC 26.6-54.0)
+     vFAM-00011: TAN 1/98 | R 0/139 (R n=3, R GC 33.5-44.9)
+     vFAM-00012: TAN 0/12 | R 52/3479 (R n=198, R GC 28.3-53.2)
+     vFAM-00015: TAN 37/59 | R 38/2977 (R n=462, R GC 24.8-53.0)
+     vFAM-00017: TAN 3/109 | R 146/9506 (R n=110, R GC 32.3-52.7)
+     vFAM-00022: TAN 6/43 | R 78/4791 (R n=79, R GC 27.9-53.8)
+     vFAM-00025: TAN 1318/2044 | R 4/153 (R n=14, R GC 27.6-44.0)
+     vFAM-00026: TAN 61/143 | R 22/2288 (R n=94, R GC 27.3-53.2)
+     vFAM-00035: TAN 30/64 | R 60/5259 (R n=167, R GC 26.0-52.0)
+     vFAM-00040: TAN 0/0 | R 26/2150 (R n=21, R GC 44.9-53.8)
+     vFAM-00058: TAN 0/3 | R 0/16 (R n=2, R GC 33.4-35.6)
+     vFAM-00091: TAN 0/6 | R 11/1896 (R n=48, R GC 26.1-41.3)
+     vFAM-00102: TAN 0/104 | R 10/1110 (R n=24, R GC 35.5-51.8)
+     vFAM-00114: TAN 0/0 | R 2/135 (R n=109, R GC 25.3-32.0)
+     vFAM-00135: TAN 19/54 | R 0/0 (R n=1, R GC 27.8-27.8)
+     vFAM-00137: TAN 0/7 | R 2/39 (R n=46, R GC 25.1-31.6)
+     vFAM-00155: TAN 0/10 | R 1/83 (R n=3, R GC 34.3-45.8)
+     vFAM-00159: TAN 0/0 | R 0/0 (R n=1, R GC 26.7-26.7)
+     vFAM-00160: TAN 1/3 | R 1/140 (R n=3, R GC 34.8-44.0)
+     vFAM-00162: TAN 0/4 | R 1/48 (R n=10, R GC 26.8-38.7)
+     vFAM-00166: TAN 93/159 | R 0/251 (R n=9, R GC 29.4-38.7)
+     vFAM-00245: TAN 3/6 | R 0/3 (R n=2, R GC 25.9-30.6)
+     vFAM-00261: TAN 0/1 | R 12/32 (R n=8, R GC 26.1-31.3)

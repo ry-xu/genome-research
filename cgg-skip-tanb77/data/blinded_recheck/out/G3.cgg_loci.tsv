@@ -1,0 +1,6 @@
+contig	strand	start0	n_refs	n_clean	consensus	clean_residues	per_ref(ref:res:window_id)	fs_near	first_ref_aa
+USEX01000002.1	-	8164	1	0			Chon:T:0.43	{'+1': 2}	1038
+USEX01000005.1	-	20863	1	0			Bsub:E:0.43	{'+1': 1}	150
+USEX01000005.1	-	53946	1	1		D	Leli:D:0.40	{}	2532
+USEX01000006.1	+	3992	1	0			Leli:A:0.36	{'+1': 1}	2617
+USEX01000018.1	+	9335	1	0			Alac:H:0.36	{'+1': 1}	2287
