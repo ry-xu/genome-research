@@ -18,10 +18,8 @@ ORANGE, INK, MUTED, PALE = "#E8650A", "#1a1a1a", "#8a8580", "#fbe3d1"
 ROWS = [("Wickerhamiella brachini", "BK074528.1", 6574, "TTAATAGCATTCCCATCATTTATATTA"),
         ("Wickerhamiella siamensis", "BK074538.1", 31423, "TTAATCGCATTCCTATCATTTATCTTA"),
         ("Wickerhamiella infanticola", "BK074532.1", 10766, "TTAATTGCATTCCTATCATTTATATTA"),
-        ("Wickerhamiella verensis", "BK074542.1", 22393, "TTAATTGCATTCCTATCATTTATATTA"),
-        None,
-        ("Sugiyamaella americana", "BK074251.1", 238, "TTAATAGCTTTCCCATCATTTGTATTA"),
-        ("Sugiyamaella pinicola", "BK074262.1", 1086, "TTAATAGCTTTCCTATCATTTGTATTA")]
+        ("Wickerhamiella verensis", "BK074542.1", 22393, "TTAATTGCATTCCTATCATTTATATTA")]
+# The Sugiyamaella pair (BK074251.1 S. americana relative; BK074262.1 S. pinicola, CTA at 1086+12) was cut for the tweet.
 SUB = {"BK074528.1": "relative", "BK074251.1": "relative"}
 B = "TCAG"
 AA4 = "FFLLSSSSYY**CCWWLLLLPPPPHHQQRRRRIIIMTTTTNNKKSSRRVVVVAAAADDEEGGGG"  # NCBI table 4, TCAG order
@@ -61,7 +59,7 @@ for y, (name, acc, pos, dna) in ys:
         ax.text(-1.6, y - 0.28, SUB[acc], ha="right", va="center", fontsize=11, color=MUTED)
     else:
         ax.text(-1.6, y - 0.05, name, ha="right", va="center", fontsize=15, style="italic", color=INK)
-fig.text(0.03, 0.035, "Part of mitochondrial Cox2, aligned. Orange: CUA, leucine in the standard code, where relatives have "
-         "CCN (proline).\nIn the four genomes, 286 of 290 CUU/CUA codons at strongly conserved positions sit at proline positions.",
+fig.text(0.075, 0.035, "Part of mitochondrial Cox2, aligned. Orange: CUA, normally leucine, where the relative has CCA (proline).\n"
+         "In four yeast genomes, 286 of 290 CUU/CUA codons at strongly conserved positions sit at proline positions.",
          fontsize=10.5, color=MUTED, ha="left", va="bottom", linespacing=1.5)
 fig.savefig(sys.argv[1], facecolor="white")

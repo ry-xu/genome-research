@@ -9,10 +9,11 @@ times** at strongly conserved positions. Leucine is spelled UUA/UUG, as in their
 these positions. The four sit on two separate branches of the yeast tree, so the change most likely happened twice.
 As far as we can find, no genetic code was known to read any codon other than CCN as proline.
 
-![Part of mitochondrial Cox2 in four yeasts and two relatives. The relatives have CCA (proline) in one column; W. siamensis, W. infanticola, W. verensis and S. pinicola have CUA there.](figures/proline_rows.png)
+![Part of mitochondrial Cox2 in three Wickerhamiella yeasts and a relative. The relative has CCA (proline) in one column; W. siamensis, W. infanticola and W. verensis have CUA there.](figures/proline_rows.png)
 
 *Part of the mitochondrial protein Cox2, aligned. Amino acids below each codon are read with the mold mitochondrial
-code (NCBI table 4), except CUA, shown as proline in the four.*
+code (NCBI table 4), except CUA, shown as proline in the three. The Sugiyamaella pair (S. americana, S. pinicola) is in
+`src/fig_proline_rows.py` as a comment.*
 
 ---
 
