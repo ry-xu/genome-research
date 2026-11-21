@@ -1,0 +1,239 @@
+acc	len	pos	loop	taxonomy
+AC200763.90185.93095	2911		multi	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Morganellaceae;Candidatus Regiella;Candidatus Regiella insecticola
+DI147804.1912183.1914960	2778	2549	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Zymomonas;unidentified
+DI147804.1898333.1901113	2781	2552	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Zymomonas;unidentified
+DI147804.1613161.1615941	2781	2552	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Zymomonas;unidentified
+AC192956.25257.28159	2903		multi	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Morganellaceae;Candidatus Regiella;Candidatus Regiella insecticola
+AC192956.51171.54069	2899		multi	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Morganellaceae;Candidatus Regiella;Candidatus Regiella insecticola
+AC203073.118892.121794	2903		multi	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Morganellaceae;Candidatus Regiella;Candidatus Regiella insecticola
+AC202197.98033.100935	2903		multi	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Morganellaceae;Candidatus Regiella;Candidatus Regiella insecticola
+GAKH01110505.2.3046	3045		multi	Bacteria;Cyanobacteriota;Cyanobacteriia;Chloroplast;Incertae Sedis;Incertae Sedis;Vitis vinifera (wine grape)
+GFLP01199563.70.2755	2686	2514	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Rickettsiales;Mitochondria;Incertae Sedis;Saccharum hybrid cultivar
+AE008692.1613121.1615906	2786	2556	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Zymomonas;Zymomonas mobilis subsp. mobilis ZM4 = ATCC 31821
+AE008692.1898277.1901062	2786	2556	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Zymomonas;Zymomonas mobilis subsp. mobilis ZM4 = ATCC 31821
+AE008692.1912129.1914914	2786	2556	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Zymomonas;Zymomonas mobilis subsp. mobilis ZM4 = ATCC 31821
+JYFR01000005.1071.3779	2709	2475	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola
+JYFR01000041.2962.5015	2054	1819	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Rhizobiaceae;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola
+JMHI01000008.137143.140031	2889	2639	GATA	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter;Acinetobacter baumannii 25442_1
+CDAC01000024.90.3215	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+CDAD01000018.116.3241	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+MJAA01000002.2.2763	2762		multi	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Enterobacter;Enterobacter sp. IF2SW-B1
+CDLB01000068.92775.96317	3543		multi	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia-Shigella;Escherichia coli O26:H11
+CDAB01000035.116.3241	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+CDAE01000002.2148.5273	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+CDAF01000001.2148.5273	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+CDAG01000013.2148.5273	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+CDAH01000014.90.3215	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+CDZB01026412.559.3424	2866	2622	GCAA	Bacteria;Bacillota;Bacilli;RFN20;Incertae Sedis;Incertae Sedis;gut metagenome
+AQSJ01000191.20490.23503	3014	2763	GAAA	Bacteria;Acidobacteriota;Aminicenantia;Aminicenantales;Aminicenantaceae;Aminicenans;Aminicenantes bacterium SCGC AAA252-F08
+AQSP01000121.18831.21844	3014	2763	GAAA	Bacteria;Acidobacteriota;Aminicenantia;Aminicenantales;Aminicenantaceae;Aminicenans;Aminicenantes bacterium SCGC AAA252-A02
+LNTG01000001.60163.63096	2934	2685	GGGA	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus velezensis
+LPXJ01005066.44094.47033	2940	2638	AAGA	Bacteria;Cyanobacteriota;Cyanobacteriia;Chloroplast;Incertae Sedis;Incertae Sedis;Ziziphus jujuba
+CCYS01000038.90.3215	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+CCYR01000004.2148.5273	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+CCYY01000008.90.3215	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+CCYU01000005.17796.20921	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+CCYN01000001.2148.5273	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+CCYQ01000003.2148.5273	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+CCYZ01000008.2148.5273	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+CCYX01000036.307.3432	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+CCYW01000013.2148.5273	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+CP025773.1.2217	2217	1994	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Rickettsiales;Mitochondria;Incertae Sedis;Cryptococcus gattii VGII R265
+CCBE010000035.2148.5273	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+CCYP01000018.2148.5273	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+CCYV01000019.300.3425	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+MWEH01000109.8359.11267	2909	2666	GAAA	Bacteria;Bacillota;Clostridia;DTU072;Incertae Sedis;Incertae Sedis;Firmicutes bacterium ADurb.Bin080
+ALWZ041923878.7582.10622	3041	2696	AAGA	Bacteria;Cyanobacteriota;Cyanobacteriia;Chloroplast;Incertae Sedis;Incertae Sedis;Picea glauca (white spruce)
+BDDD01003416.27365.30368	3004	2662	AAGA	Bacteria;Cyanobacteriota;Cyanobacteriia;Chloroplast;Incertae Sedis;Incertae Sedis;Cephalotus follicularis
+FUFK010036167.106.2628	2523	2400	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Rickettsiales;Mitochondria;Incertae Sedis;metagenome
+FUFK010036597.1.2035	2035		multi	Bacteria;Actinomycetota;Acidimicrobiia;Microtrichales;Ilumatobacteraceae;Ilumatobacter;metagenome
+LSFP01000022.51.2828	2778	2549	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Zymomonas;Zymomonas mobilis
+BCNH01000652.210554.213585	3032	2692	AAGA	Bacteria;Cyanobacteriota;Cyanobacteriia;Chloroplast;Incertae Sedis;Incertae Sedis;Metrosideros polymorpha var. glaberrima
+ALWZ044985509.2272.5255	2984	2692	AAGA	Bacteria;Cyanobacteriota;Cyanobacteriia;Chloroplast;Incertae Sedis;Incertae Sedis;Picea glauca (white spruce)
+AASG02001674.2398.5528	3131	2791	AAGA	Bacteria;Cyanobacteriota;Cyanobacteriia;Chloroplast;Incertae Sedis;Incertae Sedis;Ricinus communis (castor bean)
+ALWZ045471289.908.3931	3024	2677	AAGA	Bacteria;Cyanobacteriota;Cyanobacteriia;Chloroplast;Incertae Sedis;Incertae Sedis;Picea glauca (white spruce)
+AASG02005231.7109.10022	2914	2636	AAGA	Bacteria;Cyanobacteriota;Cyanobacteriia;Chloroplast;Incertae Sedis;Incertae Sedis;Ricinus communis (castor bean)
+FLOH01000287.42024.45002	2979		multi	Bacteria;Patescibacteria;Gracilibacteria;Candidatus Peregrinibacteria;Incertae Sedis;Incertae Sedis;marine metagenome
+JWZT01002348.4.2695	2692	2445	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Rickettsiales;Mitochondria;Incertae Sedis;Thelohanellus kitauei
+MDSD01000012.775892.779001	3110		multi	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Aeromonadaceae;Aeromonas;Aeromonas caviae
+NFZD01010727.1.2842	2842	2596	GCAA	Bacteria;Bacillota;Bacilli;RF39;Incertae Sedis;Incertae Sedis;gut metagenome
+BAUE01037707.625.3706	3082	2737	AAGA	Bacteria;Cyanobacteriota;Cyanobacteriia;Chloroplast;Incertae Sedis;Incertae Sedis;Solanum melongena (eggplant)
+BAOW01000002.11431.14367	2937	2696	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Rickettsiales;Mitochondria;Incertae Sedis;Pseudozyma hubeiensis SY62
+AWHE01002041.1021.3902	2882	2540	AAGA	Bacteria;Cyanobacteriota;Cyanobacteriia;Chloroplast;Incertae Sedis;Incertae Sedis;Amborella trichopoda
+AWNV01000024.18831.21844	3014	2763	GAAA	Bacteria;Acidobacteriota;Aminicenantia;Aminicenantales;Aminicenantaceae;Aminicenans;Candidatus Aminicenans sakinawicola JGI OTU-1
+AWNU01000023.20490.23503	3014	2763	GAAA	Bacteria;Acidobacteriota;Aminicenantia;Aminicenantales;Aminicenantaceae;Aminicenans;Aminicenantes bacterium JGI OTU-2
+AWOK01309721.2170.5574	3405	3060	AAGA	Bacteria;Cyanobacteriota;Cyanobacteriia;Chloroplast;Incertae Sedis;Incertae Sedis;Nicotiana tabacum (common tobacco)
+AWOJ01564030.17805.20766	2962		multi	Bacteria;Cyanobacteriota;Cyanobacteriia;Chloroplast;Incertae Sedis;Incertae Sedis;Nicotiana tabacum (common tobacco)
+FWJA01000025.1.3754	3754		multi	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Klebsiella;Klebsiella pneumoniae
+JREP01019978.53357.56457	3101	2761	GAGC	Bacteria;Cyanobacteriota;Cyanobacteriia;Chloroplast;Incertae Sedis;Incertae Sedis;Ziziphus jujuba
+JREP01008932.5737.8593	2857	2578	AAGA	Bacteria;Cyanobacteriota;Cyanobacteriia;Chloroplast;Incertae Sedis;Incertae Sedis;Ziziphus jujuba
+JREP01015058.11617.14627	3011	2671	GAGC	Bacteria;Cyanobacteriota;Cyanobacteriia;Chloroplast;Incertae Sedis;Incertae Sedis;Ziziphus jujuba
+JREP01026245.1825.4781	2957	2615	GAGC	Bacteria;Cyanobacteriota;Cyanobacteriia;Chloroplast;Incertae Sedis;Incertae Sedis;Ziziphus jujuba
+CEAR01004794.1972.4837	2866	2622	GCAA	Bacteria;Bacillota;Bacilli;RFN20;Incertae Sedis;Incertae Sedis;gut metagenome
+MKSX01000004.4825.7600	2776	2539	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Rickettsiales;Rickettsiaceae;Incertae Sedis;Alphaproteobacteria bacterium 33-17
+CEOM01106273.1934.4415	2482	2435	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Rickettsiales;Mitochondria;Incertae Sedis;marine metagenome
+CECF01006093.280.3132	2853	2611	GCAA	Bacteria;Bacillota;Bacilli;RFN20;Incertae Sedis;Incertae Sedis;gut metagenome
+CECA01006179.1899.4764	2866	2622	GCAA	Bacteria;Bacillota;Bacilli;RFN20;Incertae Sedis;Incertae Sedis;gut metagenome
+CEPL01133239.7456.10109	2654	2427	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Rickettsiales;Mitochondria;Incertae Sedis;marine metagenome
+CEPJ01029903.13230.15883	2654	2427	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Rickettsiales;Mitochondria;Incertae Sedis;marine metagenome
+CEQD01136994.1881.4534	2654	2427	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Rickettsiales;Mitochondria;Incertae Sedis;marine metagenome
+CEPU01126538.1528.4192	2665	2435	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Rickettsiales;Mitochondria;Incertae Sedis;marine metagenome
+CEOW01143520.154.2818	2665	2435	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Rickettsiales;Mitochondria;Incertae Sedis;marine metagenome
+CERE01108245.4932.7629	2698	2477	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Rickettsiales;Mitochondria;Incertae Sedis;marine metagenome
+MQMI01000030.237.3190	2954	2876	GCCA	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Pasteurellaceae;Haemophilus;Haemophilus influenzae
+JHPE01000048.2299.5189	2891	2640	GAGT	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter;Acinetobacter baumannii 25569_1
+MEJB01000106.130750.133720	2971	2641	AAGA	Bacteria;Cyanobacteriota;Cyanobacteriia;Chloroplast;Incertae Sedis;Incertae Sedis;Rhazya stricta
+BBPC01131377.4756.7722	2967		multi	Bacteria;Cyanobacteriota;Cyanobacteriia;Chloroplast;Incertae Sedis;Incertae Sedis;Humulus lupulus var. lupulus
+LFDY01000025.97595.100877	3283		multi	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Salmonella;Salmonella enterica subsp. enterica serovar Typhimurium
+BBPB01131377.4756.7722	2967		multi	Bacteria;Cyanobacteriota;Cyanobacteriia;Chloroplast;Incertae Sedis;Incertae Sedis;Humulus lupulus var. cordifolius
+AMSR01000039.2516.5308	2793	2563	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Zymomonas;Zymomonas mobilis subsp. mobilis ATCC 31822
+ASOU01000023.5400.8403	3004	2755	GAAA	Bacteria;Acidobacteriota;Aminicenantia;Aminicenantales;Aminicenantaceae;Aminicenans;Aminicenantes bacterium SCGC AAA255-E05
+ASOM01000042.6695.9708	3014	2763	GAAA	Bacteria;Acidobacteriota;Aminicenantia;Aminicenantales;Aminicenantaceae;Aminicenans;Aminicenantes bacterium SCGC AAA252-I14
+ASLD01000007.14132.17135	3004	2755	GAAA	Bacteria;Acidobacteriota;Aminicenantia;Aminicenantales;Aminicenantaceae;Aminicenans;Aminicenantes bacterium SCGC AAA252-C08
+ASLP01000014.8284.11287	3004	2755	GAAA	Bacteria;Acidobacteriota;Aminicenantia;Aminicenantales;Aminicenantaceae;Aminicenans;Aminicenantes bacterium SCGC AAA255-F09
+ASOD01000007.7434.10447	3014	2763	GAAA	Bacteria;Acidobacteriota;Aminicenantia;Aminicenantales;Aminicenantaceae;Aminicenans;Aminicenantes bacterium SCGC AAA252-O03
+ASOJ01000020.1128.4141	3014	2763	GAAA	Bacteria;Acidobacteriota;Aminicenantia;Aminicenantales;Aminicenantaceae;Aminicenans;Aminicenantes bacterium SCGC AAA252-G06
+ASOG01000047.1961.4974	3014	2763	GAAA	Bacteria;Acidobacteriota;Aminicenantia;Aminicenantales;Aminicenantaceae;Aminicenans;Aminicenantes bacterium SCGC AAA252-D18
+ASLQ01000012.236.3249	3014	2763	GAAA	Bacteria;Acidobacteriota;Aminicenantia;Aminicenantales;Aminicenantaceae;Aminicenans;Aminicenantes bacterium SCGC AAA255-K14
+FTPW01000003.495753.498687	2935	2700	GAGC	Bacteria;Chlamydiota;Chlamydiia;Chlamydiales;Chlamydiaceae;Chlamydia;Chlamydia suis
+AGOQ01000008.137869.140767	2899	2653	GAAA	Bacteria;Bacillota;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus pneumoniae GA44378
+ASLM01000010.11129.14142	3014	2763	GAAA	Bacteria;Acidobacteriota;Aminicenantia;Aminicenantales;Aminicenantaceae;Aminicenans;Aminicenantes bacterium SCGC AAA252-O19
+ASLJ01000007.68014.71027	3014	2763	GAAA	Bacteria;Acidobacteriota;Aminicenantia;Aminicenantales;Aminicenantaceae;Aminicenans;Aminicenantes bacterium SCGC AAA252-O09
+ASLE01000028.3809.6800	2992	2743	GAAA	Bacteria;Acidobacteriota;Aminicenantia;Aminicenantales;Aminicenantaceae;Aminicenans;Aminicenantes bacterium SCGC AAA252-N07
+ASOR01000041.1315.4328	3014	2763	GAAA	Bacteria;Acidobacteriota;Aminicenantia;Aminicenantales;Aminicenantaceae;Aminicenans;Aminicenantes bacterium SCGC AAA252-K18
+ASOI01000003.19065.22068	3004	2755	GAAA	Bacteria;Acidobacteriota;Aminicenantia;Aminicenantales;Aminicenantaceae;Aminicenans;Aminicenantes bacterium SCGC AAA252-G05
+ASOS01000024.20766.23779	3014	2763	GAAA	Bacteria;Acidobacteriota;Aminicenantia;Aminicenantales;Aminicenantaceae;Aminicenans;Aminicenantes bacterium SCGC AAA252-D06
+ASOL01000011.20591.23604	3014	2763	GAAA	Bacteria;Acidobacteriota;Aminicenantia;Aminicenantales;Aminicenantaceae;Aminicenans;Aminicenantes bacterium SCGC AAA252-P19
+ASLK01000043.7881.10884	3004	2755	GAAA	Bacteria;Acidobacteriota;Aminicenantia;Aminicenantales;Aminicenantaceae;Aminicenans;Aminicenantes bacterium SCGC AAA252-O10
+AYMY01012889.29043.32149	3107	2748	AAGA	Bacteria;Cyanobacteriota;Cyanobacteriia;Chloroplast;Incertae Sedis;Incertae Sedis;Nicotiana tabacum (common tobacco)
+ASOO01000001.20833.23846	3014	2763	GAAA	Bacteria;Acidobacteriota;Aminicenantia;Aminicenantales;Aminicenantaceae;Aminicenans;Aminicenantes bacterium SCGC AAA252-J21
+ASLG01000009.20749.23762	3014	2763	GAAA	Bacteria;Acidobacteriota;Aminicenantia;Aminicenantales;Aminicenantaceae;Aminicenans;Aminicenantes bacterium SCGC AAA252-G21
+ASLI01000003.20563.23566	3004	2755	GAAA	Bacteria;Acidobacteriota;Aminicenantia;Aminicenantales;Aminicenantaceae;Aminicenans;Aminicenantes bacterium SCGC AAA252-L02
+ASAF01067631.67728.70761	3034	2689	AAGA	Bacteria;Cyanobacteriota;Cyanobacteriia;Chloroplast;Incertae Sedis;Incertae Sedis;Nicotiana sylvestris (wood tobacco)
+ASOQ01000031.2353.5366	3014	2763	GAAA	Bacteria;Acidobacteriota;Aminicenantia;Aminicenantales;Aminicenantaceae;Aminicenans;Aminicenantes bacterium SCGC AAA252-K07
+ASLO01000007.5215.8218	3004	2755	GAAA	Bacteria;Acidobacteriota;Aminicenantia;Aminicenantales;Aminicenantaceae;Aminicenans;Aminicenantes bacterium SCGC AAA255-F06
+ASJV01075221.3096.6118	3023	2681	AATA	Bacteria;Cyanobacteriota;Cyanobacteriia;Chloroplast;Incertae Sedis;Incertae Sedis;Capsicum annuum var. glabriusculum
+ASOP01000026.882.3889	3008	2761	GAAA	Bacteria;Acidobacteriota;Aminicenantia;Aminicenantales;Incertae Sedis;Incertae Sedis;Aminicenantes bacterium SCGC AAA252-K06
+ASJU01065696.27651.30666	3016	2674	AATA	Bacteria;Cyanobacteriota;Cyanobacteriia;Chloroplast;Incertae Sedis;Incertae Sedis;Capsicum annuum
+ASON01000047.12166.15179	3014	2763	GAAA	Bacteria;Acidobacteriota;Aminicenantia;Aminicenantales;Aminicenantaceae;Aminicenans;Aminicenantes bacterium SCGC AAA252-J09
+ASAG01080648.1263.4161	2899	2671	CAGT	Bacteria;Cyanobacteriota;Cyanobacteriia;Chloroplast;Incertae Sedis;Incertae Sedis;Nicotiana tomentosiformis
+ASOF01000009.14802.17805	3004	2755	GAAA	Bacteria;Acidobacteriota;Aminicenantia;Aminicenantales;Aminicenantaceae;Aminicenans;Aminicenantes bacterium SCGC AAA252-B17
+AYSF01000083.581.3587	3007		multi	Bacteria;Bacillota;Bacilli;Bacillales;Bacillaceae;Geobacillus;Geobacillus sp. MAS1
+LAZR01003765.1178.4177	3000	2754	GAAA	Bacteria;Acidobacteriota;Aminicenantia;Aminicenantales;Incertae Sedis;Incertae Sedis;marine sediment metagenome
+LKCH01000116.23012.26145	3134		multi	Bacteria;Pseudomonadota;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas syringae ICMP 19498
+JOQT01000053.2055.4956	2902	2652	GGGA	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia-Shigella;Escherichia coli 5-172-05_S4_C3
+MHIT01000027.2529.5548	3020		multi	Bacteria;Patescibacteria;Parcubacteria;Candidatus Colwellbacteria;Incertae Sedis;Incertae Sedis;Candidatus Colwellbacteria bacterium RBG_13_48_8
+Y10819.1850.4984	3135	2887	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LM676375.308.3433	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+AC201870.98414.101324	2911		multi	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Morganellaceae;Candidatus Regiella;Candidatus Regiella insecticola
+AC201869.43009.45911	2903		multi	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Morganellaceae;Candidatus Regiella;Candidatus Regiella insecticola
+MH624121.1.3706	3706		multi	Bacteria;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Lactiplantibacillus;Lactobacillus plantarum
+AF088897.7477.10262	2786	2556	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Zymomonas;Zymomonas mobilis
+AF117351.15588.18372	2785	2555	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Zymomonas;Zymomonas mobilis
+AF117351.1741.4525	2785	2555	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Zymomonas;Zymomonas mobilis
+HG326877.1311458.1315122	3665		multi	Bacteria;Campylobacterota;Campylobacteria;Campylobacterales;Campylobacteraceae;Campylobacter;Campylobacter coli 76339
+CP023132.20731788.20735054	3267	2991	AGGA	Bacteria;Cyanobacteriota;Cyanobacteriia;Chloroplast;Incertae Sedis;Incertae Sedis;Lupinus angustifolius (narrow-leaved blue lupine)
+MF780871.102650.105651	3002	2660	GAAA	Bacteria;Cyanobacteriota;Cyanobacteriia;Chloroplast;Incertae Sedis;Incertae Sedis;Buchnera americana
+MF780871.136439.139427	2989	2649	GAAA	Bacteria;Cyanobacteriota;Cyanobacteriia;Chloroplast;Incertae Sedis;Incertae Sedis;Buchnera americana
+FN806773.1535346.1538462	3117	2872	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii subsp. shermanii CIRM-BIA1
+HQ860792.458857.461850	2994		multi	Bacteria;Cyanobacteriota;Cyanobacteriia;Chloroplast;Incertae Sedis;Incertae Sedis;Cucumis sativus (cucumber)
+FN806773.1975891.1979007	3117	2872	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii subsp. shermanii CIRM-BIA1
+LN997841.937950.941075	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LN997841.1506289.1509402	3114	2869	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+DQ629321.1.2656	2656	2626	GACA	Bacteria;Cyanobacteriota;Cyanobacteriia;Chloroplast;Incertae Sedis;Incertae Sedis;Stangeria eriopus
+KT899952.118709.121525	2817	2678	GCAA	Bacteria;Cyanobacteriota;Cyanobacteriia;Chloroplast;Incertae Sedis;Incertae Sedis;Sagittaria lichuanensis
+KT899952.156608.159424	2817	2678	GCAA	Bacteria;Cyanobacteriota;Cyanobacteriia;Chloroplast;Incertae Sedis;Incertae Sedis;Sagittaria lichuanensis
+DQ629323.1.2662	2662	2610	CAAA	Bacteria;Cyanobacteriota;Cyanobacteriia;Chloroplast;Incertae Sedis;Incertae Sedis;Ginkgo biloba (maidenhair tree)
+AY330879.1.2696	2696	2594	AAGA	Bacteria;Cyanobacteriota;Cyanobacteriia;Chloroplast;Incertae Sedis;Incertae Sedis;Cynomorium coccineum
+LT576042.1065648.1068773	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT576038.588358.591483	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT576038.1027642.1030767	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT576035.943524.946649	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT576042.608446.611571	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT576032.595014.598139	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT593929.577594.580719	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT576032.1035811.1038936	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT576035.467934.471059	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT576033.2007646.2010762	3117	2872	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT576034.1953262.1956375	3114	2869	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT576033.710075.713200	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT576034.587713.590838	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT599498.629215.632340	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT576787.576853.579978	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT618783.456404.459529	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT618785.619925.623050	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT618790.626344.629469	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT604998.1020968.1024093	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT576787.1019521.1022646	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT604998.576853.579978	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT599498.1066320.1069445	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT593929.1020022.1023147	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT618776.1077572.1080697	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT618789.1112076.1115201	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT618787.1979895.1983011	3117	2872	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT618776.599423.602548	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT618780.571608.574733	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT618782.600229.603354	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT618792.900915.904040	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT618782.1069937.1073062	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT618777.599423.602548	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT618779.588328.591453	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT618793.990201.993326	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT618793.543028.546153	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT618786.618468.621593	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT618777.1077572.1080697	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT618779.1027612.1030737	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT618786.1097404.1100529	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT618789.626344.629469	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT618791.898230.901355	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT618788.1537175.1540288	3114	2869	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT618783.923798.926923	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT618792.424194.427319	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT618785.1098861.1101986	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT618790.1110629.1113754	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT618781.1071380.1074505	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT618788.1976523.1979639	3117	2872	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT618780.1010892.1014017	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT618781.601672.604797	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT618787.1539116.1542229	3114	2869	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+LT618791.424194.427319	3126	2880	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+CP001722.1884438.1887231	2794	2563	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Zymomonas;Zymomonas mobilis subsp. mobilis NCIMB 11163
+CP001722.1487493.1490286	2794	2563	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Zymomonas;Zymomonas mobilis subsp. mobilis NCIMB 11163
+CP001722.1523630.1526423	2794	2563	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Zymomonas;Zymomonas mobilis subsp. mobilis NCIMB 11163
+CP002850.1787027.1789820	2794	2563	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Zymomonas;Zymomonas mobilis subsp. mobilis ATCC 10988
+CP002850.1500411.1503204	2794	2563	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Zymomonas;Zymomonas mobilis subsp. mobilis ATCC 10988
+CP002865.1491405.1494200	2796	2565	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Zymomonas;Zymomonas mobilis subsp. pomaceae ATCC 29192
+CP002865.1778598.1781393	2796	2565	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Zymomonas;Zymomonas mobilis subsp. pomaceae ATCC 29192
+CP002865.1469658.1472453	2796	2565	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Zymomonas;Zymomonas mobilis subsp. pomaceae ATCC 29192
+CP003704.1475729.1478522	2794	2563	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Zymomonas;Zymomonas mobilis subsp. mobilis ATCC 29191
+CP003709.1498386.1501179	2794	2563	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Zymomonas;Zymomonas mobilis subsp. mobilis NRRL B-12526
+CP003715.1485244.1488037	2794	2563	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Zymomonas;Zymomonas mobilis subsp. mobilis str. CP4 = NRRL B-14023
+CP003704.1461789.1464582	2794	2563	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Zymomonas;Zymomonas mobilis subsp. mobilis ATCC 29191
+CP003709.1484545.1487338	2794	2563	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Zymomonas;Zymomonas mobilis subsp. mobilis NRRL B-12526
+CP003715.1499085.1501878	2794	2563	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Zymomonas;Zymomonas mobilis subsp. mobilis str. CP4 = NRRL B-14023
+CP003715.1783230.1786023	2794	2563	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Zymomonas;Zymomonas mobilis subsp. mobilis str. CP4 = NRRL B-14023
+CP003704.1737914.1740707	2794	2563	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Zymomonas;Zymomonas mobilis subsp. mobilis ATCC 29191
+CP003709.1782630.1785423	2794	2563	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Zymomonas;Zymomonas mobilis subsp. mobilis NRRL B-12526
+CP018002.544710.547840	3131	2883	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+CP018002.1425653.1428783	3131	2883	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+CP006818.1485460.1488249	2790	2561	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Zymomonas;Zymomonas mobilis subsp. mobilis str. CP4 = NRRL B-14023
+CP006818.1769651.1772443	2793	2564	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Zymomonas;Zymomonas mobilis subsp. mobilis str. CP4 = NRRL B-14023
+CP006923.4283635.4286581	2947		multi	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Klebsiella;Klebsiella pneumoniae 30660/NJST258_1
+CP008780.960594.963469	2876	2626	GATA	Bacteria;Pseudomonadota;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia-Caballeronia-Paraburkholderia;Burkholderia pseudomallei
+CP021053.1399635.1402430	2796	2566	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Zymomonas;Zymomonas mobilis
+CP021053.1699040.1701835	2796	2566	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Zymomonas;Zymomonas mobilis
+CP021053.1416480.1419275	2796	2566	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Zymomonas;Zymomonas mobilis
+CP010341.1966207.1969332	3126	2881	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+CP010341.1503095.1506220	3126	2881	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+CP023682.1621519.1624304	2786	2556	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Zymomonas;Zymomonas mobilis
+CP023682.1906668.1909453	2786	2556	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Zymomonas;Zymomonas mobilis
+CP023682.1920520.1923305	2786	2556	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Zymomonas;Zymomonas mobilis
+CP023715.1615520.1618305	2786	2556	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Zymomonas;Zymomonas mobilis subsp. mobilis ZM4 = ATCC 31821
+CP023715.1900669.1903454	2786	2556	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Zymomonas;Zymomonas mobilis subsp. mobilis ZM4 = ATCC 31821
+CP023677.1914084.1916869	2786	2556	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Zymomonas;Zymomonas mobilis
+CP023677.1927936.1930721	2786	2556	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Zymomonas;Zymomonas mobilis
+CP023677.1628935.1631720	2786	2556	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Zymomonas;Zymomonas mobilis
+CP023715.1914521.1917306	2786	2556	GAAA	Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Zymomonas;Zymomonas mobilis subsp. mobilis ZM4 = ATCC 31821
+CP025146.5086481.5089403	2923	2660	GCGA	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Klebsiella;Klebsiella pneumoniae
+CP030279.624365.627495	3131	2883	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii
+CP030279.1070044.1073173	3130	2882	GCAA	Bacteria;Actinomycetota;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Propionibacterium;Propionibacterium freudenreichii

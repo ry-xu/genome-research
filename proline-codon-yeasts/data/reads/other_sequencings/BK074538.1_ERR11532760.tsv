@@ -1,0 +1,131 @@
+gene	codon_index	codon	model_col	cons	share	strict	reads	same	other
+orf	64	CTA	mito_Vir_cox1:61	P	0.94	1	19	19	{}
+orf	66	CTA	mito_Vir_cox1:63	V	0.60	0	19	19	{}
+orf	49	CTT	mito_Vir_cox1:91	P	1.00	1	12	12	{}
+orf	61	CTA	mito_Vir_cox1:103	P	1.00	1	17	17	{}
+orf	72	CTA	mito_Vir_cox1:114	P	0.95	1	15	15	{}
+orf	84	CTA	mito_Vir_cox1:126	P	0.98	1	14	14	{}
+orf	99	CTA	mito_Vir_cox1:141	A	0.79	0	14	14	{}
+orf	107	CTT	mito_Vir_cox1:149	P	0.96	1	14	14	{}
+orf	108	CTA	mito_Vir_cox1:150	P	0.98	1	11	11	{}
+orf	177	CTA	mito_Vir_cox1:219	P	1.00	1	6	6	{}
+orf	205	CTA	mito_Vir_cox1:247	P	0.98	1	9	8	{'CAA': 1}
+orf	218	CTA	mito_Vir_cox1:260	P	0.97	1	11	10	{'TTA': 1}
+orf	226	CTA	mito_Vir_cox1:268	P	1.00	1	14	14	{}
+orf	242	CTT	mito_Vir_cox1:284	P	0.56	0	14	13	{'CTA': 1}
+orf	291	CTA	mito_Vir_cox1:333	P	1.00	1	15	15	{}
+orf	313	CTA	mito_Vir_cox1:355	P	0.65	0	26	26	{}
+orf	374	CTA	mito_Vir_cox1:416	P	0.76	0	25	25	{}
+orf	403	CTA	mito_Vir_cox1:445	P	0.99	1	22	22	{}
+orf	413	CTT	mito_Vir_cox1:455	P	0.99	1	23	22	{'CGT': 1}
+orf	417	CTA	mito_Vir_cox1:459	P	0.55	0	21	20	{'ATA': 1}
+orf	420	CTA	mito_Vir_cox1:462	P	0.96	1	19	19	{}
+orf	8	CTT	mito_Fun_nad5:12	P	0.99	1	1	1	{}
+orf	87	CTA	mito_Fun_nad5:91	P	0.86	0	39	39	{}
+orf	107	CTA	mito_Fun_nad5:111	P	0.98	1	31	30	{'CAA': 1}
+orf	239	CTA	mito_Fun_nad5:243	P	0.99	1	20	20	{}
+orf	241	CTA	mito_Fun_nad5:245	P	0.99	1	20	20	{}
+orf	270	CTA	mito_Fun_nad5:274	S	0.66	0	20	20	{}
+orf	367	CTA	mito_Fun_nad5:370	P	1.00	1	13	12	{'CAA': 1}
+orf	384	CTA	mito_Fun_nad5:387	P	0.99	1	16	16	{}
+orf	437	CTA	mito_Fun_nad5:440	P	0.94	1	24	24	{}
+orf	457	CTA	mito_Fun_nad5:460	P	0.98	1	21	21	{}
+orf	482	CTA	mito_Fun_nad5:485	D	0.41	0	16	16	{}
+orf	490	CTA	mito_Fun_nad5:495	P	0.99	1	15	15	{}
+orf	503	CTA	mito_Fun_nad5:508	P	0.78	0	17	16	{'CTG': 1}
+orf	510	CTA	mito_Fun_nad5:515	P	1.00	1	17	16	{'GTA': 1}
+orf	533	CTA	mito_Fun_nad5:538	I	0.63	0	9	9	{}
+orf	586	CTT	mito_Fun_nad5:592	P	0.96	1	10	10	{}
+orf	38	CTT	mito_Fun_cox2:21	P	0.88	0	14	14	{}
+orf	40	CTA	mito_Fun_cox2:23	P	0.82	0	14	14	{}
+orf	109	CTA	mito_Fun_cox2:94	P	0.99	1	23	23	{}
+orf	119	CTA	mito_Fun_cox2:104	P	1.00	1	24	22	{'ATA': 1, 'CTT': 1}
+orf	133	CTA	mito_Fun_cox2:118	P	0.95	1	21	21	{}
+orf	169	CTA	mito_Fun_cox2:154	P	0.98	1	15	15	{}
+orf	190	CTT	mito_Fun_cox2:175	P	1.00	1	17	17	{}
+orf	211	CTA	mito_Fun_cox2:196	P	0.99	1	37	37	{}
+orf	221	CTA	mito_Fun_cox2:206	P	0.99	1	43	43	{}
+orf	253	CTT	mito_Fun_cox2:238	P	0.99	1	32	32	{}
+orf	262	CTA	mito_Fun_cox2:247	E	0.50	0	20	20	{}
+orf	54	CTA	mito_Fun_nad6:44	P	0.97	1	3	3	{}
+orf	42	CTA	mito_Fun_nad1:44	P	1.00	1	8	8	{}
+orf	68	CTA	mito_Fun_nad1:70	P	0.98	1	12	11	{'CAA': 1}
+orf	80	CTA	mito_Fun_nad1:82	P	1.00	1	15	15	{}
+orf	95	CTA	mito_Fun_nad1:97	P	0.99	1	19	19	{}
+orf	98	CTA	mito_Fun_nad1:100	P	0.56	0	17	17	{}
+orf	184	CTT	mito_Fun_nad1:186	P	0.98	1	11	11	{}
+orf	187	CTA	mito_Fun_nad1:189	P	0.95	1	9	9	{}
+orf	203	CTA	mito_Fun_nad1:205	A	0.56	0	11	11	{}
+orf	204	CTA	mito_Fun_nad1:206	P	1.00	1	11	11	{}
+orf	226	CTA	mito_Fun_nad1:228	I	0.55	0	16	16	{}
+orf	302	CTA	mito_Fun_nad1:293	P	0.98	1	39	38	{'GTA': 1}
+orf	319	CTA	mito_Fun_nad1:310	P	1.00	1	30	30	{}
+orf	329	CTT	mito_Fun_nad1:320	P	0.97	1	13	13	{}
+orf	223	CTA	mito_Fun_nad2:234	P	1.00	1	17	17	{}
+orf	236	CTT	mito_Fun_nad2:247	P	0.97	1	23	21	{'CCT': 1, 'TTT': 1}
+orf	247	CTA	mito_Fun_nad2:258	A	0.48	0	26	26	{}
+orf	274	CTA	mito_Fun_nad2:285	N	0.30	0	46	46	{}
+orf	293	CTA	mito_Fun_nad2:304	T	0.45	0	53	53	{}
+orf	406	CTT	mito_Fun_nad2:410	P	1.00	1	18	18	{}
+orf	407	CTA	mito_Fun_nad2:411	P	1.00	1	17	17	{}
+orf	492	CTA	mito_Fun_nad2:494	F	0.94	1	8	8	{}
+orf	14	CTA	mito_Fun_nad3:12	P	0.81	0	7	7	{}
+orf	39	CTA	mito_Fun_nad3:37	A	0.39	0	12	12	{}
+orf	55	CTT	mito_Fun_nad3:54	S	0.53	0	20	20	{}
+orf	67	CTA	mito_Fun_nad3:66	L	0.51	0	22	22	{}
+orf	77	CTT	mito_Fun_nad3:76	P	0.99	1	28	27	{'CGT': 1}
+orf	112	CTA	mito_Fun_nad4:117	P	0.98	1	21	21	{}
+orf	162	CTA	mito_Fun_nad4:167	P	0.79	0	17	17	{}
+orf	238	CTA	mito_Fun_nad4:243	P	1.00	1	9	9	{}
+orf	241	CTA	mito_Fun_nad4:246	F	0.50	0	10	10	{}
+orf	247	CTA	mito_Fun_nad4:252	L	0.54	0	12	12	{}
+orf	254	CTA	mito_Fun_nad4:259	P	0.92	1	15	15	{}
+orf	279	CTA	mito_Fun_nad4:284	P	0.62	0	20	20	{}
+orf	290	CTA	mito_Fun_nad4:295	P	0.49	0	22	20	{'ATA': 2}
+orf	355	CTA	mito_Fun_nad4:360	P	0.52	0	23	23	{}
+orf	385	CTA	mito_Fun_nad4:390	P	1.00	1	24	24	{}
+orf	402	CTA	mito_Fun_nad4:407	P	1.00	1	40	40	{}
+orf	422	CTA	mito_Fun_nad4:427	P	0.87	0	54	53	{'CCA': 1}
+orf	474	CTA	mito_Fun_nad4:480	F	0.41	0	16	16	{}
+orf	482	CTA	mito_Fun_nad4:488	P	0.96	1	11	11	{}
+orf	484	CTA	mito_Fun_nad4:490	P	0.35	0	9	8	{'CTT': 1}
+orf	10	CTA	mito_Fun_atp8:6	P	0.99	1	4	4	{}
+orf	37	CTA	mito_Fun_atp8:33	P	0.99	1	7	7	{}
+orf	51	CTA	mito_Fun_atp9:39	P	0.99	1	13	13	{}
+orf	15	CTA	mito_Fun_cob:44	P	0.63	0	5	5	{}
+orf	28	CTA	mito_Fun_cob:57	P	0.83	0	10	10	{}
+orf	30	CTA	mito_Fun_cob:59	P	0.99	1	10	10	{}
+orf	116	CTA	mito_Fun_cob:145	P	0.94	1	17	16	{'ATA': 1}
+orf	162	CTA	mito_Fun_cob:191	P	0.85	0	9	9	{}
+orf	181	CTA	mito_Fun_cob:210	A	0.87	0	10	9	{'ATA': 1}
+orf	194	CTA	mito_Fun_cob:223	P	0.95	1	10	10	{}
+orf	216	CTA	mito_Fun_cob:245	P	0.99	1	10	10	{}
+orf	227	CTA	mito_Fun_cob:256	P	0.56	0	9	9	{}
+orf	230	CTA	mito_Fun_cob:259	P	0.87	0	9	9	{}
+orf	255	CTA	mito_Fun_cob:284	P	0.99	1	17	17	{}
+orf	261	CTA	mito_Fun_cob:290	S	0.73	0	19	19	{}
+orf	266	CTA	mito_Fun_cob:295	M	0.40	0	26	26	{}
+orf	269	CTA	mito_Fun_cob:298	P	0.98	1	26	26	{}
+orf	273	CTA	mito_Fun_cob:302	P	1.00	1	28	27	{'CTT': 1}
+orf	274	CTA	mito_Fun_cob:303	P	0.48	0	28	28	{}
+orf	278	CTT	mito_Fun_cob:307	P	0.86	0	28	28	{}
+orf	284	CTA	mito_Fun_cob:313	P	0.93	1	32	32	{}
+orf	313	CTA	mito_Fun_cob:342	P	0.89	0	45	44	{'CTG': 1}
+orf	327	CTA	mito_Fun_cob:356	P	0.84	0	48	48	{}
+orf	354	CTA	mito_Fun_cob:383	P	0.99	1	34	34	{}
+orf	375	CTA	mito_Fun_cob:404	P	0.90	0	20	20	{}
+orf	11	CTA	mito_Fun_atp6:9	P	1.00	1	2	2	{}
+orf	95	CTA	mito_Fun_atp6:93	P	0.99	1	17	16	{'CTC': 1}
+orf	114	CTA	mito_Fun_atp6:112	P	0.96	1	17	17	{}
+orf	155	CTA	mito_Fun_atp6:153	P	1.00	1	19	18	{'CTG': 1}
+orf	164	CTA	mito_Fun_atp6:162	P	0.94	1	19	19	{}
+orf	220	CTA	mito_Fun_atp6:218	P	0.98	1	10	10	{}
+orf	18	CTA	mito_Fun_cox3:13	P	0.97	1	2	2	{}
+orf	24	CTA	mito_Fun_cox3:19	P	0.79	0	9	9	{}
+orf	26	CTA	mito_Fun_cox3:21	P	0.97	1	9	9	{}
+orf	28	CTA	mito_Fun_cox3:23	P	0.99	1	10	10	{}
+orf	121	CTA	mito_Fun_cox3:116	P	0.98	1	24	24	{}
+orf	130	CTA	mito_Fun_cox3:125	P	0.99	1	17	17	{}
+orf	131	CTA	mito_Fun_cox3:126	P	0.99	1	17	17	{}
+orf	139	CTA	mito_Fun_cox3:134	P	0.89	0	19	19	{}
+orf	143	CTA	mito_Fun_cox3:138	P	1.00	1	19	19	{}

@@ -1,0 +1,6 @@
+chromosome assemblies: 53  distinct raw names: 50  distinct normalized names: 50
+names collapsing sub-isolate suffix (-1): 49  repeated: {'J117': 2, 'TL18': 2, 'PB4': 2, 'JS12': 2}
+after MGYG=P.UF1: 48
+type material flagged: [('GCA_000940845.1', 'DSM 20271')]
+submitters: {'I.N.R.A., French National Institute for Agricultural Research': 1, 'University of Helsinki': 1, 'University of Florida': 1, 'UFMG': 1, 'Agroscope': 17, 'University of Copenhagen': 4, 'Korea University': 1, 'Nanjing Agricultural University': 1, 'KU - University of Copenhagen': 4, 'Institute of Biotechnology, Univerity of Helsinki': 19, 'EMG': 1, 'VRIJE UNIVERSITEIT BRUSSEL': 2}
+tech: {'': 1, 'PacBio RS2': 1, 'PacBio': 7, 'IonTorrent': 1, 'PacBio RSII': 4, 'PacBio Sequel; Illumina NovaSeq': 1, 'PacBio SequelII': 1, 'PacBio Sequel': 11, 'Illumina; Oxford Nanopore': 1, 'Oxford Nanopore PromethION': 3, '454, Solid4, Pacbio RS II': 1, 'Pacbio RSII': 3, 'Pacbio RS II': 15, 'Illumina': 1, 'MinION': 2}

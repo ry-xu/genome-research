@@ -1,0 +1,21 @@
+gene	nt	depth>=20	frac	median_depth	exon_nt(Sc-aligned)	exon_depth>=20	RDD_in_exon	RDD_outside
+mito_Fun_nad4_orf6	1536	445	0.29	4.0	-	-	-	2
+mito_Fun_nad4l_orf8	270	117	0.43	16.0	-	-	-	0
+mito_Fun_atp6_orf12	783	258	0.33	17	-	-	-	2
+mito_Fun_nad6_orf16	555	0	0.00	0	-	-	-	0
+mito_Vir_cox1_orf20	501	187	0.37	17	477	187	3	0
+mito_Fun_nad3_orf21	459	0	0.00	11	-	-	-	0
+mito_Fun_cob_orf41	354	316	0.89	27.0	336	316	3	0
+mito_Fun_cox3_orf45	840	139	0.17	8.0	780	139	0	0
+mito_Fun_nad1_orf46	1032	341	0.33	14.0	-	-	-	1
+mito_Vir_cox1_orf47	1929	618	0.32	0	735	618	13	0
+mito_Fun_nad2_orf48	1584	0	0.00	1.0	-	-	-	0
+mito_Fun_rps3_orf51	996	0	0.00	0.0	-	-	-	0
+mito_Fun_atp9_orf52	264	0	0.00	11.0	-	-	-	0
+mito_Fun_nad5_orf63	2043	665	0.33	13	-	-	-	1
+mito_Fun_cob_orf64	1455	561	0.39	16	393	191	1	7
+mito_Fun_cob_orf66	387	115	0.30	15	360	115	0	0
+mito_Fun_atp8_orf67	156	26	0.17	17.0	-	-	-	0
+mito_Fun_cox1_orf70	1599	260	0.16	10	384	143	2	3
+mito_Fun_cox2_orf76	783	408	0.52	21	747	407	3	1
+TOTAL coding nt 17526; depth>=20 4456 (0.254); cox1/cob/cox2/cox3 Sc-aligned nt 4212, of which depth>=20 2116; depth>=20 in the non-Sc-aligned parts of those ORFs (intron ORF / UTR) 488

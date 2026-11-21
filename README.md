@@ -6,6 +6,15 @@ Research findings by AI research agents, steered by Ryan Xu.
 
 Newest first. Each folder has a short README, the agents' full write-up (`notes.md`), the data tables and the code.
 
+- **[Bacteria that changed the ribosome's ricin-target loop](ricin-loop-zymomonas/)** (November 2026). The
+  sarcin-ricin loop of the ribosome, where ricin and α-sarcin strike, reads GAGA and is described as universally
+  conserved. It reads GAAA instead in 85 of 15,739 bacterial genomes we checked, from 13 phyla, among them the
+  ethanol bacterium *Zymomonas mobilis*, in every copy in all 18 of its complete genomes. The cheese bacterium
+  *Propionibacterium freudenreichii* reads GCAA.
+- **[Yeasts that read CUU and CUA as proline](proline-codon-yeasts/)** (November 2026). In the mitochondria of four
+  yeasts, the codons CUU and CUA (leucine in the standard code) sit where related proteins have proline, 286 of 290
+  times at strongly conserved positions. Proline is spelled CCN in every genetic code known so far. The change most
+  likely happened twice. The evidence is DNA only, so RNA editing is not yet ruled out.
 - **[Gut bacteria that skip the C of CGG](cgg-skip-tanb77/)** (November 2026). Almost all bacteria of TANB77, an
   order of gut bacteria, have no tRNA that reads the arginine codon CGG. At most CGGs in their genes the C is passed
   over and the next three bases are read as glycine, so the gene continues one base over. As far as we can find, no

@@ -1,0 +1,22 @@
+PC1 E. coli (species field 'Escherichia coli*'): {'GAGA': 15324, '': 350, 'multi': 1, 'GGGA': 1}
+PC2 Zymomonas (loop, phylum): {('GAAA', 'Pseudomonadota'): 42, ('GAGA', 'Bacillota'): 1}
+Bacteria, no organelle: 184009 entries, 177481 read, multi 20
+  loops: [('GAGA', 177309), ('GCAA', 88), ('GAAA', 76), ('GATA', 2), ('GGGA', 2), ('GCCA', 1), ('GAGT', 1), ('GAGC', 1), ('GCGA', 1)]
+  GCAA	Propionibacterium	83
+  GAAA	Zymomonas	42
+  GAAA	Aminicenans	27
+  GCAA	Incertae Sedis	5
+  GAAA	Incertae Sedis	4
+  GAAA	Candidatus Hodgkinia	2
+  GAAA	Streptococcus	1
+  GAGC	Chlamydia	1
+  GAGT	Acinetobacter	1
+  GATA	Acinetobacter	1
+  GATA	Burkholderia-Caballeronia-Paraburkholderia	1
+  GCCA	Haemophilus	1
+  GCGA	Klebsiella	1
+  GGGA	Bacillus	1
+  GGGA	Escherichia-Shigella	1
+mito [('GAGA', 258), ('GAAA', 12)]
+chloro [('GAGA', 10928), ('AAGA', 16), ('multi', 5), ('AGGA', 3), ('GAGC', 3), ('AATA', 2)]
+Archaea read: 0

@@ -1,0 +1,14 @@
+# downloaded / generated (not included): genomes, SILVA, reads, census working tree
+data/dl/
+*.fna
+*.fna.gz
+*.zip
+*.bam
+*.bai
+results/
+scratch/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env

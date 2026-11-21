@@ -1,0 +1,3 @@
+# rna SRR5487602.bam dna SRR5938400.bam
+coding positions tested (depth>=20): 0 by codon pos {}
+RDD in CDS: 0; removed by DNA 0; dna_unchecked 0

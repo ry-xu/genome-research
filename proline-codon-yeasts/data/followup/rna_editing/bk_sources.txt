@@ -1,0 +1,41 @@
+LOCUS       BK074538               34220 bp    DNA     circular PLN 05-DEC-2025
+DBLINK      BioProject: PRJNA1367877
+COMMENT     THIRD PARTY DATABASE: This TPA record uses data from
+            DDBJ/EMBL/GenBank entry SRR16989235.
+                     /organism="Wickerhamiella siamensis"
+                     /db_xref="taxon:1571656"
+LOCUS       BK074532               56486 bp    DNA     circular PLN 05-DEC-2025
+DBLINK      BioProject: PRJNA1367877
+COMMENT     THIRD PARTY DATABASE: This TPA record uses data from
+            DDBJ/EMBL/GenBank entry SRR5938406.
+                     /organism="Wickerhamiella infanticola"
+                     /db_xref="taxon:1116880"
+LOCUS       BK074542               29996 bp    DNA     circular PLN 05-DEC-2025
+DBLINK      BioProject: PRJNA1367877
+COMMENT     THIRD PARTY DATABASE: This TPA record uses data from
+                     /organism="Wickerhamiella verensis"
+                     /db_xref="taxon:2714595"
+LOCUS       BK074262               35311 bp    DNA     circular PLN 05-DEC-2025
+DBLINK      BioProject: PRJNA1367877
+COMMENT     THIRD PARTY DATABASE: This TPA record uses data from
+            DDBJ/EMBL/GenBank entry SRR16988755.
+                     /organism="Sugiyamaella pinicola"
+                     /db_xref="taxon:378059"
+LOCUS       BK074543               33736 bp    DNA     circular PLN 05-DEC-2025
+DBLINK      BioProject: PRJNA1367877
+COMMENT     THIRD PARTY DATABASE: This TPA record uses data from
+            DDBJ/EMBL/GenBank entry SRR5938403.
+                     /organism="Wickerhamiella versatilis"
+                     /db_xref="taxon:27304"
+LOCUS       BK074530               45842 bp    DNA     circular PLN 05-DEC-2025
+DBLINK      BioProject: PRJNA1367877
+COMMENT     THIRD PARTY DATABASE: This TPA record uses data from
+            DDBJ/EMBL/GenBank entry SRR5938400.
+                     /organism="Wickerhamiella domercqiae"
+                     /db_xref="taxon:45788"
+LOCUS       BK074251               36427 bp    DNA     circular PLN 05-DEC-2025
+DBLINK      BioProject: PRJNA1367877
+COMMENT     THIRD PARTY DATABASE: This TPA record uses data from
+            DDBJ/EMBL/GenBank entry SRR16989166.
+                     /organism="Sugiyamaella americana"
+                     /db_xref="taxon:796026"

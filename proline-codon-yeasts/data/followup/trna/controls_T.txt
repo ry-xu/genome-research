@@ -1,0 +1,7 @@
+PC-T1 Ashbya UAG tRNAs: 1
+  D(UAG vs Ala-TGC) = 0.094  (n sis UAG 4, n sis Ala 5); pair3_70 G:T N73 A
+  sisters UAG 3:70 -> [('NC_006626.1', 'A:T', 'TTAG'), ('NC_018056.1', 'A:T', 'TTAG'), ('BK073244.1', 'A:T', 'TTAG'), ('HE983614.1', 'A:T', 'TTAG')]
+  PASS
+  calibration D_X (Ashbya, vs sisters TGG): [(0.123, 'Met(CAT)'), (0.135, 'Val(TAC)'), (0.228, 'Ser(GCT)')] ... [(0.388, 'Phe(GAA)'), (0.422, 'Glu(TTC)'), (0.431, 'Arg(TCT)')]
+PC-T2 S. cerevisiae UAG tRNAs: 1
+  S1 top3: [(0.725, 'His', 'GTG'), (0.689, 'Trp', 'TCA'), (0.676, 'Arg', 'ACG')] PASS

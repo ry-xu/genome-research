@@ -1,0 +1,16 @@
+CDS with translation 33; aa differing genomic vs /translation 365; annotated C->U edit nt sites 369
+annotated sites at depth>=20: 361; called as RDD: 357 (0.99)
+called RDDs that are annotated edit sites: 357 of 452
+edit fraction at annotated sites: quartiles [0.035, 0.857, 0.947, 0.983, 1.0]
+missed annotated sites (depth>=20), first 10: pos gene strand cp ref counts
+  165927 nad6 1 3 C {'C': 296, 'T': 24}
+  215125 nad4 -1 3 G {'G': 82, 'A': 3}
+  210033 nad4 -1 2 G {'A': 3, 'G': 21}
+  242625 nad7 -1 1 G {'G': 19, 'A': 1}
+hand check, 3 + strand and 3 - strand called sites: pos gene strand cp type | genome base, pileup counts (+ strand bases)
+  6288 cox2 1 1 C>U | ref C {'T': 210, 'C': 43} annotated
+  6290 cox2 1 3 C>U | ref C {'T': 243, 'C': 13} NOT annotated
+  6334 cox2 1 2 C>U | ref C {'T': 330, 'C': 1} annotated
+  17839 ccmB -1 2 C>U | ref G {'G': 13, 'A': 17} annotated
+  17859 ccmB -1 3 C>U | ref G {'G': 17, 'A': 14} NOT annotated
+  17866 ccmB -1 2 C>U | ref G {'G': 6, 'A': 25} annotated

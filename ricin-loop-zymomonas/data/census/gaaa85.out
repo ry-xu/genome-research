@@ -1,0 +1,3 @@
+set json:GAAA tetraloop (2661A list): 85 genomes in 24 orders; strata 30; background 15584
+columns tested (obs>=2) 149 (GTPase 7); Bonferroni p < 3.36e-04: 0 (GTPase 0)
+set genomes' mean deviations 15.0 vs all 7.2

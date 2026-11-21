@@ -1,0 +1,86 @@
+Pro-specific (TGG) bases: [('p1', 'C'), ('p6', 'A'), ('p7', 'T'), ('p72', 'G')]
+classes with a specific set: {'TCT': 1, 'GCT': 1, 'TGT': 6, 'TGA': 1, 'ACG': 2, 'TCA': 0, 'TTC': 1, 'CAT': 0, 'TAA': 4, 'TTG': 6, 'TTT': 1, 'TGG': 4, 'TAC': 4, 'GTA': 2, 'TCC': 2, 'GTT': 3, 'GAA': 2, 'TGC': 1, 'GAT': 2, 'GTC': 2, 'GTG': 1}
+
+== BK074538.1 UAG tRNA (73 nt, 3:70 A:T, N73 A)
+  D(UAG vs Pro) = 0.262  (n sis UAG 3, n sis Pro 3)
+  id to own Pro: [0.623]
+  S1 top3: [(0.699, 'Met', 'CAT'), (0.623, 'Pro', 'TGG'), (0.622, 'Trp', 'TCA')]
+  calibration D_X n=21 min (0.142, 'Met(CAT)') median (0.393, 'His(GTG)') max (0.448, 'Ser(TGA)')
+  S3 Pro-specific carried [('p1', 'C'), ('p6', 'A'), ('p72', 'G')] gained vs sisters UAG [('p1', 'C'), ('p72', 'G')]
+  S3 decoy gains (other classes): []
+
+== BK074532.1 UAG tRNA (73 nt, 3:70 A:T, N73 A)
+  D(UAG vs Pro) = 0.262  (n sis UAG 3, n sis Pro 3)
+  id to own Pro: [0.548]
+  S1 top3: [(0.671, 'Met', 'CAT'), (0.644, 'Met', 'CAT'), (0.632, 'Glu', 'TTC')]
+  calibration D_X n=21 min (0.157, 'Met(CAT)') median (0.387, 'Tyr(GTA)') max (0.456, 'Ser(TGA)')
+  S3 Pro-specific carried [('p1', 'C'), ('p6', 'A'), ('p72', 'G')] gained vs sisters UAG [('p1', 'C'), ('p72', 'G')]
+  S3 decoy gains (other classes): []
+
+== BK074542.1 UAG tRNA (73 nt, 3:70 A:T, N73 A)
+  D(UAG vs Pro) = 0.214  (n sis UAG 3, n sis Pro 3)
+  id to own Pro: [0.575]
+  S1 top3: [(0.712, 'Met', 'CAT'), (0.645, 'Glu', 'TTC'), (0.644, 'Met', 'CAT')]
+  calibration D_X n=21 min (0.136, 'Met(CAT)') median (0.387, 'Tyr(GTA)') max (0.456, 'Ser(TGA)')
+  S3 Pro-specific carried [('p1', 'C'), ('p6', 'A'), ('p72', 'G')] gained vs sisters UAG [('p1', 'C'), ('p72', 'G')]
+  S3 decoy gains (other classes): []
+
+== BK074262.1 UAG tRNA (72 nt, 3:70 G:C, N73 T)
+  D(UAG vs Pro) = 0.105  (n sis UAG 6, n sis Pro 5)
+  id to own Pro: [0.56]
+  S1 top3: [(0.6, 'Tyr', 'GTA'), (0.581, 'Arg', 'ACG'), (0.577, 'His', 'GTG')]
+  calibration D_X n=22 min (0.088, 'Met(CAT)') median (0.396, 'Arg(TCT)') max (0.511, 'His(GTG)')
+  S3 Pro-specific carried [('p6', 'A')] gained vs sisters UAG [('p6', 'A')]
+  S3 decoy gains (other classes): [('TCT', 1), ('TAC', 1), ('GTT', 1), ('GTC', 1)]
+
+all 49: UAG tRNA identity to own tRNA-Pro (masked)
+  BK074225.1   [0.597] G:C A 74
+  BK074226.1   [0.551] G:C A 77
+  BK074227.1   [0.589] G:C A 75
+  BK074222.1   [0.526] G:C A 75
+  BK074223.1   [0.551] G:C A 77
+  BK074228.1   [0.547] A:T A 77
+  BK074229.1   [0.605] A:T A 78
+  BK074230.1   [0.547] A:T A 77
+  BK074232.1   [0.608] G:C A 75
+  BK074233.1   [0.551] G:C A 75
+  BK074251.1   [0.606] G:C A 73
+  BK074252.1   [0.603] G:C A 73
+  BK074257.1   [0.603] G:C A 75
+  BK074258.1   [0.549] G:C A 73
+  BK074259.1   [0.547] G:C A 76
+  BK074260.1   [0.568] G:C A 73
+  BK074253.1   [0.62] G:C A 73
+  BK074254.1   [0.605] G:C A 75
+  BK074255.1   [0.493] A:T A 73
+  BK074256.1   [0.479] T:G A 75
+  BK074256.1   [0.549] G:C A 72
+  BK074261.1   [0.603] G:C A 73
+  BK074262.1 * [0.56] G:C T 72
+  BK074263.1   [0.603] G:C A 75
+  BK074264.1   [0.575] G:C A 75
+  BK074265.1   [0.549] G:C A 73
+  BK074266.1   [0.618] G:C A 75
+  BK074524.1   [0.581] G:T A 74
+  BK074525.1   [0.553] G:C A 76
+  BK074526.1   [0.512] G:C A 87
+  BK074527.1   [0.533] G:C A 75
+  BK074528.1   [0.525] A:T A 78
+  BK074529.1   [0.507] G:C T 74
+  BK074530.1   [0.5] G:C A 76
+  BK074531.1   [0.533] G:C A 77
+  BK074532.1 * [0.548] A:T A 73
+  BK074533.1   [0.539] G:C A 76
+  BK074534.1   [0.579] G:C A 76
+  BK074535.1   [0.575] G:C A 73
+  BK074536.1   [0.557] G:C A 75
+  BK074537.1   [0.537] A:T A 78
+  BK074538.1 * [0.623] A:T A 73
+  BK074539.1   [0.506] A:T A 77
+  BK074540.1   [0.525] A:T A 78
+  BK074541.1   [0.52] G:T A 75
+  BK074542.1 * [0.575] A:T A 73
+  BK074543.1   [0.514] G:C A 74
+  BK072420.1   [0.481] G:C A 74
+  BK072421.1   [0.5] G:C A 76
+  BK072907.1   [0.548] G:C A 74

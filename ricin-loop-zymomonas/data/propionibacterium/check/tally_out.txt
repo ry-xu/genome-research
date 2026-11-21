@@ -1,0 +1,9 @@
+P. freudenreichii zips scanned: 55
+assemblies with >=1 23S copy: 53  without: 2 [('GCA_900087275.1', '39309'), ('GCA_900095035.1', '24909')]
+23S copies total: 120  loop counts: {'GCAA': 120}  genomic re-read: {'GCAA': 120}
+aln==genomic all: True  ctx counts: {'TTAGTACGCAAGGACC': 120}
+16S loci == 23S loci in every assembly: True
+copies per chromosome record: {2: 60}  records: 60
+non-GCAA copies: 0
+chromosome assemblies after removing identical-sequence duplicates (P.UF1=MGYG-HGUT-02401, TL18 x2, PB4 x2) and J117 re-assembly: 49
+copies in deduplicated set: 112 {'GCAA': 112}

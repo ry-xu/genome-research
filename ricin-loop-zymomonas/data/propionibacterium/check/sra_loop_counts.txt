@@ -1,0 +1,7 @@
+ERR12342576 reads 124112 GC%(first200k) 66.4 anchor_hits 61 {'GCAA|GGAC': 60, 'CCGG|GGTA': 1}
+ERR3261331 reads 1145418 GC%(first200k) 40.5 anchor_hits 0 {}
+ERR3261339 reads 1194063 GC%(first200k) 40.3 anchor_hits 0 {}
+-rw-r--r--@ 1 ryan  staff  287984439 Nov 20 10:41 sra/ERR2221169.sra
+ERR2221169 reads 2181185 GC%(first200k) 42.1 anchor_hits 0 {}
+-rw-r--r--@ 1 ryan  staff  155546990 Nov 20 10:41 sra/SRR27779104.sra
+SRR27779104 reads 1348944 GC%(first200k) 64.5 anchor_hits 261 {'GCAA|GGAC': 245, 'CTGT|CTCT': 4, 'GCAA|GCAC': 2, 'TAGC|GTAG': 1, 'GCAC|TGTC': 1, 'GCAC|CCCC': 1}

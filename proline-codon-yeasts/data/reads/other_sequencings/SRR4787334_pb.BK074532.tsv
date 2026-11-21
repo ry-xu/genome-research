@@ -1,0 +1,767 @@
+gene	codon_index	codon	model_col	cons	share	strict	reads	same	other
+orf	4	CTA	mito_Vir_cox1:149	P	0.98	1	10	8	{'ATA': 1, 'CT-': 1}
+orf	5	CCA	mito_Vir_cox1:150	P	0.99	1	10	7	{'-CA': 3}
+orf	6	TTA	mito_Vir_cox1:151	L	1.00	1	11	10	{'-TA': 1}
+orf	9	TTA	mito_Vir_cox1:154	I	0.76	0	12	8	{'-TA': 2, 'CTA': 1}
+orf	24	TTA	mito_Vir_cox1:169	L	0.93	1	13	10	{'-TA': 2, 'TT-': 1}
+orf	38	TTA	mito_Vir_cox1:183	F	0.95	1	13	9	{'TAA': 2, 'T--': 1}
+orf	55	TTA	mito_Vir_cox1:200	L	0.64	0	13	12	{'TTC': 1}
+orf	57	TTA	mito_Vir_cox1:202	L	1.00	1	13	13	{}
+orf	63	TTA	mito_Vir_cox1:208	L	0.50	0	13	12	{'TT-': 1}
+orf	68	TTA	mito_Vir_cox1:213	L	0.86	0	13	9	{'GTA': 1, '--A': 1}
+orf	70	TTA	mito_Vir_cox1:215	L	0.92	1	13	10	{'-TA': 2, 'TT-': 1}
+orf	74	CTA	mito_Vir_cox1:219	P	1.00	1	14	14	{}
+orf	76	TTG	mito_Vir_cox1:221	L	0.95	1	14	0	{'TTA': 8, '-TA': 3, 'TTC': 1}
+orf	6	TTA	mito_Vir_cox1:225	I	0.93	1	5	4	{'TT-': 1}
+orf	9	TTA	mito_Vir_cox1:228	L	0.84	0	5	4	{'-TA': 1}
+orf	10	TTA	mito_Vir_cox1:229	L	0.98	1	5	4	{'TT-': 1}
+orf	28	CTA	mito_Vir_cox1:247	P	0.97	1	5	4	{'ATT': 1}
+orf	30	TTA	mito_Vir_cox1:249	L	0.99	1	5	4	{'-TA': 1}
+orf	42	TTA	mito_Met_cox1:309	M	0.98	1	0	0	{}
+orf	47	CTA	mito_Met_cox1:314	P	1.00	1	0	0	{}
+orf	56	TTA	mito_Met_cox1:323	L	0.89	0	0	0	{}
+orf	23	TTA	mito_Vir_cox1:399	L	0.99	1	0	0	{}
+orf	25	TTA	mito_Vir_cox1:401	M	0.94	1	0	0	{}
+orf	40	CTA	mito_Vir_cox1:416	G	0.56	0	0	0	{}
+orf	45	TTA	mito_Vir_cox1:421	L	0.37	0	0	0	{}
+orf	51	TTA	mito_Vir_cox1:427	L	0.74	0	0	0	{}
+orf	59	TTA	mito_Vir_cox1:435	T	0.35	0	0	0	{}
+orf	68	TTG	mito_Vir_cox1:444	F	0.88	0	0	0	{}
+orf	69	CTA	mito_Vir_cox1:445	P	0.99	1	0	0	{}
+orf	73	TTA	mito_Vir_cox1:449	L	0.98	1	0	0	{}
+orf	75	TTA	mito_Vir_cox1:451	L	0.93	1	0	0	{}
+orf	79	CTT	mito_Vir_cox1:455	P	1.00	1	0	0	{}
+orf	83	CTA	mito_Vir_cox1:459	P	0.65	0	0	0	{}
+orf	86	CTA	mito_Vir_cox1:462	P	0.89	0	1	1	{}
+orf	94	TTA	mito_Vir_cox1:470	A	0.40	0	1	1	{}
+orf	101	TTA	mito_Vir_cox1:477	Y	0.42	0	1	1	{}
+orf	109	TTA	mito_Vir_cox1:485	L	0.30	0	1	1	{}
+orf	118	TTA	mito_Vir_cox1:494	L	0.53	0	1	1	{}
+orf	18	TTA	mito_Fun_atp9:12	L	0.79	0	1	1	{}
+orf	24	TTA	mito_Fun_atp9:18	I	0.66	0	1	1	{}
+orf	37	TTA	mito_Fun_atp9:31	L	0.97	1	1	1	{}
+orf	45	CTA	mito_Fun_atp9:39	P	0.99	1	1	1	{}
+orf	51	TTA	mito_Fun_atp9:45	L	0.97	1	1	1	{}
+orf	57	TTA	mito_Fun_atp9:51	L	0.98	1	1	1	{}
+orf	61	TTA	mito_Fun_atp9:55	L	0.56	0	1	1	{}
+orf	67	TTA	mito_Fun_atp9:61	L	0.99	1	1	1	{}
+orf	70	TTA	mito_Fun_atp9:64	L	0.99	1	1	0	{'-TA': 1}
+orf	75	TTA	mito_Fun_atp9:69	L	0.95	1	1	1	{}
+orf	76	TTA	mito_Fun_atp9:70	L	0.84	0	1	1	{}
+orf	77	TTA	mito_Fun_atp9:71	L	0.99	1	1	1	{}
+orf	53	TTA	mito_Fun_nad4:59	L	0.87	0	22	20	{'TTT': 1, 'TT-': 1}
+orf	54	TTA	mito_Fun_nad4:60	T	0.28	0	22	16	{'-TA': 3, 'TTT': 2}
+orf	60	TTA	mito_Fun_nad4:66	L	0.62	0	22	17	{'-TA': 2, 'TTC': 1}
+orf	64	TTA	mito_Fun_nad4:70	L	0.64	0	22	18	{'-TA': 2, 'TAA': 1}
+orf	69	TTA	mito_Fun_nad4:75	L	0.39	0	22	19	{'TAA': 1, 'GTA': 1}
+orf	76	TTA	mito_Fun_nad4:83	F	0.64	0	22	21	{'ATA': 1}
+orf	96	TTA	mito_Fun_nad4:99	L	0.60	0	23	18	{'-TA': 1, 'TTT': 1}
+orf	103	TTA	mito_Fun_nad4:106	I	0.55	0	23	19	{'CTC': 1, 'GTA': 1}
+orf	107	TTA	mito_Fun_nad4:110	L	0.86	0	23	19	{'TTC': 1, 'TCA': 1}
+orf	108	TTA	mito_Fun_nad4:111	L	0.99	1	23	17	{'-TA': 4, 'TTC': 2}
+orf	114	CTA	mito_Fun_nad4:117	P	0.98	1	23	19	{'C-A': 2, 'TAA': 1}
+orf	118	TTA	mito_Fun_nad4:121	L	0.81	0	23	19	{'-TA': 1, 'TGA': 1}
+orf	130	TTA	mito_Fun_nad4:133	S	0.44	0	23	22	{'ATA': 1}
+orf	134	TTA	mito_Fun_nad4:137	I	0.46	0	23	17	{'TAA': 2, '---': 1}
+orf	136	TTA	mito_Fun_nad4:139	L	0.97	1	23	18	{'-TA': 1, 'TT-': 1}
+orf	137	TTA	mito_Fun_nad4:140	L	0.66	0	23	13	{'TT-': 3, '-TA': 3}
+orf	141	TTA	mito_Fun_nad4:144	L	0.89	0	24	20	{'TTG': 1, 'TGA': 1}
+orf	142	TTA	mito_Fun_nad4:145	L	0.70	0	24	21	{'TT-': 2, '-TA': 1}
+orf	143	TTA	mito_Fun_nad4:146	L	0.61	0	24	20	{'TT-': 2, '-TA': 1}
+orf	147	TTA	mito_Fun_nad4:150	L	0.56	0	24	15	{'TTT': 5, 'TAA': 2}
+orf	149	TTA	mito_Fun_nad4:152	L	0.92	1	24	18	{'-TA': 2, 'TGA': 1}
+orf	151	TTA	mito_Fun_nad4:154	I	0.48	0	24	20	{'TCC': 1, 'T--': 1}
+orf	152	TTA	mito_Fun_nad4:155	L	0.76	0	24	19	{'-TA': 2, 'T--': 1}
+orf	157	TTA	mito_Fun_nad4:160	F	0.84	0	24	17	{'-TA': 3, 'CTA': 1}
+orf	162	TTA	mito_Fun_nad4:165	L	1.00	1	24	21	{'TT-': 2, 'TGA': 1}
+orf	164	CTA	mito_Fun_nad4:167	P	0.78	0	24	23	{'CT-': 1}
+orf	165	TTA	mito_Fun_nad4:168	L	0.87	0	24	21	{'TTT': 1, '-TA': 1}
+orf	168	TTA	mito_Fun_nad4:171	L	0.59	0	24	19	{'-GA': 1, 'TCA': 1}
+orf	185	TTA	mito_Fun_nad4:188	F	0.94	1	24	22	{'TT-': 1, 'TGA': 1}
+orf	186	TTA	mito_Fun_nad4:189	L	0.93	1	24	19	{'-TA': 2, 'TAA': 1}
+orf	189	TTA	mito_Fun_nad4:192	L	0.96	1	24	24	{}
+orf	193	TTA	mito_Fun_nad4:196	L	0.99	1	24	22	{'TT-': 1, 'TTC': 1}
+orf	196	TTA	mito_Fun_nad4:199	L	0.98	1	23	21	{'-TA': 2}
+orf	197	TTA	mito_Fun_nad4:200	L	0.96	1	23	20	{'-TA': 2, 'TTG': 1}
+orf	205	TTA	mito_Fun_nad4:208	I	0.46	0	23	22	{'GTA': 1}
+orf	206	TTA	mito_Fun_nad4:209	M	0.43	0	23	17	{'TT-': 4, '-TA': 2}
+orf	217	TTA	mito_Fun_nad4:220	T	0.31	0	24	16	{'-TA': 2, 'TT-': 2}
+orf	223	TTA	mito_Fun_nad4:226	T	0.47	0	24	23	{'-TA': 1}
+orf	227	TTA	mito_Fun_nad4:230	L	0.92	1	24	18	{'TCA': 2, 'ATA': 1}
+orf	229	TTA	mito_Fun_nad4:232	L	0.41	0	24	20	{'-TA': 2, '-T-': 1}
+orf	231	TTA	mito_Fun_nad4:234	I	0.57	0	24	19	{'-TA': 2, 'ATA': 1}
+orf	236	TTA	mito_Fun_nad4:239	A	0.96	1	24	23	{'TT-': 1}
+orf	240	CTT	mito_Fun_nad4:243	P	1.00	1	24	16	{'C-T': 5, 'C--': 1}
+orf	241	TTA	mito_Fun_nad4:244	T	0.42	0	24	21	{'GTA': 1, '-TA': 1}
+orf	243	CTA	mito_Fun_nad4:246	P	0.48	0	23	22	{'CTC': 1}
+orf	244	TTA	mito_Fun_nad4:247	L	0.54	0	23	16	{'-TA': 3, 'TGA': 2}
+orf	248	TTA	mito_Fun_nad4:251	L	1.00	1	23	18	{'-TA': 3, 'ATA': 1}
+orf	249	CTA	mito_Fun_nad4:252	L	0.52	0	23	18	{'C-A': 1, 'CTT': 1}
+orf	256	CTA	mito_Fun_nad4:259	P	0.92	1	25	22	{'CT-': 1, 'CAA': 1}
+orf	257	TTA	mito_Fun_nad4:260	L	0.90	1	25	24	{'TT-': 1}
+orf	263	TTA	mito_Fun_nad4:266	L	1.00	1	25	19	{'-TA': 2, 'TTC': 2}
+orf	266	TTA	mito_Fun_nad4:269	I	0.59	0	25	24	{'-TA': 1}
+orf	268	TTA	mito_Fun_nad4:271	L	0.99	1	25	17	{'TT-': 7, 'TTC': 1}
+orf	270	TTA	mito_Fun_nad4:273	L	0.86	0	25	20	{'TT-': 4, 'T--': 1}
+orf	274	TTA	mito_Fun_nad4:277	G	0.93	1	25	23	{'TTC': 1, 'TT-': 1}
+orf	276	TTA	mito_Fun_nad4:279	L	0.49	0	25	16	{'TT-': 5, '-TA': 2}
+orf	280	TTA	mito_Fun_nad4:283	L	0.63	0	24	19	{'-TA': 3, 'CTA': 1}
+orf	281	CTT	mito_Fun_nad4:284	P	0.61	0	23	21	{'CAT': 1, 'TTT': 1}
+orf	283	TTA	mito_Fun_nad4:286	L	0.88	0	23	19	{'TAA': 2, 'TT-': 1}
+orf	288	TTA	mito_Fun_nad4:291	L	0.31	0	23	15	{'-TA': 4, 'TT-': 2}
+orf	292	CTA	mito_Fun_nad4:295	P	0.50	0	23	18	{'C-A': 2, 'CT-': 1}
+orf	293	TTA	mito_Fun_nad4:296	L	0.43	0	23	21	{'ATA': 1, 'GTA': 1}
+orf	296	TTA	mito_Fun_nad4:299	T	0.40	0	22	19	{'TTT': 1, 'GTA': 1}
+orf	299	TTA	mito_Fun_nad4:302	V	0.65	0	22	18	{'GTA': 2, 'TTT': 1}
+orf	300	TTA	mito_Fun_nad4:303	I	0.83	0	22	18	{'TTT': 2, 'TTC': 1}
+orf	304	TTA	mito_Fun_nad4:307	Y	0.96	1	22	21	{'TT-': 1}
+orf	307	TTA	mito_Fun_nad4:310	L	0.47	0	22	20	{'TTC': 1, 'TTG': 1}
+orf	315	TTA	mito_Fun_nad4:318	V	0.28	0	18	18	{}
+orf	332	TTA	mito_Fun_nad4:335	L	0.65	0	6	6	{}
+orf	348	TTA	mito_Fun_nad4:351	L	0.96	1	7	7	{}
+orf	354	TTA	mito_Fun_nad4:357	F	0.76	0	7	7	{}
+orf	357	CTA	mito_Fun_nad4:360	P	0.53	0	7	7	{}
+orf	359	TTA	mito_Fun_nad4:362	L	0.97	1	7	6	{'ATA': 1}
+orf	367	TTA	mito_Fun_nad4:370	L	0.74	0	7	7	{}
+orf	382	TTA	mito_Fun_nad4:385	L	0.45	0	7	6	{'-TA': 1}
+orf	383	TTA	mito_Fun_nad4:386	A	0.51	0	7	6	{'-TA': 1}
+orf	387	CTA	mito_Fun_nad4:390	P	1.00	1	7	7	{}
+orf	388	TTA	mito_Fun_nad4:391	L	0.45	0	7	7	{}
+orf	391	TTA	mito_Fun_nad4:394	I	0.68	0	7	6	{'TT-': 1}
+orf	396	TTA	mito_Fun_nad4:399	L	0.55	0	7	0	{'TTG': 7}
+orf	404	CTA	mito_Fun_nad4:407	P	1.00	1	7	7	{}
+orf	405	TTA	mito_Fun_nad4:408	L	0.94	1	7	6	{'TTC': 1}
+orf	414	TTA	mito_Fun_nad4:417	L	0.50	0	8	8	{}
+orf	417	TTA	mito_Fun_nad4:420	Y	0.51	0	8	8	{}
+orf	424	CTA	mito_Fun_nad4:427	P	0.86	0	8	8	{}
+orf	432	TTA	mito_Fun_nad4:435	S	0.54	0	8	8	{}
+orf	435	TTA	mito_Fun_nad4:438	V	0.60	0	8	6	{'-TA': 1, 'TT-': 1}
+orf	436	TTA	mito_Fun_nad4:439	L	0.52	0	8	8	{}
+orf	444	TTA	mito_Fun_nad4:447	M	0.48	0	8	7	{'-TA': 1}
+orf	471	TTA	mito_Fun_nad4:475	L	0.47	0	8	7	{'TAA': 1}
+orf	476	CTA	mito_Fun_nad4:480	F	0.40	0	8	6	{'CT-': 2}
+orf	478	TTA	mito_Fun_nad4:482	V	0.53	0	8	6	{'TT-': 2}
+orf	484	CTA	mito_Fun_nad4:488	P	0.96	1	8	8	{}
+orf	486	CTA	mito_Fun_nad4:490	P	0.33	0	8	5	{'GTA': 2, 'CT-': 1}
+orf	491	TTA	mito_Fun_nad4:495	L	0.75	0	8	5	{'TT-': 2, 'CTA': 1}
+orf	30	CTA	mito_Vir_cob:27	P	0.99	1	0	0	{}
+orf	32	CTA	mito_Vir_cob:29	P	0.99	1	0	0	{}
+orf	41	TTA	mito_Vir_cob:38	F	0.94	1	0	0	{}
+orf	44	TTA	mito_Vir_cob:41	L	0.90	0	0	0	{}
+orf	45	TTA	mito_Vir_cob:42	A	0.90	0	0	0	{}
+orf	49	TTA	mito_Vir_cob:46	L	0.99	1	0	0	{}
+orf	53	TTA	mito_Vir_cob:50	I	0.91	1	0	0	{}
+orf	59	TTA	mito_Vir_cob:56	L	0.98	1	0	0	{}
+orf	67	TTA	mito_Vir_cob:64	V	0.86	0	0	0	{}
+orf	69	TTA	mito_Vir_cob:66	L	0.92	1	0	0	{}
+orf	72	TTA	mito_Vir_cob:69	N	0.46	0	0	0	{}
+orf	30	TTA	mito_Oth_cob:76	L	0.54	0	50	42	{'-TA': 5, 'TT-': 2}
+orf	62	CTA	mito_Oth_cob:108	P	0.75	0	57	45	{'CT-': 3, '-TA': 2}
+orf	66	TTA	mito_Oth_cob:112	L	0.51	0	57	50	{'TAA': 2, 'GTA': 1}
+orf	75	TTA	mito_Oth_cob:121	L	0.31	0	58	51	{'-TA': 2, 'GTA': 1}
+orf	83	TTG	mito_Oth_cob:129	L	0.34	0	58	43	{'TT-': 9, 'CTT': 1}
+orf	11	CTA	mito_Vir_cob:180	A	0.91	1	36	32	{'CT-': 2, 'CCT': 1}
+orf	19	TTA	mito_Vir_cob:188	L	0.89	0	36	31	{'TT-': 3, 'TAT': 1}
+orf	22	TTA	mito_Vir_cob:191	L	0.91	1	36	33	{'-TA': 1, 'TT-': 1}
+orf	23	TTA	mito_Vir_cob:192	L	0.89	0	36	30	{'-TA': 3, 'TTG': 1}
+orf	24	CTA	mito_Vir_cob:193	P	1.00	1	36	32	{'C-A': 2, 'C--': 1}
+orf	30	TTA	mito_Vir_cob:199	A	0.68	0	36	31	{'-TA': 2, 'TTG': 1}
+orf	33	TTA	mito_Vir_cob:202	L	0.55	0	36	32	{'TAA': 2, 'TGA': 1}
+orf	35	TTA	mito_Vir_cob:204	L	0.79	0	36	31	{'--A': 2, 'TTT': 1}
+orf	36	TTA	mito_Vir_cob:205	A	0.88	0	36	29	{'TT-': 3, '-TA': 2}
+orf	38	TTA	mito_Vir_cob:207	L	0.97	1	36	31	{'-TA': 4, 'TAT': 1}
+orf	40	TTA	mito_Vir_cob:209	Q	0.83	0	36	33	{'GAC': 1, 'TT-': 1}
+orf	46	CTA	mito_Vir_cob:215	P	1.00	1	36	30	{'CT-': 2, 'C-A': 1}
+orf	47	TTA	mito_Vir_cob:216	L	0.93	1	36	23	{'-TA': 8, 'TTG': 1}
+orf	57	CTA	mito_Vir_cob:226	A	0.43	0	36	31	{'-TA': 1, 'TTA': 1}
+orf	60	CTT	mito_Vir_cob:229	P	0.98	1	36	26	{'C-T': 5, '-TT': 2}
+orf	74	TTA	mito_Vir_cob:243	A	0.64	0	37	29	{'-TA': 5, 'CTA': 1}
+orf	80	TTA	mito_Vir_cob:249	F	0.52	0	37	33	{'-TA': 3, 'TT-': 1}
+orf	85	CTA	mito_Vir_cob:254	P	1.00	1	37	33	{'CGA': 1, 'CT-': 1}
+orf	88	TTA	mito_Vir_cob:257	L	0.98	1	37	31	{'TTT': 2, 'GTA': 1}
+orf	91	CTA	mito_Vir_cob:260	P	0.89	0	37	32	{'-TA': 2, 'TAA': 1}
+orf	96	CTA	mito_Vir_cob:265	P	0.80	0	37	34	{'CT-': 1, 'CCA': 1}
+orf	99	CTA	mito_Vir_cob:268	P	0.95	1	38	1	{'CTT': 27, 'CT-': 5, 'C--': 2}
+orf	100	TTA	mito_Vir_cob:269	M	0.86	0	38	33	{'TTT': 4, '-TA': 1}
+orf	103	CTA	mito_Vir_cob:272	P	1.00	1	38	0	{'CTT': 28, 'CT-': 3, 'CTG': 2}
+orf	23	TTA	mito_Fun_cob:311	L	0.95	1	2	2	{}
+orf	24	TTA	mito_Fun_cob:312	L	0.95	1	2	2	{}
+orf	25	CTA	mito_Fun_cob:313	P	0.94	1	2	2	{}
+orf	30	TTA	mito_Fun_cob:318	L	0.92	1	3	2	{'TTC': 1}
+orf	44	TTA	mito_Fun_cob:332	F	0.79	0	3	2	{'TTC': 1}
+orf	48	TTA	mito_Fun_cob:336	L	0.83	0	4	3	{'-TA': 1}
+orf	50	TTA	mito_Fun_cob:338	L	0.77	0	4	3	{'-TA': 1}
+orf	51	TTA	mito_Fun_cob:339	L	0.83	0	4	3	{'TGA': 1}
+orf	53	TTA	mito_Fun_cob:341	L	0.56	0	4	2	{'-TA': 2}
+orf	54	CTA	mito_Fun_cob:342	P	0.90	1	4	1	{'CTT': 2, 'CT-': 1}
+orf	68	CTA	mito_Fun_cob:356	P	0.87	0	4	4	{}
+orf	73	TTA	mito_Fun_cob:361	A	0.64	0	5	5	{}
+orf	82	TTA	mito_Fun_cob:370	L	0.55	0	6	6	{}
+orf	83	TTA	mito_Fun_cob:371	I	0.64	0	6	5	{'TAA': 1}
+orf	84	TTA	mito_Fun_cob:372	L	0.94	1	6	6	{}
+orf	87	TTA	mito_Fun_cob:375	L	0.56	0	6	5	{'-TA': 1}
+orf	95	CTT	mito_Fun_cob:383	P	0.99	1	6	5	{'C-T': 1}
+orf	98	TTA	mito_Fun_cob:386	E	0.67	0	6	5	{'TTC': 1}
+orf	114	TTA	mito_Fun_cob:402	I	0.69	0	5	5	{}
+orf	115	TTA	mito_Fun_cob:403	V	0.71	0	5	4	{'TCA': 1}
+orf	116	CTA	mito_Fun_cob:404	P	0.90	1	5	4	{'CTG': 1}
+orf	121	TTA	mito_Fun_cob:409	I	0.41	0	5	4	{'TT-': 1}
+orf	125	TTA	mito_Fun_cob:413	L	0.82	0	5	4	{'TCA': 1}
+orf	128	TTA	mito_Fun_cob:416	L	0.55	0	5	4	{'ATA': 1}
+orf	16	TTA	mito_Fun_cox3:9	F	0.82	0	5	5	{}
+orf	20	CTA	mito_Fun_cox3:13	P	0.96	1	5	2	{'CTC': 1, 'ATA': 1}
+orf	23	TTA	mito_Fun_cox3:16	L	0.94	1	5	5	{}
+orf	26	CTA	mito_Fun_cox3:19	P	0.77	0	6	5	{'-TA': 1}
+orf	28	CTA	mito_Fun_cox3:21	P	0.97	1	6	4	{'ATA': 1, 'C-A': 1}
+orf	30	CTA	mito_Fun_cox3:23	P	0.99	1	6	5	{'---': 1}
+orf	40	TTA	mito_Fun_cox3:33	L	0.74	0	6	4	{'TTT': 2}
+orf	41	TTA	mito_Fun_cox3:34	T	0.73	0	6	6	{}
+orf	42	TTA	mito_Fun_cox3:35	T	0.39	0	6	4	{'TTT': 1, 'TT-': 1}
+orf	44	TTA	mito_Fun_cox3:37	A	0.44	0	6	6	{}
+orf	45	TTA	mito_Fun_cox3:38	V	0.75	0	6	6	{}
+orf	46	TTA	mito_Fun_cox3:39	L	0.61	0	6	6	{}
+orf	58	TTA	mito_Fun_cox3:51	L	0.65	0	6	6	{}
+orf	59	TTA	mito_Fun_cox3:52	T	0.17	0	6	6	{}
+orf	60	TTA	mito_Fun_cox3:53	L	0.55	0	6	4	{'T--': 1, 'TT-': 1}
+orf	63	TTA	mito_Fun_cox3:56	I	0.40	0	6	1	{'ATA': 4, 'AT-': 1}
+orf	71	TTA	mito_Fun_cox3:64	L	0.58	0	6	5	{'CTA': 1}
+orf	83	TTA	mito_Fun_cox3:76	L	0.73	0	6	6	{}
+orf	94	TTA	mito_Fun_cox3:87	L	0.83	0	6	5	{'TT-': 1}
+orf	102	TTA	mito_Fun_cox3:95	I	0.80	0	6	5	{'TCA': 1}
+orf	106	TTA	mito_Fun_cox3:99	A	0.45	0	6	6	{}
+orf	107	TTA	mito_Fun_cox3:100	L	0.50	0	6	5	{'-TA': 1}
+orf	121	TTA	mito_Fun_cox3:114	L	0.92	1	6	1	{'TTG': 5}
+orf	123	CTA	mito_Fun_cox3:116	P	0.98	1	6	4	{'-TA': 2}
+orf	127	TTA	mito_Fun_cox3:120	L	0.67	0	6	6	{}
+orf	132	CTA	mito_Fun_cox3:125	P	0.99	1	6	4	{'ATA': 1, 'CT-': 1}
+orf	133	CTA	mito_Fun_cox3:126	P	0.98	1	6	4	{'-TA': 2}
+orf	141	CTA	mito_Fun_cox3:134	P	0.88	0	6	5	{'CT-': 1}
+orf	144	TTA	mito_Fun_cox3:137	L	0.64	0	6	5	{'TCT': 1}
+orf	145	CTA	mito_Fun_cox3:138	P	0.99	1	6	5	{'-TA': 1}
+orf	146	TTA	mito_Fun_cox3:139	L	0.97	1	6	3	{'-TA': 2, 'TAT': 1}
+orf	147	TTA	mito_Fun_cox3:140	L	0.88	0	6	6	{}
+orf	150	TTA	mito_Fun_cox3:143	V	0.47	0	6	5	{'TAA': 1}
+orf	152	TTA	mito_Fun_cox3:145	L	0.99	1	6	4	{'TTC': 1, 'TT-': 1}
+orf	153	TTA	mito_Fun_cox3:146	L	0.93	1	6	4	{'TT-': 1, '-TA': 1}
+orf	166	TTA	mito_Fun_cox3:159	L	0.84	0	6	6	{}
+orf	178	TTA	mito_Fun_cox3:171	L	0.45	0	6	6	{}
+orf	179	TTA	mito_Fun_cox3:172	I	0.34	0	6	5	{'TAA': 1}
+orf	184	TTA	mito_Fun_cox3:177	L	0.84	0	6	5	{'TTT': 1}
+orf	187	TTA	mito_Fun_cox3:180	I	0.50	0	6	5	{'TTT': 1}
+orf	215	TTA	mito_Fun_cox3:208	G	0.50	0	6	6	{}
+orf	218	TTA	mito_Fun_cox3:211	F	0.63	0	6	6	{}
+orf	223	TTA	mito_Fun_cox3:216	V	0.92	1	6	6	{}
+orf	230	TTA	mito_Fun_cox3:223	L	0.52	0	6	6	{}
+orf	237	TTA	mito_Fun_cox3:230	I	0.38	0	6	6	{}
+orf	240	TTA	mito_Fun_cox3:233	Y	0.94	1	6	5	{'CTT': 1}
+orf	242	TTA	mito_Fun_cox3:235	L	0.62	0	6	6	{}
+orf	255	TTA	mito_Fun_cox3:248	L	0.91	1	6	5	{'TCA': 1}
+orf	256	TTA	mito_Fun_cox3:249	Y	1.00	1	6	6	{}
+orf	260	TTA	mito_Fun_cox3:253	V	0.95	1	6	5	{'-TA': 1}
+orf	265	TTA	mito_Fun_cox3:258	L	0.97	1	6	5	{'ATT': 1}
+orf	267	TTA	mito_Fun_cox3:260	L	0.96	1	6	5	{'TTT': 1}
+orf	19	CTT	mito_Fun_cox2:21	P	0.77	0	17	13	{'CTA': 1, 'ATT': 1}
+orf	21	CTA	mito_Fun_cox2:23	P	0.79	0	17	15	{'CAA': 1, 'CGA': 1}
+orf	26	TTA	mito_Fun_cox2:28	F	0.95	1	17	17	{}
+orf	38	TTA	mito_Fun_cox2:40	V	0.52	0	17	15	{'-TA': 1, 'T--': 1}
+orf	54	TTA	mito_Fun_cox2:56	G	0.35	0	18	17	{'TCT': 1}
+orf	58	TTA	mito_Fun_cox2:60	I	0.31	0	18	18	{}
+orf	59	TTA	mito_Fun_cox2:61	L	0.57	0	18	14	{'TAA': 1, 'TCT': 1}
+orf	76	TTA	mito_Fun_cox2:80	L	0.71	0	18	15	{'TT-': 1, 'TTT': 1}
+orf	81	TTA	mito_Fun_cox2:85	L	0.69	0	18	15	{'TTC': 1, 'T--': 1}
+orf	82	TTA	mito_Fun_cox2:86	I	0.79	0	18	14	{'TCA': 1, 'TTG': 1}
+orf	88	TTA	mito_Fun_cox2:92	I	0.85	0	18	15	{'AT-': 1, '-TA': 1}
+orf	90	CTA	mito_Fun_cox2:94	P	0.99	1	18	15	{'CAA': 1, 'CT-': 1}
+orf	94	TTA	mito_Fun_cox2:98	L	1.00	1	18	13	{'GTA': 2, 'TGA': 1}
+orf	95	TTA	mito_Fun_cox2:99	I	0.56	0	18	15	{'TCA': 1, '-GA': 1}
+orf	96	TTA	mito_Fun_cox2:100	L	0.39	0	18	16	{'TCA': 1, '-TA': 1}
+orf	100	CTA	mito_Fun_cox2:104	P	1.00	1	19	17	{'ATA': 1, 'CTT': 1}
+orf	104	TTA	mito_Fun_cox2:108	L	0.99	1	19	18	{'GTA': 1}
+orf	105	TTA	mito_Fun_cox2:109	L	0.99	1	19	16	{'-TA': 1, '-TG': 1}
+orf	107	TTA	mito_Fun_cox2:111	L	0.92	1	19	15	{'TT-': 1, 'CT-': 1}
+orf	114	CTA	mito_Fun_cox2:118	P	0.95	1	19	16	{'CTC': 1, '-TA': 1}
+orf	150	CTA	mito_Fun_cox2:154	P	0.96	1	19	16	{'GAA': 1, 'GTA': 1}
+orf	154	TTA	mito_Fun_cox2:158	L	0.99	1	19	16	{'TGA': 1, 'TTT': 1}
+orf	162	TTA	mito_Fun_cox2:166	L	0.99	1	19	15	{'TTC': 2, 'TCA': 1}
+orf	171	CTT	mito_Fun_cox2:175	P	1.00	1	19	11	{'-TT': 3, 'C-T': 2}
+orf	192	CTA	mito_Fun_cox2:196	P	0.99	1	18	17	{'CT-': 1}
+orf	194	TTA	mito_Fun_cox2:198	L	0.99	1	18	14	{'---': 1, 'GTA': 1}
+orf	202	CTA	mito_Fun_cox2:206	P	0.99	1	18	17	{'CT-': 1}
+orf	205	TTA	mito_Fun_cox2:209	L	0.98	1	18	14	{'TT-': 1, 'TCA': 1}
+orf	217	TTA	mito_Fun_cox2:221	V	0.43	0	18	17	{'TAT': 1}
+orf	225	TTA	mito_Fun_cox2:229	I	0.76	0	19	18	{'--A': 1}
+orf	234	CTT	mito_Fun_cox2:238	P	0.98	1	18	16	{'C-T': 1, '-TT': 1}
+orf	242	TTA	mito_Fun_cox2:246	L	0.42	0	18	13	{'-TA': 3, '--A': 1}
+orf	243	CTA	mito_Fun_cox2:247	E	0.44	0	18	14	{'GTA': 1, 'CTC': 1}
+orf	246	TTA	mito_Fun_cox2:250	L	0.65	0	18	15	{'TAT': 1, 'TTC': 1}
+orf	249	TTA	mito_Fun_cox2:253	L	0.68	0	17	13	{'TT-': 2, 'TAA': 1}
+orf	12	TTA	mito_Fun_nad1:52	L	0.61	0	54	42	{'TAA': 2, 'T--': 2}
+orf	13	TTA	mito_Fun_nad1:53	L	0.94	1	55	48	{'TT-': 2, 'TAA': 1}
+orf	22	TTA	mito_Fun_nad1:62	L	1.00	1	56	44	{'TTC': 3, 'TT-': 3}
+orf	23	TTA	mito_Fun_nad1:63	L	0.49	0	56	47	{'-TA': 5, 'ATA': 3}
+orf	28	TTA	mito_Fun_nad1:68	V	0.78	0	56	42	{'TT-': 6, '-TA': 4}
+orf	30	CTA	mito_Fun_nad1:70	P	0.98	1	57	32	{'CT-': 13, '-TA': 5}
+orf	38	TTA	mito_Fun_nad1:78	F	0.93	1	57	36	{'ATA': 6, '-TA': 6}
+orf	39	TTA	mito_Fun_nad1:79	F	0.63	0	57	42	{'-TA': 3, 'TT-': 3}
+orf	42	CTA	mito_Fun_nad1:82	P	1.00	1	57	45	{'-TA': 4, 'CT-': 2}
+orf	46	TTA	mito_Fun_nad1:86	L	0.96	1	57	43	{'-TA': 3, 'TT-': 3}
+orf	50	TTA	mito_Fun_nad1:90	L	0.97	1	57	49	{'-TA': 2, 'TT-': 2}
+orf	51	TTA	mito_Fun_nad1:91	L	0.95	1	57	46	{'-TA': 3, 'TGA': 2}
+orf	54	TTA	mito_Fun_nad1:94	A	0.51	0	57	48	{'-TA': 5, 'TGA': 2}
+orf	57	CTA	mito_Fun_nad1:97	P	0.99	1	57	48	{'-TA': 4, 'C-A': 3}
+orf	60	CTA	mito_Fun_nad1:100	P	0.55	0	57	49	{'C-A': 4, 'CTC': 1}
+orf	62	TTA	mito_Fun_nad1:102	L	0.83	0	57	44	{'TT-': 4, '-TA': 4}
+orf	64	TTA	mito_Fun_nad1:104	L	0.47	0	57	53	{'-TA': 2, 'ATA': 1}
+orf	67	TTA	mito_Fun_nad1:107	F	0.52	0	57	50	{'TAA': 2, 'GTA': 1}
+orf	72	TTA	mito_Fun_nad1:112	L	0.81	0	57	43	{'TTT': 4, '-TA': 3}
+orf	75	TTA	mito_Fun_nad1:115	L	0.94	1	57	53	{'-TA': 3, 'TCA': 1}
+orf	80	TTA	mito_Fun_nad1:120	L	0.82	0	57	55	{'TT-': 1, 'TTC': 1}
+orf	86	TTA	mito_Fun_nad1:126	L	0.93	1	57	47	{'-TA': 5, 'TTC': 2}
+orf	87	TTA	mito_Fun_nad1:127	L	0.65	0	57	50	{'-TA': 4, 'TTT': 1}
+orf	99	TTA	mito_Fun_nad1:139	L	0.96	1	58	53	{'TAT': 2, 'TAA': 2}
+orf	108	TTA	mito_Fun_nad1:148	L	0.60	0	58	50	{'-TA': 2, 'ATA': 2}
+orf	113	TTA	mito_Fun_nad1:153	L	0.92	1	58	48	{'ATA': 3, '-TA': 3}
+orf	115	TTA	mito_Fun_nad1:155	L	0.87	0	58	47	{'TAA': 5, 'TGA': 1}
+orf	123	TTA	mito_Fun_nad1:163	I	0.67	0	60	49	{'TTT': 5, 'TCT': 1}
+orf	129	TTA	mito_Fun_nad1:169	L	0.68	0	60	48	{'TT-': 9, 'TAA': 1}
+orf	134	TTA	mito_Fun_nad1:174	I	0.57	0	60	56	{'-TA': 1, 'TAA': 1}
+orf	146	CTA	mito_Fun_nad1:186	P	0.98	1	60	53	{'CT-': 2, 'C--': 2}
+orf	147	TTA	mito_Fun_nad1:187	L	0.96	1	60	47	{'-TA': 5, 'TT-': 3}
+orf	148	TTA	mito_Fun_nad1:188	L	0.59	0	60	52	{'TT-': 3, '-TA': 3}
+orf	149	CTT	mito_Fun_nad1:189	P	0.94	1	60	50	{'-TT': 3, 'C-T': 2}
+orf	153	TTA	mito_Fun_nad1:193	I	0.54	0	60	51	{'-TA': 3, 'TTT': 2}
+orf	165	CTT	mito_Fun_nad1:205	A	0.55	0	60	52	{'C-T': 3, '--T': 1}
+orf	166	CTA	mito_Fun_nad1:206	P	1.00	1	60	54	{'C-A': 2, 'TTA': 2}
+orf	169	TTA	mito_Fun_nad1:209	L	0.96	1	60	54	{'CTA': 3, 'GT-': 1}
+orf	176	TTA	mito_Fun_nad1:216	L	0.99	1	60	50	{'-TA': 5, 'ATA': 2}
+orf	188	CTA	mito_Fun_nad1:228	I	0.54	0	60	50	{'-TA': 3, 'C-A': 2}
+orf	194	TTA	mito_Fun_nad1:234	L	0.99	1	60	56	{'TAA': 2, 'ATA': 1}
+orf	202	TTA	mito_Fun_nad1:242	L	0.91	1	60	42	{'TT-': 7, '-TA': 6}
+orf	210	TTA	mito_Fun_nad1:250	L	0.88	0	60	49	{'TTC': 4, '-TA': 3}
+orf	216	TTA	mito_Fun_nad1:256	L	0.61	0	60	52	{'TT-': 3, 'TTT': 1}
+orf	238	TTA	mito_Fun_nad1:269	L	0.54	0	61	52	{'-TA': 3, 'ATA': 2}
+orf	247	TTA	mito_Fun_nad1:278	T	0.50	0	62	54	{'TGA': 2, 'TTC': 1}
+orf	253	TTA	mito_Fun_nad1:284	V	0.26	0	62	57	{'ATC': 1, '---': 1}
+orf	262	CTT	mito_Fun_nad1:293	P	0.98	1	62	52	{'C-T': 6, 'TTT': 2}
+orf	269	TTA	mito_Fun_nad1:300	L	0.99	1	62	53	{'TAA': 2, 'ATA': 1}
+orf	272	TTA	mito_Fun_nad1:303	F	0.50	0	61	48	{'-TA': 4, 'TT-': 3}
+orf	278	TTA	mito_Fun_nad1:309	L	0.98	1	61	50	{'-TA': 4, 'TT-': 2}
+orf	279	CTA	mito_Fun_nad1:310	P	1.00	1	61	49	{'CT-': 3, '-T-': 3}
+orf	281	TTA	mito_Fun_nad1:312	V	0.41	0	61	54	{'T--': 3, 'TTT': 2}
+orf	284	TTA	mito_Fun_nad1:315	F	0.66	0	61	52	{'TAA': 3, '-TA': 2}
+orf	286	TTA	mito_Fun_nad1:317	I	0.67	0	61	48	{'-TA': 8, 'TT-': 1}
+orf	289	CTT	mito_Fun_nad1:320	P	0.96	1	61	51	{'C-T': 5, 'TTT': 2}
+orf	292	TTA	mito_Fun_nad1:323	L	0.80	0	61	52	{'-TA': 1, '---': 1}
+orf	294	TTA	mito_Fun_nad1:325	S	0.42	0	61	50	{'-TA': 6, '---': 1}
+orf	369	TTA	mito_Vir_matr:29	L	0.76	0	66	49	{'TT-': 5, '-TA': 2}
+orf	375	CTA	mito_Vir_matr:35	P	0.79	0	66	59	{'-TA': 4, 'ATA': 2}
+orf	376	TTG	mito_Vir_matr:36	E	0.59	0	66	5	{'TTA': 42, '-TA': 5}
+orf	386	CTT	mito_Vir_matr:45	S	0.61	0	66	54	{'C-T': 5, 'CCT': 2}
+orf	413	TTA	mito_Vir_matr:72	R	0.58	0	66	47	{'TT-': 7, 'T--': 3}
+orf	420	CTT	mito_Vir_matr:79	D	0.77	0	66	51	{'C-T': 4, 'CTC': 4}
+orf	423	TTA	mito_Vir_matr:82	R	0.62	0	67	55	{'TT-': 3, 'ATA': 2}
+orf	428	TTA	mito_Vir_matr:87	F	0.50	0	68	50	{'TT-': 9, '-TA': 3}
+orf	440	TTA	mito_Vir_matr:99	L	0.35	0	67	58	{'TTC': 3, 'TAA': 2}
+orf	445	TTA	mito_Vir_matr:104	F	0.65	0	67	53	{'TT-': 7, 'TAA': 4}
+orf	473	TTA	mito_Vir_matr:129	P	0.53	0	68	58	{'TT-': 2, 'TTG': 1}
+orf	478	TTA	mito_Vir_matr:134	L	0.91	1	68	60	{'TTC': 2, 'TT-': 2}
+orf	480	TTG	mito_Vir_matr:136	K	0.67	0	68	59	{'TGG': 2, 'TGA': 1}
+orf	485	TTA	mito_Vir_matr:141	I	0.85	0	67	62	{'TT-': 1, 'T--': 1}
+orf	139	TTA	mito_Fun_cox1:163	L	0.56	0	0	0	{}
+orf	142	TTA	mito_Fun_cox1:166	L	0.50	0	0	0	{}
+orf	168	TTA	mito_Fun_cox1:187	F	0.26	0	0	0	{}
+orf	175	TTA	mito_Fun_cox1:194	L	0.38	0	0	0	{}
+orf	176	TTA	mito_Fun_cox1:195	L	0.55	0	0	0	{}
+orf	191	TTA	mito_Fun_cox1:212	K	0.30	0	0	0	{}
+orf	212	CTA	mito_Fun_cox1:233	L	0.32	0	0	0	{}
+orf	213	TTA	mito_Fun_cox1:234	I	0.41	0	0	0	{}
+orf	218	CTT	mito_Fun_cox1:239	R	0.35	0	0	0	{}
+orf	219	TTA	mito_Fun_cox1:240	L	0.35	0	0	0	{}
+orf	220	TTA	mito_Fun_cox1:241	P	0.36	0	0	0	{}
+orf	303	TTA	mito_Fun_cox1:289	L	0.61	0	0	0	{}
+orf	341	TTA	mito_Fun_cox1:338	L	0.49	0	0	0	{}
+orf	346	TTA	mito_Fun_cox1:350	L	0.66	0	0	0	{}
+orf	347	TTA	mito_Fun_cox1:351	E	0.20	0	0	0	{}
+orf	351	TTA	mito_Fun_cox1:358	N	0.16	0	0	0	{}
+orf	353	TTA	mito_Fun_cox1:360	L	0.47	0	0	0	{}
+orf	375	TTA	mito_Fun_cox1:381	Y	0.32	0	0	0	{}
+orf	400	TTA	mito_Fun_cox1:422	L	0.22	0	0	0	{}
+orf	8	TTA	mito_Vir_cox1:345	M	0.43	0	2	2	{}
+orf	13	TTA	mito_Vir_cox1:350	I	0.58	0	4	2	{'GTA': 1, 'T--': 1}
+orf	18	CTA	mito_Vir_cox1:355	P	0.84	0	4	3	{'--A': 1}
+orf	19	TTA	mito_Vir_cox1:356	M	0.82	0	4	4	{}
+orf	20	TTA	mito_Vir_cox1:357	L	0.89	0	4	4	{}
+orf	28	TTA	mito_Vir_cox1:365	L	0.84	0	5	4	{'TT-': 1}
+orf	39	TTA	mito_Vir_cox1:376	L	0.88	0	6	5	{'GTA': 1}
+orf	44	TTA	mito_Vir_cox1:381	L	0.83	0	6	6	{}
+orf	15	TTA	mito_Fun_nad3:10	F	0.75	0	3	3	{}
+orf	17	CTA	mito_Fun_nad3:12	P	0.79	0	3	2	{'C-A': 1}
+orf	21	TTA	mito_Fun_nad3:16	I	0.27	0	3	2	{'TTT': 1}
+orf	22	TTA	mito_Fun_nad3:17	I	0.50	0	3	3	{}
+orf	23	TTA	mito_Fun_nad3:18	L	0.84	0	3	2	{'ATA': 1}
+orf	30	TTA	mito_Fun_nad3:25	L	0.65	0	3	3	{}
+orf	32	TTA	mito_Fun_nad3:27	P	0.67	0	3	2	{'TT-': 1}
+orf	42	CTA	mito_Fun_nad3:37	A	0.40	0	4	3	{'CCA': 1}
+orf	47	TTA	mito_Fun_nad3:42	F	0.91	1	4	3	{'TTC': 1}
+orf	58	CTA	mito_Fun_nad3:54	S	0.50	0	4	4	{}
+orf	63	TTA	mito_Fun_nad3:59	I	0.60	0	4	3	{'-TA': 1}
+orf	67	TTA	mito_Fun_nad3:63	L	0.86	0	4	4	{}
+orf	69	TTA	mito_Fun_nad3:65	L	0.91	1	4	4	{}
+orf	70	CTT	mito_Fun_nad3:66	L	0.50	0	4	3	{'C-T': 1}
+orf	73	TTA	mito_Fun_nad3:69	L	0.93	1	4	4	{}
+orf	78	TTA	mito_Fun_nad3:74	V	0.37	0	4	4	{}
+orf	79	TTA	mito_Fun_nad3:75	Y	0.53	0	4	4	{}
+orf	80	CTA	mito_Fun_nad3:76	P	1.00	1	4	4	{}
+orf	83	TTA	mito_Fun_nad3:79	V	0.77	0	4	3	{'GTA': 1}
+orf	85	TTA	mito_Fun_nad3:81	L	0.36	0	4	3	{'GTA': 1}
+orf	87	TTA	mito_Fun_nad3:83	Q	0.24	0	4	3	{'GTA': 1}
+orf	93	TTA	mito_Fun_nad3:89	L	0.58	0	4	3	{'---': 1}
+orf	98	TTA	mito_Fun_nad3:94	I	0.59	0	4	1	{'-TA': 1, 'TAA': 1}
+orf	103	TTA	mito_Fun_nad3:99	L	0.85	0	4	3	{'TT-': 1}
+orf	116	TTA	mito_Fun_nad3:112	L	0.74	0	4	2	{'TAA': 1, '--A': 1}
+orf	25	TTA	mito_Fun_nad4l:19	I	0.82	0	0	0	{}
+orf	26	TTA	mito_Fun_nad4l:20	L	0.91	1	0	0	{}
+orf	38	TTA	mito_Fun_nad4l:32	M	0.86	0	0	0	{}
+orf	46	TTA	mito_Fun_nad4l:40	L	0.97	1	0	0	{}
+orf	51	TTA	mito_Fun_nad4l:45	F	0.51	0	0	0	{}
+orf	55	TTA	mito_Fun_nad4l:49	I	0.43	0	0	0	{}
+orf	66	TTA	mito_Fun_nad4l:60	Q	0.89	0	0	0	{}
+orf	73	TTA	mito_Fun_nad4l:67	I	0.93	1	0	0	{}
+orf	84	TTA	mito_Fun_nad4l:78	L	1.00	1	0	0	{}
+orf	87	TTA	mito_Fun_nad4l:81	L	0.94	1	0	0	{}
+orf	89	TTA	mito_Fun_nad4l:83	A	0.90	1	0	0	{}
+orf	2	CCA	mito_Fun_atp8:2	P	1.00	1	0	0	{}
+orf	4	TTA	mito_Fun_atp8:4	L	0.94	1	0	0	{}
+orf	6	CTA	mito_Fun_atp8:6	P	0.97	1	0	0	{}
+orf	10	TTA	mito_Fun_atp8:10	V	0.32	0	0	0	{}
+orf	18	TTA	mito_Fun_atp8:18	L	0.35	0	0	0	{}
+orf	20	TTA	mito_Fun_atp8:20	L	0.68	0	0	0	{}
+orf	21	TTA	mito_Fun_atp8:21	I	0.23	0	0	0	{}
+orf	26	TTA	mito_Fun_atp8:26	I	0.37	0	0	0	{}
+orf	32	TTA	mito_Fun_atp8:32	L	0.95	1	0	0	{}
+orf	33	CTT	mito_Fun_atp8:33	P	0.99	1	0	0	{}
+orf	36	TTA	mito_Fun_atp8:36	V	0.46	0	0	0	{}
+orf	40	TTA	mito_Fun_atp8:40	V	0.36	0	0	0	{}
+orf	14	CTA	mito_Fun_atp6:9	P	1.00	1	24	21	{'CTT': 1, 'CGA': 1}
+orf	15	TTA	mito_Fun_atp6:10	L	0.98	1	24	21	{'-TA': 2, 'TTC': 1}
+orf	24	TTA	mito_Fun_atp6:19	L	0.37	0	25	24	{'TAA': 1}
+orf	33	TTA	mito_Fun_atp6:28	N	0.51	0	25	25	{}
+orf	36	TTA	mito_Fun_atp6:31	L	0.47	0	25	20	{'TTT': 2, 'TT-': 2}
+orf	43	TTA	mito_Fun_atp6:38	L	0.72	0	25	23	{'--A': 1, 'TTC': 1}
+orf	47	TTA	mito_Fun_atp6:42	I	0.57	0	25	18	{'-TA': 3, 'TGA': 1}
+orf	49	TTA	mito_Fun_atp6:44	L	0.26	0	25	20	{'TTC': 2, 'ATA': 2}
+orf	55	TTA	mito_Fun_atp6:50	L	0.52	0	25	20	{'TAA': 2, 'T--': 1}
+orf	60	TTA	mito_Fun_atp6:55	T	0.48	0	25	20	{'-TA': 1, 'TTT': 1}
+orf	65	TTA	mito_Fun_atp6:60	L	0.49	0	25	19	{'TT-': 4, 'ATA': 1}
+orf	77	TTA	mito_Fun_atp6:72	L	0.41	0	25	22	{'TCA': 1, '--A': 1}
+orf	89	TTA	mito_Fun_atp6:84	I	0.86	0	25	21	{'-TA': 2, 'TTG': 1}
+orf	98	CTT	mito_Fun_atp6:93	P	0.99	1	25	23	{'GTT': 1, 'C-T': 1}
+orf	99	TTA	mito_Fun_atp6:94	F	0.84	0	25	20	{'TT-': 2, 'T--': 1}
+orf	103	TTA	mito_Fun_atp6:98	L	0.92	1	25	22	{'TCT': 1, 'TTT': 1}
+orf	108	TTA	mito_Fun_atp6:103	L	0.93	1	25	19	{'-TA': 4, 'TTT': 1}
+orf	109	TTA	mito_Fun_atp6:104	I	0.56	0	25	20	{'-TA': 2, 'TAA': 1}
+orf	112	TTA	mito_Fun_atp6:107	L	0.96	1	25	23	{'T--': 1, '-TA': 1}
+orf	113	TTA	mito_Fun_atp6:108	I	0.63	0	25	22	{'-TA': 1, 'GTA': 1}
+orf	117	CTA	mito_Fun_atp6:112	P	0.97	1	25	22	{'-TA': 1, 'TCA': 1}
+orf	126	TTA	mito_Fun_atp6:121	F	0.52	0	25	18	{'-TA': 1, 'TCA': 1}
+orf	132	TTA	mito_Fun_atp6:127	L	0.74	0	25	23	{'TT-': 1, '--A': 1}
+orf	150	TTA	mito_Fun_atp6:145	L	0.67	0	25	22	{'TAA': 1, 'GTA': 1}
+orf	155	TTA	mito_Fun_atp6:150	L	0.53	0	25	22	{'TT-': 1, 'TGA': 1}
+orf	158	CTA	mito_Fun_atp6:153	P	1.00	1	25	19	{'CT-': 1, '-TA': 1}
+orf	163	TTA	mito_Fun_atp6:158	L	0.91	1	25	25	{}
+orf	165	TTA	mito_Fun_atp6:160	L	0.97	1	25	20	{'-TA': 2, 'AT-': 1}
+orf	167	CTA	mito_Fun_atp6:162	P	0.94	1	25	20	{'-TA': 2, 'CCA': 1}
+orf	169	TTA	mito_Fun_atp6:164	L	0.96	1	25	22	{'TTG': 1, '-TA': 1}
+orf	171	TTA	mito_Fun_atp6:166	L	0.74	0	25	22	{'TGA': 2, 'GTT': 1}
+orf	184	TTA	mito_Fun_atp6:179	L	0.98	1	25	23	{'TAA': 1, 'ATA': 1}
+orf	186	TTA	mito_Fun_atp6:181	L	0.59	0	25	23	{'TTT': 1, 'TT-': 1}
+orf	188	TTA	mito_Fun_atp6:183	L	0.97	1	25	21	{'-TA': 3, 'TT-': 1}
+orf	193	TTA	mito_Fun_atp6:188	L	0.47	0	25	23	{'-TA': 2}
+orf	197	TTA	mito_Fun_atp6:192	M	0.48	0	25	21	{'-TA': 2, 'TTC': 1}
+orf	198	TTA	mito_Fun_atp6:193	L	0.99	1	25	21	{'TT-': 2, 'ATA': 1}
+orf	199	TTA	mito_Fun_atp6:194	L	0.85	0	25	21	{'TGA': 1, 'CTA': 1}
+orf	202	TTA	mito_Fun_atp6:197	L	0.90	1	25	22	{'ATA': 1, 'GTT': 1}
+orf	205	TTA	mito_Fun_atp6:200	F	0.86	0	25	24	{'TTT': 1}
+orf	206	TTA	mito_Fun_atp6:201	T	0.43	0	25	23	{'TT-': 1, 'TAA': 1}
+orf	216	TTA	mito_Fun_atp6:211	F	0.43	0	25	22	{'TGA': 1, 'T--': 1}
+orf	223	CTA	mito_Fun_atp6:218	P	0.98	1	25	20	{'-TA': 1, '--A': 1}
+orf	224	TTA	mito_Fun_atp6:219	L	0.58	0	25	19	{'TTG': 1, '-TA': 1}
+orf	227	TTA	mito_Fun_atp6:222	I	0.52	0	25	19	{'TTT': 2, 'TGA': 2}
+orf	228	TTA	mito_Fun_atp6:223	I	0.50	0	25	23	{'-TA': 1, 'TT-': 1}
+orf	233	TTA	mito_Fun_atp6:228	L	0.99	1	25	24	{'TT-': 1}
+orf	248	TTA	mito_Fun_atp6:243	L	0.98	1	25	23	{'TT-': 1, 'TGA': 1}
+orf	259	TTA	mito_Fun_atp6:254	L	0.99	1	25	19	{'CTA': 2, 'TGA': 2}
+orf	10	TTA	mito_Fun_nad6:11	L	0.32	0	5	2	{'TTT': 1, 'TT-': 1}
+orf	18	TTA	mito_Fun_nad6:19	Y	0.52	0	6	4	{'T--': 1, '-TA': 1}
+orf	29	TTA	mito_Fun_nad6:30	G	0.30	0	6	4	{'TAA': 1, 'TCA': 1}
+orf	30	TTA	mito_Fun_nad6:31	A	0.41	0	6	4	{'-TA': 1, 'TT-': 1}
+orf	38	TTA	mito_Fun_nad6:39	I	0.94	1	6	6	{}
+orf	43	CTA	mito_Fun_nad6:44	P	0.97	1	7	5	{'TTA': 1, '-TA': 1}
+orf	47	TTA	mito_Fun_nad6:48	V	0.84	0	7	6	{'TGA': 1}
+orf	50	TTA	mito_Fun_nad6:51	L	0.97	1	7	6	{'TGT': 1}
+orf	52	TTA	mito_Fun_nad6:53	G	0.46	0	7	3	{'TTT': 1, 'T--': 1}
+orf	56	TTA	mito_Fun_nad6:57	N	0.37	0	7	5	{'-TG': 1, '-TA': 1}
+orf	57	TTA	mito_Fun_nad6:58	I	0.50	0	7	4	{'TT-': 1, 'CTA': 1}
+orf	59	TTA	mito_Fun_nad6:60	G	0.34	0	7	6	{'TT-': 1}
+orf	60	TTA	mito_Fun_nad6:61	Y	0.89	0	7	5	{'TT-': 1, 'TTT': 1}
+orf	61	TTA	mito_Fun_nad6:62	L	0.95	1	7	4	{'TTC': 1, 'T--': 1}
+orf	64	TTA	mito_Fun_nad6:65	L	0.54	0	7	3	{'---': 1, 'TT-': 1}
+orf	66	TTA	mito_Fun_nad6:67	L	0.36	0	7	5	{'---': 1, 'TTT': 1}
+orf	69	TTA	mito_Fun_nad6:70	I	0.75	0	7	4	{'CTA': 1, '---': 1}
+orf	71	TTA	mito_Fun_nad6:72	L	0.61	0	7	4	{'---': 1, 'TT-': 1}
+orf	72	TTA	mito_Fun_nad6:73	S	0.74	0	7	4	{'---': 1, 'TGA': 1}
+orf	75	TTA	mito_Fun_nad6:76	L	0.51	0	7	5	{'---': 1, 'TT-': 1}
+orf	84	TTA	mito_Fun_nad6:85	L	0.99	1	7	5	{'-TA': 1, 'TT-': 1}
+orf	89	TTA	mito_Fun_nad6:90	L	0.54	0	8	8	{}
+orf	91	TTA	mito_Fun_nad6:92	L	0.57	0	8	7	{'TAA': 1}
+orf	99	TTA	mito_Fun_nad6:100	L	0.70	0	8	6	{'--A': 1, 'ATA': 1}
+orf	108	TTA	mito_Fun_nad6:108	I	0.52	0	8	7	{'GTT': 1}
+orf	110	TTA	mito_Fun_nad6:110	L	0.96	1	8	7	{'TT-': 1}
+orf	112	TTA	mito_Fun_nad6:112	I	0.42	0	8	7	{'TT-': 1}
+orf	158	TTA	mito_Fun_nad6:182	I	0.46	0	8	5	{'TAA': 1, 'TTT': 1}
+orf	159	TTA	mito_Fun_nad6:183	L	0.58	0	8	5	{'TAA': 1, 'TTT': 1}
+orf	166	TTA	mito_Fun_nad6:190	W	0.70	0	8	5	{'TT-': 2, '-TA': 1}
+orf	168	TTA	mito_Fun_nad6:192	I	0.73	0	8	6	{'TT-': 2}
+orf	170	TTA	mito_Fun_nad6:194	T	0.40	0	8	5	{'GTA': 2, 'ATA': 1}
+orf	172	TTA	mito_Fun_nad6:196	I	0.46	0	9	6	{'-TA': 1, 'TTT': 1}
+orf	174	TTA	mito_Fun_nad6:198	L	0.97	1	9	7	{'TAT': 1, 'ATG': 1}
+orf	175	TTA	mito_Fun_nad6:199	L	0.94	1	9	7	{'T--': 1, 'TT-': 1}
+orf	176	TTA	mito_Fun_nad6:200	L	0.95	1	9	7	{'TT-': 2}
+orf	183	TTA	mito_Fun_nad6:207	V	0.54	0	10	10	{}
+orf	184	TTA	mito_Fun_nad6:208	I	0.78	0	10	7	{'T--': 2, '---': 1}
+orf	5	TTA	mito_Fun_nad1:8	I	0.54	0	0	0	{}
+orf	11	TTA	mito_Fun_nad1:14	L	0.80	0	0	0	{}
+orf	12	TTA	mito_Fun_nad1:15	L	0.35	0	0	0	{}
+orf	14	TTA	mito_Fun_nad1:17	I	0.29	0	0	0	{}
+orf	18	TTA	mito_Fun_nad1:21	L	0.97	1	0	0	{}
+orf	24	TTA	mito_Fun_nad1:27	V	0.45	0	0	0	{}
+orf	39	TTA	mito_Fun_nad1:42	L	0.57	0	0	0	{}
+orf	41	CTA	mito_Fun_nad1:44	P	1.00	1	0	0	{}
+orf	39	TTA	mito_Vir_cox1:76	I	0.54	0	0	0	{}
+orf	54	CTA	mito_Vir_cox1:91	P	1.00	1	0	0	{}
+orf	113	TTA	mito_Fun_cox1:163	L	0.56	0	1	1	{}
+orf	116	TTA	mito_Fun_cox1:166	L	0.50	0	1	1	{}
+orf	137	TTA	mito_Fun_cox1:187	F	0.26	0	1	1	{}
+orf	139	TTA	mito_Fun_cox1:189	L	0.17	0	1	1	{}
+orf	145	TTA	mito_Fun_cox1:195	L	0.55	0	1	0	{'TT-': 1}
+orf	158	TTA	mito_Fun_cox1:210	K	0.24	0	2	2	{}
+orf	169	TTA	mito_Fun_cox1:221	V	0.36	0	2	1	{'-TA': 1}
+orf	178	TTA	mito_Fun_cox1:230	L	0.29	0	2	2	{}
+orf	192	TTA	mito_Fun_cox1:249	I	0.34	0	2	2	{}
+orf	193	CTA	mito_Fun_cox1:250	E	0.15	0	2	1	{'C-A': 1}
+orf	8	CTT	mito_Oth_cox1:260	P	1.00	1	0	0	{}
+orf	13	TTA	mito_Oth_cox1:265	L	0.81	0	0	0	{}
+orf	16	CTA	mito_Oth_cox1:268	P	0.99	1	0	0	{}
+orf	32	CTT	mito_Oth_cox1:284	P	0.32	0	0	0	{}
+orf	49	TTA	mito_Oth_cox1:301	L	0.85	0	0	0	{}
+orf	63	TTA	mito_Oth_cox1:315	L	0.80	0	0	0	{}
+orf	11	TTA	mito_Fun_nad2:8	L	0.52	0	29	22	{'-TA': 3, 'TT-': 2}
+orf	15	TTA	mito_Fun_nad2:12	I	0.46	0	29	25	{'TTT': 1, 'TGA': 1}
+orf	16	TTA	mito_Fun_nad2:13	L	0.56	0	29	25	{'-TA': 3, 'TAA': 1}
+orf	18	TTA	mito_Fun_nad2:15	L	0.78	0	29	23	{'-TA': 3, 'CTA': 1}
+orf	20	TTA	mito_Fun_nad2:17	L	0.46	0	29	19	{'-TA': 3, 'TT-': 3}
+orf	41	TTA	mito_Fun_nad2:37	I	0.60	0	29	23	{'TTT': 2, 'CTA': 1}
+orf	44	TTA	mito_Fun_nad2:40	L	0.38	0	29	27	{'-TA': 1, 'TCT': 1}
+orf	50	TTA	mito_Fun_nad2:46	S	0.37	0	30	21	{'TT-': 4, 'T--': 1}
+orf	56	TTA	mito_Fun_nad2:52	I	0.49	0	30	21	{'TT-': 3, '-TA': 3}
+orf	58	TTA	mito_Fun_nad2:54	S	0.37	0	30	29	{'-TA': 1}
+orf	64	TTA	mito_Fun_nad2:60	G	0.81	0	30	21	{'TT-': 3, 'T--': 2}
+orf	71	TTA	mito_Fun_nad2:67	H	0.49	0	30	28	{'CTA': 1, '---': 1}
+orf	72	TTA	mito_Fun_nad2:68	V	0.38	0	30	24	{'TT-': 3, '-TA': 1}
+orf	82	TTA	mito_Fun_nad2:78	F	0.80	0	30	24	{'TGA': 1, 'GTA': 1}
+orf	84	TTA	mito_Fun_nad2:80	F	0.46	0	31	28	{'TT-': 2, '---': 1}
+orf	86	TTA	mito_Fun_nad2:82	I	0.55	0	31	25	{'TAA': 2, 'TAC': 1}
+orf	91	TTA	mito_Fun_nad2:87	L	0.90	0	31	24	{'TT-': 2, 'TTT': 1}
+orf	94	TTA	mito_Fun_nad2:90	T	0.54	0	31	22	{'TT-': 3, 'TAA': 1}
+orf	112	TTA	mito_Fun_nad2:117	L	0.87	0	31	27	{'-TA': 1, 'TAT': 1}
+orf	113	TTA	mito_Fun_nad2:118	I	0.80	0	31	25	{'-TA': 2, 'TGA': 1}
+orf	119	TTA	mito_Fun_nad2:124	L	0.32	0	32	28	{'TT-': 1, 'TAA': 1}
+orf	123	TTA	mito_Fun_nad2:128	F	0.47	0	32	30	{'-TA': 1, '---': 1}
+orf	131	TTA	mito_Fun_nad2:136	V	0.55	0	32	25	{'T--': 2, 'TTT': 1}
+orf	139	TTA	mito_Fun_nad2:144	L	0.98	1	32	27	{'TTT': 2, 'ATA': 1}
+orf	144	TTA	mito_Fun_nad2:149	L	0.72	0	32	23	{'GTA': 3, 'CTA': 2}
+orf	146	TTA	mito_Fun_nad2:151	I	0.46	0	32	25	{'TAA': 2, 'T--': 1}
+orf	167	TTA	mito_Fun_nad2:167	L	0.97	1	32	29	{'TT-': 1, 'TAA': 1}
+orf	171	TTA	mito_Fun_nad2:171	L	0.96	1	32	27	{'TTT': 3, 'TTC': 1}
+orf	175	TTA	mito_Fun_nad2:175	L	0.91	1	32	29	{'TT-': 2, 'TAA': 1}
+orf	179	TTA	mito_Fun_nad2:179	F	0.57	0	32	19	{'-TA': 4, 'TCA': 2}
+orf	181	TTA	mito_Fun_nad2:181	L	0.97	1	32	29	{'TAT': 1, '-TA': 1}
+orf	184	TTA	mito_Fun_nad2:184	T	0.41	0	32	29	{'-TA': 2, 'TAA': 1}
+orf	193	TTA	mito_Fun_nad2:193	T	0.40	0	32	27	{'T--': 1, 'TCA': 1}
+orf	196	TTA	mito_Fun_nad2:196	L	0.59	0	32	29	{'TT-': 1, 'TGA': 1}
+orf	221	TTA	mito_Fun_nad2:221	I	0.47	0	32	28	{'ATA': 2, 'TAA': 1}
+orf	226	TTA	mito_Fun_nad2:226	F	0.70	0	32	28	{'GTA': 2, 'TT-': 1}
+orf	232	TTA	mito_Fun_nad2:232	A	0.91	1	32	28	{'TCA': 2, 'T--': 1}
+orf	234	CTA	mito_Fun_nad2:234	P	1.00	1	32	27	{'-TA': 3, 'C--': 1}
+orf	235	TTA	mito_Fun_nad2:235	F	0.73	0	32	23	{'-TA': 4, 'TAA': 1}
+orf	239	TTA	mito_Fun_nad2:239	S	0.66	0	32	25	{'TGA': 2, 'TT-': 1}
+orf	240	TTA	mito_Fun_nad2:240	P	0.90	0	33	23	{'TAA': 2, 'TT-': 2}
+orf	247	CTT	mito_Fun_nad2:247	P	0.97	1	33	26	{'C-T': 4, '-TT': 1}
+orf	249	TTA	mito_Fun_nad2:249	I	0.76	0	33	27	{'TT-': 2, '-TA': 1}
+orf	252	TTA	mito_Fun_nad2:252	T	0.63	0	33	27	{'TT-': 3, 'TTT': 1}
+orf	258	CTT	mito_Fun_nad2:258	P	0.47	0	33	31	{'--T': 1, 'C-T': 1}
+orf	263	TTA	mito_Fun_nad2:263	F	0.44	0	33	28	{'TGA': 1, 'T--': 1}
+orf	267	TTA	mito_Fun_nad2:267	L	0.82	0	33	26	{'TT-': 4, '-TA': 2}
+orf	269	TTA	mito_Fun_nad2:269	L	0.72	0	33	19	{'TT-': 7, 'TAA': 2}
+orf	281	TTA	mito_Fun_nad2:281	F	0.36	0	34	30	{'TT-': 1, 'TTT': 1}
+orf	282	TTA	mito_Fun_nad2:282	S	0.36	0	34	30	{'TT-': 2, 'TAT': 1}
+orf	283	TTA	mito_Fun_nad2:283	W	0.65	0	34	29	{'GTA': 2, 'TT-': 2}
+orf	285	CTT	mito_Fun_nad2:285	N	0.31	0	34	13	{'CTA': 16, '-TA': 2}
+orf	289	TTA	mito_Fun_nad2:289	I	0.41	0	34	33	{'-TA': 1}
+orf	292	TTA	mito_Fun_nad2:292	L	0.73	0	34	24	{'-TA': 5, 'TAA': 2}
+orf	293	TTA	mito_Fun_nad2:293	L	0.75	0	34	28	{'-TA': 2, 'GAA': 1}
+orf	300	TTA	mito_Fun_nad2:300	V	0.63	0	34	29	{'GTT': 1, 'TT-': 1}
+orf	303	TTA	mito_Fun_nad2:303	L	0.95	1	34	29	{'TT-': 2, '-TA': 1}
+orf	304	CTA	mito_Fun_nad2:304	T	0.43	0	34	28	{'-TA': 1, '-T-': 1}
+orf	312	TTA	mito_Fun_nad2:312	L	0.56	0	34	24	{'ATA': 5, 'TT-': 1}
+orf	317	TTA	mito_Fun_nad2:317	I	0.93	1	34	29	{'TAA': 2, 'ATA': 1}
+orf	324	TTA	mito_Fun_nad2:324	L	0.96	1	34	27	{'-TA': 3, 'TAA': 3}
+orf	339	TTA	mito_Fun_nad2:339	I	0.53	0	34	32	{'TAT': 1, 'TT-': 1}
+orf	347	TTA	mito_Fun_nad2:347	I	0.57	0	34	28	{'TCA': 3, 'TGA': 1}
+orf	389	TTA	mito_Fun_nad2:382	I	0.86	0	34	26	{'TT-': 4, 'TTT': 1}
+orf	395	TTA	mito_Fun_nad2:388	Y	0.48	0	34	29	{'GTA': 2, 'TTT': 1}
+orf	396	TTA	mito_Fun_nad2:389	F	0.81	0	34	31	{'-TA': 3}
+orf	401	CTA	mito_Fun_nad2:394	L	0.35	0	34	31	{'C-A': 1, 'CGA': 1}
+orf	402	TTA	mito_Fun_nad2:395	L	0.89	0	34	25	{'-TA': 5, 'GTA': 1}
+orf	410	TTA	mito_Fun_nad2:403	L	0.67	0	34	27	{'TAA': 2, 'TT-': 2}
+orf	416	TTA	mito_Fun_nad2:409	I	0.71	0	35	28	{'-TA': 3, 'TT-': 2}
+orf	417	CTT	mito_Fun_nad2:410	P	0.99	1	35	30	{'C-T': 2, '---': 1}
+orf	418	CTA	mito_Fun_nad2:411	P	0.99	1	35	31	{'-TA': 4}
+orf	419	TTA	mito_Fun_nad2:412	L	0.93	1	35	23	{'-TA': 5, 'TTT': 2}
+orf	420	TTA	mito_Fun_nad2:413	I	0.51	0	35	30	{'-TA': 2, 'TAA': 1}
+orf	429	TTA	mito_Fun_nad2:422	L	0.94	1	35	22	{'TT-': 4, '-TA': 3}
+orf	433	TTA	mito_Fun_nad2:426	L	0.54	0	35	32	{'TAA': 1, 'TGA': 1}
+orf	442	TTA	mito_Fun_nad2:435	L	0.57	0	35	33	{'TT-': 2}
+orf	444	TTA	mito_Fun_nad2:437	A	0.79	0	35	27	{'TT-': 2, '-TA': 1}
+orf	462	TTA	mito_Fun_nad2:455	I	0.43	0	35	31	{'-TA': 2, 'TAA': 1}
+orf	493	TTA	mito_Fun_nad2:486	I	0.35	0	35	30	{'-TA': 2, 'TAT': 2}
+orf	494	TTA	mito_Fun_nad2:487	L	0.64	0	35	28	{'TT-': 3, 'T--': 1}
+orf	499	TTA	mito_Fun_nad2:492	L	0.65	0	35	31	{'-TA': 2, '---': 1}
+orf	501	CTA	mito_Fun_nad2:494	F	0.94	1	35	27	{'-TA': 2, 'CT-': 2}
+orf	502	TTA	mito_Fun_nad2:495	I	0.60	0	35	23	{'-TA': 3, 'TTT': 2}
+orf	503	TTA	mito_Fun_nad2:496	F	0.46	0	35	31	{'T--': 1, 'ATA': 1}
+orf	505	TTA	mito_Fun_nad2:498	P	0.76	0	35	30	{'TTG': 1, 'TGA': 1}
+orf	13	TTA	mito_Fun_nad5:6	L	0.94	1	44	38	{'TT-': 2, 'TAA': 2}
+orf	15	TTA	mito_Fun_nad5:8	I	0.82	0	44	40	{'TT-': 1, 'TGT': 1}
+orf	16	TTA	mito_Fun_nad5:9	I	0.65	0	44	35	{'-TA': 3, 'TT-': 2}
+orf	17	TTA	mito_Fun_nad5:10	I	0.50	0	44	36	{'-TA': 3, 'ATT': 1}
+orf	18	TTA	mito_Fun_nad5:11	L	0.88	0	44	34	{'-TA': 2, 'TCA': 2}
+orf	19	CTT	mito_Fun_nad5:12	P	0.99	1	44	35	{'C-T': 4, '-TT': 2}
+orf	28	TTA	mito_Fun_nad5:21	F	0.74	0	45	39	{'TT-': 2, 'TAT': 1}
+orf	32	TTA	mito_Fun_nad5:25	K	0.91	1	45	35	{'TT-': 3, '-TA': 3}
+orf	44	TTA	mito_Fun_nad5:37	T	0.32	0	46	44	{'TTT': 1, 'TT-': 1}
+orf	50	TTA	mito_Fun_nad5:43	T	0.54	0	46	42	{'TT-': 2, 'T--': 2}
+orf	51	TTA	mito_Fun_nad5:44	I	0.40	0	46	40	{'TT-': 3, '-TA': 1}
+orf	56	TTA	mito_Fun_nad5:49	A	0.75	0	46	38	{'TT-': 2, 'TTT': 2}
+orf	71	TTA	mito_Fun_nad5:64	L	0.80	0	46	40	{'-TA': 2, 'TAT': 1}
+orf	91	TTA	mito_Fun_nad5:84	L	0.96	1	47	39	{'TT-': 3, '-TA': 2}
+orf	95	TTA	mito_Fun_nad5:88	M	0.87	0	47	41	{'-TA': 2, 'GTA': 1}
+orf	96	TTA	mito_Fun_nad5:89	L	0.73	0	47	41	{'TT-': 2, '-TA': 2}
+orf	97	TTA	mito_Fun_nad5:90	I	0.68	0	47	41	{'-TA': 2, 'TAA': 1}
+orf	98	CTT	mito_Fun_nad5:91	P	0.85	0	47	40	{'C-T': 2, '-TT': 2}
+orf	101	TTA	mito_Fun_nad5:94	I	0.56	0	47	41	{'TCA': 1, '-TA': 1}
+orf	105	TTA	mito_Fun_nad5:98	L	0.91	1	47	45	{'TTT': 1, 'TT-': 1}
+orf	118	CTA	mito_Fun_nad5:111	P	0.99	1	48	41	{'-TA': 2, 'CGA': 1}
+orf	127	TTA	mito_Fun_nad5:120	L	1.00	1	48	42	{'T--': 1, 'TAA': 1}
+orf	129	TTA	mito_Fun_nad5:122	L	0.75	0	48	42	{'ATA': 2, '-TA': 2}
+orf	137	TTA	mito_Fun_nad5:130	L	0.99	1	48	36	{'-TA': 7, 'TCA': 1}
+orf	144	TTA	mito_Fun_nad5:137	L	0.73	0	48	38	{'TT-': 2, 'GTA': 2}
+orf	146	TTA	mito_Fun_nad5:139	M	0.87	0	48	40	{'TCA': 1, 'TTG': 1}
+orf	159	TTA	mito_Fun_nad5:152	L	0.99	1	48	43	{'TT-': 1, 'ATA': 1}
+orf	160	TTA	mito_Fun_nad5:153	L	1.00	1	48	35	{'-TA': 7, 'TT-': 2}
+orf	175	TTA	mito_Fun_nad5:168	I	0.51	0	48	43	{'TTT': 1, 'TAA': 1}
+orf	178	TTA	mito_Fun_nad5:171	F	0.56	0	48	43	{'-TA': 2, 'TAA': 1}
+orf	179	TTA	mito_Fun_nad5:172	L	0.57	0	48	42	{'-TA': 2, 'TT-': 2}
+orf	187	TTA	mito_Fun_nad5:180	F	0.56	0	48	41	{'TT-': 2, 'TTC': 1}
+orf	188	TTA	mito_Fun_nad5:181	L	0.82	0	48	39	{'-TA': 3, 'TT-': 2}
+orf	190	TTA	mito_Fun_nad5:183	I	0.77	0	48	44	{'-TA': 3, 'TGA': 1}
+orf	192	TTA	mito_Fun_nad5:185	M	0.52	0	48	41	{'TT-': 2, 'T--': 1}
+orf	194	TTA	mito_Fun_nad5:187	A	0.71	0	48	45	{'TAT': 1, 'TT-': 1}
+orf	196	TTA	mito_Fun_nad5:189	L	0.49	0	48	39	{'TAA': 2, 'T--': 2}
+orf	202	TTA	mito_Fun_nad5:195	L	0.60	0	48	39	{'TTT': 7, '---': 1}
+orf	210	TTA	mito_Fun_nad5:203	L	0.81	0	49	44	{'TT-': 1, 'CTA': 1}
+orf	224	TTA	mito_Fun_nad5:217	I	0.58	0	49	40	{'TT-': 3, '-TA': 2}
+orf	225	TTA	mito_Fun_nad5:218	C	0.58	0	49	44	{'-TA': 3, 'TT-': 1}
+orf	226	TTA	mito_Fun_nad5:219	L	0.85	0	49	43	{'TTC': 2, 'GTA': 2}
+orf	227	TTA	mito_Fun_nad5:220	L	0.86	0	49	36	{'-TA': 4, 'TT-': 3}
+orf	239	TTA	mito_Fun_nad5:232	L	0.98	1	50	47	{'-TA': 1, 'GTA': 1}
+orf	243	TTA	mito_Fun_nad5:236	L	1.00	1	51	40	{'-TA': 4, 'TT-': 1}
+orf	244	TTA	mito_Fun_nad5:237	P	0.91	1	51	42	{'-TA': 3, 'TAT': 1}
+orf	250	CTA	mito_Fun_nad5:243	P	0.99	1	51	41	{'CT-': 3, 'TTA': 1}
+orf	252	CTA	mito_Fun_nad5:245	P	0.99	1	51	37	{'-TA': 5, 'ATA': 3}
+orf	256	TTA	mito_Fun_nad5:249	L	0.98	1	51	47	{'TTT': 2, 'GTG': 2}
+orf	257	TTA	mito_Fun_nad5:250	I	0.74	0	51	42	{'TT-': 3, 'ATA': 2}
+orf	262	TTA	mito_Fun_nad5:255	M	0.62	0	51	45	{'TT-': 2, 'GTA': 2}
+orf	269	TTA	mito_Fun_nad5:262	L	0.97	1	51	45	{'TT-': 2, 'CTA': 1}
+orf	270	TTA	mito_Fun_nad5:263	L	0.95	1	51	43	{'-TA': 6, 'T--': 1}
+orf	271	TTA	mito_Fun_nad5:264	M	0.43	0	51	40	{'-TA': 4, 'TT-': 3}
+orf	276	TTA	mito_Fun_nad5:269	L	0.66	0	51	45	{'TGA': 2, 'TTC': 2}
+orf	277	TTA	mito_Fun_nad5:270	I	0.56	0	51	43	{'-TA': 3, 'TT-': 2}
+orf	281	CTA	mito_Fun_nad5:274	S	0.65	0	51	7	{'CTT': 34, 'CT-': 4}
+orf	284	TTA	mito_Fun_nad5:277	L	0.99	1	51	43	{'-TA': 3, 'TTT': 1}
+orf	285	TTA	mito_Fun_nad5:278	L	0.53	0	51	42	{'-TA': 5, 'ATA': 2}
+orf	286	TTA	mito_Fun_nad5:279	L	0.45	0	51	42	{'TT-': 4, 'TAA': 2}
+orf	288	TTA	mito_Fun_nad5:281	L	0.58	0	51	46	{'-TA': 2, 'TT-': 1}
+orf	293	TTA	mito_Fun_nad5:286	I	0.53	0	51	45	{'-TA': 2, 'TGA': 1}
+orf	296	TTA	mito_Fun_nad5:289	V	0.45	0	51	45	{'TT-': 2, 'CTT': 1}
+orf	308	TTA	mito_Fun_nad5:301	I	0.63	0	52	38	{'TT-': 8, 'T--': 2}
+orf	314	TTA	mito_Fun_nad5:307	Y	0.70	0	52	47	{'-TA': 2, 'TT-': 1}
+orf	320	TTA	mito_Fun_nad5:313	L	0.88	0	52	45	{'-TA': 2, 'TT-': 1}
+orf	322	TTA	mito_Fun_nad5:315	M	0.53	0	52	47	{'TT-': 2, '-CA': 1}
+orf	325	TTA	mito_Fun_nad5:318	I	0.55	0	52	46	{'TGA': 4, 'TTT': 1}
+orf	329	TTA	mito_Fun_nad5:322	L	0.91	1	52	51	{'TT-': 1}
+orf	339	TTA	mito_Fun_nad5:332	L	0.74	0	52	46	{'GTA': 2, 'TCT': 1}
+orf	348	TTA	mito_Fun_nad5:341	L	0.97	1	52	39	{'-TA': 5, 'TGA': 4}
+orf	349	TTA	mito_Fun_nad5:342	L	1.00	1	52	44	{'TGA': 2, '-TA': 2}
+orf	373	TTA	mito_Fun_nad5:365	L	0.97	1	53	49	{'TTT': 1, 'TAA': 1}
+orf	378	CTA	mito_Fun_nad5:370	P	1.00	1	53	44	{'-TA': 3, 'C-A': 2}
+orf	384	TTA	mito_Fun_nad5:376	M	0.69	0	53	49	{'TT-': 1, '---': 1}
+orf	385	TTA	mito_Fun_nad5:377	L	0.90	1	53	45	{'TT-': 2, 'ATA': 2}
+orf	389	TTA	mito_Fun_nad5:381	L	0.94	1	53	44	{'TT-': 4, '-TA': 2}
+orf	391	TTA	mito_Fun_nad5:383	L	0.99	1	53	47	{'TT-': 2, '-TA': 2}
+orf	395	CTA	mito_Fun_nad5:387	P	0.98	1	53	49	{'--A': 2, 'C-A': 1}
+orf	397	TTA	mito_Fun_nad5:389	M	0.52	0	53	45	{'TT-': 5, 'GTA': 1}
+orf	416	TTA	mito_Fun_nad5:408	F	0.75	0	54	47	{'ATA': 1, 'GGA': 1}
+orf	431	TTA	mito_Fun_nad5:423	F	0.60	0	54	42	{'TT-': 5, '-TA': 5}
+orf	439	TTA	mito_Fun_nad5:431	V	0.51	0	53	42	{'TT-': 4, '-TA': 3}
+orf	442	TTA	mito_Fun_nad5:434	L	0.91	1	53	49	{'TT-': 1, 'ATA': 1}
+orf	448	CTA	mito_Fun_nad5:440	P	0.95	1	53	44	{'CT-': 4, 'CGA': 2}
+orf	465	TTA	mito_Fun_nad5:457	M	0.46	0	54	45	{'-TA': 4, 'TT-': 2}
+orf	466	TTA	mito_Fun_nad5:458	S	0.41	0	54	49	{'-TA': 2, 'TTT': 1}
+orf	467	TTA	mito_Fun_nad5:459	L	0.45	0	54	42	{'TT-': 3, 'GTA': 2}
+orf	468	CTA	mito_Fun_nad5:460	P	0.96	1	54	44	{'CT-': 6, '-TA': 2}
+orf	472	TTA	mito_Fun_nad5:464	L	1.00	1	54	45	{'-TA': 6, 'TT-': 1}
+orf	486	TTA	mito_Fun_nad5:478	I	0.43	0	53	44	{'T--': 3, 'TAA': 2}
+orf	488	TTA	mito_Fun_nad5:480	I	0.52	0	53	47	{'TT-': 2, 'TTG': 1}
+orf	490	TTA	mito_Fun_nad5:482	L	0.55	0	53	47	{'TT-': 3, 'TTT': 2}
+orf	493	CTA	mito_Fun_nad5:485	D	0.42	0	53	49	{'-TA': 3, 'CGA': 1}
+orf	497	TTA	mito_Fun_nad5:491	L	0.64	0	53	48	{'TGA': 3, 'TTC': 1}
+orf	501	CTA	mito_Fun_nad5:495	P	0.99	1	52	40	{'-TA': 5, 'TTA': 2}
+orf	513	TTA	mito_Fun_nad5:507	V	0.51	0	52	47	{'AGC': 1, 'TGA': 1}
+orf	514	CTA	mito_Fun_nad5:508	P	0.78	0	52	46	{'TTA': 3, '-TA': 2}
+orf	519	TTA	mito_Fun_nad5:513	L	0.88	0	52	39	{'-TA': 4, 'T--': 2}
+orf	520	TTG	mito_Fun_nad5:514	L	0.91	1	52	41	{'-TG': 4, 'TTT': 2}
+orf	521	CTA	mito_Fun_nad5:515	P	1.00	1	52	47	{'C-A': 2, '-TA': 1}
+orf	522	TTA	mito_Fun_nad5:516	L	0.47	0	52	40	{'TT-': 6, '-TA': 3}
+orf	524	TTA	mito_Fun_nad5:518	F	0.44	0	52	40	{'-TA': 4, 'TT-': 2}
+orf	526	TTA	mito_Fun_nad5:520	I	0.44	0	52	42	{'TT-': 3, 'GTA': 2}
+orf	533	TTA	mito_Fun_nad5:527	I	0.51	0	52	36	{'-TA': 7, 'TGA': 2}
+orf	542	TTA	mito_Fun_nad5:536	F	0.28	0	52	42	{'-TA': 3, 'TTT': 2}
+orf	543	TTA	mito_Fun_nad5:537	L	0.48	0	52	38	{'-TA': 5, 'TGA': 4}
+orf	544	CTA	mito_Fun_nad5:538	I	0.61	0	52	42	{'CT-': 4, 'C-A': 2}
+orf	564	TTA	mito_Fun_nad5:559	I	0.40	0	51	44	{'-TA': 3, 'GTA': 1}
+orf	567	TTA	mito_Fun_nad5:562	F	0.42	0	51	47	{'ATA': 1, 'TT-': 1}
+orf	572	TTA	mito_Fun_nad5:567	I	0.79	0	51	45	{'TAA': 1, 'CTA': 1}
+orf	573	TTA	mito_Fun_nad5:568	T	0.39	0	51	42	{'-TA': 3, 'TT-': 3}
+orf	577	TTA	mito_Fun_nad5:572	L	0.89	0	50	44	{'TT-': 3, '-TA': 2}
+orf	583	TTA	mito_Fun_nad5:578	T	0.58	0	50	40	{'TT-': 5, 'T--': 2}
+orf	587	TTA	mito_Fun_nad5:582	L	0.67	0	50	44	{'TT-': 3, 'ATA': 1}
+orf	591	TTA	mito_Fun_nad5:586	S	0.49	0	50	44	{'TTT': 3, 'GTA': 1}
+orf	592	TTA	mito_Fun_nad5:587	I	0.56	0	50	43	{'-TA': 2, 'TTC': 1}
+orf	597	CTT	mito_Fun_nad5:592	P	0.96	1	50	43	{'C-T': 3, 'CTG': 1}
+orf	600	TTA	mito_Fun_nad5:595	L	0.84	0	50	46	{'TAA': 1, 'ATA': 1}
+orf	604	TTA	mito_Fun_nad5:599	L	0.74	0	50	40	{'TAA': 3, 'TTT': 2}
+orf	606	TTA	mito_Fun_nad5:601	N	0.41	0	50	46	{'TT-': 2, 'TAC': 1}
+orf	607	TTA	mito_Fun_nad5:602	L	0.35	0	50	41	{'TT-': 4, '-TA': 3}
+orf	638	TTA	mito_Fun_nad5:621	I	0.90	1	50	47	{'TGA': 2, 'T--': 1}
+orf	641	TTA	mito_Fun_nad5:624	G	0.76	0	50	40	{'-TA': 4, 'CTA': 3}

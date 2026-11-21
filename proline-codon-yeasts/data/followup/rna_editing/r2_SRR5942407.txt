@@ -1,0 +1,5 @@
+# rna SRR5942407.bam dna SRR5938403.bam
+coding positions tested (depth>=20): 1652 by codon pos {1: 551, 2: 551, 3: 550}
+RDD in CDS: 1; removed by DNA 0; dna_unchecked 0
+  U>C	1	codon pos {3: 1}
+C>U share 0.000; U>C count 1

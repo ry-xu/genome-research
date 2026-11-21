@@ -1,0 +1,20 @@
+mito_Fun_nad4_orf6	len_nt 1536	strand 1	start ATT	end *	internal_stops 0
+mito_Fun_nad4l_orf8	len_nt 270	strand 1	start ATG	end *	internal_stops 0
+mito_Fun_atp6_orf12	len_nt 783	strand 1	start ATA	end *	internal_stops 0
+mito_Fun_nad6_orf16	len_nt 555	strand 1	start TTA	end *	internal_stops 0
+mito_Vir_cox1_orf20	len_nt 501	strand 1	start AAT	end *	internal_stops 0	vs_Sc_cox1: score 508 (revcomp 26) id 87/158 q7-166 Sc375-533
+mito_Fun_nad3_orf21	len_nt 459	strand 1	start TAT	end *	internal_stops 0
+mito_Fun_cob_orf41	len_nt 354	strand 1	start AGA	end *	internal_stops 0	vs_Sc_cob: score 404 (revcomp 36) id 74/112 q5-117 Sc155-269
+mito_Fun_cox3_orf45	len_nt 840	strand 1	start ATA	end *	internal_stops 0	vs_Sc_cox3: score 741 (revcomp 39) id 131/260 q19-279 Sc9-269
+mito_Fun_nad1_orf46	len_nt 1032	strand 1	start AAA	end *	internal_stops 0
+mito_Vir_cox1_orf47	len_nt 1929	strand 1	start ATA	end *	internal_stops 0	vs_Sc_cox1: score 985 (revcomp 44) id 175/245 q8-253 Sc129-374
+mito_Fun_nad2_orf48	len_nt 1584	strand 1	start ATA	end *	internal_stops 0
+mito_Fun_rps3_orf51	len_nt 996	strand 1	start ATG	end *	internal_stops 0
+mito_Fun_atp9_orf52	len_nt 264	strand 1	start AAC	end *	internal_stops 0
+mito_Fun_nad5_orf63	len_nt 2043	strand 1	start TTT	end *	internal_stops 0
+mito_Fun_cob_orf64	len_nt 1455	strand 1	start ATA	end *	internal_stops 0	vs_Sc_cob: score 504 (revcomp 38) id 85/131 q5-136 Sc0-131
+mito_Fun_cob_orf66	len_nt 387	strand 1	start TCT	end *	internal_stops 0	vs_Sc_cob: score 369 (revcomp 27) id 68/120 q4-124 Sc259-380
+mito_Fun_atp8_orf67	len_nt 156	strand 1	start ATC	end *	internal_stops 0
+mito_Fun_cox1_orf70	len_nt 1599	strand 1	start AAT	end *	internal_stops 0	vs_Sc_cox1: score 401 (revcomp 37) id 71/128 q25-153 Sc1-129
+mito_Fun_cox2_orf76	len_nt 783	strand 1	start AAT	end *	internal_stops 0	vs_Sc_cox2: score 909 (revcomp 34) id 164/249 q11-260 Sc0-251
+codon_pos order mismatches 0

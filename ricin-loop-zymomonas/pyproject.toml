@@ -1,0 +1,13 @@
+[project]
+name = "ricin-loop-zymomonas"
+version = "0.1.0"
+description = "Analysis code and data: bacteria whose ribosome changed the sarcin-ricin loop (GAAA, GCAA)"
+requires-python = ">=3.11"
+dependencies = [
+    "duckdb",
+    "matplotlib",
+    "numpy",
+]
+
+[tool.uv]
+package = false

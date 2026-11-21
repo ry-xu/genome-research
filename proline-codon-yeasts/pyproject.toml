@@ -1,0 +1,16 @@
+[project]
+name = "proline-codon-yeasts"
+version = "0.1.0"
+description = "Analysis code and data: four yeasts whose mitochondria read CUU and CUA as proline"
+requires-python = ">=3.11"
+dependencies = [
+    "biopython",
+    "matplotlib",
+    "numpy",
+    "pyaragorn",
+    "pyhmmer",
+    "scipy",
+]
+
+[tool.uv]
+package = false

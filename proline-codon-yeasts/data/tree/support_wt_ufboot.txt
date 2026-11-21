@@ -1,0 +1,36 @@
+3 Wick PRO clade: support 100 size 3 branch 0.1293317274
+== BK074262.1 Sugiyamaella pinicola
+
+  ancestor support 96 tips 6 ['Sugiyamaella']
+  ancestor support 96 tips 7 ['Sugiyamaella']
+  ancestor support 100 tips 9 ['Sugiyamaella']
+  ancestor support 99 tips 14 ['Sugiyamaella']
+  ancestor support 100 tips 16 ['Sugiyamaella']
+  ancestor support 100 tips 45 ['Starmerella', 'Sugiyamaella', 'Wickerhamiella']
+== BK074532.1 Wickerhamiella infanticola
+
+  ancestor support 100 tips 2 ['Wickerhamiella']
+  ancestor support 100 tips 3 ['Wickerhamiella']
+  ancestor support 92 tips 6 ['Wickerhamiella']
+  ancestor support 54 tips 15 ['Wickerhamiella']
+  ancestor support 100 tips 29 ['Starmerella', 'Wickerhamiella']
+  ancestor support 100 tips 45 ['Starmerella', 'Sugiyamaella', 'Wickerhamiella']
+== BK074538.1 Wickerhamiella siamensis
+
+  ancestor support 100 tips 3 ['Wickerhamiella']
+  ancestor support 92 tips 6 ['Wickerhamiella']
+  ancestor support 54 tips 15 ['Wickerhamiella']
+  ancestor support 100 tips 29 ['Starmerella', 'Wickerhamiella']
+  ancestor support 100 tips 45 ['Starmerella', 'Sugiyamaella', 'Wickerhamiella']
+  ancestor support 100 tips 47 ['Blastobotrys', 'Starmerella', 'Sugiyamaella', 'Wickerhamiella']
+== BK074542.1 Wickerhamiella verensis
+
+  ancestor support 100 tips 2 ['Wickerhamiella']
+  ancestor support 100 tips 3 ['Wickerhamiella']
+  ancestor support 92 tips 6 ['Wickerhamiella']
+  ancestor support 54 tips 15 ['Wickerhamiella']
+  ancestor support 100 tips 29 ['Starmerella', 'Wickerhamiella']
+  ancestor support 100 tips 45 ['Starmerella', 'Sugiyamaella', 'Wickerhamiella']
+Sugiyamaella 16 mrca tips 16 support 100
+Wickerhamiella 20 mrca tips 48 support None
+Starmerella 10 mrca tips 10 support 100

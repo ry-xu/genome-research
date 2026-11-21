@@ -1,0 +1,113 @@
+
+== G2661A: 116 genomes listed by the pipeline
+   GB_GCA_002792735.1 o__CG2-30-33-46 derived from metagenome: KILLED: insert in SRL; the 3' rRNA piece after it reads G None
+   GB_GCA_007376345.1 o__CAZETR01 derived from metagenome: KILLED: insert in SRL; the 3' rRNA piece after it reads G None
+   GB_GCA_016188775.1 o__JACPHC01 derived from metagenome: KILLED: insert in SRL; the 3' rRNA piece after it reads G None
+   GB_GCA_017991375.1 o__UBA6257 derived from metagenome: KILLED: insert in SRL; the 3' rRNA piece after it reads G None
+   GB_GCA_018896645.1 o__UBA2591 derived from metagenome: KILLED: insert in SRL; the 3' rRNA piece after it reads G None
+   GB_GCA_035583445.1 o__2-02-FULL-40-12 derived from metagenome: KILLED: insert in SRL; the 3' rRNA piece after it reads G None
+   GB_GCA_036480195.1 o__Methylococcales derived from metagenome: partial pieces only: all carry ['A']
+   GB_GCA_036504445.1 o__Aquicultorales derived from metagenome: some full copies carry (full copies 2 < lsu_count 3) ['G', 'A']
+   GB_GCA_036507455.1 o__Curtissbacterales derived from metagenome: KILLED: insert in SRL; the 3' rRNA piece after it reads G None
+   GB_GCA_040755335.1 o__UBA7656 derived from metagenome: KILLED: insert in SRL; the 3' rRNA piece after it reads G None
+   GB_GCA_045657485.1 o__Oscillospirales derived from metagenome: partial pieces only: some carry ['A', 'A', 'G', 'G', 'G']
+   GB_GCA_964445905.1 o__Minisyncoccales derived from metagenome: KILLED: insert in SRL; the 3' rRNA piece after it reads G None
+   GB_GCA_965230945.1 o__PFEM01 derived from metagenome: KILLED: insert in SRL; the 3' rRNA piece after it reads G None
+   RS_GCF_002888635.2 o__Mycoplasmatales none: partial pieces only: all carry ['A']
+  KILLED: insert in SRL; the 3' rRNA piece after it reads G: 10
+  all full copies carry: 102
+  partial pieces only: all carry: 2
+  partial pieces only: some carry: 1
+  some full copies carry: 1
+  => all full copies carry it: 102 genomes (99 with full copies == lsu_count), 67 BioProjects, 33 orders, 16 phyla; metagenome-derived 95, Complete Genome 32
+  => carry it in every rRNA piece read (full or partial): 104 genomes
+
+== GAAA tetraloop (2661A list): 116 genomes listed by the pipeline
+   GB_GCA_002792735.1 o__CG2-30-33-46 derived from metagenome: KILLED: insert in SRL; the 3' rRNA piece after it reads GAGA None
+   GB_GCA_002793355.1 o__GCA-002793355 derived from metagenome: no full copy carries ['GCAA']
+   GB_GCA_003694175.1 o__J137 derived from metagenome: no full copy carries ['GCAA']
+   GB_GCA_007376345.1 o__CAZETR01 derived from metagenome: KILLED: insert in SRL; the 3' rRNA piece after it reads GAGA None
+   GB_GCA_014859275.1 o__Aquicultorales derived from metagenome: no full copy carries ['GCAA']
+   GB_GCA_016188775.1 o__JACPHC01 derived from metagenome: KILLED: insert in SRL; the 3' rRNA piece after it reads GAGA None
+   GB_GCA_016927995.1 o__JAFGLO01 derived from metagenome: no full copy carries ['GCAA']
+   GB_GCA_017991375.1 o__UBA6257 derived from metagenome: KILLED: insert in SRL; the 3' rRNA piece after it reads GAGA None
+   GB_GCA_018896645.1 o__UBA2591 derived from metagenome: KILLED: insert in SRL; the 3' rRNA piece after it reads GAGA None
+   GB_GCA_021806925.1 o__JAKAPS01 derived from metagenome: no full copy carries ['GCAA']
+   GB_GCA_025999155.1 o__JAOAGR01 derived from metagenome: no full copy carries ['GCAA']
+   GB_GCA_030583685.1 o__GCA-002793355 derived from metagenome: no full copy carries ['GCAA']
+   GB_GCA_030583845.1 o__SC72 derived from metagenome: no full copy carries ['GCAA']
+   GB_GCA_035583445.1 o__2-02-FULL-40-12 derived from metagenome: KILLED: insert in SRL; the 3' rRNA piece after it reads GAGA None
+   GB_GCA_036480195.1 o__Methylococcales derived from metagenome: partial pieces only: all carry ['GAAA']
+   GB_GCA_036504445.1 o__Aquicultorales derived from metagenome: no full copy carries (full copies 2 < lsu_count 3) ['GAGA', 'GCAA']
+   GB_GCA_036507455.1 o__Curtissbacterales derived from metagenome: KILLED: insert in SRL; the 3' rRNA piece after it reads GAGA None
+   GB_GCA_039809905.1 o__Babelales derived from metagenome: no full copy carries ['GCAA']
+   GB_GCA_040755335.1 o__UBA7656 derived from metagenome: KILLED: insert in SRL; the 3' rRNA piece after it reads GAGA None
+   GB_GCA_045594425.1 o__Christensenellales derived from metagenome: no full copy carries ['GCAA']
+   GB_GCA_045657485.1 o__Oscillospirales derived from metagenome: partial pieces only: some carry ['GAAA', 'GAAA', 'GAGA', 'GAGA', 'GAGA']
+   GB_GCA_942492555.1 o__Cytophagales derived from metagenome: no full copy carries (full copies 1 < lsu_count 2) ['GCAA']
+   GB_GCA_944382715.1 o__Christensenellales derived from metagenome: no full copy carries ['GCAA']
+   GB_GCA_964351125.1 o__J137 derived from metagenome: no full copy carries ['GCAA']
+   GB_GCA_964389605.1 o__DYJS01 derived from metagenome: no full copy carries ['GCAA']
+   GB_GCA_964445905.1 o__Minisyncoccales derived from metagenome: KILLED: insert in SRL; the 3' rRNA piece after it reads GAGA None
+   GB_GCA_965219495.1 o__Rhodobacterales derived from metagenome: no full copy carries ['GCAA']
+   GB_GCA_965230945.1 o__PFEM01 derived from metagenome: KILLED: insert in SRL; the 3' rRNA piece after it reads GAGA None
+   GB_GCA_965230975.1 o__J137 derived from metagenome: no full copy carries (full copies 1 < lsu_count 2) ['GCAA']
+   RS_GCF_002888635.2 o__Mycoplasmatales none: partial pieces only: none carry ['GCAA']
+   RS_GCF_024172705.1 o__Comchoanobacterales none: no full copy carries ['GCAA']
+  KILLED: insert in SRL; the 3' rRNA piece after it reads GAGA: 10
+  all full copies carry: 85
+  no full copy carries: 18
+  partial pieces only: all carry: 1
+  partial pieces only: none carry: 1
+  partial pieces only: some carry: 1
+  => all full copies carry it: 85 genomes (84 with full copies == lsu_count), 59 BioProjects, 24 orders, 13 phyla; metagenome-derived 79, Complete Genome 27
+  => carry it in every rRNA piece read (full or partial): 86 genomes
+
+== A2660C: 23 genomes listed by the pipeline
+   GB_GCA_002771215.1 o__UBA12157_A derived from metagenome: KILLED: insert in SRL; the 3' rRNA piece after it reads A None
+   GB_GCA_036504445.1 o__Aquicultorales derived from metagenome: some full copies carry (full copies 2 < lsu_count 3) ['A', 'C']
+   RS_GCF_002888635.2 o__Mycoplasmatales none: partial pieces only: all carry ['C']
+  KILLED: insert in SRL; the 3' rRNA piece after it reads A: 1
+  all full copies carry: 20
+  partial pieces only: all carry: 1
+  some full copies carry: 1
+  => all full copies carry it: 20 genomes (18 with full copies == lsu_count), 16 BioProjects, 14 orders, 6 phyla; metagenome-derived 19, Complete Genome 5
+  => carry it in every rRNA piece read (full or partial): 21 genomes
+
+== C2551G+U2552A+G2557A: 27 genomes listed by the pipeline
+   GB_GCA_016215335.1 o__Phycocordibacterales derived from metagenome: partial pieces only: some carry ['GAA', 'CTG']
+   GB_GCA_018725125.1 o__HKB111 derived from metagenome: no full copy carries ['???']
+   GB_GCA_031430115.1 o__Fimbriimonadales derived from metagenome: partial pieces only: all carry ['GAA', 'GAA']
+   GB_GCA_903868795.1 o__Chthoniobacterales derived from metagenome: some full copies carry (full copies 3 < lsu_count 5) ['CTG', 'CTG', 'GAA']
+   GB_GCA_963805825.1 o__SM23-32 derived from metagenome: partial pieces only: some carry ['GAA', 'GTG']
+  all full copies carry: 22
+  no full copy carries: 1
+  partial pieces only: all carry: 1
+  partial pieces only: some carry: 2
+  some full copies carry: 1
+  => all full copies carry it: 22 genomes (21 with full copies == lsu_count), 19 BioProjects, 7 orders, 3 phyla; metagenome-derived 21, Complete Genome 7
+  => carry it in every rRNA piece read (full or partial): 23 genomes
+
+== U2552A: 27 genomes listed by the pipeline
+   GB_GCA_016215335.1 o__Phycocordibacterales derived from metagenome: partial pieces only: some carry ['A', 'T']
+   GB_GCA_018725125.1 o__HKB111 derived from metagenome: no full copy carries ['?']
+   GB_GCA_031430115.1 o__Fimbriimonadales derived from metagenome: partial pieces only: all carry ['A', 'A']
+   GB_GCA_903868795.1 o__Chthoniobacterales derived from metagenome: some full copies carry (full copies 3 < lsu_count 5) ['T', 'T', 'A']
+   GB_GCA_963805825.1 o__SM23-32 derived from metagenome: partial pieces only: some carry ['A', 'T']
+  all full copies carry: 22
+  no full copy carries: 1
+  partial pieces only: all carry: 1
+  partial pieces only: some carry: 2
+  some full copies carry: 1
+  => all full copies carry it: 22 genomes (21 with full copies == lsu_count), 19 BioProjects, 7 orders, 3 phyla; metagenome-derived 21, Complete Genome 7
+  => carry it in every rRNA piece read (full or partial): 23 genomes
+
+== G2253A: 16 genomes listed by the pipeline
+   GB_GCA_000999595.1 o__GWA2-44-7 derived from metagenome: partial pieces only: all carry ['A']
+   GB_GCA_026396615.1 o__JAPLWK01 derived from metagenome: partial pieces only: all carry ['A']
+   GB_GCA_965225625.1 o__JADZEE01 derived from metagenome: some full copies carry ['G', 'A']
+  all full copies carry: 13
+  partial pieces only: all carry: 2
+  some full copies carry: 1
+  => all full copies carry it: 13 genomes (12 with full copies == lsu_count), 11 BioProjects, 10 orders, 7 phyla; metagenome-derived 11, Complete Genome 4
+  => carry it in every rRNA piece read (full or partial): 15 genomes

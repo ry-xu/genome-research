@@ -1,0 +1,5 @@
+# rna ath_ERR15942850.bam dna None
+coding positions tested (depth>=20): 29613 by codon pos {1: 9874, 2: 9868, 3: 9871}
+RDD in CDS: 452; removed by DNA 0; dna_unchecked 0
+  C>U	452	codon pos {1: 150, 2: 239, 3: 63}
+C>U share 1.000; U>C count 0

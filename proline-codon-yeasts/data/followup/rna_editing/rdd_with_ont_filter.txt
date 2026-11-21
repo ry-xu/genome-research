@@ -1,0 +1,6 @@
+# rna notes/audit_R/bam/rna_SRR30194995.bam dna notes/audit_R/bam/SRR38099989_ont.bam
+coding positions tested (depth>=20): 4456 by codon pos {1: 1477, 2: 1493, 3: 1486}; U at codon pos 2: 606
+RDD in CDS: 2; removed by DNA 40; dna_unchecked 0
+  A>U	1	codon pos {3: 1}
+  G>U	1	codon pos {3: 1}
+C>U share 0.000; U>C count 0

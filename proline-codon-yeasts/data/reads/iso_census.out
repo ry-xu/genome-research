@@ -1,0 +1,5 @@
+census sites 82 found 82 covered 82
+CTA 70 1234 / 1248
+CTT 12 198 / 202
+overall 1432/1450 98.76% min (0.8888888888888888, 'mito_Vir_cox1:247', '8', '9')
+extra key [('CTA', 'mito_Fun_cob:342'), ('CTA', 'mito_Fun_cob:404')]

@@ -1,0 +1,12 @@
+## SRA esearch
+Q: txid410830[Organism:exp] AND ("transcriptomic"[Source] OR "metatranscriptomic"[Source] OR "rna seq"[Strategy])
+<Count>101</Count> <Id>42730338</Id> <Id>42730337</Id> <Id>42730336</Id> <Id>42730335</Id> <Id>42730334</Id> <Id>42730333</Id> <Id>42730332</Id> <Id>42730282</Id> <Id>42730281</Id> <Id>42730280</Id> <Id>42730279</Id> <Id>42730278</Id> <Id>42730277</Id> <Id>42730276</Id> <Id>40389934</Id> <Id>40253381</Id> <Id>39559587</Id> <Id>39558419</Id> <Id>39557727</Id> <Id>39557628</Id> <Id>39556986</Id> <Id>39555799</Id> <Id>34676302</Id> <Id>34676301</Id> <Id>34676300</Id> <Id>34676299</Id> <Id>34676298</Id> <Id>34676297</Id> <Id>34676296</Id> 
+Q: txid1571656[Organism:exp] OR txid1116880[Organism:exp] OR txid2714595[Organism:exp] OR txid378059[Organism:exp]
+<Count>10</Count> <Id>33832595</Id> <Id>31332079</Id> <Id>17992333</Id> <Id>17992228</Id> <Id>17992224</Id> <Id>4388091</Id> <Id>3384740</Id> <Id>3384739</Id> <Id>3384737</Id> <Id>3384736</Id> <Count>2</Count> <Count>6</Count> <Count>1</Count> <Count>1</Count> 
+## ENA strain search (any taxon, any source)
+CBS 13331: 
+NRRL Y-17858: 
+NRRL YB-2263: 
+CBS 16173: 
+yHMPu5000038046: SRR16989235	Wickerhamiella siamensis	GENOMIC	WGS;
+yHMPu5000037838: SRR16988755	Sugiyamaella pinicola	GENOMIC	WGS;

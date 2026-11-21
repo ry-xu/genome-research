@@ -1,0 +1,8 @@
+BK074532.1 reads census sites 78 found 78 covered 78 reads 3782 same 3739 98.86% min(>=3) (0.9444444444444444, 'mito_Vir_cob:193', 'CTA', '17', '18') missing []
+BK074532.1 reads_mapq20 census sites 78 found 78 covered 35 reads 1426 same 1406 98.60% min(>=3) (0.875, 'mito_Fun_atp6:162', 'CTA', '7', '8') missing []
+BK074538.1 reads census sites 82 found 82 covered 82 reads 46781 same 46595 99.60% min(>=3) (0.9615384615384616, 'mito_Fun_atp8:6', 'CTA', '75', '78') missing []
+BK074538.1 reads_mapq20 census sites 82 found 82 covered 40 reads 13669 same 13615 99.60% min(>=3) (0.967741935483871, 'mito_Fun_nad2:410', 'CTT', '30', '31') missing []
+BK074542.1 reads census sites 82 found 82 covered 82 reads 13970 same 13910 99.57% min(>=3) (0.96875, 'mito_Fun_atp6:9', 'CTA', '31', '32') missing []
+BK074542.1 reads_mapq20 census sites 82 found 82 covered 2 reads 95 same 94 98.95% min(>=3) (0.989247311827957, 'mito_Fun_cob:59', 'CTA', '92', '93') missing []
+BK074262.1 reads census sites 44 found 44 covered 44 reads 16746 same 16565 98.92% min(>=3) (0.9433962264150944, 'mito_Fun_atp8:33', 'CTA', '100', '106') missing []
+BK074262.1 reads_mapq20 census sites 44 found 44 covered 20 reads 5441 same 5404 99.32% min(>=3) (0.7, 'mito_Fun_nad5:245', 'CTA', '7', '10') missing []
