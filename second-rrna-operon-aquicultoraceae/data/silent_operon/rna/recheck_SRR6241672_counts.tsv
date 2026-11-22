@@ -1,0 +1,6 @@
+total_pairs	1000000
+rRNA_like_pairs(>=85%)	920883	0.9209
+DIV23S	pairs=0	mismatch_free=0
+NORM23S	pairs=44	mismatch_free=37
+DIV16S_ext300	pairs=0	mismatch_free=0	spacer>=20nt_past_3end=0	spacer_only=0
+NORM16S_ext300	pairs=41	mismatch_free=29	spacer>=20nt_past_3end=0	spacer_only=0

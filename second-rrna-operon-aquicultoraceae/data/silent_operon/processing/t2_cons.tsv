@@ -1,0 +1,27 @@
+div	Aquicultor_A	CADDYS01	0.480
+div	Aquicultor_A	DASQQM01	0.525
+div	Aquicultor_A	DASXVE01	0.552
+div	Aquicultor_A	JASEIR01	0.491
+div	Aquicultor_A	Kmv33	0.529
+div	CADDYS01	DASQQM01	0.495
+div	CADDYS01	DASXVE01	0.537
+div	CADDYS01	JASEIR01	0.486
+div	CADDYS01	Kmv33	0.478
+div	DASQQM01	DASXVE01	0.509
+div	DASQQM01	JASEIR01	0.516
+div	DASQQM01	Kmv33	0.611
+div	DASXVE01	JASEIR01	0.514
+div	DASXVE01	Kmv33	0.489
+div	JASEIR01	Kmv33	0.506
+## div: mean pairwise id 0.514 (n=15, range 0.478-0.611); shuffled background mean 0.482 (95th pct 0.509)
+norm	Aquicultor_A	CADDYS01	0.660
+norm	Aquicultor_A	DASXVE01	0.707
+norm	Aquicultor_A	JASEIR01	0.673
+norm	Aquicultor_A	Kmv33	0.655
+norm	CADDYS01	DASXVE01	0.626
+norm	CADDYS01	JASEIR01	0.646
+norm	CADDYS01	Kmv33	0.790
+norm	DASXVE01	JASEIR01	0.623
+norm	DASXVE01	Kmv33	0.622
+norm	JASEIR01	Kmv33	0.634
+## norm: mean pairwise id 0.664 (n=10, range 0.622-0.790); shuffled background mean 0.490 (95th pct 0.519)

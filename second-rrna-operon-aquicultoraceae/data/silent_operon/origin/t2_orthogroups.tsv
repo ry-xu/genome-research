@@ -1,0 +1,562 @@
+div_genera	div_units	norm_genera	norm_units	og	name	pfam	classes	div_in	norm_in	order_norm_in	controls
+6	13	0	0	GCA_014859275.1|JACUUO010000012.1|9946|10131|+	-			Aquicultor_A,CADDYS01,DASQQM01,DASXVE01,JASEIR01,Kmv33			
+5	13	0	0	GCA_035643475.1|DASQQM010000255.1|14981|15751|+	-	DUF5714		Aquicultor_A,CADDYS01,DASQQM01,JASEIR01,Kmv33			
+5	12	0	0	GCA_040752655.1|JBFMGP010000004.1|5867|6301|+	-	Ferritin,Ferritin_2,Rubrerythrin		Aquicultor_A,CADDYS01,DASQQM01,JASEIR01,Kmv33			
+5	12	0	0	GCA_035643475.1|DASQQM010000255.1|5058|6098|+	UPF0104 membrane protein AF_2231	LPG_synthase_TM		Aquicultor_A,CADDYS01,DASQQM01,JASEIR01,Kmv33			
+5	12	0	0	ec|NC_000913.3|2719953|2722613|+	Acetate--CoA ligase [ADP-forming] II subunit alpha	ATP-grasp_5,Acetyltransf_1,Acetyltransf_3,CoA_binding		Aquicultor_A,CADDYS01,DASXVE01,JASEIR01,Kmv33			ec
+5	12	0	0	GCA_036504445.1|DASXVE010000023.1|10761|11159|+	-			Aquicultor_A,CADDYS01,DASXVE01,JASEIR01,Kmv33			
+5	12	0	0	GCA_036504445.1|DASXVE010000023.1|11291|12013|+	UPF0280 protein Mevan_0550	AbpE_bact		Aquicultor_A,CADDYS01,DASXVE01,JASEIR01,Kmv33			
+5	12	1	1	GCA_023481285.1|JAMCWL010000101.1|5349|6173|+	Uncharacterized 30.6 kDa protein in fumA 3'region	LysM,Polysacc_deac_1		Aquicultor_A,CADDYS01,DASXVE01,JASEIR01,Kmv33	DASXVE01	JAMCWL01	
+5	9	0	0	GCA_027392615.1|DAHYRC010000072.1|3593|4033|-	-	DUF5658		Aquicultor_A,CADDYS01,DASXVE01,JASEIR01,Kmv33			
+4	12	0	0	GCA_035643475.1|DASQQM010000255.1|13950|14495|+	-	ARC6-like_IMS		Aquicultor_A,CADDYS01,DASQQM01,DASXVE01			
+4	11	0	0	GCA_902810715.1|CADDYS010000032.1|16434|17240|-	Small-conductance mechanosensitive channel	MS_channel_1st,MS_channel_2nd		Aquicultor_A,CADDYS01,DASQQM01,DASXVE01			
+4	10	0	0	GCA_014859275.1|JACUUO010000012.1|26627|28081|+	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit A	Amidase		Aquicultor_A,DASXVE01,JASEIR01,Kmv33			
+4	10	0	0	GCA_014859275.1|JACUUO010000012.1|26172|26456|+	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C	GatC		Aquicultor_A,DASXVE01,JASEIR01,Kmv33			
+4	10	0	0	GCA_040752655.1|JBFMGP010000031.1|8814|9509|+	-	Rce1-like		Aquicultor_A,DASXVE01,JASEIR01,Kmv33			
+4	10	0	0	GCF_002791875.1|NZ_PFNG01000072.1|13336|14181|-	DNA ligase	BRCT,DNA_ligase_ZBD,DNA_ligase_aden,HHH		Aquicultor_A,DASXVE01,JASEIR01,Kmv33			
+4	4	0	0	GCA_040752655.1|JBFMGP010000004.1|1988|3862|-	-	HAMP,SpoIIE,dCache_1		CADDYS01,DASQQM01,JASEIR01,Kmv33			
+2	9	0	0	GCA_902810715.1|CADDYS010000032.1|14003|14284|+	Cyclic di-GMP phosphodiesterase TM_0186	GAF,GAF_2,HD,HDOD		Aquicultor_A,CADDYS01			
+2	2	0	0	GCA_035643475.1|DASQQM010000255.1|15761|15907|-	Uncharacterized oxidoreductase YuiH	Oxidored_molyb		DASQQM01,Kmv33			
+2	2	0	0	GCA_040752655.1|JBFMGP010000004.1|161|1981|+	Potassium transporter KimA	AA_permease_2,KimA_C		CADDYS01,JASEIR01			
+2	2	0	0	GCA_040752655.1|JBFMGP010000004.1|4067|5761|+	Type IV pilus assembly ATPase PilB	MshEN,T2SSE		CADDYS01,JASEIR01			
+1	8	0	0	GCF_002791875.1|NZ_PFNG01000072.1|33249|35606|-	Formate dehydrogenase 2 subunit alpha	Molybdopterin,Molydop_binding		Aquicultor_A			
+1	8	0	0	GCF_002779175.1|NZ_PEXG01000084.1|9991|10758|-	Protein DVU_0535	Fer4,Fer4_10,Fer4_11,Fer4_2		Aquicultor_A			
+1	8	0	0	GCF_002779175.1|NZ_PEXG01000084.1|9134|9991|-	Protein NrfD	NrfD,NrfD_2		Aquicultor_A			
+1	8	0	0	GCF_002779175.1|NZ_PEXG01000084.1|8347|9108|-	-	FdhE_central		Aquicultor_A			
+1	4	0	0	GCF_002779175.1|NZ_PEXG01000084.1|3474|3689|+	-			Aquicultor_A			
+1	3	0	0	GCF_002784845.1|NZ_PFKS01000028.1|13924|14148|+	-			Aquicultor_A			
+1	1	0	0	GCA_014859275.1|JACUUO010000012.1|513|1844|-	Probable serine/threonine-protein kinase Sps1	ABC1,PK_Tyr_Ser-Thr,Pkinase		Kmv33			
+1	1	0	0	GCA_014859275.1|JACUUO010000012.1|1941|2063|+	-			Kmv33			
+1	1	0	0	GCA_014859275.1|JACUUO010000012.1|2095|3660|-	Cellulosome-anchoring protein	Metallophos,SLH		Kmv33			
+1	1	0	0	GCA_014859275.1|JACUUO010000012.1|4259|5122|+	-	PAS,PAS_4,PAS_8,PAS_9		Kmv33			
+1	1	0	0	GCA_014859275.1|JACUUO010000012.1|5125|5907|+	-	PAS,PAS_4,PAS_7,PAS_8		Kmv33			
+1	1	0	0	GCA_027392615.1|DAHYRC010000072.1|2326|2991|-	-			CADDYS01			
+1	1	0	0	GCA_027392615.1|DAHYRC010000072.1|4000|4116|-	-			CADDYS01			
+1	1	0	0	ec|NC_000913.3|4203320|4204645|+	Response regulator ArlR	AAA_5,AAA_lid_14,GAF,GAF_2		DASQQM01		CAJVYJ01	ec,vv
+1	1	0	0	GCA_036504445.1|DASXVE010000023.1|3|125|+	-			DASXVE01			
+1	1	0	0	GCA_036504445.1|DASXVE010000023.1|8497|8835|-	-			DASXVE01			
+1	1	0	0	GCA_036504445.1|DASXVE010000023.1|9947|10087|+	-			DASXVE01			
+1	1	0	0	GCA_040752655.1|JBFMGP010000031.1|9509|9682|+	-			JASEIR01			
+1	1	0	0	GCA_040752655.1|JBFMGP010000004.1|8533|8775|+	-			JASEIR01			
+1	1	0	0	GCA_035643475.1|DASQQM010000255.1|10109|10402|+	-			Aquicultor_A			
+0	0	0	0	GCA_040755895.1|JBFMAG010000103.1|7109|7954|-	MEMO1 family protein MK0963	Memo				Subteraquimicrobium	
+0	0	0	0	GCA_040755895.1|JBFMAG010000103.1|5556|6911|-	-	DUF1015				Subteraquimicrobium	
+0	0	0	0	GCA_040755895.1|JBFMAG010000103.1|3873|5285|+	A-adding tRNA nucleotidyltransferase	HD,PolyA_pol,PolyA_pol_RNAbd,tRNA_NucTran2_2				Subteraquimicrobium	
+0	0	0	0	GCA_040755895.1|JBFMAG010000103.1|2877|3791|+	-	Radical_SAM				Subteraquimicrobium	
+0	0	0	0	GCA_040755895.1|JBFMAG010000103.1|2360|2821|+	-	HTH_17				Subteraquimicrobium	
+0	0	0	0	GCA_030018275.1|JASEGB010000009.1|47221|47463|+	-					Subteraquimicrobium	
+0	0	5	17	GCA_023481285.1|JAMCWL010000099.1|7811|8224|+	Tyrosine--tRNA ligase	S4,SYY_C-terminal,tRNA-synt_1b			Aquicultor,Aquicultor_A,CADDYS01,DASXVE01,JASEIR01	CAJVYJ01,CALKMS01,SURF-47,Subteraquimicrobium,UBA9087	
+0	0	5	17	GCA_023481285.1|JAMCWL010000099.1|5250|7478|-	Penicillin-binding protein 2D	K319L-like_PKD,PASTA,PBP_1A_C,PKD			Aquicultor,Aquicultor_A,CADDYS01,DASXVE01,JASEIR01	CAJVYJ01,JAMCWL01,SURF-47,Subteraquimicrobium,UBA9087	
+0	0	1	8	GCF_001871795.1|NZ_MNXI01000065.1|123|782|+	Formamidopyrimidine-DNA glycosylase	Fapy_DNA_glyco,H2TH,NFACT_N,zf-FPG_IleRS			Aquicultor_A		
+0	0	5	16	GCA_023481285.1|JAMCWL010000099.1|1|648|+	Pyridoxal 5'-phosphate synthase subunit PdxS	SOR_SNZ,ThiG			Aquicultor,Aquicultor_A,CADDYS01,DASXVE01,JASEIR01	JAMCWL01	
+0	0	5	16	GCA_023481285.1|JAMCWL010000099.1|903|1493|+	Pyridoxal 5'-phosphate synthase subunit PdxT	GATase,GATase_3,Peptidase_S51,SNO			Aquicultor,Aquicultor_A,CADDYS01,DASXVE01,JASEIR01	JAMCWL01	
+0	0	5	16	GCA_023481285.1|JAMCWL010000099.1|1620|2378|+	Probable transcriptional regulatory protein Hore_12350	TACO1_YebC_N,Transcrip_reg			Aquicultor,Aquicultor_A,CADDYS01,DASXVE01,JASEIR01	JAMCWL01	
+0	0	5	16	GCA_023481285.1|JAMCWL010000099.1|2477|2965|+	Crossover junction endodeoxyribonuclease RuvC	RuvC	RNase / nuclease		Aquicultor,Aquicultor_A,CADDYS01,DASXVE01,JASEIR01	JAMCWL01	
+0	0	5	16	GCA_023481285.1|JAMCWL010000099.1|2962|3546|+	Holliday junction branch migration complex subunit RuvA	HHH_5,RuvA_C,RuvA_N			Aquicultor,Aquicultor_A,CADDYS01,DASXVE01,JASEIR01	JAMCWL01	
+0	0	5	17	GCA_001767575.1|MELI01000102.1|4371|5402|+	Holliday junction branch migration complex subunit RuvB	AAA,AAA_5,AAA_lid_4,RuvB_N			Aquicultor,Aquicultor_A,CADDYS01,DASXVE01,JASEIR01	JAMCWL01	
+0	0	1	8	GCF_002791875.1|NZ_PFNG01000132.1|16529|16948|-	-	PIN	toxin-antitoxin		Aquicultor_A		
+0	0	1	8	GCF_002791875.1|NZ_PFNG01000132.1|16932|17177|-	-	PhdYeFM_antitox	toxin-antitoxin		Aquicultor_A		
+0	0	1	8	GCF_002791875.1|NZ_PFNG01000132.1|17400|17702|-	Glutamine synthetase and cystathionine beta-lyase binding protein	GYD			Aquicultor_A		
+0	0	1	8	GCF_002791875.1|NZ_PFNG01000132.1|17915|18304|+	-	DUF302			Aquicultor_A		
+0	0	1	8	GCF_002791875.1|NZ_PFNG01000132.1|19115|19762|-	-	HEAT_2,HEAT_EZ			Aquicultor_A		
+0	0	1	8	GCA_002783345.1|PFFU01000195.1|30206|30670|-	-				Aquicultor_A		
+0	0	1	8	GCF_002791875.1|NZ_PFNG01000132.1|20287|21510|-	Macrolide export ATP-binding/permease protein MacB	FtsX,MacB_PCD			Aquicultor_A		
+0	0	3	10	GCA_035643475.1|DASQQM010000164.1|12195|13115|-	Uncharacterized ABC transporter ATP-binding protein TM_0352	AAA_21,ABC_tran,ABC_tran_CTD_2,MJ0874			Aquicultor,Aquicultor_A,DASQQM01	CALKMS01,DSBK01,JAMCWL01,JAUSCH01,Yes70-04	ec
+0	0	1	8	GCF_002791875.1|NZ_PFNG01000132.1|22246|24162|-	-	BSH_RND,Beta-barrel_YknX,RND-MFP_C,YknX_C			Aquicultor_A		
+0	0	1	8	GCF_002791875.1|NZ_PFNG01000132.1|24389|24595|+	-				Aquicultor_A		
+0	0	2	2	GCA_036504445.1|DASXVE010000010.1|54772|55539|+	-	CofC,DUF2064			Aquicultor_A,DASXVE01		
+0	0	0	0	ec|NC_000913.3|4156850|4158223|+	Argininosuccinate lyase	ASL_C2,Lyase_1				Subteraquimicrobium,UBA9087	ec
+0	0	0	0	GCA_003599235.1|QZJE01000017.1|41331|43046|+	DNA polymerase/3'-5' exonuclease PolX	DNA_pol_B_thumb,DNA_pol_lambd_f,HHH_5,HHH_8	RNase / nuclease			SURF-47,Subteraquimicrobium,UBA9087	
+0	0	0	0	GCA_040755895.1|JBFMAG010000031.1|3958|4632|+	Putative 3-methyladenine DNA glycosylase	Pur_DNA_glyco				SURF-47,Subteraquimicrobium,UBA9087	
+0	0	0	0	GCA_003599235.1|QZJE01000017.1|43769|44728|+	-					SURF-47,Subteraquimicrobium,UBA9087	
+0	0	1	2	GCA_040755895.1|JBFMAG010000103.1|3|143|+	Uncharacterized 49.1 kDa protein in ND3 intron	LAGLIDADG_1	RNase / nuclease		JASEIR01	DSBK01,Subteraquimicrobium,UBA9087	
+0	0	0	0	GCA_003599235.1|QZJE01000017.1|38653|41334|+	UPF0182 protein Dred_1797	UPF0182,UPF0182_N,Upf0182_C				SURF-47	
+0	0	0	0	GCA_003599235.1|QZJE01000017.1|56014|56346|+	-					SURF-47	
+0	0	0	0	GCA_003599235.1|QZJE01000017.1|56878|57855|+	-					SURF-47	
+0	0	0	0	GCA_003599235.1|QZJE01000017.1|57852|58361|-	-	ORF6N				SURF-47	
+0	0	0	0	GCA_003599235.1|QZJE01000017.1|58748|59350|+	-	MisC				SURF-47	
+0	0	0	0	GCA_003599235.1|QZJE01000017.1|59436|59918|+	-	Acetyltransf_1,Acetyltransf_10,Acetyltransf_3,Acetyltransf_4				SURF-47	
+0	0	0	0	GCA_003599235.1|QZJE01000017.1|59900|60919|-	-	Fic	toxin-antitoxin			SURF-47	
+0	0	0	0	GCA_003599235.1|QZJE01000017.1|60983|61669|-	Uncharacterized protein MJ0045					SURF-47	
+0	0	0	0	GCA_003599235.1|QZJE01000017.1|61778|62548|+	-					SURF-47	
+0	0	0	0	GCA_003599235.1|QZJE01000017.1|62564|63178|-	-	GyrI-like				SURF-47	
+0	0	0	0	GCA_003599235.1|QZJE01000017.1|63241|64050|+	-	PIG-L				SURF-47	
+0	0	0	0	GCA_003599235.1|QZJE01000017.1|64115|66175|+	-	TPR_1,TPR_11,TPR_12,TPR_16				SURF-47	
+0	0	0	0	GCF_030651595.1|NZ_JAUSCH010000136.1|9703|11133|-	-	DUF9075,Metallophos,Metallophos_2				DSBK01,JAUSCH01	
+0	0	0	0	GCA_030614255.1|JAUWKI010000012.1|9720|10325|+	-					DSBK01,JAUSCH01	
+0	0	0	0	GCF_030651595.1|NZ_JAUSCH010000136.1|8380|9024|+	Type-4 uracil-DNA glycosylase	UDG				DSBK01,JAUSCH01	
+0	0	0	0	GCA_964426525.1|CAYRQL010000020.1|7625|7996|+	-	TrmB				CALKMS01,DSBK01,JAUSCH01	
+0	0	0	0	GCA_011046085.1|DSBK01000065.1|26691|27383|+	RNA polymerase sigma-H factor	Sigma70_r2,Sigma70_r4_2				DSBK01	
+0	0	0	0	GCA_037441605.1|JBBIRY010000001.1|10038|10577|-	-					DSBK01,JAUSCH01,Yes70-04	
+0	0	0	0	vv|NC_014965.1|3162405|3163862|-	Uncharacterized cation transporter MJ1485	TrkH				DSBK01,JAUSCH01,Yes70-04	ec,vv
+0	0	0	0	ec|NC_000913.3|3436518|3437894|+	Trk system potassium uptake protein TrkA	AF_1314_N,ApbA,DAO,F420_oxidored				DSBK01,JAUSCH01,Yes70-04	ec
+0	0	0	0	GCA_037441605.1|JBBIRY010000001.1|13644|14246|+	Uncharacterized protein YqgN	5-FTHF_cyc-lig				DSBK01,JAUSCH01,Yes70-04	
+0	0	0	0	GCF_030651595.1|NZ_JAUSCH010000136.1|3292|3666|-	-					DSBK01,JAUSCH01	
+0	0	0	0	GCA_030614255.1|JAUWKI010000012.1|1737|2684|-	Iron-sulfur cluster assembly SufBD family protein MJ0034	SUFBD_core				DSBK01,JAUSCH01	
+0	0	0	0	GCA_016208465.1|JACQXZ010000026.1|23648|24316|+	-	Rhomboid				JACQXZ01	
+0	0	0	0	GCA_016208465.1|JACQXZ010000026.1|24322|24846|+	-					JACQXZ01	
+0	0	0	0	GCA_016208465.1|JACQXZ010000026.1|24907|25305|-	-	YjbQ				JACQXZ01	
+0	0	0	0	GCA_016208465.1|JACQXZ010000026.1|25307|25684|-	-	YjbQ				JACQXZ01	
+0	0	0	0	GCA_016208465.1|JACQXZ010000026.1|25784|27025|-	-	CC_PcsB,Peptidase_M23				JACQXZ01	
+0	0	0	0	GCA_016208465.1|JACQXZ010000026.1|27022|28149|-	Thylakoid-associated protein sll1697	DUF362,Fer4,Fer4_7				JACQXZ01	
+0	0	0	0	GCA_016208465.1|JACQXZ010000026.1|28177|28428|-	-	Rv2632c-like				JACQXZ01	
+0	0	0	0	GCA_040755895.1|JBFMAG010000103.1|10757|12826|-	Elongation factor G	EF-G_D2,EFG_C,EFG_III,EFG_IV	translation factor / ribosome-associated			JACQXZ01,Subteraquimicrobium	
+0	0	0	0	GCA_016208465.1|JACQXZ010000026.1|30915|31085|-	-					JACQXZ01	
+0	0	0	0	GCA_027392615.1|DAHYRC010000115.1|1980|2336|+	-	23S_rRNA_IVP,bAvd				JACQXZ01	
+0	0	0	0	GCA_016208465.1|JACQXZ010000026.1|31620|32237|-	Peptidyl-prolyl cis-trans isomerase	Pro_isomerase				JACQXZ01	
+0	0	0	0	GCA_016208465.1|JACQXZ010000026.1|32412|33080|+	Molybdopterin synthase catalytic subunit	MoaE,ThiS				JACQXZ01	
+0	0	0	0	vv|NC_014966.1|296854|297288|-	-					JACQXZ01	
+0	0	3	5	GCA_035643475.1|DASQQM010000164.1|10365|10862|+	-	NTP_transf_2,Polbeta			Aquicultor,CADDYS01,DASQQM01		
+0	0	3	5	GCA_035643475.1|DASQQM010000164.1|8136|8297|+	-	HepT-like			Aquicultor,CADDYS01,DASQQM01		
+0	0	1	1	GCA_018333515.1|JAGXSZ010000030.1|7310|8164|-	-	FtsX,MacB_PCD			Aquicultor		
+0	0	1	1	GCA_018333515.1|JAGXSZ010000030.1|8177|8506|-	-	MacB_PCD			Aquicultor		
+0	0	1	1	GCA_018333515.1|JAGXSZ010000030.1|8829|9167|+	-	DsrE			Aquicultor		
+0	0	1	1	GCA_018333515.1|JAGXSZ010000030.1|9201|9569|+	-	DsrE,DsrH			Aquicultor		
+0	0	1	1	GCA_018333515.1|JAGXSZ010000030.1|9598|9915|+	-	DsrH			Aquicultor		
+0	0	1	1	GCA_018333515.1|JAGXSZ010000030.1|10134|11381|+	-	DUF14505			Aquicultor		
+0	0	1	1	GCA_018333515.1|JAGXSZ010000030.1|11496|13280|+	-	PMT,PMT_2			Aquicultor		
+0	0	1	1	GCA_018333515.1|JAGXSZ010000030.1|13328|14749|+	Thiosulfate transporter TsuA	Sulf_transp			Aquicultor		
+0	0	1	1	vv|NC_014965.1|3170750|3170995|+	Sulfur carrier protein TusA	TusA			Aquicultor		vv
+0	0	1	1	ec|NC_000913.3|4201926|4203323|+	Alkaline phosphatase synthesis sensor protein PhoR	HATPase_c,HATPase_c_2,HisKA,PAS			DASQQM01	CAJVYJ01,DYIV01	ec,vv
+0	0	0	0	GCA_020723435.1|DYIV01000075.1|6576|7733|+	Uncharacterized oxidoreductase MSMEG_1603/MSMEI_1564	FMN_dh,Glu_synthase,IMPDH				DYIV01	
+0	0	0	0	GCA_020723435.1|DYIV01000075.1|7730|9265|+	GMP synthase [glutamine-hydrolyzing]	ATP_bind_3,GATase,GMP_synt_C,Peptidase_C26				DYIV01	
+0	0	0	0	GCA_020723435.1|DYIV01000075.1|9341|9607|+	-	CM_2				DYIV01	
+0	0	0	0	GCA_020723435.1|DYIV01000075.1|9644|10465|+	-	DUF72				DYIV01	
+0	0	0	0	GCA_020723435.1|DYIV01000075.1|10465|11109|+	Putative phosphoribosyl transferase MT0597	DLH				DYIV01	
+0	0	3	6	GCA_023481285.1|JAMCWL010000099.1|3557|4054|+	Inorganic pyrophosphatase	Pyrophosphatase			CADDYS01,DASXVE01,JASEIR01	JAMCWL01	
+0	0	1	3	GCA_027392615.1|DAHYRC010000115.1|7794|8462|+	-	CarboxypepD_reg			CADDYS01		
+0	0	1	3	GCA_027392615.1|DAHYRC010000115.1|9134|9730|+	-	AhpC-TSA,Redoxin,Thioredoxin_8			CADDYS01		
+0	0	1	3	GCA_027392615.1|DAHYRC010000115.1|11070|12077|+	CRISPR-associated endonuclease Cas1 1	Cas_Cas1	RNase / nuclease,defence		CADDYS01		
+0	0	1	3	GCA_027392615.1|DAHYRC010000115.1|12095|12418|+	CRISPR-associated endoribonuclease Cas2 2	CRISPR_Cas2	RNase / nuclease,defence		CADDYS01		
+0	0	1	3	GCA_027392615.1|DAHYRC010000115.1|12408|13067|+	-	Cas_Cas4,PDDEXK_1	defence		CADDYS01		
+0	0	1	3	GCA_027392615.1|DAHYRC010000115.1|13155|14075|+	-	Csa1			CADDYS01		
+0	0	1	3	GCA_027392615.1|DAHYRC010000115.1|14163|15101|+	-	WCX,WYL			CADDYS01		
+0	0	1	3	GCA_027392615.1|DAHYRC010000115.1|15256|15837|+	-	DUF4352			CADDYS01		
+0	0	1	3	GCA_027392615.1|DAHYRC010000115.1|15851|16201|+	-	DUF4064			CADDYS01		
+0	0	2	2	GCA_035643475.1|DASQQM010000164.1|8502|10343|+	Protein translocase subunit SecA	ARM_TT21,SEC-C			CADDYS01,DASQQM01		
+0	0	0	0	GCA_030018275.1|JASEGB010000009.1|30606|31076|+	Arginine repressor	Arg_repressor,Arg_repressor_C				Subteraquimicrobium	
+0	0	0	0	GCA_040755895.1|JBFMAG010000031.1|2|718|+	Argininosuccinate synthase	Arginosuc_syn_C,Arginosuc_synth				Subteraquimicrobium,UBA9087	
+0	0	0	0	GCA_040755895.1|JBFMAG010000103.1|8243|9454|+	Probable S-adenosylmethionine synthase	AdoMet_Synthase				Subteraquimicrobium	
+0	0	0	0	GCA_040755895.1|JBFMAG010000103.1|9563|9889|+	ADP-ribose pyrophosphatase	NUDIX,NUDIX_4				Subteraquimicrobium	
+0	0	0	0	GCA_030018275.1|JASEGB010000009.1|55336|55626|-	-	Transposase_mut	mobile			Subteraquimicrobium	
+0	0	0	0	GCA_030018275.1|JASEGB010000009.1|55940|56089|+	Uncharacterized protein HI_1162	DUF559				Subteraquimicrobium	
+0	0	0	0	GCA_030018275.1|JASEGB010000009.1|56329|56865|-	-	Bac_TIMP				Subteraquimicrobium	
+0	0	0	0	GCA_030018275.1|JASEGB010000009.1|56822|57001|-	-					Subteraquimicrobium	
+0	0	0	0	GCA_030019215.1|JASEEZ010000025.1|251|559|+	-					UBA9087	
+0	0	0	0	GCA_030019215.1|JASEEZ010000025.1|664|909|+	-					UBA9087	
+0	0	0	0	GCA_030019215.1|JASEEZ010000025.1|17087|17197|-	-					UBA9087	
+0	0	1	1	GCA_035643475.1|DASQQM010000164.1|4654|5886|+	-	Creatinase_N,Peptidase_M24			DASQQM01		
+0	0	1	1	vv|NC_014965.1|45959|46792|+	Shikimate dehydrogenase	SDH_C,Shikimate_DH,Shikimate_dh_N			DASQQM01		ec,vv
+0	0	1	1	GCA_035643475.1|DASQQM010000164.1|7119|7628|+	Shikimate kinase	AAA_18,SKI			DASQQM01		
+0	0	1	1	GCA_035643475.1|DASQQM010000164.1|11462|12202|-	-	ABC2_membrane_2,ABC2_membrane_4			DASQQM01		
+0	0	1	1	GCA_036504445.1|DASXVE010000010.1|47055|47840|-	-	PG_binding_1,YkuD			DASXVE01		
+0	0	1	1	GCA_036504445.1|DASXVE010000010.1|48302|49216|+	Putative S-adenosyl-L-methionine-dependent methyltransferase YktD	LCM	rRNA/tRNA modification		DASXVE01		
+0	0	1	1	GCA_036504445.1|DASXVE010000010.1|49412|51586|-	Cell surface glycoprotein 2	Big_13,Big_5,Fn3_SaeA_3rd,SLH			DASXVE01		
+0	0	1	1	GCA_036504445.1|DASXVE010000010.1|52194|53162|+	-	Phage_integrase	mobile		DASXVE01		
+0	0	1	1	GCA_036504445.1|DASXVE010000010.1|53204|54022|+	-				DASXVE01		
+0	0	1	1	GCA_036504445.1|DASXVE010000010.1|54116|54652|+	-	DJ-1_PfpI			DASXVE01		
+0	0	1	1	GCA_036504445.1|DASXVE010000021.1|167|364|-	-				DASXVE01		
+0	0	0	0	GCA_037441605.1|JBBIRY010000001.1|4033|5202|+	Glycerate kinase	Gly_kinase				Yes70-04	
+0	0	0	0	GCA_037441605.1|JBBIRY010000001.1|5434|6318|-	Phosphoglycolate phosphatase	Hydrolase_3				Yes70-04	
+0	0	0	0	GCA_037441605.1|JBBIRY010000001.1|6404|6910|+	Uncharacterized protein MJ0967	DJ-1_PfpI				Yes70-04	
+0	0	0	0	GCA_037441605.1|JBBIRY010000001.1|7040|7990|-	D-alanine--D-alanine ligase	ATP-grasp,ATP-grasp_3,ATP-grasp_4,CPSase_L_D2				Yes70-04	
+0	0	0	0	GCA_037441605.1|JBBIRY010000001.1|8015|9286|-	Aromatic-amino-acid aminotransferase 1	Aminotran_1_2,Asp_aminotransf				Yes70-04	
+0	0	0	0	GCA_037441605.1|JBBIRY010000001.1|9515|9853|+	-	YtxH				Yes70-04	
+0	0	0	0	GCA_037441605.1|JBBIRY010000001.1|12076|12207|-	-					Yes70-04	
+0	0	0	0	GCA_023481285.1|JAMCWL010000101.1|3179|5140|-	Acetyl-coenzyme A synthetase	ACAS_N,AMP-binding,AMP-binding_C				JAMCWL01,JAUSCH01,Yes70-04	
+0	0	0	0	GCF_030651595.1|NZ_JAUSCH010000029.1|6900|7097|+	-	DUF1858				JAUSCH01,Yes70-04	
+0	0	0	0	GCF_030651595.1|NZ_JAUSCH010000029.1|8001|8660|-	Phosphatidylglycerophosphatase B	PAP2				JAUSCH01,Yes70-04	
+0	0	0	0	GCF_030651595.1|NZ_JAUSCH010000029.1|8724|8927|-	Cold shock-like protein CspLA	CSD,OB_RNB	RNase / nuclease			JAUSCH01,Yes70-04	
+0	0	0	0	GCF_030651595.1|NZ_JAUSCH010000029.1|9028|9840|-	Thymidylate synthase	DUF166				JAUSCH01,Yes70-04	
+0	0	0	0	GCA_037441605.1|JBBIRY010000001.1|24111|24629|+	-					Yes70-04	
+0	0	0	0	GCA_037441605.1|JBBIRY010000001.1|24652|25305|+	-	SurA_N_3				Yes70-04	
+0	0	0	0	GCF_030651595.1|NZ_JAUSCH010000029.1|9914|12019|-	Vitamin B12-dependent ribonucleoside-diphosphate reductase	ATP-cone,Ribonuc_red_lgC,Ribonuc_red_lgN	RNase / nuclease			JAUSCH01,Yes70-04	
+0	0	0	0	GCF_030651595.1|NZ_JAUSCH010000029.1|12921|13703|-	Uncharacterized protein MJ1089	CbiQ				JAUSCH01,Yes70-04	
+0	0	0	0	GCF_030651595.1|NZ_JAUSCH010000029.1|13703|14017|-	-	PDGLE				JAUSCH01,Yes70-04	
+0	0	0	0	GCA_037441605.1|JBBIRY010000001.1|29028|29711|-	Putative fused nickel transport protein NikMN	CbiM				Yes70-04	
+0	0	1	1	GCA_040752655.1|JBFMGP010000055.1|5564|5701|+	-				JASEIR01		
+0	0	1	1	GCA_040752655.1|JBFMGP010000055.1|8480|8599|+	-				JASEIR01		
+0	0	1	1	GCA_003599235.1|QZJE01000017.1|54105|54755|+	Probable intron-encoded endonuclease I-ZbiI	LAGLIDADG_2	RNase / nuclease		JASEIR01		
+0	0	1	2	GCA_040752655.1|JBFMGP010000055.1|22736|22963|+	-				JASEIR01		
+0	0	1	1	GCA_040752655.1|JBFMGP010000055.1|15345|15452|+	-				JASEIR01		
+0	0	1	1	GCA_040755895.1|JBFMAG010000031.1|11236|11424|+	-				JASEIR01		
+0	0	2	2	GCA_023511485.1|JAIMBH010000018.1|46637|46870|+	-				CADDYS01,JASEIR01		
+0	0	0	0	GCA_040755895.1|JBFMAG010000103.1|1855|2304|+	-	Fer4,Fer4_10,Fer4_21,Fer4_6				Subteraquimicrobium	
+0	0	0	0	GCA_040755895.1|JBFMAG010000103.1|9943|10734|+	Phosphoglycolate phosphatase 2	HAD_2,Hydrolase,Hydrolase_6,Hydrolase_like				Subteraquimicrobium	
+0	0	0	0	GCA_937885385.1|CAKZZF010000088.1|2087|2314|+	-					CAJVYJ01	
+0	0	0	0	GCA_937885385.1|CAKZZF010000088.1|2348|2560|-	-					CAJVYJ01	
+0	0	0	0	GCA_937885385.1|CAKZZF010000088.1|4694|5215|+	-					CAJVYJ01	
+0	0	0	0	GCA_937885385.1|CAKZZF010000088.1|5300|7990|-	-	3Beta_HSD,Epimerase,GDP_Man_Dehyd,HMBD				CAJVYJ01	
+0	0	0	0	ec|NC_000913.3|218887|219594|-	tRNA	TrmO_C,TrmO_N	rRNA/tRNA modification			CALKMS01	ec
+0	0	0	0	GCA_964426525.1|CAYRQL010000020.1|8042|8800|-	Adenosylcobinamide-GDP ribazoletransferase	CobS				CALKMS01	
+0	0	0	0	GCA_964426525.1|CAYRQL010000020.1|8814|9335|-	Bifunctional adenosylcobalamin biosynthesis protein CobU	CobU				CALKMS01	
+0	0	0	0	GCA_964426525.1|CAYRQL010000020.1|10575|11561|-	Cobalamin import system permease protein BtuC	FecCD				CALKMS01	
+0	0	0	0	GCA_964426525.1|CAYRQL010000020.1|11626|12678|-	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase	DBI_PRT				CALKMS01	
+0	0	0	0	GCA_964426525.1|CAYRQL010000020.1|12731|13663|-	Uncharacterized ABC transporter substrate-binding lipoprotein YvrC	Peripla_BP_2				CALKMS01	
+0	0	0	0	GCA_964426525.1|CAYRQL010000020.1|14053|15564|+	-	PMT_2				CALKMS01	
+0	0	0	0	GCA_964426525.1|CAYRQL010000020.1|15907|16068|-	-					CALKMS01	
+0	0	1	2	GCF_002784845.1|NZ_PFKS01000098.1|35303|36178|-	-	HTH_21,rve,rve_3	mobile		Aquicultor_A		
+0	0	0	0	GCF_030651595.1|NZ_JAUSCH010000029.1|7090|7992|+	Uncharacterized transporter AF_0266	EamA				JAUSCH01	
+0	0	1	1	GCA_001767575.1|MELI01000102.1|2030|2509|-	-	DUF9048			Aquicultor		
+0	0	1	1	GCA_001767575.1|MELI01000102.1|2685|2903|+	-				Aquicultor		
+0	0	1	1	GCA_018333515.1|JAGXSZ010000008.1|3036|3173|-	-				Aquicultor		
+0	0	1	1	GCA_018333515.1|JAGXSZ010000008.1|3173|3571|-	-				Aquicultor		
+0	0	0	0	GCA_023481285.1|JAMCWL010000101.1|7164|8327|-	Uncharacterized ABC transporter permease YknZ	FtsX,MacB_PCD				JAMCWL01	
+0	0	0	0	ec|NC_000913.3|3433690|3434199|+	Peptide deformylase 1	Pep_deformylase				JAMCWL01	ec,vv
+0	0	0	0	GCA_023481285.1|JAMCWL010000101.1|9116|11545|-	Replication restart protein PriA	DEAD,Helicase_C,PriA_3primeBD,PriA_C				JAMCWL01	
+0	0	0	0	GCA_023481285.1|JAMCWL010000101.1|12065|13273|+	S-adenosylmethionine synthase	S-AdoMet_synt_C,S-AdoMet_synt_M,S-AdoMet_synt_N				JAMCWL01	
+0	0	0	0	GCF_030651595.1|NZ_JAUSCH010000136.1|11153|11752|-	-	Acetyltransf_1,Acetyltransf_7				JAUSCH01	
+0	0	0	0	GCA_030614255.1|JAUWKI010000012.1|10973|11344|-	-	Asp23				JAUSCH01	
+0	0	0	0	GCA_036514555.1|DATBWY010000181.1|1812|1949|+	-					DATBWY01	
+0	0	0	0	GCA_036514555.1|DATBWY010000181.1|1983|2642|+	Protein DedA	VTT_dom				DATBWY01	
+0	0	0	0	GCA_040755895.1|JBFMAG010000031.1|11775|12026|+	-					Subteraquimicrobium	
+0	0	0	0	GCA_964196305.1|CAXMSJ010000113.1|1052|2032|-	-					CAJVYJ01,DAOUYN01	
+0	0	0	0	GCA_964426525.1|CAYRQL010000006.1|3029|3601|-	-	Germane				CALKMS01	
+0	0	0	0	GCA_964426525.1|CAYRQL010000006.1|4752|5372|-	Nitrate/nitrite response regulator protein NarP	GerE,HTH_24,Response_reg,Sigma70_r4				CALKMS01	
+0	0	0	0	GCA_964426525.1|CAYRQL010000006.1|5467|6360|-	GTPase Era	AIG1,Arf,Dynamin_N,FeoB_N	translation factor / ribosome-associated			CALKMS01	
+0	0	0	0	GCA_964196305.1|CAXMSJ010000113.1|2373|3281|+	-	Methyltransf_11	rRNA/tRNA modification			DAOUYN01	
+0	0	0	0	GCA_964196305.1|CAXMSJ010000113.1|3338|4177|+	-					DAOUYN01	
+0	0	0	0	GCA_964196305.1|CAXMSJ010000113.1|4441|5292|-	-	HATPase_c,HATPase_c_2,PAS_4				DAOUYN01	
+0	0	0	0	GCA_964426525.1|CAYRQL010000006.1|4455|4631|-	-					CALKMS01	
+0	0	0	0	GCA_964426525.1|CAYRQL010000006.1|6350|6766|-	Probable cytidine deaminase	dCMP_cyt_deam_1,dCMP_cyt_deam_2				CALKMS01	
+0	0	0	0	GCA_964426525.1|CAYRQL010000006.1|6708|7985|-	Magnesium transporter CorB	CBS,CNNM,CorC_HlyC				CALKMS01	
+0	0	0	0	GCA_964426525.1|CAYRQL010000006.1|8001|8705|-	-	DAGK_prokar,PAP2				CALKMS01	
+0	0	0	0	GCA_964426525.1|CAYRQL010000006.1|8709|9134|-	Endoribonuclease YbeY	YbeY	RNase / nuclease			CALKMS01	
+0	0	0	0	GCA_964426525.1|CAYRQL010000006.1|9085|11202|-	Cyclic-di-AMP phosphodiesterase PgpH	7TM-7TMR_HD,7TMR-HDED,HD				CALKMS01	
+0	0	0	0	GCA_964426525.1|CAYRQL010000006.1|11165|12169|-	PhoH-like protein	AAA_19,AAA_30,KH_PhoH-like,PhoH				CALKMS01	
+0	0	0	0	tb|NC_014165.1|432763|433569|+	Regulatory protein AfsR	BTAD,Trans_reg_C					tb
+0	0	0	0	tb|NC_014165.1|433919|435037|+	Protein HesA, vegetative	ThiF					tb
+0	0	0	0	tb|NC_014165.1|435192|436520|-	Feruloyl esterase B	CBM_2,Esterase_PHB,Peptidase_S9					tb
+0	0	0	0	tb|NC_014165.1|436938|438119|+	-	HTH_19,HTH_3,HTH_31,Peptidase_M78					tb
+0	0	0	0	tb|NC_014165.1|438065|438373|+	-						tb
+0	0	0	0	tb|NC_014165.1|438370|438597|+	-	DUF3368					tb
+0	0	0	0	tb|NC_014165.1|438900|439349|+	-	DUF2267					tb
+0	0	0	0	tb|NC_014165.1|440338|440943|+	Uncharacterized 17.7 kDa protein in bps2 3'region	BON,CBS					tb
+0	0	0	0	tb|NC_014165.1|441685|442185|-	Fluoride-specific ion channel FluC 2	CRCB					tb,vv
+0	0	0	0	tb|NC_014165.1|441341|441688|-	UPF0166 protein SCO7045	UPF0166					tb
+0	0	0	0	tb|NC_014165.1|442458|443306|+	-	DUF9655					tb
+0	0	0	0	tb|NC_014165.1|449013|449312|+	-	DUF11203					tb
+0	0	0	0	tb|NC_014165.1|449864|450583|+	Uncharacterized protein YwiC	YwiC,YwiC_C					tb
+0	0	0	0	tb|NC_014165.1|450815|451495|+	-						tb
+0	0	0	0	ec|NC_000913.3|3939185|3940612|-	Probable transport protein HsrA	MFS_1,MFS_3,Sugar_tr					ec,tb
+0	0	0	0	tb|NC_014165.1|453667|454281|-	HTH-type transcriptional repressor AcnR	TetR_N					tb
+0	0	0	0	tb|NC_014165.1|455233|456462|+	Leu/Ile/Val-binding protein homolog 3	ANF_receptor,Peripla_BP_5,Peripla_BP_6					tb
+0	0	0	0	tb|NC_014165.1|456581|457474|+	High-affinity branched-chain amino acid transport system permease protein BraD	BPD_transp_2					tb
+0	0	0	0	tb|NC_014165.1|457471|458454|+	High-affinity branched-chain amino acid transport system permease protein BraE	BPD_transp_2					tb
+0	0	0	0	tb|NC_014165.1|1145579|1146235|-	Uncharacterized membrane protein PA4757	LysE					tb
+0	0	0	0	tb|NC_014165.1|1146382|1147770|+	Methanethiol oxidase	SBP56					tb
+0	0	0	0	tb|NC_014165.1|1147767|1148369|+	-	MarC_related					tb
+0	0	0	0	tb|NC_014165.1|1150510|1151988|+	Exochitinase 1	CBM_4_9,CBM_5_12,Glyco_hydro_18,fn3					tb
+0	0	0	0	tb|NC_014165.1|1152036|1152137|-	-						tb
+0	0	0	0	tb|NC_014165.1|1152265|1153596|+	-						tb
+0	0	0	0	tb|NC_014165.1|1153918|1155138|-	AI-2 transport protein TqsA	AI-2E_transport					tb
+0	0	0	0	tb|NC_014165.1|1161172|1161648|-	HTH-type transcriptional regulator FL11	AsnC_trans_reg,HTH_24,HTH_AsnC-type,HTH_IclR					tb
+0	0	0	0	tb|NC_014165.1|1161778|1162671|+	Phenylalanine 3-hydroxylase	Biopterin_H					tb
+0	0	0	0	tb|NC_014165.1|1162738|1162974|-	-						tb
+0	0	0	0	tb|NC_014165.1|1163634|1165244|-	-	DUF9120,GGDEF_2,HTH_30,PucR					tb
+0	0	0	0	tb|NC_014165.1|1170248|1171609|-	4-aminobutyrate aminotransferase	Aminotran_3					tb
+0	0	0	0	tb|NC_014165.1|1167022|1168452|+	Malonate-semialdehyde dehydrogenase	Aldedh,LuxC					tb
+0	0	0	0	tb|NC_014165.1|1168617|1169783|+	Bifunctional polyhydroxybutyrate synthase / ABC transporter periplasmic binding protein	SBP_bac_8					tb
+0	0	0	0	tb|NC_014165.1|1169835|1170077|-	-	DUF10844					tb
+0	0	0	0	tb|NC_014165.1|2882140|2883300|-	Peptidoglycan glycosyltransferase MrdB	FTSW_RODA_SPOVE					tb
+0	0	0	0	tb|NC_014165.1|2883307|2885367|-	Peptidoglycan D,D-transpeptidase MrdA	MrdA_TM_N,PBP_dimer,Transpeptidase					tb
+0	0	0	0	tb|NC_014165.1|2885364|2885876|-	-	MreD					tb
+0	0	0	0	tb|NC_014165.1|2885877|2886977|-	-	MreC					tb
+0	0	0	0	tb|NC_014165.1|2887201|2888232|-	Cell shape-determining protein MreB	Actin,FtsA,HSP70,MreB_Mbl					tb
+0	0	0	0	tb|NC_014165.1|2888431|2888841|-	Nucleoside diphosphate kinase	NDK					tb
+0	0	0	0	tb|NC_014165.1|2888961|2890520|-	-						tb
+0	0	0	0	tb|NC_014165.1|2890532|2890888|-	-	DUF4233					tb
+0	0	0	0	tb|NC_014165.1|2890885|2892168|-	Dihydrofolate synthase/folylpolyglutamate synthase	FOL3_C,Mur_ligase_C,Mur_ligase_M					tb
+0	0	0	0	tb|NC_014165.1|2895495|2898170|-	Valine--tRNA ligase	Anticodon_1,Val_tRNA-synt_C,tRNA-synt_1,tRNA-synt_1_2					tb
+0	0	0	0	vv|NC_014965.1|2665905|2668478|-	Chaperone protein ClpB	AAA,AAA_16,AAA_2,AAA_22					ec,tb,vv
+0	0	0	0	tb|NC_014165.1|2900495|2901148|-	ATP-dependent Clp protease proteolytic subunit 1	CLP_protease					tb
+0	0	0	0	tb|NC_014165.1|2901500|2902891|-	Trigger factor	FKBP_C,Trigger_C,Trigger_N					tb
+0	0	0	0	tb|NC_014165.1|2903086|2903943|-	-	DUF5753,HTH_31					tb
+0	0	0	0	tb|NC_014165.1|2904220|2904699|+	-	HATPase_c,HATPase_c_2					tb
+0	0	0	0	tb|NC_014165.1|3873352|3874380|-	-						tb
+0	0	0	0	tb|NC_014165.1|3874796|3875323|+	-	DUF1707,LiaF-like_C					tb
+0	0	0	0	tb|NC_014165.1|3875320|3876396|+	Phosphate acyltransferase	FA_synthesis					tb
+0	0	0	0	tb|NC_014165.1|3876504|3878231|+	Arginine--tRNA ligase	Arg_tRNA_synt_N,DALR_1,tRNA-synt_1d					tb
+0	0	0	0	tb|NC_014165.1|3878444|3879745|+	-						tb
+0	0	0	0	tb|NC_014165.1|3880351|3880731|-	Cell division protein SepF	SepF					tb
+0	0	0	0	tb|NC_014165.1|3888921|3890987|+	Dipeptidyl aminopeptidase BI	Peptidase_S9,Peptidase_S9_N					tb
+0	0	0	0	tb|NC_014165.1|3891492|3893897|-	-	DUF9100,LPG_synthase_TM					tb
+0	0	0	0	tb|NC_014165.1|3894226|3896247|+	Probable oxidoreductase YoaE	Molybdop_Fe4S4,Molybdopterin,Molydop_binding					tb
+0	0	0	0	tb|NC_014165.1|3896555|3897004|+	-	DUF10837					tb
+0	0	0	0	tb|NC_014165.1|3897308|3897691|-	-	Glyoxalase_6					tb
+0	0	0	0	ec|NC_000913.3|2716066|2716449|-	Autonomous glycyl radical cofactor	Gly_radical					ec
+0	0	0	0	ec|NC_000913.3|2716754|2717443|+	Uracil-DNA glycosylase	UDG					ec
+0	0	0	0	ec|NC_000913.3|2717491|2718528|-	Uncharacterized tRNA/rRNA methyltransferase YfiF	SpoU_methylase,SpoU_sub_bind	rRNA/tRNA modification				ec
+0	0	0	0	vv|NC_014965.1|3126718|3127044|-	Thioredoxin 1	OST3_OST6,PedC-like,Thioredoxin,Thioredoxin_2					ec,vv
+0	0	0	0	ec|NC_000913.3|2719223|2719921|+	tRNA-uridine aminocarboxypropyltransferase	DTW					ec
+0	0	0	0	vv|NC_014965.1|163700|165040|-	CDP-diacylglycerol--serine O-phosphatidyltransferase	PLDc_2,TrmB_EBD_N					ec,vv
+0	0	0	0	ec|NC_000913.3|2724179|2724451|+	Uncharacterized protein YfiM	DUF2279					ec
+0	0	0	0	ec|NC_000913.3|2724448|2725746|-	Alpha-ketoglutarate permease	MFS_1,Sugar_tr					ec
+0	0	0	0	vv|NC_014965.1|2668596|2669312|-	Peptidoglycan editing factor PgeF	Cu-oxidase_4					ec,vv
+0	0	0	0	vv|NC_014965.1|2669316|2670293|-	Ribosomal large subunit pseudouridine synthase D	PseudoU_synth_2,S4	rRNA/tRNA modification				ec,vv
+0	0	0	0	vv|NC_014965.1|2670430|2671155|+	Outer membrane protein assembly factor BamD	TPR_18,YfiO					ec,vv
+0	0	0	0	vv|NC_014965.1|2671508|2671831|+	Ribosome-associated factor Y	Ribosomal_S30AE	ribosomal protein				ec,vv
+0	0	0	0	vv|NC_014965.1|2672075|2673253|+	Bifunctional chorismate mutase/prephenate dehydratase	CM_2,PDT					ec,vv
+0	0	0	0	ec|NC_000913.3|2738948|2740069|-	T-protein	CM_2,PDH_C,PDH_N					ec
+0	0	0	0	ec|NC_000913.3|2740080|2741150|-	Phospho-2-dehydro-3-deoxyheptonate aldolase, Tyr-sensitive	DAHP_synth_1					ec
+0	0	0	0	vv|NC_014965.1|60834|61940|-	Multidrug export protein AcrE	BSH_CzcB,BSH_RND,Beta-barrel_RND,Beta-barrel_RND_2					ec,vv
+0	0	0	0	tt|NZ_CP041345.1|1978631|1981780|-	Cation efflux system protein CzcA	ACR_tran,MMPL,SecD_SecF_C					ec,tt,vv
+0	0	0	0	ec|NC_000913.3|3417994|3418284|-	-						ec
+0	0	0	0	ec|NC_000913.3|3418390|3418611|+	Uncharacterized protein YhdV						ec
+0	0	0	0	ec|NC_000913.3|3419042|3419278|+	-						ec
+0	0	0	0	ec|NC_000913.3|3419275|3420066|+	Putative amino-acid ABC transporter-binding protein YhdW	SBP_bac_3					ec
+0	0	0	0	ec|NC_000913.3|3420134|3421315|+	Putative amino-acid ABC transporter permease protein YhdX	BPD_transp_1					ec
+0	0	0	0	ec|NC_000913.3|3421325|3422428|+	Inner membrane amino-acid ABC transporter permease protein YhdY	BPD_transp_1					ec
+0	0	0	0	ec|NC_000913.3|3423503|3423826|+	-						ec
+0	0	0	0	vv|NC_014965.1|47049|47615|-	Protein YrdA	Hexapep					ec,vv
+0	0	0	0	vv|NC_014965.1|46796|47059|+	Uncharacterized protein YrdB	DUF1488					ec,vv
+0	0	0	0	vv|NC_014965.1|44317|44877|+	Threonylcarbamoyl-AMP synthase	Sua5_yciO_yrdC					ec,vv
+0	0	0	0	vv|NC_014965.1|41883|42452|+	Uncharacterized protein YrdD	Zn_ribbon_Top1					ec,vv
+0	0	0	0	vv|NC_014965.1|41380|41859|+	Protein Smg	DUF494					ec,vv
+0	0	0	0	vv|NC_014965.1|40274|41377|+	Protein Smf	DNA_processg_A,SAM_SMF,WHD_DprA					ec,vv
+0	0	0	0	vv|NC_014965.1|37547|38494|-	Methionyl-tRNA formyltransferase	Formyl_trans_C,Formyl_trans_N					ec,vv
+0	0	0	0	ec|NC_000913.3|3435207|3436496|+	Ribosomal RNA small subunit methyltransferase B	FtsJ,Methyltr_RsmB-F,Methyltransf_25,Methyltransf_31	rRNA/tRNA modification				ec
+0	0	0	0	ec|NC_000913.3|3438024|3438434|+	Large-conductance mechanosensitive channel	MscL					ec
+0	0	0	0	ec|NC_000913.3|3438431|3438649|-	Alternative ribosome-rescue factor A	ArfA					ec
+0	0	0	0	ec|NC_000913.3|3438705|3439130|-	HTH-type transcriptional regulator ZntR	MerR,MerR-DNA-bind,MerR_1					ec
+0	0	0	0	ec|NC_000913.3|213678|213938|-	Protein rof	ROF					ec
+0	0	0	0	ec|NC_000913.3|213925|214125|-	UPF0253 protein YaeP	UPF0253					ec
+0	0	0	0	ec|NC_000913.3|214291|214836|+	Uncharacterized protein YaeQ	YaeQ					ec
+0	0	0	0	ec|NC_000913.3|214833|215255|+	Peptidyl-tRNA hydrolase ArfB	RF-1					ec
+0	0	0	0	ec|NC_000913.3|215269|215979|+	Lipoprotein NlpE	NlpE,NlpE_C					ec
+0	0	0	0	ec|NC_000913.3|216179|217003|-	Probable lipoprotein peptidase YaeF	Peptidase_C92					ec
+0	0	0	0	ec|NC_000913.3|217057|218775|-	Proline--tRNA ligase	HGTP_anticodon,tRNA-synt_2b,tRNA_edit					ec
+0	0	0	0	ec|NC_000913.3|219591|219995|-	Outer membrane lipoprotein RcsF	RcsF					ec
+0	0	0	0	ec|NC_000913.3|220113|220928|-	D-methionine-binding lipoprotein MetQ	Lipoprotein_9,OpuAC					ec
+0	0	0	0	ec|NC_000913.3|220968|221621|-	D-methionine transport system permease protein MetI	ABC_transp_p69,BPD_transp_1,OmpC-like					ec
+0	0	0	0	ec|NC_000913.3|222833|223408|+	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase	HAD_2,Hydrolase,Hydrolase_6,Hydrolase_like					ec
+0	0	0	0	ec|NC_000913.3|229167|229970|+	Methylglyoxal reductase DkgB	Aldo_ket_red					ec
+0	0	0	0	vv|NC_014965.1|54595|55485|-	HTH-type transcriptional regulator HdfR	HTH_1,LysR_substrate					ec,vv
+0	0	0	0	ec|NC_000913.3|231143|231922|+	UPF0294 protein YafD	Exo_endo_phos					ec
+0	0	0	0	ec|NC_000913.3|231926|232549|+	Uncharacterized protein YafE	Methyltransf_11,Methyltransf_12,Methyltransf_23,Methyltransf_25	rRNA/tRNA modification				ec
+0	0	0	0	ec|NC_000913.3|232597|233817|-	Membrane-bound lytic murein transglycosylase D	LysM,LysM_MltD,SLT					ec
+0	0	0	0	ec|NC_000913.3|234027|234782|-	Hydroxyacylglutathione hydrolase	Anti-Pycsar_Apyc1,HAGH_C,Lactamase_B,Lactamase_B_2					ec
+0	0	0	0	ec|NC_000913.3|234816|235538|+	Uncharacterized protein YafS	Methyltransf_11	rRNA/tRNA modification				ec
+0	0	0	0	ec|NC_000913.3|235535|236002|-	Ribonuclease H	RNase_H	RNase / nuclease				ec
+0	0	0	0	ec|NC_000913.3|236058|236798|+	DNA polymerase III subunit epsilon	RNase_T	RNase / nuclease				ec
+0	0	0	0	ec|NC_000913.3|237335|238120|+	Uncharacterized lipoprotein YafT	YafT					ec
+0	0	0	0	ec|NC_000913.3|238257|238736|-	Uncharacterized protein YkfM						ec
+0	0	0	0	ec|NC_000913.3|3931316|3933184|+	Low affinity potassium transport system protein Kup	K_trans,K_trans_C					ec
+0	0	0	0	ec|NC_000913.3|3933351|3933770|+	D-ribose pyranase	RbsD_FucU					ec
+0	0	0	0	ec|NC_000913.3|3935288|3936253|+	Ribose import permease protein RbsC	BPD_transp_2					ec
+0	0	0	0	vv|NC_014965.1|467168|468163|+	HTH-type transcriptional regulator AscG	LacI,Peripla_BP_1,Peripla_BP_3,Peripla_BP_4					ec,vv
+0	0	0	0	ec|NC_000913.3|3937294|3938223|+	Ribokinase	Khk,PfkB,Phos_pyr_kin					ec
+0	0	0	0	ec|NC_000913.3|3940635|3941327|-	Uncharacterized HTH-type transcriptional regulator YieP	FCD,GntR					ec
+0	0	0	0	ec|NC_000913.3|3948086|3948424|+	Macrodomain Ori protein	DUF413					ec
+0	0	0	0	ec|NC_000913.3|3948449|3949969|-	Uncharacterized protein YifB	AAA_5,ChlI,MCM,Mg_chelatase					ec
+0	0	0	0	ec|NC_000913.3|3950560|3951543|+	Putative acetolactate synthase isozyme 2 large subunit	TPP_enzyme_M,TPP_enzyme_N					ec
+0	0	0	0	ec|NC_000913.3|3951668|3952204|+	Acetolactate synthase isozyme 2 large subunit	TPP_enzyme_C					ec
+0	0	0	0	ec|NC_000913.3|3952201|3952464|+	Acetolactate synthase isozyme 2 small subunit	ACT_12,ACT_5					ec
+0	0	0	0	ec|NC_000913.3|3952484|3953413|+	Branched-chain-amino-acid aminotransferase	Aminotran_4					ec
+0	0	0	0	ec|NC_000913.3|3953478|3955328|+	Dihydroxy-acid dehydratase	ILVD_EDD_N,ILV_EDD_C,IlvD_N					ec
+0	0	0	0	ec|NC_000913.3|3955331|3956875|+	L-threonine dehydratase biosynthetic IlvA	PALP,Thr_dehydrat_C					ec
+0	0	0	0	vv|NC_014965.1|3122218|3124071|-	3-octaprenyl-4-hydroxybenzoate carboxy-lyase	UbiD,UbiD_C,UbiD_N					ec,vv
+0	0	0	0	vv|NC_014965.1|3121221|3121934|-	NAD(P)H-flavin reductase	FAD_binding_6,NAD_binding_1,NAD_binding_6					ec,vv
+0	0	0	0	vv|NC_014965.1|3166963|3168126|+	3-ketoacyl-CoA thiolase	Thiolase_C,Thiolase_N,ketoacyl-synt					ec,vv
+0	0	0	0	vv|NC_014965.1|3164779|3166950|+	Fatty acid oxidation complex subunit alpha	3HCDH,3HCDH_N,ECH_1,ECH_2					ec,vv
+0	0	0	0	ec|NC_000913.3|4031161|4032492|+	Xaa-Pro dipeptidase	PepQ_N,Peptidase_M24					ec
+0	0	0	0	vv|NC_014965.1|3163908|3164531|-	IMPACT family member YigZ	DUF1949,Impact_N					ec,vv
+0	0	0	0	vv|NC_014965.1|3161868|3162392|-	Protoporphyrinogen IX dehydrogenase [quinone]	Flavodoxin_1,Flavodoxin_3,Flavodoxin_5					ec,vv
+0	0	0	0	ec|NC_000913.3|4040906|4041433|-	Molybdopterin-guanine dinucleotide biosynthesis adapter protein	MobB					ec
+0	0	0	0	ec|NC_000913.3|4041415|4041999|-	Molybdenum cofactor guanylyltransferase	NTP_transf_3					ec
+0	0	0	0	ec|NC_000913.3|4042069|4042338|+	Protein YihD	DUF1040					ec
+0	0	0	0	ec|NC_000913.3|4042415|4043401|+	Stress response kinase A	APH					ec
+0	0	0	0	ec|NC_000913.3|4043418|4044044|+	Thiol:disulfide interchange protein DsbA	DSBA,Thioredoxin_4					ec
+0	0	0	0	ec|NC_000913.3|4044199|4045629|+	Uncharacterized protein YihF	DUF945					ec
+0	0	0	0	ec|NC_000913.3|4045670|4046602|-	1-acylglycerol-3-phosphate O-acyltransferase YihG	Acyltransferase					ec
+0	0	0	0	ec|NC_000913.3|4046722|4046907|-	-						ec
+0	0	0	0	ec|NC_000913.3|4046966|4049752|+	DNA polymerase I	5_3_exonuc,5_3_exonuc_N,DNA_polI_exo1,DNA_pol_A	RNase / nuclease				ec
+0	0	0	0	ec|NC_000913.3|4050133|4050765|-	Probable GTP-binding protein EngB	FeoB_N,MMR_HSR1	translation factor / ribosome-associated				ec
+0	0	0	0	ec|NC_000913.3|4156013|4156789|+	Acetylglutamate kinase	AA_kinase					ec
+0	0	0	0	vv|NC_014965.1|148597|149997|-	Soluble pyridine nucleotide transhydrogenase	FAD_binding_2,FAD_oxidored,Lys_Orn_oxgnase,NAD_binding_8					ec,vv
+0	0	0	0	vv|NC_014965.1|150282|150923|+	HTH-type transcriptional repressor FabR	TetR_C_46,TetR_N					ec,vv
+0	0	0	0	vv|NC_014965.1|150923|151303|+	Inner membrane protein YijD	DUF1422					ec,vv
+0	0	0	0	vv|NC_014965.1|151361|152470|-	tRNA/tmRNA	Methyltransf_25,Methyltransf_4,tRNA_U5-meth_tr	rRNA/tRNA modification				ec,vv
+0	0	0	0	vv|NC_014965.1|152873|154714|+	Vitamin B12 transporter BtuB	OMP_b-brl_3,Plug,TonB_dep_Rec_b-barrel					ec,vv
+0	0	0	0	vv|NC_014965.1|155477|156268|+	Glutamate racemase	Asp_Glu_race					ec,vv
+0	0	0	0	vv|NC_014965.1|165631|166674|+	UDP-N-acetylenolpyruvoylglucosamine reductase	FAD_binding_4,MurB_C					ec,vv
+0	0	0	0	tt|NZ_CP041345.1|885204|885941|-	Bifunctional ligase/repressor BirA	BPL_C,BPL_LplA_LipB,HTH_11					ec,tt,vv
+0	0	0	0	vv|NC_014965.1|167671|168594|-	Pantothenate kinase	PRK					ec,vv
+0	0	0	0	vv|NC_014965.1|169315|170499|+	Elongation factor Tu 1	GTP_EFTU,GTP_EFTU_D2,GTP_EFTU_D3	translation factor / ribosome-associated				ec,vv
+0	0	0	0	vv|NC_014965.1|170732|171112|+	Protein translocase subunit SecE	SecE					ec,vv
+0	0	0	0	vv|NC_014965.1|171126|171674|+	Transcription termination/antitermination protein NusG	KOW,NusG					ec,vv
+0	0	0	0	vv|NC_014965.1|171817|172245|+	Large ribosomal subunit protein uL11	Ribosomal_L11,Ribosomal_L11_N	ribosomal protein				ec,vv
+0	0	0	0	ec|NC_000913.3|4178879|4179583|+	Large ribosomal subunit protein uL1	Ribosomal_L1	ribosomal protein				ec
+0	0	0	0	ec|NC_000913.3|4179996|4180493|+	Large ribosomal subunit protein uL10	RL10_C,Ribosomal_L10	ribosomal protein				ec
+0	0	0	0	ec|NC_000913.3|4180560|4180925|+	Large ribosomal subunit protein bL12	Ribosomal_L12,Ribosomal_L12_N	ribosomal protein				ec
+0	0	0	0	ec|NC_000913.3|4181245|4185273|+	DNA-directed RNA polymerase subunit beta	RNA_pol_Rpb2_1,RNA_pol_Rpb2_2,RNA_pol_Rpb2_3,RNA_pol_Rpb2_45					ec
+0	0	0	0	ec|NC_000913.3|4197716|4198780|+	Uroporphyrinogen decarboxylase	URO-D					ec
+0	0	0	0	ec|NC_000913.3|4198790|4199461|+	Endonuclease V	Endonuclease_5	RNase / nuclease				ec
+0	0	0	0	ec|NC_000913.3|4199504|4200094|+	Uncharacterized protein YjaG	DUF416					ec
+0	0	0	0	ec|NC_000913.3|4200281|4200553|+	DNA-binding protein HU-alpha	Bac_DNA_binding,HU-CCDC81_bac_2,HU-HIG					ec
+0	0	0	0	ec|NC_000913.3|4200626|4201261|+	Uncharacterized protein YjaH	DUF1481					ec
+0	0	0	0	ec|NC_000913.3|4201263|4201688|-	Signaling pathway modulator ZraP	Metal_resist					ec
+0	0	0	0	ec|NC_000913.3|4204642|4205931|-	Phosphoribosylamine--glycine ligase	ATP-grasp_3,CPSase_L_D2,GARS_A,GARS_C					ec
+0	0	0	0	ec|NC_000913.3|4205943|4207532|-	Bifunctional purine biosynthesis protein PurH	AICARFT_IMPCHas,MGS					ec
+0	0	0	0	ec|NC_000913.3|4213234|4213617|+	Uncharacterized protein YjaA						ec
+0	0	0	0	ec|NC_000913.3|4213680|4214123|-	Peptidyl-lysine N-acetyltransferase YjaB	Acetyltransf_1,Acetyltransf_10,Acetyltransf_7					ec
+0	0	0	0	ec|NC_000913.3|4214280|4215209|+	Homoserine O-succinyltransferase	HTS					ec
+0	0	0	0	ec|NC_000913.3|4215478|4217079|+	Malate synthase A	MS_C,MS_N,MS_TIM-barrel					ec
+0	0	0	0	ec|NC_000913.3|4217109|4218413|+	Isocitrate lyase	ICL,PEP_mutase					ec
+0	0	0	0	ec|NC_000913.3|4218596|4220332|+	Isocitrate dehydrogenase kinase/phosphatase	AceK_kinase,AceK_regulatory					ec
+0	0	0	0	ec|NC_000913.3|4220301|4222487|-	Ankyrin repeat protein A	Toxin_15	toxin-antitoxin				ec
+0	0	0	0	ec|NC_000913.3|4222804|4223628|-	Transcriptional repressor IclR	HTH_IclR,IclR_C,MarR_2					ec
+0	0	0	0	vv|NC_014965.1|39177|40274|+	-	LysM,TsaP_C					vv
+0	0	0	0	vv|NC_014965.1|42517|43650|-	N5-carboxyaminoimidazole ribonucleotide synthase	ATP-grasp,PurK_C,RS_preATP-grasp-like					vv
+0	0	0	0	vv|NC_014965.1|43654|44139|-	N5-carboxyaminoimidazole ribonucleotide mutase	AIRC					vv
+0	0	0	0	vv|NC_014965.1|44906|45823|+	Oxygen-dependent coproporphyrinogen-III oxidase	Coprogen_oxidas					vv
+0	0	0	0	vv|NC_014965.1|3114088|3114621|-	Uncharacterized protein y4pE/y4sA	DDE_3					vv
+0	0	0	0	vv|NC_014965.1|163292|163573|-	-	HTH_23,HTH_28,HTH_29,HTH_32					vv
+0	0	0	0	vv|NC_014965.1|55627|57111|+	Ketol-acid reductoisomerase	2-Hacid_dh_C,KARI_C,KARI_N					vv
+0	0	0	0	vv|NC_014965.1|57306|57557|-	Ubiquinone biosynthesis accessory factor UbiK	BMFP					vv
+0	0	0	0	vv|NC_014965.1|61958|62539|-	Uncharacterized HTH-type transcriptional regulator HI_0893	TetR_C_10,TetR_HI_0893_C,TetR_N					vv
+0	0	0	0	vv|NC_014965.1|62707|64725|+	ATP-dependent DNA helicase Rep	AAA_19,UvrD-helicase,UvrD_C,UvrD_C_2					vv
+0	0	0	0	vv|NC_014965.1|146924|147547|+	LexA repressor	LexA_DNA_bind,Peptidase_S24					vv
+0	0	0	0	vv|NC_014965.1|147735|148547|+	-						vv
+0	0	0	0	vv|NC_014965.1|154760|155443|+	-	Diphthami_syn_2_C,Diphthami_syn_2_N					vv
+0	0	0	0	vv|NC_014965.1|156246|156692|-	Glycine-rich RNA-binding protein 1	RRM_1					vv
+0	0	0	0	vv|NC_014965.1|165130|165567|-	-	Acetyltransf_1,Acetyltransf_10,Acetyltransf_7					vv
+0	0	0	0	vv|NC_014965.1|365867|367519|+	Glucose-6-phosphate isomerase	PGI					vv
+0	0	0	0	vv|NC_014965.1|367620|368081|-	-	CheC,CheX					vv
+0	0	0	0	vv|NC_014965.1|368107|368556|-	Zinc uptake regulation protein	FUR					vv
+0	0	0	0	vv|NC_014965.1|368850|369830|+	tRNA-dihydrouridine(20/20a) synthase	Dus					vv
+0	0	0	0	vv|NC_014965.1|369989|370207|+	-	Phageshock_PspG	mobile				vv
+0	0	0	0	vv|NC_014965.1|370305|370967|+	-						vv
+0	0	0	0	vv|NC_014965.1|371116|371346|+	-	DUF11604					vv
+0	0	0	0	vv|NC_014965.1|371461|373311|+	Sulfite reductase [NADPH] flavoprotein alpha-component	FAD_binding_1,Flavodoxin_1,NAD_binding_1					vv
+0	0	0	0	vv|NC_014965.1|373311|375047|+	Sulfite reductase [NADPH] hemoprotein beta-component	NIR_SIR,NIR_SIR_ferr					vv
+0	0	0	0	vv|NC_014965.1|375040|375816|+	Phosphoadenosine 5'-phosphosulfate reductase	PAPS_reduct					vv
+0	0	0	0	vv|NC_014965.1|387477|388607|+	-	FIST,FIST_C					vv
+0	0	0	0	vv|NC_014965.1|388609|390048|+	Response regulator PleD	GGDEF,PAS,PAS_4,PAS_8					vv
+0	0	0	0	vv|NC_014965.1|390078|391412|-	Na(+)/H(+) antiporter NhaP	Na_H_Exchanger					vv
+0	0	0	0	vv|NC_014965.1|391596|395276|+	Methionine synthase	B12-binding,B12-binding_2,Met_synt_B12,Pterin_bind					vv
+0	0	0	0	vv|NC_014965.1|395358|396830|-	Lysine-sensitive aspartokinase 3	AA_kinase,ACT_9					vv
+0	0	0	0	vv|NC_014965.1|460297|460773|-	-	RDD					vv
+0	0	0	0	vv|NC_014965.1|461324|462607|-	Chitin disaccharide deacetylase	CBM_5_12,Polysacc_deac_1					vv
+0	0	0	0	vv|NC_014965.1|462875|463180|+	PTS system oligo-beta-mannoside-specific EIIB component	PTS_IIB					vv
+0	0	0	0	vv|NC_014965.1|463269|464600|+	PTS system cellobiose-specific EIIC component	PTS_EIIC					vv
+0	0	0	0	vv|NC_014965.1|464654|464962|+	PTS system N,N'-diacetylchitobiose-specific EIIA component	PTS_IIA					vv
+0	0	0	0	vv|NC_014965.1|464972|466294|+	Probable 6-phospho-beta-glucosidase	Glyco_hydro_4,Glyco_hydro_4C					vv
+0	0	0	0	vv|NC_014965.1|466314|467072|+	Carbohydrate deacetylase	YdjC					vv
+0	0	0	0	vv|NC_014965.1|468233|468640|+	-	3-dmu-9_3-mt,Glyoxalase					vv
+0	0	0	0	vv|NC_014965.1|468861|469991|+	Probable cyclic di-GMP phosphodiesterase VC_1348	DUF3391,HD,HD_5					vv
+0	0	0	0	vv|NC_014965.1|476350|477081|-	Uncharacterized protein MJ0732	Lactamase_B,ODP					vv
+0	0	0	0	vv|NC_014965.1|477099|477710|-	-						vv
+0	0	0	0	vv|NC_014965.1|478743|480368|-	Methyl-accepting chemotaxis protein McpP	MCPsignal,dCache_2,sCache_2					vv
+0	0	0	0	vv|NC_014965.1|480999|482138|-	Membrane-bound lytic murein transglycosylase C	Mltc_N,SLT					vv
+0	0	0	0	vv|NC_014965.1|482218|482490|-	Probable Fe(2+)-trafficking protein	Iron_traffic					vv
+0	0	0	0	vv|NC_014965.1|482512|483564|-	Adenine DNA glycosylase	HHH,HhH-GPD,NUDIX_4					vv
+0	0	0	0	vv|NC_014965.1|483734|484453|+	tRNA	Methyltransf_4	rRNA/tRNA modification				vv
+0	0	0	0	vv|NC_014965.1|484580|485500|+	Glutaminase	Glutaminase					vv
+0	0	0	0	vv|NC_014965.1|2649167|2651269|+	Polyphosphate kinase	PLDc_2,PP_kinase,PP_kinase_C,PP_kinase_C_1					vv
+0	0	0	0	vv|NC_014965.1|3128471|3129964|+	Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	Ppx-GppA,Ppx-GppA_III					vv
+0	0	0	0	vv|NC_014965.1|2652804|2653727|-	Phosphate-binding protein PstS	PBP_like,PBP_like_2					vv
+0	0	0	0	vv|NC_014965.1|2655981|2656895|+	Recombination-associated protein RdgC	RdgC					vv
+0	0	0	0	vv|NC_014965.1|2657038|2658438|+	tRNA hydroxylation protein P	Peptidase_U32,Peptidase_U32_C					vv
+0	0	0	0	vv|NC_014965.1|2658442|2658696|+	Uncharacterized ferredoxin-like protein HI_0527	Fer4,Fer4_21,Fer4_7					vv
+0	0	0	0	vv|NC_014965.1|2658731|2659561|-	Penicillin-insensitive murein endopeptidase	Peptidase_M74					vv
+0	0	0	0	vv|NC_014965.1|2673278|2673814|+	Inosine/xanthosine triphosphatase	NTPase_I-T					vv
+0	0	0	0	vv|NC_014965.1|2673845|2674153|-	Trp operon repressor homolog	Trp_repressor					vv
+0	0	0	0	vv|NC_014965.1|2674169|2676115|-	Soluble lytic murein transglycosylase	SLT,SLT_L,SLT_superhelical,Slt_N					vv
+0	0	0	0	vv|NC_014965.1|3105771|3105887|+	-						vv
+0	0	0	0	vv|NC_014965.1|3105922|3106671|-	Sec-independent protein translocase protein TatC	TatC					vv
+0	0	0	0	vv|NC_014965.1|3106738|3107130|-	Sec-independent protein translocase protein TatB	TatA_B_E					vv
+0	0	0	0	vv|NC_014965.1|3107134|3107370|-	Sec-independent protein translocase protein TatA	TatA_B_E					vv
+0	0	0	0	vv|NC_014965.1|3107422|3109056|-	Probable protein kinase UbiB	ABC1,UbiB_helical					vv
+0	0	0	0	vv|NC_014965.1|3109053|3109658|-	Ubiquinone biosynthesis accessory factor UbiJ	SCP2,UbiJ_C					vv
+0	0	0	0	vv|NC_014965.1|3109667|3110449|-	Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE	MTS,Methyltransf_11,Methyltransf_12,Methyltransf_23	rRNA/tRNA modification				vv
+0	0	0	0	vv|NC_014965.1|3110449|3112035|-	DNA recombination protein RmuC homolog	RmuC					vv
+0	0	0	0	vv|NC_014965.1|3112167|3113075|+	-	EamA					vv
+0	0	0	0	vv|NC_014965.1|3113093|3113920|-	-	HD,HDOD					vv
+0	0	0	0	vv|NC_014965.1|3121949|3122221|-	Xylene/toluene monooxygenase electron transfer component XylA	Fer2					vv
+0	0	0	0	vv|NC_014965.1|3124164|3125156|-	-						vv
+0	0	0	0	vv|NC_014965.1|3125260|3126519|-	Transcription termination factor Rho	ATP-synt_ab,Rho_N,Rho_RNA_bind					vv
+0	0	0	0	vv|NC_014965.1|3127156|3128463|+	ATP-dependent RNA helicase RhlB	DEAD,Helicase_C					vv
+0	0	0	0	vv|NC_014965.1|3130045|3130716|-	Queuosine precursor transporter	Vut_1					vv
+0	0	0	0	vv|NC_014965.1|3146257|3147381|-	2-iminoacetate synthase	BATS,Radical_SAM					vv
+0	0	0	0	vv|NC_014965.1|3147418|3148191|-	Thiazole synthase	ThiG					vv
+0	0	0	0	vv|NC_014965.1|3148196|3148405|-	-	ThiS					vv
+0	0	0	0	vv|NC_014965.1|3148386|3149222|-	Sulfur carrier protein ThiS adenylyltransferase	BilD_C,ThiF					vv
+0	0	0	0	vv|NC_014965.1|3149212|3150546|-	Thiamine-phosphate synthase	TMP-TENI					vv
+0	0	0	0	vv|NC_014965.1|3150549|3152492|-	Phosphomethylpyrimidine synthase	ThiC-associated,ThiC_Rad_SAM					vv
+0	0	0	0	vv|NC_014965.1|3153313|3154596|-	Laccase-2	Cu-oxidase,Cu-oxidase_2,Cu-oxidase_3					vv
+0	0	0	0	vv|NC_014965.1|3154593|3154715|-	-	TAT_signal					vv
+0	0	0	0	vv|NC_014965.1|3168287|3169267|+	Probable acrylyl-CoA reductase AcuI	ADH_N,ADH_zinc_N					vv
+0	0	0	0	vv|NC_014965.1|3169339|3170280|-	HTH-type transcriptional regulator YidZ	HTH_1,LysR_substrate					vv
+0	0	0	0	vv|NC_014965.1|3170433|3170618|-	-						vv
+0	0	0	0	vv|NC_014965.1|3171036|3171296|-	-						vv
+0	0	0	0	vv|NC_014966.1|282515|284413|+	L-methionine decarboxylase	Pyridoxal_deC					vv
+0	0	0	0	vv|NC_014966.1|284482|285138|-	3,4-dihydroxy-2-butanone 4-phosphate synthase	DHBP_synthase					vv
+0	0	0	0	vv|NC_014966.1|285174|285380|+	-						vv
+0	0	0	0	vv|NC_014966.1|285573|286112|+	Secreted isochorismatase effector Isc1	Isochorismatase					vv
+0	0	0	0	vv|NC_014966.1|286209|287012|+	Putative phosphatase HI_0003	Hydrolase_3,S6PP					vv
+0	0	0	0	vv|NC_014966.1|287164|287454|+	-						vv
+0	0	0	0	vv|NC_014966.1|288617|289366|-	Phosphatidylglycerophosphatase B	PAP2,PAP2_3					vv
+0	0	0	0	vv|NC_014966.1|289529|290368|-	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase	Carb_kinase,PfkB,Phos_pyr_kin					vv
+0	0	0	0	vv|NC_014966.1|290703|291299|-	Putative pseudouridine methyltransferase	Methyltrn_RNA_2	rRNA/tRNA modification				vv
+0	0	0	0	vv|NC_014966.1|291497|292015|+	-	DUF3087					vv
+0	0	0	0	vv|NC_014966.1|298169|298525|-	Uncharacterized protein YibL	DUF2810					vv
+0	0	0	0	vv|NC_014966.1|298631|299518|-	-	HTH_18,HTH_AraC					vv
+0	0	0	0	vv|NC_014966.1|299662|300861|+	Sugar efflux transporter A	MFS_1					vv
+0	0	0	0	vv|NC_014966.1|300873|301721|-	-	SBP_bac_3					vv
+0	0	0	0	vv|NC_014966.1|301868|302335|+	-	YkuD					vv
+0	0	0	0	vv|NC_014966.1|302584|303471|+	-	EamA					vv
+0	0	0	0	vv|NC_014966.1|303630|304586|+	L-lactate dehydrogenase	Ldh_1_C,Ldh_1_N					vv
+0	0	0	0	vv|NC_014966.1|304772|305854|+	Spermidine/putrescine-binding periplasmic protein 2	Lipoprotein_8,SBP_bac_1,SBP_bac_11,SBP_bac_6					vv
+0	0	0	0	vv|NC_014966.1|306092|308287|+	Colicin I receptor	Plug,TonB_dep_Rec_b-barrel					vv
+0	0	0	0	tt|NZ_CP041345.1|517305|526610|+	-	Laminin_G_3,fn3					tt
+0	0	0	0	tt|NZ_CP041345.1|526617|527939|+	-	CHU_C,SGBP_N					tt
+0	0	0	0	tt|NZ_CP041345.1|527960|528820|+	-	PorP_SprF					tt
+0	0	0	0	tt|NZ_CP041345.1|528832|529368|-	-						tt
+0	0	0	0	tt|NZ_CP041345.1|529328|530674|-	Dihydroorotase	Amidohydro_1,Amidohydro_3,DHOase					tt
+0	0	0	0	tt|NZ_CP041345.1|530689|531435|-	Polyprenol monophosphomannose synthase	Glycos_transf_2					tt
+0	0	0	0	tt|NZ_CP041345.1|537406|539076|+	-	Porin_10					tt
+0	0	0	0	tt|NZ_CP041345.1|539155|540552|+	Membrane-bound lytic murein transglycosylase F	SBP_bac_3,SLT					tt
+0	0	0	0	tt|NZ_CP041345.1|540771|541730|+	Transposase for insertion sequence element IS4351	HTH_23,HTH_38,HTH_IS1161_2nd,rve	mobile				tt
+0	0	0	0	tt|NZ_CP041345.1|541808|543346|+	Glutamate--tRNA ligase	Anticodon_2,tRNA-synt_1c					tt
+0	0	0	0	tt|NZ_CP041345.1|543516|544283|+	Serine acetyltransferase, plasmid	SATase_N					tt
+0	0	0	0	tt|NZ_CP041345.1|544297|545211|+	Cysteine synthase	PALP					tt
+0	0	0	0	tt|NZ_CP041345.1|545217|547841|-	DNA mismatch repair protein MutS	MutS_I,MutS_II,MutS_III,MutS_IV					tt
+0	0	0	0	tt|NZ_CP041345.1|878027|879592|-	-						tt
+0	0	0	0	tt|NZ_CP041345.1|879561|879659|-	-						tt
+0	0	0	0	tt|NZ_CP041345.1|879736|881013|-	Serine--tRNA ligase	Seryl_tRNA_N,tRNA-synt_2b					tt
+0	0	0	0	tt|NZ_CP041345.1|881103|881363|-	Large ribosomal subunit protein bL27	Ribosomal_L27	ribosomal protein				tt
+0	0	0	0	tt|NZ_CP041345.1|881382|881693|-	Large ribosomal subunit protein bL21	Ribosomal_L21p	ribosomal protein				tt
+0	0	0	0	tt|NZ_CP041345.1|881799|882551|-	1-acyl-sn-glycerol-3-phosphate acyltransferase LPAT1, chloroplastic	Acyltransf_2,Acyltransferase					tt
+0	0	0	0	tt|NZ_CP041345.1|882783|883121|+	-						tt
+0	0	0	0	tt|NZ_CP041345.1|883189|883734|+	-	DUF19746					tt
+0	0	0	0	tt|NZ_CP041345.1|883735|884679|-	Lipoate-protein ligase LplJ	BPL_LplA_LipB,LplA-B_cat					tt
+0	0	0	0	tt|NZ_CP041345.1|884785|885192|+	-						tt
+0	0	0	0	tt|NZ_CP041345.1|886101|887561|+	Cytosol non-specific dipeptidase	M20_dimer,Peptidase_M20					tt
+0	0	0	0	tt|NZ_CP041345.1|887663|888655|+	Fatty acid desaturase	FA_desaturase					tt
+0	0	0	0	tt|NZ_CP041345.1|894079|895224|+	-	Por_Secre_tail	mobile				tt
+0	0	0	0	tt|NZ_CP041345.1|895289|896200|+	Proline dehydrogenase 1	Pro_dh					tt
+0	0	0	0	tt|NZ_CP041345.1|896386|897666|+	Serine hydroxymethyltransferase	Aminotran_1_2,SHMT	rRNA/tRNA modification				tt
+0	0	0	0	tt|NZ_CP041345.1|897741|898220|+	-						tt
+0	0	0	0	tt|NZ_CP041345.1|898221|898970|+	Probable membrane transporter protein ORF9	TauE					tt
+0	0	0	0	tt|NZ_CP041345.1|898971|899792|-	-						tt
+0	0	0	0	tt|NZ_CP041345.1|899797|900198|-	Biopolymer transport protein exbD2	ExbD					tt
+0	0	0	0	tt|NZ_CP041345.1|900211|900894|-	Putative biopolymer transport protein ExbB homolog	MotA_ExbB					tt
+0	0	0	0	tt|NZ_CP041345.1|900981|905486|-	Translocation and assembly module subunit TamB	TamB,TamB_N					tt
+0	0	0	0	tt|NZ_CP041345.1|1981857|1985027|-	-	SpoIIE,Y_Y_Y					tt
+0	0	0	0	tt|NZ_CP041345.1|1985146|1986321|+	tRNA-specific 2-thiouridylase MnmA	NAD_synthase,ThiI,tRNA_Me_trans,tRNA_Me_trans_C					tt
+0	0	0	0	tt|NZ_CP041345.1|1986778|1986909|+	-						tt
+0	0	0	0	tt|NZ_CP041345.1|1986939|1987445|-	-	DUF15700					tt
+0	0	0	0	tt|NZ_CP041345.1|1987435|1987905|-	-						tt
+0	0	0	0	tt|NZ_CP041345.1|1988222|1988455|-	-						tt
+0	0	0	0	tt|NZ_CP041345.1|1988403|1989020|-	-						tt
+0	0	0	0	tt|NZ_CP041345.1|1994313|1994501|-	-						tt
+0	0	0	0	tt|NZ_CP041345.1|1995269|1996108|-	-						tt
+0	0	0	0	tt|NZ_CP041345.1|1996105|1997427|-	-						tt
+0	0	0	0	tt|NZ_CP041345.1|1998303|1999016|-	N-acetylmuramate alpha-1-phosphate uridylyltransferase	IspD,NTP_transf_3,NTP_transferase					tt
+0	0	0	0	tt|NZ_CP041345.1|1999021|1999143|-	-						tt
+0	0	0	0	tt|NZ_CP041345.1|1999140|2000558|-	Nucleotide-binding protein HAPS_0087	APH,EcKL,PapZ_C					tt
+0	0	0	0	tt|NZ_CP041345.1|2000570|2001250|-	Uncharacterized membrane protein YdfK	DUF554					tt
+0	0	0	0	tt|NZ_CP041345.1|2001366|2001848|+	-						tt
+0	0	0	0	tt|NZ_CP041345.1|2001845|2002933|-	Erythronate-4-phosphate dehydrogenase	2-Hacid_dh,2-Hacid_dh_C,DUF3410					tt
+0	0	0	0	tt|NZ_CP041345.1|2003023|2005662|-	-	CarboxypepD_reg					tt

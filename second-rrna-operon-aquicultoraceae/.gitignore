@@ -1,0 +1,8 @@
+# inputs that are not included (see data/README.md and src/README.md)
+data/external/
+out/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env

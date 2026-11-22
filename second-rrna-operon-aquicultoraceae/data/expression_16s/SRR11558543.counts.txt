@@ -1,0 +1,18 @@
+16S_decoy 408474
+16S_div_body 5
+16S_div_body_nm0 4
+16S_div_edge 4
+16S_div_spacer 4
+16S_norm_body 141
+16S_norm_body_nm0 128
+16S_norm_edge 21
+16S_norm_spacer 13
+23S_norm 125
+23S_norm_nm0 109
+other_target 1014405
+pairs_seen 1423175
+verdict: div 5 norm 141 r 0.031 (95% two-sided CP 0.010-0.075) -> DOES NOT ACCUMULATE
+  precursor guard p 0.9876004418494083; precursor-corrected body div -13.3 norm 92.8 r -0.126; r if insertions excised 0.035; body:spacer div 5:4 norm 141:13
+verdict_nm0: div 4 norm 128 r 0.028 (95% two-sided CP 0.007-0.073) -> DOES NOT ACCUMULATE
+  precursor guard p 0.9876004418494083; precursor-corrected body div -13.3 norm 92.8 r -0.126; r if insertions excised 0.031; body:spacer div 5:4 norm 141:13
+VERDICT (T5): DOES NOT ACCUMULATE

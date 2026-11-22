@@ -1,0 +1,34 @@
+acc	disposition	detail
+GCA_009493725.1	canonical	12 PTC positions canonical (ptc_bases_pair; 2584 read in div only)
+GCA_013152945.1	canonical	A2453U in both copies (lineage, not copy-specific)
+GCA_016720145.1	canonical	bt2/
+GCA_040766325.1	canonical	bt2/
+GCA_041389925.1	canonical	bt2/
+GCA_041390515.1	canonical	bt2/
+GCA_041392305.1	canonical	bt2/
+GCA_046328015.1	canonical	19:51 14 Nov triage
+GCA_046350195.1	canonical	19:51 14 Nov triage
+GCA_046351325.1	canonical	19:51 14 Nov triage
+GCA_047199095.1	canonical	assembly chimera (21:29 14 Nov); PTC canonical
+GCF_013265555.1	canonical	Tenuifilum third operon (cca/tenu/NOTES.md)
+GCF_021596505.1	canonical	Trichormus, bt2/
+GCA_963663115.2	canonical-foreign	Alphaproteobacteria-like fragment, canonical where readable
+GCA_964536015.1	canonical-foreign	same fragment family, canonical where readable
+GCA_008933525.1	canonical-truncated	copy ends at model 2555: 2583-2584 unread; others canonical (local)
+GCA_041398565.1	changed-seq-error	2-nt gap at 2061-2063; 25.4 gap-opens/kb vs 3.3 census; Flye nanopore-only
+GCA_046351315.1	changed-seq-error	2583-2584 AA aligner-dependent; 36.9 gap-opens/kb vs 9.7 census; Flye nanopore-only
+GCF_032654805.1	changed-seq-error	Kitasatospora P-loop -> CAG; 26.1 gap-opens/kb vs 3.3; Unicycler hybrid
+GCA_052174455.1	changed-decaying	Arsenophonus P-loop GGGG -> TGG; 19.0 gap-opens/kb vs 8.9
+GCA_046530935.1	changed-decaying	Arsenophonus P-loop 2250-2251 GG -> AA; 70% to own normal; GC 0.374 vs normal 23S 0.501, genome 0.326; 5' third missing; no census hit >70.3%; gap rate same as family paralogs (29.6 vs 29.9-34.8/kb), so decay call rests on GC drift and partial gene
+GCA_025542975.1	changed-killed	P-loop 1-nt change; co-assembly artefact, killed by nanopore reads (cca/arist/NOTES.md)
+GCA_016722635.1	unread-truncated	19:51 14 Nov
+GCA_963780675.1	unread-truncated	19:51 14 Nov
+GCA_028289345.1	unread-truncated	edge-truncated
+GCA_041488375.1	unread-truncated	edge-truncated
+GCA_963738755.1	unread-truncated	edge-truncated
+GCA_050246795.1	unread-truncated	div copy ends at model 2238
+GCA_016764715.1	unread-foreign	Kordiimonas, rearranged, nearest Bacteroidia 83%
+GCA_023250515.1	unread-foreign	both copies archaeal
+GCA_963717225.1	unread-foreign	87% Streptomyces
+GCA_030692045.1	unread	no dc-megablast hit to E. coli 23S; 0.872 to a census Omnitrophota 23S; not examined further
+GCA_965279035.1	unread	no dc-megablast hit to E. coli 23S; 0.919 to census M30B66; not examined further

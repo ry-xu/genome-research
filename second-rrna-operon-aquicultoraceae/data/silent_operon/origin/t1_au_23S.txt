@@ -1,0 +1,17 @@
+23S trees: 1=ML, 2=H_order, 3=H_class
+USER TREES
+----------
+
+See out/t1_23S_au.trees for trees with branch lengths.
+
+Tree      logL    deltaL  bp-RELL    p-KH     p-SH       c-ELW       p-AU
+-------------------------------------------------------------------------
+  1  -68460.4471       0    0.99 +   0.99 +      1 +     0.989 +        1 + 
+  2 -68528.36828  67.921  0.0102 -   0.01 - 0.0125 -    0.0106 -   0.0116 - 
+  3 -68613.45733  153.01       0 -      0 -      0 -  6.52e-18 - 0.000682 - 
+
+deltaL  : logL difference from the maximal logl in the set.
+bp-RELL : bootstrap proportion using RELL method (Kishino et al. 1990).
+p-KH    : p-value of one sided Kishino-Hasegawa test (1989).
+p-SH    : p-value of Shimodaira-Hasegawa test (2000).
+c-ELW   : Expected Likelihood Weight (Strimmer & Rambaut 2002).

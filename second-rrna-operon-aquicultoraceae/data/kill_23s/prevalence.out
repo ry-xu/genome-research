@@ -1,0 +1,9 @@
+Aquicultoraceae genomes 23; with any 23S locus 18; with divergent 23S 15
+  g__Aquicultor: genomes 5, any23S 1, div 0
+  g__Aquicultor_A: genomes 8, any23S 8, div 8
+  g__CADDYS01: genomes 5, any23S 5, div 3
+  g__DASQQM01: genomes 1, any23S 1, div 1
+  g__DASXVE01: genomes 1, any23S 1, div 1
+  g__JASEIR01: genomes 2, any23S 1, div 1
+  g__Kmv33: genomes 1, any23S 1, div 1
+non-Aquicultoraceae loci labelled div: 2 [('GCA_023481285.1', '295', '71.1'), ('GCA_030018275.1', '380', '67.8')]

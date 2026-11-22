@@ -1,0 +1,12 @@
+== neutral
+sec_div vs SIM0_div: pairs 445, f 0.148, changed pairs 119, both 13 (x1.36 independence, p 0.16), changed pairs still WC/GU 0.24; all pairs WC/GU in SIM0_div 0.73
+sec_div vs SIM1_div: pairs 425, f 0.149, changed pairs 112, both 15 (x1.66 independence, p 0.036), changed pairs still WC/GU 0.34; all pairs WC/GU in SIM1_div 0.78
+sec_div vs SIM2_div: pairs 449, f 0.179, changed pairs 134, both 27 (x2.05 independence, p 0.00025), changed pairs still WC/GU 0.40; all pairs WC/GU in SIM2_div 0.78
+sec_div vs SIM3_div: pairs 434, f 0.173, changed pairs 124, both 26 (x2.22 independence, p 8.7e-05), changed pairs still WC/GU 0.37; all pairs WC/GU in SIM3_div 0.77
+sec_div vs SIM4_div: pairs 440, f 0.176, changed pairs 137, both 18 (x1.36 independence, p 0.11), changed pairs still WC/GU 0.30; all pairs WC/GU in SIM4_div 0.73
+== neutral_ts
+sec_div vs SIM0_div: pairs 449, f 0.167, changed pairs 131, both 19 (x1.59 independence, p 0.029), changed pairs still WC/GU 0.32; all pairs WC/GU in SIM0_div 0.75
+sec_div vs SIM1_div: pairs 437, f 0.156, changed pairs 123, both 13 (x1.25 independence, p 0.24), changed pairs still WC/GU 0.39; all pairs WC/GU in SIM1_div 0.79
+sec_div vs SIM2_div: pairs 445, f 0.153, changed pairs 115, both 21 (x2.21 independence, p 0.00047), changed pairs still WC/GU 0.37; all pairs WC/GU in SIM2_div 0.78
+sec_div vs SIM3_div: pairs 455, f 0.159, changed pairs 123, both 22 (x2.07 independence, p 0.00086), changed pairs still WC/GU 0.40; all pairs WC/GU in SIM3_div 0.78
+sec_div vs SIM4_div: pairs 442, f 0.183, changed pairs 143, both 19 (x1.32 independence, p 0.13), changed pairs still WC/GU 0.32; all pairs WC/GU in SIM4_div 0.73

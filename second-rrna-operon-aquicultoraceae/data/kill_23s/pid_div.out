@@ -1,0 +1,15 @@
+dx_div23	kmv_div23	aligned 2779	identity 0.859
+dx_div23	cad_div23	aligned 2952	identity 0.862
+dx_div23	cad2_div23	aligned 2746	identity 0.875
+dx_div23	dqq_div23	aligned 2784	identity 0.874
+dx_div23	aqA_div23	aligned 2859	identity 0.889
+kmv_div23	cad_div23	aligned 3090	identity 0.875
+kmv_div23	cad2_div23	aligned 3139	identity 0.877
+kmv_div23	dqq_div23	aligned 3031	identity 0.895
+kmv_div23	aqA_div23	aligned 2986	identity 0.884
+cad_div23	cad2_div23	aligned 3182	identity 0.925
+cad_div23	dqq_div23	aligned 2851	identity 0.876
+cad_div23	aqA_div23	aligned 2946	identity 0.886
+cad2_div23	dqq_div23	aligned 2665	identity 0.892
+cad2_div23	aqA_div23	aligned 2952	identity 0.898
+dqq_div23	aqA_div23	aligned 2934	identity 0.884

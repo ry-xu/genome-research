@@ -1,0 +1,11 @@
+control (normal copies):
+sec_norm vs GCA_027392615.1_norm: pairs 404, f 0.026, changed pairs 16, both 5 (x23.74 independence, p 1.5e-06), changed pairs still WC/GU 0.88; all pairs WC/GU in GCA_027392615.1_norm 0.95
+sec_norm vs GCA_036504445.1_norm: pairs 449, f 0.032, changed pairs 19, both 10 (x32.07 independence, p 1.1e-13), changed pairs still WC/GU 0.95; all pairs WC/GU in GCA_036504445.1_norm 0.94
+divergent copies:
+sec_div vs GCA_027392615.1_div: pairs 453, f 0.149, changed pairs 90, both 45 (x6.21 independence, p 1.5e-25), changed pairs still WC/GU 0.86; all pairs WC/GU in GCA_027392615.1_div 0.92
+sec_div vs GCA_902810715.1_div: pairs 449, f 0.135, changed pairs 80, both 41 (x7.09 independence, p 9.8e-26), changed pairs still WC/GU 0.81; all pairs WC/GU in GCA_902810715.1_div 0.91
+sec_div vs GCA_035643475.1_div: pairs 453, f 0.134, changed pairs 84, both 37 (x6.16 independence, p 1.3e-20), changed pairs still WC/GU 0.83; all pairs WC/GU in GCA_035643475.1_div 0.92
+sec_div vs GCA_036504445.1_div: pairs 450, f 0.162, changed pairs 101, both 45 (x5.05 independence, p 2.6e-21), changed pairs still WC/GU 0.74; all pairs WC/GU in GCA_036504445.1_div 0.90
+sec_div vs GCA_014859275.1_div: pairs 454, f 0.128, changed pairs 82, both 34 (x6.08 independence, p 1.1e-18), changed pairs still WC/GU 0.80; all pairs WC/GU in GCA_014859275.1_div 0.92
+genera maintained 3/4, decaying 0/4
+VERDICT (T6-C): MAINTAINED

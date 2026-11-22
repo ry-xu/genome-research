@@ -1,0 +1,23 @@
+AS_16S_div_body 1
+AS_16S_div_body_nm0 1
+AS_16S_norm_body 71
+AS_16S_norm_body_nm0 61
+AS_16S_norm_edge 9
+AS_16S_norm_spacer 2
+AS_23S_norm 74
+AS_23S_norm_nm0 62
+CD_16S_norm_body 3
+CD_16S_norm_body_nm0 3
+decoy98 453669
+pairs_rrna85 827445
+pairs_rrna98 453827
+total_pairs 3000000
+C1 rRNA share (>=85% id): 0.2758; (>=98% id): 0.1513
+AS 23S: div 0 norm 74 D 0.945 r23 0.000 (95% CP 0.000-0.054) -> SILENT
+AS 16S: div body 1 norm body 71 r16 0.012 (95% CP 0.000-0.071) -> SILENT; spacer div 0 norm 2
+AS 23S_nm0: div 0 norm 62 D 0.945 r23 0.000 (95% CP 0.000-0.065) -> SILENT
+AS 16S_nm0: div body 1 norm body 61 r16 0.014 (95% CP 0.000-0.083) -> SILENT; spacer div 0 norm 2
+CD 23S: div 0 norm 0 D 1.346 r23 nan (95% CP nan-nan) -> NO READS
+CD 16S: div body 0 norm body 3 r16 0.000 (95% CP 0.000-2.307) -> UNINFORMATIVE (norm < 30); spacer div 0 norm 0
+CD 23S_nm0: div 0 norm 0 D 1.346 r23 nan (95% CP nan-nan) -> NO READS
+CD 16S_nm0: div body 0 norm body 3 r16 0.000 (95% CP 0.000-2.307) -> UNINFORMATIVE (norm < 30); spacer div 0 norm 0

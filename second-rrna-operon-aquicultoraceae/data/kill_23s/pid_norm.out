@@ -1,0 +1,6 @@
+dx_norm23	cad_norm23	aligned 2002	identity 0.936
+dx_norm23	dqq_norm23	aligned 2990	identity 0.949
+dx_norm23	aqA_norm23	aligned 2346	identity 0.951
+cad_norm23	dqq_norm23	aligned 2060	identity 0.942
+cad_norm23	aqA_norm23	aligned 2000	identity 0.949
+dqq_norm23	aqA_norm23	aligned 2347	identity 0.952

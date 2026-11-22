@@ -1,0 +1,46 @@
+GCA_008933525.1	MetaSPADES v. 3.11.1	Illumina MiSeq
+GCA_009493725.1	SPAdes v. 3.12.00	Illumina HiSeq
+GCA_013152945.1	IDBA-UD v. v1.1.3	Illumina HiSeq
+GCA_016720145.1	CANU v. 1.8	Oxford Nanopore PromethION
+GCA_016722635.1	CANU v. 1.8	Oxford Nanopore PromethION
+GCA_016764715.1	Megahit v. 1.1.2; Minimus2 v. 3.1.0	Illumina HiSeq
+GCA_023250515.1	SPAdes v. v3.11.1	Illumina HiSeq
+GCA_025542975.1	OPERA-MS v. 0.8.2	Illumina NovaSeq; Oxford Nanopore PromethION
+GCA_026416515.1	SPAdes v. 3.13.0	Illumina NovaSeq
+GCA_028289345.1	MegaHIT v. v1.2.9	DNBSEQ
+GCA_028716225.1	SPAdes v. 3.15.5	Illumina HiSeq
+GCA_030692045.1	DAS Tool v. 1.1.2	Illumina NovaSeq
+GCA_035643475.1	Megahit v. 1.2.9; Metawrap v. 1.2.1	Illumina HiSeq
+GCA_036504445.1	Megahit v. 1.2.9; Metawrap v. 1.2.1	Illumina HiSeq
+GCA_036550635.1	MEGAHIT v. 1.1.4	Illumina NovaSeq
+GCA_040766325.1	Flye v. v2.9-b1768	Oxford Nanopore GridION
+GCA_041389925.1	Flye v. v2.9-b1822	Oxford Nanopore GridION
+GCA_041390515.1	Flye v. v2.9-b1793	Oxford Nanopore GridION
+GCA_041392305.1	Flye v. v2.9-b1768	Oxford Nanopore GridION
+GCA_041398565.1	Flye v. v2.9-b1768	Oxford Nanopore GridION
+GCA_041488375.1	MEGAHIT v. v1.3.3	Illumina NovaSeq
+GCA_044868145.1	MEGAHIT v. 1.2.9	Illumina NovaSeq
+GCA_046160485.1	MEGAHIT v. v1.2.9	Illumina NovaSeq
+GCA_046328015.1	Flye v. 2.9-b1768	Oxford Nanopore GridION
+GCA_046350195.1	Flye v. 2.9-b1768	Oxford Nanopore GridION
+GCA_046351315.1	Flye v. 2.9-b1768	Oxford Nanopore GridION
+GCA_046351325.1	Flye v. 2.9-b1768	Oxford Nanopore GridION
+GCA_046530935.1	MEGAHIT v. 1.2.9	Illumina NovaSeq
+GCA_047199095.1	FALCON-Unzip v. 2.0	Oxford Nanopore MinION
+GCA_048288485.1	FALCON-Unzip v. 2	Oxford Nanopore MinION
+GCA_050246795.1	SPAdes v. 3.13.1_36	Illumina HiSeq
+GCA_051305835.1	Megahit v. 1.2.9	Illumina NovaSeq
+GCA_052174455.1	MEGAHIT v. 1.2.9	Illumina NovaSeq
+GCA_938004185.1	metaspadesv3.12.0	Illumina HiSeq 3000
+GCA_938023335.1	metaspades_v3.13.0	Illumina HiSeq 4000
+GCA_963663115.2	various	PacBio
+GCA_963717225.1	mmlong2	Nanopore
+GCA_963738755.1	mmlong2	Nanopore
+GCA_963780675.1	mmlong2	Nanopore
+GCA_964536015.1	metaSPAdes;3.15.4;default	Illumina HiSeq 2500
+GCA_965279035.1	various	PacBio
+GCF_003265355.1	SOAPdenovo v. 2.04 OR APRIL-2018	Illumina HiSeq
+GCF_013265555.1	SPAdes v. MAY-2019; Canu assembler v. MAY-2019	Illumina MiSeq; Oxford Nanopore MiniION
+GCF_021596505.1	SMRT Analysis toolkit v. AUG-2017	PacBio
+GCF_032654805.1	Unicycler v. 0.5.0	Illumina HiSeq; Oxford Nanopore MinION
+GCF_051386375.1	Flye v. 2.9.1	Hybrid ONT

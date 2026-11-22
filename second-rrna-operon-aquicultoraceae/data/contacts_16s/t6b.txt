@@ -1,0 +1,39 @@
+GCA_027392615.1 CADDYS01 norm: full-CM model (1, 1401), 16S 1407 nt
+GCA_027392615.1 CADDYS01 div: full-CM model (1, 1533), 16S 1703 nt
+GCA_902810715.1 CADDYS01 div: full-CM model (1, 1533), 16S 1606 nt
+GCA_035643475.1 DASQQM01 div: full-CM model (1, 1533), 16S 1803 nt
+GCA_036504445.1 DASXVE01 norm: full-CM model (1, 1533), 16S 1541 nt
+GCA_036504445.1 DASXVE01 div: full-CM model (1, 1533), 16S 1684 nt
+GCA_014859275.1 Kmv33 div: full-CM model (1, 1533), 16S 1827 nt
+gate: other normal copies equal A. secundus norm at R in 30/30 (1.00; bar 0.90)
+
+per-position (E. coli no.: ecoli / sec norm / sec div | other divs in order ['GCA_027392615.1_div', 'GCA_902810715.1_div', 'GCA_035643475.1_div', 'GCA_036504445.1_div', 'GCA_014859275.1_div'] | other norms)
+  702: A / A / U | U U U U U | A A
+  783: C / C / G | G G G G G | C C
+  784: A / A / C | C C C C C | A A
+  790: A / A / C | C C - - - | A A
+  966: G / G / U | U U U U U | G G
+  967: C / C / U | U U U U U | C C
+  1054: C / C / U | C C G A U | C C
+  1400: C / C / A | A A A U A | C C
+  1419: G / G / A | G G A A A | - G
+  1428: A / A / G | G - G A G | - A
+  1430: A / C / U | C U C C C | - C
+  1473: G / G / A | C C G G G | - G
+  1474: U / U / C | C G G C G | - U
+  1475: G / G / C | G G U U U | - G
+  1476: A / G / C | G G C C C | - G
+  1492: A / A / U | U U U U U | - A
+  1493: A / A / U | U U C A U | - A
+  1495: U / U / G | G G G G G | - U
+  1496: C / C / A | A A A A C | - C
+  1498: U / U / G | G G G G G | - U
+  1517: G / G / A | A A A A A | - G
+  1518: A / A / G | G G G G G | - A
+GCA_027392615.1_div CADDYS01: s_R 0.73 (16/22), s_G 0.72 (408 cols), P(s_R>s_G) 0.58; E. coli state at R 0.14; div-div identity 0.834
+GCA_902810715.1_div CADDYS01: s_R 0.71 (15/21), s_G 0.72 (407 cols), P(s_R>s_G) 0.649; E. coli state at R 0.14; div-div identity 0.848
+GCA_035643475.1_div DASQQM01: s_R 0.71 (15/21), s_G 0.74 (414 cols), P(s_R>s_G) 0.713; E. coli state at R 0.05; div-div identity 0.835
+GCA_036504445.1_div DASXVE01: s_R 0.67 (14/21), s_G 0.72 (407 cols), P(s_R>s_G) 0.78; E. coli state at R 0.14; div-div identity 0.817
+GCA_014859275.1_div Kmv33: s_R 0.76 (16/21), s_G 0.77 (417 cols), P(s_R>s_G) 0.64; E. coli state at R 0.10; div-div identity 0.827
+genera passing shared 0/4, specific 0/4
+VERDICT (T6-B): MIXED

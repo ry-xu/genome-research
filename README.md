@@ -6,6 +6,12 @@ Research findings by AI research agents, steered by Ryan Xu.
 
 Newest first. Each folder has a short README, the agents' full write-up (`notes.md`), the data tables and the code.
 
+- **[Bacteria that keep a second rRNA operon whose rRNA barely accumulates](second-rrna-operon-aquicultoraceae/)**
+  (November 2026). Most genomes of the Aquicultoraceae, a family of uncultured groundwater bacteria, carry a second
+  rRNA operon only about 79% identical to the normal one, with changed catalytic-centre bases. It has been inherited
+  since before the family's genera split, and selection keeps its folded shape. Yet in the one species with RNA data,
+  0 of 280 23S read pairs fall on its copy, against about one to one in the DNA. We found no bacterial rRNA operon
+  reported that is kept like this but does not accumulate.
 - **[Bacteria that changed the ribosome's ricin-target loop](ricin-loop-zymomonas/)** (November 2026). The
   sarcin-ricin loop of the ribosome, where ricin and α-sarcin strike, reads GAGA and is described as universally
   conserved. It reads GAAA instead in 85 of 15,739 bacterial genomes we checked, from 13 phyla, among them the

@@ -1,0 +1,38 @@
+B16 assessable 28/28; changed 14; background f16 0.306 over 1475 columns; f23 0.295 over 1983 columns; P23 assessable 31/32
+E. coli 16S identity to norm / div over aligned E. coli columns: 0.778 0.632
+bridge changes 14/28 vs expected 8.6: P(>=) 0.0245, P(<=) 0.991
+co-adaptation: contact pairs with a changed B16 residue and assessable 23S partner 24; partner changed 0 (share 0.00; f23 0.295; binomial p 1.0)
+
+per-residue (E. coli no.: ecoli/norm/div; partners E. coli no. ecoli/norm/div)
+  16S 699: C/C/C   -> 1896 G/G/G
+  16S 702: A/A/U  CHANGED   -> 1846 G/G/G, 1848 A/A/-, 1894 C/C/C, 1895 C/C/C
+  16S 783: C/C/U  CHANGED   -> 1836 C/C/C, 1837 C/C/C
+  16S 784: A/A/G  CHANGED   -> 1836 C/C/C, 1837 C/C/C
+  16S 791: G/G/G   -> 1921 G/G/G, 1922 G/G/G
+  16S 899: C/C/C   -> 1831 G/G/G, 1832 C/C/C
+  16S 900: A/A/A   -> 1832 C/C/C
+  16S 1407: C/C/C   -> 1912 A/A/A, 1919 A/A/A
+  16S 1408: A/A/A   -> 1912 A/A/A, 1916 A/A/A
+  16S 1409: C/C/C   -> 1915 U/U/A*, 1916 A/A/A
+  16S 1418: A/A/A   -> 1948 G/G/G, 1958 C/C/C, 1959 G/G/G
+  16S 1419: G/G/A  CHANGED   -> 1949 G/G/G
+  16S 1420: U/U/U   -> 1949 G/G/G, 1950 G/G/A*
+  16S 1428: A/A/G  CHANGED   -> 1703 G/G/G
+  16S 1429: A/C/C   -> 1703 G/G/G, 1704 C/G/G
+  16S 1430: A/C/U  CHANGED   -> 1704 C/G/G
+  16S 1473: G/G/A  CHANGED   -> 1702 G/G/G
+  16S 1474: U/U/C  CHANGED   -> 1700 A/A/A, 1701 A/A/A
+  16S 1475: G/G/C  CHANGED   -> 1689 A/A/A, 1700 A/A/A
+  16S 1476: A/G/C  CHANGED   -> 1689 A/A/A, 1690 A/A/A
+  16S 1483: A/A/A   -> 1947 C/C/C, 1948 G/G/G, 1959 G/G/G, 1960 A/A/U*
+  16S 1484: C/G/G   -> 1960 A/A/U*, 1961 C/C/C
+  16S 1485: U/G/G   -> 1961 C/C/C
+  16S 1493: A/A/U  CHANGED   -> 1913 A/A/A
+  16S 1494: G/G/G   -> 1912 A/A/A, 1913 A/A/A
+  16S 1495: U/U/G  CHANGED   -> 1912 A/A/A, 1919 A/A/A
+  16S 1496: C/C/A  CHANGED   -> 1919 A/A/A, 1920 C/C/C
+  16S 1517: G/G/A  CHANGED   -> 1919 A/A/A, 1920 C/C/C
+reverse view: changed P23 residues [1915, 1950, 1960] ; their 16S partners changed: {1915: [], 1950: [], 1960: []}
+div 16S insertions >= 20 nt (after E. coli position, length): [(165, 81), (1033, 54), (1452, 32)]
+
+VERDICT (T6): CHANGED, PARTNERS NOT

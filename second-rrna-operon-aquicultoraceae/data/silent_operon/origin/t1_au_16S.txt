@@ -1,0 +1,17 @@
+16S trees: 1=ML, 2=H_order, 3=H_class, 4=H_phylum
+USER TREES
+----------
+
+See out/t1_16S_au.trees for trees with branch lengths.
+
+Tree      logL    deltaL  bp-RELL    p-KH     p-SH       c-ELW       p-AU
+-------------------------------------------------------------------------
+  1 -31043.53887       0    0.78 +  0.962 +      1 +     0.779 +        1 + 
+  2 -31064.26944  20.731  0.0256 - 0.0384 -  0.439 +    0.0269 -   0.0561 + 
+  3 -31078.22906   34.69   0.194 +  0.197 +  0.306 +     0.194 +      0.2 + 
+  4  -31176.3551  132.82       0 - 0.0006 - 0.0008 -  2.02e-10 - 1.24e-05 - 
+
+deltaL  : logL difference from the maximal logl in the set.
+bp-RELL : bootstrap proportion using RELL method (Kishino et al. 1990).
+p-KH    : p-value of one sided Kishino-Hasegawa test (1989).
+p-SH    : p-value of Shimodaira-Hasegawa test (2000).

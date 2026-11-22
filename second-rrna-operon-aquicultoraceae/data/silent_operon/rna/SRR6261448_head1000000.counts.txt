@@ -1,0 +1,15 @@
+AS_23S_norm 2
+AS_23S_norm_nm0 1
+decoy98 920864
+pairs_rrna85 938202
+pairs_rrna98 920866
+total_pairs 1000000
+C1 rRNA share (>=85% id): 0.9382; (>=98% id): 0.9209
+AS 23S: div 0 norm 2 D 0.945 r23 0.000 (95% CP 0.000-5.637) -> UNINFORMATIVE (norm < 30)
+AS 16S: div body 0 norm body 0 r16 nan (95% CP nan-nan) -> NO READS; spacer div 0 norm 0
+AS 23S_nm0: div 0 norm 1 D 0.945 r23 0.000 (95% CP 0.000-41.290) -> UNINFORMATIVE (norm < 30)
+AS 16S_nm0: div body 0 norm body 0 r16 nan (95% CP nan-nan) -> NO READS; spacer div 0 norm 0
+CD 23S: div 0 norm 0 D 1.346 r23 nan (95% CP nan-nan) -> NO READS
+CD 16S: div body 0 norm body 0 r16 nan (95% CP nan-nan) -> NO READS; spacer div 0 norm 0
+CD 23S_nm0: div 0 norm 0 D 1.346 r23 nan (95% CP nan-nan) -> NO READS
+CD 16S_nm0: div body 0 norm body 0 r16 nan (95% CP nan-nan) -> NO READS; spacer div 0 norm 0

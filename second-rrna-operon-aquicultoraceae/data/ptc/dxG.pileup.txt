@@ -1,0 +1,76 @@
+contig DASXVE010000001.1 len 2747 mean depth 30.3
+contig DASXVE010000002.1 len 5147 mean depth 27.0
+contig DASXVE010000003.1 len 48861 mean depth 29.3
+contig DASXVE010000004.1 len 34335 mean depth 30.6
+contig DASXVE010000005.1 len 1802 mean depth 26.6
+contig DASXVE010000006.1 len 70886 mean depth 28.3
+contig DASXVE010000007.1 len 6965 mean depth 27.7
+contig DASXVE010000008.1 len 40990 mean depth 27.0
+contig DASXVE010000009.1 len 89112 mean depth 27.5
+contig DASXVE010000010.1 len 65471 mean depth 32.5
+contig DASXVE010000011.1 len 23165 mean depth 28.0
+contig DASXVE010000012.1 len 160274 mean depth 30.7
+contig DASXVE010000013.1 len 43022 mean depth 28.7
+contig DASXVE010000014.1 len 62110 mean depth 27.4
+contig DASXVE010000015.1 len 111032 mean depth 29.1
+contig DASXVE010000016.1 len 12037 mean depth 28.7
+contig DASXVE010000017.1 len 79610 mean depth 28.2
+contig DASXVE010000018.1 len 52173 mean depth 26.6
+contig DASXVE010000019.1 len 162457 mean depth 29.9
+contig DASXVE010000020.1 len 96182 mean depth 28.8
+contig DASXVE010000021.1 len 3087 mean depth 28.9
+contig DASXVE010000022.1 len 1709 mean depth 27.5
+contig DASXVE010000023.1 len 79122 mean depth 29.7
+contig DASXVE010000024.1 len 268799 mean depth 29.2
+contig DASXVE010000025.1 len 410056 mean depth 30.2
+contig DASXVE010000026.1 len 16185 mean depth 29.8
+contig DASXVE010000027.1 len 15709 mean depth 32.3
+contig DASXVE010000028.1 len 104796 mean depth 27.6
+contig DASXVE010000029.1 len 42919 mean depth 31.7
+contig DASXVE010000030.1 len 121556 mean depth 32.7
+contig DASXVE010000031.1 len 1748 mean depth 35.2
+contig DASXVE010000032.1 len 58893 mean depth 27.8
+contig DASXVE010000033.1 len 2325 mean depth 20.5
+contig DASXVE010000034.1 len 277633 mean depth 30.9
+region DASXVE010000023.1:1-79122 mean 29.7 min 0 max 58 zero-depth 13
+  DASXVE010000023.1:2058 ref C calls {'C': 29, 'T': 4}
+  DASXVE010000023.1:3024 ref A calls {'A': 15, 'C': 1, 'G': 1}
+  DASXVE010000023.1:7677 ref C calls {'C': 8, 'T': 1}
+  DASXVE010000023.1:7836 ref C calls {'C': 17, 'T': 2}
+  DASXVE010000023.1:12638 ref G calls {'G': 16, 'T': 1, 'C': 1}
+  DASXVE010000023.1:15568 ref A calls {'A': 20, 'C': 4}
+  DASXVE010000023.1:22768 ref C calls {'C': 24, 'T': 4}
+  DASXVE010000023.1:41824 ref T calls {'G': 3, 'T': 19}
+  DASXVE010000023.1:46823 ref C calls {'C': 23, 'A': 4}
+  DASXVE010000023.1:49461 ref G calls {'G': 17, 'A': 1, 'T': 1}
+  DASXVE010000023.1:78949 ref A calls {'A': 16, 'C': 2}
+region DASXVE010000023.1:2366-7241 mean 31.2 min 14 max 54 zero-depth 0
+  DASXVE010000023.1:3024 ref A calls {'A': 15, 'C': 1, 'G': 1}
+region DASXVE010000023.1:2366-3538 mean 29.5 min 16 max 42 zero-depth 0
+  DASXVE010000023.1:3024 ref A calls {'A': 15, 'C': 1, 'G': 1}
+region DASXVE010000023.1:4204-7157 mean 31.2 min 14 max 54 zero-depth 0
+region DASXVE010000010.1:42620-45593 mean 44.6 min 17 max 489 zero-depth 0
+  DASXVE010000010.1:44574 ref A calls {'A': 39, 'T': 7}
+  DASXVE010000010.1:44613 ref A calls {'G': 110, 'A': 297}
+  DASXVE010000010.1:44677 ref C calls {'C': 264, 'T': 48}
+  DASXVE010000010.1:44685 ref A calls {'T': 72, 'A': 54, 'C': 1}
+  DASXVE010000010.1:44756 ref A calls {'A': 41, 'T': 5}
+  DASXVE010000010.1:44764 ref A calls {'A': 40, 'C': 5}
+  DASXVE010000010.1:44815 ref G calls {'G': 41, 'A': 5}
+  DASXVE010000010.1:45274 ref G calls {'G': 36, 'C': 14, 'A': 1}
+region DASXVE010000021.1:1-3087 mean 28.9 min 8 max 168 zero-depth 0
+  DASXVE010000021.1:148 ref C calls {'C': 8, 'A': 1}
+  DASXVE010000021.1:297 ref G calls {'G': 14, 'A': 9}
+  DASXVE010000021.1:411 ref A calls {'A': 15, 'G': 10}
+  DASXVE010000021.1:844 ref A calls {'A': 20, 'G': 7}
+  DASXVE010000021.1:1296 ref A calls {'A': 29, 'G': 10}
+  DASXVE010000021.1:1309 ref T calls {'T': 41, 'G': 26}
+  DASXVE010000021.1:1320 ref T calls {'G': 23, 'T': 111, 'C': 1}
+  DASXVE010000021.1:1600 ref T calls {'T': 24, '-': 7}
+  DASXVE010000021.1:2350 ref G calls {'G': 26, 'A': 4}
+  DASXVE010000021.1:2353 ref T calls {'T': 26, 'A': 4}
+  DASXVE010000021.1:2376 ref T calls {'T': 30, 'G': 4}
+  DASXVE010000021.1:2436 ref A calls {'A': 38, 'G': 9}
+  DASXVE010000021.1:2946 ref T calls {'T': 30, 'G': 9}
+  DASXVE010000021.1:3018 ref A calls {'A': 52, 'G': 4, 'T': 6}
+  DASXVE010000021.1:3036 ref G calls {'G': 55, 'T': 7}

@@ -1,0 +1,4 @@
+PC-T6a: SS_cons pairs 462, aligned in both 446; per-side change share f 0.326
+  pairs with >= 1 side changed 173, both changed 118 (share 0.682; independence 0.195; ratio 3.50; binomial p 7.35e-44)
+  both-changed pairs still WC/GU in div: 105/118 (0.89); norm WC/GU at aligned pairs 0.94
+PC-T6a PASS

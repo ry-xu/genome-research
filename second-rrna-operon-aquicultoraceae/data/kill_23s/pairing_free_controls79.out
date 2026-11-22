@@ -1,0 +1,30 @@
+div s_ctl_RS_GCF_901411515.1.fa: census columns in normal 2903, mapped to div 2860, identity over mapped columns 0.843
+divergent copy (pairwise placement): pairs 809, f_canonical 0.907
+changed pairs vs normal: one side 86 (canonical 0.547), both sides 113 (canonical 0.938)
+null variability-proportional (mean sub rate 0.157): f_canonical median 0.737, max 0.768 of 100; observed 0.907
+substitution rate at paired columns 0.197 vs unpaired 0.102; variability-null expects paired 0.189
+
+div s_ctl_GB_GCA_050945135.1.fa: census columns in normal 2903, mapped to div 2840, identity over mapped columns 0.854
+divergent copy (pairwise placement): pairs 794, f_canonical 0.902
+changed pairs vs normal: one side 93 (canonical 0.505), both sides 97 (canonical 0.959)
+null variability-proportional (mean sub rate 0.146): f_canonical median 0.747, max 0.780 of 100; observed 0.902
+substitution rate at paired columns 0.188 vs unpaired 0.089; variability-null expects paired 0.176
+
+div s_ctl_GB_GCA_963831405.1.fa: census columns in normal 2903, mapped to div 2857, identity over mapped columns 0.844
+divergent copy (pairwise placement): pairs 803, f_canonical 0.923
+changed pairs vs normal: one side 72 (canonical 0.542), both sides 117 (canonical 0.966)
+null variability-proportional (mean sub rate 0.156): f_canonical median 0.738, max 0.776 of 100; observed 0.923
+substitution rate at paired columns 0.196 vs unpaired 0.103; variability-null expects paired 0.188
+
+div s_ctl_GB_GCA_013177795.1.fa: census columns in normal 2903, mapped to div 2869, identity over mapped columns 0.845
+divergent copy (pairwise placement): pairs 814, f_canonical 0.908
+changed pairs vs normal: one side 74 (canonical 0.459), both sides 107 (canonical 0.916)
+null variability-proportional (mean sub rate 0.155): f_canonical median 0.738, max 0.773 of 100; observed 0.908
+substitution rate at paired columns 0.181 vs unpaired 0.119; variability-null expects paired 0.186
+
+div s_ctl_RS_GCF_046097065.1.fa: census columns in normal 2903, mapped to div 2879, identity over mapped columns 0.838
+divergent copy (pairwise placement): pairs 819, f_canonical 0.908
+changed pairs vs normal: one side 90 (canonical 0.556), both sides 113 (canonical 0.876)
+null variability-proportional (mean sub rate 0.162): f_canonical median 0.731, max 0.762 of 100; observed 0.908
+substitution rate at paired columns 0.198 vs unpaired 0.113; variability-null expects paired 0.195
+

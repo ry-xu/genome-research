@@ -1,0 +1,23 @@
+whole genome: genes 2468, with hit 2200 (0.89); best-hit family Aquicultoraceae 0.94; median %id to Aquicultoraceae best hits 69.1; top families [('f__Aquicultoraceae', 2076), ('f__JAMCWL01', 19), ('f__DYIV01', 15)]
+div-operon contig 23, 1-37 kb: genes 31, with hit 27 (0.87); best-hit family Aquicultoraceae 1.00; median %id to Aquicultoraceae best hits 80.7; top families [('f__Aquicultoraceae', 27)]
+div-operon contig 23, whole: genes 73, with hit 63 (0.86); best-hit family Aquicultoraceae 0.92; median %id to Aquicultoraceae best hits 79.7; top families [('f__Aquicultoraceae', 58), ('f__JAMCWL01', 3), ('f__CAYGBL01', 1)]
+normal-operon contig 10, whole: genes 58, with hit 48 (0.83); best-hit family Aquicultoraceae 0.98; median %id to Aquicultoraceae best hits 64.6; top families [('f__Aquicultoraceae', 47), ('f__DYIV01', 1)]
+genes flanking the divergent operon (contig 23, first 20 kb):
+  GCA_036504445.1|DASXVE010000023.1|3|125|+ ('f__Aquicultoraceae', 82.5, 65.9, 'GCF_002779175.1')
+  GCA_036504445.1|DASXVE010000023.1|122|406|+ ('f__Aquicultoraceae', 57.4, 52.8, 'GCA_009993245.1')
+  GCA_036504445.1|DASXVE010000023.1|452|1336|- ('f__Aquicultoraceae', 58.3, 305.0, 'GCA_002782845.1')
+  GCA_036504445.1|DASXVE010000023.1|6237|6362|- None
+  GCA_036504445.1|DASXVE010000023.1|7571|8149|+ ('f__Aquicultoraceae', 49.3, 144.0, 'GCA_018333515.1')
+  GCA_036504445.1|DASXVE010000023.1|8497|8835|- None
+  GCA_036504445.1|DASXVE010000023.1|9130|9660|+ ('f__Aquicultoraceae', 60.2, 222.0, 'GCA_002783345.1')
+  GCA_036504445.1|DASXVE010000023.1|9947|10087|+ None
+  GCA_036504445.1|DASXVE010000023.1|10157|10555|+ ('f__Aquicultoraceae', 60.3, 169.0, 'GCA_002782845.1')
+  GCA_036504445.1|DASXVE010000023.1|10761|11159|+ ('f__Aquicultoraceae', 52.9, 52.0, 'GCA_027392615.1')
+  GCA_036504445.1|DASXVE010000023.1|11291|12013|+ ('f__Aquicultoraceae', 71.1, 346.0, 'GCA_030017355.1')
+  GCA_036504445.1|DASXVE010000023.1|12176|13288|+ ('f__Aquicultoraceae', 55.3, 354.0, 'GCA_002782845.1')
+  GCA_036504445.1|DASXVE010000023.1|13531|15546|+ ('f__Aquicultoraceae', 80.7, 1031.0, 'GCA_002782845.1')
+  GCA_036504445.1|DASXVE010000023.1|15539|16378|+ ('f__Aquicultoraceae', 55.0, 267.0, 'GCA_030017355.1')
+  GCA_036504445.1|DASXVE010000023.1|16495|16779|+ ('f__Aquicultoraceae', 79.8, 157.0, 'GCA_002782845.1')
+  GCA_036504445.1|DASXVE010000023.1|16902|18356|+ ('f__Aquicultoraceae', 86.4, 840.0, 'GCA_021794835.1')
+  GCA_036504445.1|DASXVE010000023.1|18359|19945|+ ('f__Aquicultoraceae', 84.3, 827.0, 'GCA_021794835.1')
+GC whole genome 0.499; contig23 0.498; contig23 without 1-8000 0.495; div 23S 4036-7241 0.543; normal 23S contig10 42611-45607 0.529

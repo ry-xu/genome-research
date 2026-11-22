@@ -1,0 +1,24 @@
+div s_dx_div23.fa: census columns in normal 2903, mapped to div 2760, identity over mapped columns 0.792
+normal copy: pairs 839, f_canonical 0.949
+divergent copy (pairwise placement): pairs 763, f_canonical 0.832
+changed pairs vs normal: one side 152 (canonical 0.408), both sides 82 (canonical 0.756)
+null uniform (mean sub rate 0.208): f_canonical median 0.682, max 0.722 of 200; observed 0.832
+null variability-proportional (mean sub rate 0.208): f_canonical median 0.696, max 0.726 of 200; observed 0.832
+substitution rate at paired columns 0.213 vs unpaired 0.200; variability-null expects paired 0.251
+
+div s_kmv_div23.fa: census columns in normal 2903, mapped to div 2767, identity over mapped columns 0.793
+normal copy: pairs 839, f_canonical 0.949
+divergent copy (pairwise placement): pairs 764, f_canonical 0.843
+changed pairs vs normal: one side 134 (canonical 0.448), both sides 99 (canonical 0.747)
+null uniform (mean sub rate 0.207): f_canonical median 0.682, max 0.720 of 200; observed 0.843
+null variability-proportional (mean sub rate 0.207): f_canonical median 0.698, max 0.732 of 200; observed 0.843
+substitution rate at paired columns 0.224 vs unpaired 0.184; variability-null expects paired 0.248
+
+div s_cad_div23.fa: census columns in normal 2903, mapped to div 2743, identity over mapped columns 0.807
+normal copy: pairs 839, f_canonical 0.949
+divergent copy (pairwise placement): pairs 755, f_canonical 0.864
+changed pairs vs normal: one side 135 (canonical 0.511), both sides 82 (canonical 0.793)
+null uniform (mean sub rate 0.193): f_canonical median 0.699, max 0.739 of 200; observed 0.864
+null variability-proportional (mean sub rate 0.193): f_canonical median 0.710, max 0.743 of 200; observed 0.864
+substitution rate at paired columns 0.205 vs unpaired 0.177; variability-null expects paired 0.232
+

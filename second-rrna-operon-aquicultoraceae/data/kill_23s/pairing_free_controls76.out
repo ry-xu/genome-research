@@ -1,0 +1,40 @@
+div s_ctl_GB_GCA_050953365.1.fa: mapped to div 2833, identity over mapped columns 0.828
+divergent copy (pairwise placement): pairs 796, f_canonical 0.922
+changed pairs vs normal: one side 72 (canonical 0.569), both sides 130 (canonical 0.915)
+null variability-proportional (mean sub rate 0.172): f_canonical median 0.726, max 0.755 of 50; observed 0.922
+substitution rate at paired columns 0.214 vs unpaired 0.115; variability-null expects paired 0.207
+div s_ctl_RS_GCF_003641145.1.fa: mapped to div 2840, identity over mapped columns 0.820
+divergent copy (pairwise placement): pairs 793, f_canonical 0.894
+changed pairs vs normal: one side 80 (canonical 0.463), both sides 125 (canonical 0.896)
+null variability-proportional (mean sub rate 0.180): f_canonical median 0.720, max 0.747 of 50; observed 0.894
+substitution rate at paired columns 0.217 vs unpaired 0.129; variability-null expects paired 0.216
+div s_ctl_GB_GCA_023150895.1.fa: mapped to div 2851, identity over mapped columns 0.833
+divergent copy (pairwise placement): pairs 807, f_canonical 0.896
+changed pairs vs normal: one side 81 (canonical 0.494), both sides 113 (canonical 0.867)
+null variability-proportional (mean sub rate 0.167): f_canonical median 0.730, max 0.753 of 50; observed 0.896
+substitution rate at paired columns 0.196 vs unpaired 0.127; variability-null expects paired 0.201
+div s_ctl_RS_GCF_000744375.1.fa: mapped to div 2843, identity over mapped columns 0.821
+divergent copy (pairwise placement): pairs 797, f_canonical 0.908
+changed pairs vs normal: one side 77 (canonical 0.558), both sides 128 (canonical 0.906)
+null variability-proportional (mean sub rate 0.179): f_canonical median 0.719, max 0.738 of 50; observed 0.908
+substitution rate at paired columns 0.219 vs unpaired 0.124; variability-null expects paired 0.215
+div s_ctl_GB_GCA_035489015.1.fa: mapped to div 2854, identity over mapped columns 0.829
+divergent copy (pairwise placement): pairs 804, f_canonical 0.899
+changed pairs vs normal: one side 93 (canonical 0.462), both sides 112 (canonical 0.938)
+null variability-proportional (mean sub rate 0.171): f_canonical median 0.728, max 0.767 of 50; observed 0.899
+substitution rate at paired columns 0.203 vs unpaired 0.128; variability-null expects paired 0.206
+div s_ctl_GB_GCA_963663035.1.fa: mapped to div 2849, identity over mapped columns 0.826
+divergent copy (pairwise placement): pairs 800, f_canonical 0.915
+changed pairs vs normal: one side 73 (canonical 0.534), both sides 117 (canonical 0.940)
+null variability-proportional (mean sub rate 0.174): f_canonical median 0.720, max 0.743 of 50; observed 0.915
+substitution rate at paired columns 0.198 vs unpaired 0.142; variability-null expects paired 0.209
+div s_ctl_RS_GCF_049852125.1.fa: mapped to div 2836, identity over mapped columns 0.813
+divergent copy (pairwise placement): pairs 801, f_canonical 0.919
+changed pairs vs normal: one side 78 (canonical 0.603), both sides 140 (canonical 0.907)
+null variability-proportional (mean sub rate 0.187): f_canonical median 0.712, max 0.743 of 50; observed 0.919
+substitution rate at paired columns 0.226 vs unpaired 0.132; variability-null expects paired 0.225
+div s_ctl_GB_GCA_942493145.1.fa: mapped to div 2837, identity over mapped columns 0.823
+divergent copy (pairwise placement): pairs 797, f_canonical 0.910
+changed pairs vs normal: one side 80 (canonical 0.550), both sides 126 (canonical 0.881)
+null variability-proportional (mean sub rate 0.177): f_canonical median 0.720, max 0.755 of 50; observed 0.910
+substitution rate at paired columns 0.214 vs unpaired 0.127; variability-null expects paired 0.214

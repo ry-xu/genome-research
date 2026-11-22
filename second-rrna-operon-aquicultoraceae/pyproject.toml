@@ -1,0 +1,17 @@
+[project]
+name = "second-rrna-operon-aquicultoraceae"
+version = "0.1.0"
+description = "Analysis code and data: a divergent second rRNA operon in the bacterial family Aquicultoraceae"
+requires-python = ">=3.11"
+dependencies = [
+    "biopython",
+    "gemmi",
+    "matplotlib",
+    "numpy",
+    "pyarrow",
+    "pyrodigal",
+    "viennarna",
+]
+
+[tool.uv]
+package = false
