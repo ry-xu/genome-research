@@ -21,3 +21,9 @@ are path edits (absolute lab paths became repo paths, `data/external/...` placeh
 - The code of the 22 Nov checks (`data/silent_operon/`) is not included yet; their results, rules and tables are.
 
 External tools: minimap2, SRA toolkit, HMMER, Infernal, mafft, BLAST+, wgsim, SPAdes.
+
+## Code for the 22 Nov checks
+`silent_operon/A_processing`, `B_origin` and `C_rna` hold the scripts behind the three checks summarised in the README
+(processing stems and promoter; origin, neighbourhood and selection; extra RNA). They were written for the lab's local
+layout, so paths start with `lab/` or `~/`. Their inputs are public genomes and SRA runs listed in each check's RESULT
+and RULES files under `data/silent_operon/`.
