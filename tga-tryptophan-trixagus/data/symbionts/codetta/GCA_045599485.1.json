@@ -1,0 +1,21 @@
+{
+ "acc": "GCA_045599485.1",
+ "size": 2127400,
+ "gc": 0.5581724170348783,
+ "n_domains": 1888,
+ "n_pfams": 1033,
+ "code": "FFLLSSSSYY?ECC?WLLLLPPPPHHQQRRRRIIIMTTTTNNKKSSRRVVVVAAAADDEEGGGG",
+ "nonstandard": [
+  {
+   "codon": "TAG",
+   "std": "*",
+   "call": "E",
+   "post": 1.0,
+   "n": 129,
+   "margin_vs_std": 132.15360631145919,
+   "top3": "E:132.2,Q:26.6,?:0.0"
+  }
+ ],
+ "trnas": [],
+ "seconds": 545.2574663162231
+}

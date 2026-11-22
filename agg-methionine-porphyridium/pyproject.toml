@@ -1,0 +1,16 @@
+[project]
+name = "agg-methionine-porphyridium"
+version = "0.1.0"
+description = "Analysis code and data: the red alga Porphyridium aerugineum reads AGG as methionine in its mitochondria"
+requires-python = ">=3.11"
+dependencies = [
+    "biopython",
+    "matplotlib",
+    "numpy",
+    "pyaragorn",
+    "pyhmmer",
+    "scipy",
+]
+
+[tool.uv]
+package = false

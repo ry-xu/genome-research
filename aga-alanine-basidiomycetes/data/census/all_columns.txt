@@ -1,0 +1,12 @@
+== ala_class
+32 genomes
+AGA: 1321 sites; column consensus: A 0.30, S 0.15, L 0.08, G 0.08, T 0.07, I 0.06, N 0.05, V 0.04 | R=0.010 K=0.038 A=0.297
+CGN: 2924 sites; column consensus: R 0.74, K 0.14, N 0.02, Q 0.02, S 0.02, L 0.01, Y 0.01, T 0.01 | R=0.740 K=0.137 A=0.004
+AGG: 12 sites; column consensus: H 0.17, L 0.17, K 0.17, A 0.17, T 0.17, S 0.08, N 0.08 | R=0.000 K=0.167 A=0.167
+GCN: 9186 sites; column consensus: A 0.53, S 0.17, G 0.06, T 0.05, I 0.04, L 0.04, V 0.03, K 0.01 | R=0.003 K=0.011 A=0.532
+== arg_sameclass
+5 genomes
+AGA: 59 sites; column consensus: R 0.76, K 0.14, S 0.03, L 0.02, G 0.02, N 0.02, W 0.02 | R=0.763 K=0.136 A=0.000
+CGN: 442 sites; column consensus: R 0.71, K 0.17, N 0.02, Q 0.02, P 0.01, T 0.01, Y 0.01, E 0.01 | R=0.713 K=0.165 A=0.000
+AGG: 1 sites; column consensus: S 1.00 | R=0.000 K=0.000 A=0.000
+GCN: 1668 sites; column consensus: A 0.51, S 0.17, G 0.07, T 0.05, L 0.04, I 0.04, V 0.03, N 0.02 | R=0.007 K=0.010 A=0.507

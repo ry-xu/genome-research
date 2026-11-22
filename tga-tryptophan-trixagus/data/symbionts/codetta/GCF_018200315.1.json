@@ -1,0 +1,292 @@
+{
+ "acc": "GCF_018200315.1",
+ "size": 307680,
+ "gc": 0.16173621944877795,
+ "n_domains": 276,
+ "n_pfams": 233,
+ "code": "FFLLS?S?YY??CC?WL?L?P?PPHHQQR?R?I?IMTTTTNNKKSSRRVVV?AAAADDEEGGGG",
+ "nonstandard": [],
+ "trnas": [
+  {
+   "contig": "NZ_JADFUB010000001.1",
+   "start": 70930,
+   "end": 71003,
+   "strand": "+",
+   "product": "tRNA-Asp",
+   "anticodon": "(pos:70964..70966)",
+   "note": "",
+   "attr": "ID=rna-KHQ18_RS00365;Parent=gene-KHQ18_RS00365;anticodon=(pos:70964..70966);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=KHQ18_RS00365;product=tRNA-Asp"
+  },
+  {
+   "contig": "NZ_JADFUB010000001.1",
+   "start": 71031,
+   "end": 71104,
+   "strand": "-",
+   "product": "tRNA-Arg",
+   "anticodon": "(pos:complement(71068..71070))",
+   "note": "",
+   "attr": "ID=rna-KHQ18_RS00370;Parent=gene-KHQ18_RS00370;anticodon=(pos:complement(71068..71070));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=KHQ18_RS00370;product=tRNA-Arg"
+  },
+  {
+   "contig": "NZ_JADFUB010000001.1",
+   "start": 71108,
+   "end": 71183,
+   "strand": "-",
+   "product": "tRNA-Pro",
+   "anticodon": "(pos:complement(71145..71147))",
+   "note": "",
+   "attr": "ID=rna-KHQ18_RS00375;Parent=gene-KHQ18_RS00375;anticodon=(pos:complement(71145..71147));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=KHQ18_RS00375;product=tRNA-Pro"
+  },
+  {
+   "contig": "NZ_JADFUB010000001.1",
+   "start": 71189,
+   "end": 71275,
+   "strand": "-",
+   "product": "tRNA-Ser",
+   "anticodon": "(pos:complement(71240..71242))",
+   "note": "",
+   "attr": "ID=rna-KHQ18_RS00380;Parent=gene-KHQ18_RS00380;anticodon=(pos:complement(71240..71242));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=KHQ18_RS00380;product=tRNA-Ser"
+  },
+  {
+   "contig": "NZ_JADFUB010000010.1",
+   "start": 12096,
+   "end": 12180,
+   "strand": "-",
+   "product": "tRNA-Ser",
+   "anticodon": "(pos:complement(12144..12146))",
+   "note": "",
+   "attr": "ID=rna-KHQ18_RS01510;Parent=gene-KHQ18_RS01510;anticodon=(pos:complement(12144..12146));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=KHQ18_RS01510;product=tRNA-Ser"
+  },
+  {
+   "contig": "NZ_JADFUB010000011.1",
+   "start": 2040,
+   "end": 2111,
+   "strand": "-",
+   "product": "tRNA-Glu",
+   "anticodon": "(pos:complement(2076..2078))",
+   "note": "",
+   "attr": "ID=rna-KHQ18_RS01530;Parent=gene-KHQ18_RS01530;anticodon=(pos:complement(2076..2078));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=KHQ18_RS01530;product=tRNA-Glu"
+  },
+  {
+   "contig": "NZ_JADFUB010000011.1",
+   "start": 3747,
+   "end": 3817,
+   "strand": "-",
+   "product": "tRNA-Gln",
+   "anticodon": "(pos:complement(3783..3785))",
+   "note": "",
+   "attr": "ID=rna-KHQ18_RS01540;Parent=gene-KHQ18_RS01540;anticodon=(pos:complement(3783..3785));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=KHQ18_RS01540;product=tRNA-Gln"
+  },
+  {
+   "contig": "NZ_JADFUB010000011.1",
+   "start": 6957,
+   "end": 7039,
+   "strand": "-",
+   "product": "tRNA-Leu",
+   "anticodon": "(pos:complement(7003..7005))",
+   "note": "",
+   "attr": "ID=rna-KHQ18_RS01560;Parent=gene-KHQ18_RS01560;anticodon=(pos:complement(7003..7005));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=KHQ18_RS01560;product=tRNA-Leu"
+  },
+  {
+   "contig": "NZ_JADFUB010000013.1",
+   "start": 6011,
+   "end": 6084,
+   "strand": "-",
+   "product": "tRNA-Arg",
+   "anticodon": "(pos:complement(6048..6050))",
+   "note": "",
+   "attr": "ID=rna-KHQ18_RS01645;Parent=gene-KHQ18_RS01645;anticodon=(pos:complement(6048..6050));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=KHQ18_RS01645;product=tRNA-Arg"
+  },
+  {
+   "contig": "NZ_JADFUB010000002.1",
+   "start": 4498,
+   "end": 4571,
+   "strand": "-",
+   "product": "tRNA-His",
+   "anticodon": "(pos:complement(4535..4537))",
+   "note": "",
+   "attr": "ID=rna-KHQ18_RS00435;Parent=gene-KHQ18_RS00435;anticodon=(pos:complement(4535..4537));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=KHQ18_RS00435;product=tRNA-His"
+  },
+  {
+   "contig": "NZ_JADFUB010000002.1",
+   "start": 22210,
+   "end": 22281,
+   "strand": "-",
+   "product": "tRNA-Met",
+   "anticodon": "(pos:complement(22247..22249))",
+   "note": "",
+   "attr": "ID=rna-KHQ18_RS00510;Parent=gene-KHQ18_RS00510;anticodon=(pos:complement(22247..22249));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=KHQ18_RS00510;product=tRNA-Met"
+  },
+  {
+   "contig": "NZ_JADFUB010000003.1",
+   "start": 27457,
+   "end": 27530,
+   "strand": "+",
+   "product": "tRNA-Asn",
+   "anticodon": "(pos:27491..27493)",
+   "note": "",
+   "attr": "ID=rna-KHQ18_RS00755;Parent=gene-KHQ18_RS00755;anticodon=(pos:27491..27493);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=KHQ18_RS00755;product=tRNA-Asn"
+  },
+  {
+   "contig": "NZ_JADFUB010000003.1",
+   "start": 27543,
+   "end": 27614,
+   "strand": "+",
+   "product": "tRNA-Cys",
+   "anticodon": "(pos:27576..27578)",
+   "note": "",
+   "attr": "ID=rna-KHQ18_RS00760;Parent=gene-KHQ18_RS00760;anticodon=(pos:27576..27578);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=KHQ18_RS00760;product=tRNA-Cys"
+  },
+  {
+   "contig": "NZ_JADFUB010000003.1",
+   "start": 34572,
+   "end": 34644,
+   "strand": "+",
+   "product": "tRNA-Phe",
+   "anticodon": "(pos:34605..34607)",
+   "note": "",
+   "attr": "ID=rna-KHQ18_RS00800;Parent=gene-KHQ18_RS00800;anticodon=(pos:34605..34607);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=KHQ18_RS00800;product=tRNA-Phe"
+  },
+  {
+   "contig": "NZ_JADFUB010000005.1",
+   "start": 3668,
+   "end": 3754,
+   "strand": "+",
+   "product": "tRNA-Leu",
+   "anticodon": "(pos:3702..3704)",
+   "note": "",
+   "attr": "ID=rna-KHQ18_RS01040;Parent=gene-KHQ18_RS01040;anticodon=(pos:3702..3704);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=KHQ18_RS01040;product=tRNA-Leu"
+  },
+  {
+   "contig": "NZ_JADFUB010000005.1",
+   "start": 14085,
+   "end": 14159,
+   "strand": "-",
+   "product": "tRNA-Val",
+   "anticodon": "(pos:complement(14122..14124))",
+   "note": "",
+   "attr": "ID=rna-KHQ18_RS01095;Parent=gene-KHQ18_RS01095;anticodon=(pos:complement(14122..14124));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=KHQ18_RS01095;product=tRNA-Val"
+  },
+  {
+   "contig": "NZ_JADFUB010000005.1",
+   "start": 17364,
+   "end": 17436,
+   "strand": "+",
+   "product": "tRNA-Lys",
+   "anticodon": "(pos:17397..17399)",
+   "note": "",
+   "attr": "ID=rna-KHQ18_RS01120;Parent=gene-KHQ18_RS01120;anticodon=(pos:17397..17399);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=KHQ18_RS01120;product=tRNA-Lys"
+  },
+  {
+   "contig": "NZ_JADFUB010000006.1",
+   "start": 1995,
+   "end": 2068,
+   "strand": "+",
+   "product": "tRNA-Ile",
+   "anticodon": "(pos:2029..2031)",
+   "note": "",
+   "attr": "ID=rna-KHQ18_RS01150;Parent=gene-KHQ18_RS01150;anticodon=(pos:2029..2031);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=KHQ18_RS01150;product=tRNA-Ile"
+  },
+  {
+   "contig": "NZ_JADFUB010000006.1",
+   "start": 2084,
+   "end": 2157,
+   "strand": "+",
+   "product": "tRNA-Ala",
+   "anticodon": "(pos:2118..2120)",
+   "note": "",
+   "attr": "ID=rna-KHQ18_RS01155;Parent=gene-KHQ18_RS01155;anticodon=(pos:2118..2120);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=KHQ18_RS01155;product=tRNA-Ala"
+  },
+  {
+   "contig": "NZ_JADFUB010000006.1",
+   "start": 16122,
+   "end": 16195,
+   "strand": "+",
+   "product": "tRNA-Thr",
+   "anticodon": "(pos:16156..16158)",
+   "note": "",
+   "attr": "ID=rna-KHQ18_RS01215;Parent=gene-KHQ18_RS01215;anticodon=(pos:16156..16158);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=KHQ18_RS01215;product=tRNA-Thr"
+  },
+  {
+   "contig": "NZ_JADFUB010000006.1",
+   "start": 16201,
+   "end": 16283,
+   "strand": "+",
+   "product": "tRNA-Tyr",
+   "anticodon": "(pos:16235..16237)",
+   "note": "",
+   "attr": "ID=rna-KHQ18_RS01220;Parent=gene-KHQ18_RS01220;anticodon=(pos:16235..16237);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=KHQ18_RS01220;product=tRNA-Tyr"
+  },
+  {
+   "contig": "NZ_JADFUB010000006.1",
+   "start": 16320,
+   "end": 16392,
+   "strand": "+",
+   "product": "tRNA-Gly",
+   "anticodon": "(pos:16353..16355)",
+   "note": "",
+   "attr": "ID=rna-KHQ18_RS01225;Parent=gene-KHQ18_RS01225;anticodon=(pos:16353..16355);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=KHQ18_RS01225;product=tRNA-Gly"
+  },
+  {
+   "contig": "NZ_JADFUB010000006.1",
+   "start": 16408,
+   "end": 16479,
+   "strand": "+",
+   "product": "tRNA-Thr",
+   "anticodon": "(pos:16440..16442)",
+   "note": "",
+   "attr": "ID=rna-KHQ18_RS01230;Parent=gene-KHQ18_RS01230;anticodon=(pos:16440..16442);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=KHQ18_RS01230;product=tRNA-Thr"
+  },
+  {
+   "contig": "NZ_JADFUB010000006.1",
+   "start": 17786,
+   "end": 17858,
+   "strand": "+",
+   "product": "tRNA-Trp",
+   "anticodon": "(pos:17819..17821)",
+   "note": "",
+   "attr": "ID=rna-KHQ18_RS01240;Parent=gene-KHQ18_RS01240;anticodon=(pos:17819..17821);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=KHQ18_RS01240;product=tRNA-Trp"
+  },
+  {
+   "contig": "NZ_JADFUB010000007.1",
+   "start": 6489,
+   "end": 6562,
+   "strand": "+",
+   "product": "tRNA-Ile",
+   "anticodon": "(pos:6523..6525)",
+   "note": "",
+   "attr": "ID=rna-KHQ18_RS01290;Parent=gene-KHQ18_RS01290;anticodon=(pos:6523..6525);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=KHQ18_RS01290;product=tRNA-Ile"
+  },
+  {
+   "contig": "NZ_JADFUB010000007.1",
+   "start": 11857,
+   "end": 11932,
+   "strand": "+",
+   "product": "tRNA-Met",
+   "anticodon": "(pos:11892..11894)",
+   "note": "",
+   "attr": "ID=rna-KHQ18_RS01320;Parent=gene-KHQ18_RS01320;anticodon=(pos:11892..11894);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=KHQ18_RS01320;product=tRNA-Met"
+  },
+  {
+   "contig": "NZ_JADFUB010000007.1",
+   "start": 15265,
+   "end": 15339,
+   "strand": "-",
+   "product": "tRNA-Arg",
+   "anticodon": "(pos:complement(15302..15304))",
+   "note": "",
+   "attr": "ID=rna-KHQ18_RS01335;Parent=gene-KHQ18_RS01335;anticodon=(pos:complement(15302..15304));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=KHQ18_RS01335;product=tRNA-Arg"
+  },
+  {
+   "contig": "NZ_JADFUB010000008.1",
+   "start": 9899,
+   "end": 9985,
+   "strand": "+",
+   "product": "tRNA-Ser",
+   "anticodon": "(pos:9932..9934)",
+   "note": "",
+   "attr": "ID=rna-KHQ18_RS01410;Parent=gene-KHQ18_RS01410;anticodon=(pos:9932..9934);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=KHQ18_RS01410;product=tRNA-Ser"
+  }
+ ],
+ "seconds": 121.40727090835571
+}

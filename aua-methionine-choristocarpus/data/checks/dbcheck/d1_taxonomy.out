@@ -1,0 +1,63 @@
+taxid 116065  Choristocarpus tenellus  rank=species
+  GeneticCode   id=1 name=Standard
+  MitoGenCode   id=1 name=Standard
+  inherit/flag tags in XML: none present
+  Lineage: cellular organisms; Eukaryota; Sar; Stramenopiles; Ochrophyta; PX clade; Phaeophyceae; Sphacelariales; Choristocarpaceae; Choristocarpus
+  CreateDate: 2000/02/22 10:01:00
+  UpdateDate: 2005/01/19 15:15:00
+  PubDate: 2001/09/17 11:37:00
+  LineageEx ranks: Ochrophyta(clade,2696291); PX clade(clade,569578); Phaeophyceae(class,2870); Sphacelariales(order,27945); Choristocarpaceae(family,116066); Choristocarpus(genus,116064)
+taxid 116064  Choristocarpus  rank=genus
+  GeneticCode   id=1 name=Standard
+  MitoGenCode   id=1 name=Standard
+  inherit/flag tags in XML: none present
+  Lineage: cellular organisms; Eukaryota; Sar; Stramenopiles; Ochrophyta; PX clade; Phaeophyceae; Sphacelariales; Choristocarpaceae
+  CreateDate: 2000/02/22 10:01:00
+  UpdateDate: 2002/05/08 12:00:00
+  PubDate: 2001/09/17 11:37:00
+  LineageEx ranks: Stramenopiles(clade,33634); Ochrophyta(clade,2696291); PX clade(clade,569578); Phaeophyceae(class,2870); Sphacelariales(order,27945); Choristocarpaceae(family,116066)
+taxid 116066  Choristocarpaceae  rank=family
+  GeneticCode   id=1 name=Standard
+  MitoGenCode   id=1 name=Standard
+  inherit/flag tags in XML: none present
+  Lineage: cellular organisms; Eukaryota; Sar; Stramenopiles; Ochrophyta; PX clade; Phaeophyceae; Sphacelariales
+  CreateDate: 2000/02/22 10:05:00
+  UpdateDate: 2002/05/08 12:00:00
+  PubDate: 2001/09/17 11:37:00
+  LineageEx ranks: Sar(clade,2698737); Stramenopiles(clade,33634); Ochrophyta(clade,2696291); PX clade(clade,569578); Phaeophyceae(class,2870); Sphacelariales(order,27945)
+taxid 376270  Discosporangium mesarthrocarpum  rank=species
+  GeneticCode   id=1 name=Standard
+  MitoGenCode   id=1 name=Standard
+  inherit/flag tags in XML: none present
+  Lineage: cellular organisms; Eukaryota; Sar; Stramenopiles; Ochrophyta; PX clade; Phaeophyceae; Sphacelariales; Discosporangiaceae; Discosporangium
+  CreateDate: 2006/03/14 09:35:47
+  UpdateDate: 2018/10/29 19:37:58
+  PubDate: 2007/01/21 18:00:16
+  LineageEx ranks: Ochrophyta(clade,2696291); PX clade(clade,569578); Phaeophyceae(class,2870); Sphacelariales(order,27945); Discosporangiaceae(family,376268); Discosporangium(genus,376269)
+taxid 376269  Discosporangium  rank=genus
+  GeneticCode   id=1 name=Standard
+  MitoGenCode   id=1 name=Standard
+  inherit/flag tags in XML: none present
+  Lineage: cellular organisms; Eukaryota; Sar; Stramenopiles; Ochrophyta; PX clade; Phaeophyceae; Sphacelariales; Discosporangiaceae
+  CreateDate: 2006/03/14 09:35:47
+  UpdateDate: 2007/01/21 18:27:00
+  PubDate: 2007/01/21 18:00:16
+  LineageEx ranks: Stramenopiles(clade,33634); Ochrophyta(clade,2696291); PX clade(clade,569578); Phaeophyceae(class,2870); Sphacelariales(order,27945); Discosporangiaceae(family,376268)
+taxid 376268  Discosporangiaceae  rank=family
+  GeneticCode   id=1 name=Standard
+  MitoGenCode   id=1 name=Standard
+  inherit/flag tags in XML: none present
+  Lineage: cellular organisms; Eukaryota; Sar; Stramenopiles; Ochrophyta; PX clade; Phaeophyceae; Sphacelariales
+  CreateDate: 2006/03/14 10:35:38
+  UpdateDate: 2007/01/21 18:27:00
+  PubDate: 2007/01/21 18:00:16
+  LineageEx ranks: Sar(clade,2698737); Stramenopiles(clade,33634); Ochrophyta(clade,2696291); PX clade(clade,569578); Phaeophyceae(class,2870); Sphacelariales(order,27945)
+taxid 2870  Phaeophyceae  rank=class
+  GeneticCode   id=1 name=Standard
+  MitoGenCode   id=1 name=Standard
+  inherit/flag tags in XML: none present
+  Lineage: cellular organisms; Eukaryota; Sar; Stramenopiles; Ochrophyta; PX clade
+  CreateDate: 1995/02/27 09:24:00
+  UpdateDate: 2025/06/16 13:11:16
+  PubDate: 1993/04/20 01:00:00
+  LineageEx ranks: cellular organisms(cellular root,131567); Eukaryota(domain,2759); Sar(clade,2698737); Stramenopiles(clade,33634); Ochrophyta(clade,2696291); PX clade(clade,569578)

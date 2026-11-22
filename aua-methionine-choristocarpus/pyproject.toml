@@ -1,0 +1,14 @@
+[project]
+name = "aua-methionine-choristocarpus"
+version = "0.1.0"
+description = "Analysis code and data: the brown alga Choristocarpus tenellus reads AUA as methionine in its mitochondria"
+requires-python = ">=3.11"
+dependencies = [
+    "biopython",
+    "matplotlib",
+    "polars",
+    "scipy",
+]
+
+[tool.uv]
+package = false

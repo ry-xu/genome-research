@@ -1,0 +1,4 @@
+chrom: 123209 primary alignments mapq>=10, identity 0.9555 over 10368540 aligned bases
+unplaced: 50378 primary alignments mapq>=10, identity 0.9479 over 3817284 aligned bases
+sites 235; covered 43; read codons: {'TAG': 96, 'CAG': 71, 'GCG': 3, 'AAG': 2, 'TGA': 1, 'TCG': 1}
+majority codon per covered site: {'TAG': 25, 'CAG': 14, 'AAG': 1, 'TGA': 1, 'GCG': 1, 'TCG': 1}

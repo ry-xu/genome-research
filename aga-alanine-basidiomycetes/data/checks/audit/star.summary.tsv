@@ -1,0 +1,53 @@
+query	label	role	ref+relatives	class	query_codons_placed	unanimous	unan_top	all_relative_residues_top
+NC_054273.1	Trichosporon inkin	in 32	NC_004336.1+BK073231.1,BK073612.1,BK074202.1	AGA	43	27	{'A': 18, 'V': 3, 'S': 3, 'T': 2}	{'A': 88, 'T': 24, 'V': 21, 'S': 18}
+NC_054273.1	Trichosporon inkin	in 32	NC_004336.1+BK073231.1,BK073612.1,BK074202.1	AGG	0	0	{}	{}
+NC_054273.1	Trichosporon inkin	in 32	NC_004336.1+BK073231.1,BK073612.1,BK074202.1	CGN	85	77	{'R': 71, 'G': 3, 'P': 2, 'K': 1}	{'R': 290, 'G': 16, 'P': 9, 'K': 9}
+NC_054273.1	Trichosporon inkin	in 32	NC_004336.1+BK073231.1,BK073612.1,BK074202.1	GCN	301	204	{'A': 180, 'G': 7, 'S': 7, 'P': 2}	{'A': 882, 'S': 86, 'G': 67, 'T': 48}
+MZ439919.1	Apiotrichum gamsii	in 32	NC_004336.1+BK073231.1,BK073612.1,BK074202.1	AGA	61	38	{'A': 26, 'S': 5, 'G': 4, 'V': 1}	{'A': 118, 'S': 34, 'G': 22, 'T': 17}
+MZ439919.1	Apiotrichum gamsii	in 32	NC_004336.1+BK073231.1,BK073612.1,BK074202.1	AGG	1	0	{}	{'M': 3, 'I': 1}
+MZ439919.1	Apiotrichum gamsii	in 32	NC_004336.1+BK073231.1,BK073612.1,BK074202.1	CGN	82	75	{'R': 74, 'K': 1}	{'R': 301, 'K': 9, 'Q': 3, 'I': 3}
+MZ439919.1	Apiotrichum gamsii	in 32	NC_004336.1+BK073231.1,BK073612.1,BK074202.1	GCN	270	189	{'A': 174, 'T': 4, 'G': 4, 'S': 3}	{'A': 845, 'S': 57, 'G': 50, 'T': 40}
+BK074411.1	Tremella mesenterica	in 32	NC_004336.1+BK073231.1,BK073612.1,BK074202.1	AGA	61	35	{'A': 29, 'S': 3, 'T': 1, 'L': 1}	{'A': 145, 'S': 31, 'T': 13, 'G': 12}
+BK074411.1	Tremella mesenterica	in 32	NC_004336.1+BK073231.1,BK073612.1,BK074202.1	AGG	1	1	{'N': 1}	{'N': 4}
+BK074411.1	Tremella mesenterica	in 32	NC_004336.1+BK073231.1,BK073612.1,BK074202.1	CGN	83	77	{'R': 76, 'G': 1}	{'R': 312, 'G': 5, 'S': 3, 'Y': 2}
+BK074411.1	Tremella mesenterica	in 32	NC_004336.1+BK073231.1,BK073612.1,BK074202.1	GCN	279	193	{'A': 175, 'S': 7, 'L': 4, 'V': 2}	{'A': 845, 'S': 74, 'T': 49, 'G': 38}
+NC_009880.1	Tilletia indica	in 32	NC_023248.1+CP096881.1,BK073411.1,BK072594.1	AGA	63	21	{'A': 14, 'S': 3, 'G': 2, 'N': 1}	{'A': 106, 'S': 30, 'G': 25, 'V': 14}
+NC_009880.1	Tilletia indica	in 32	NC_023248.1+CP096881.1,BK073411.1,BK072594.1	AGG	0	0	{}	{}
+NC_009880.1	Tilletia indica	in 32	NC_023248.1+CP096881.1,BK073411.1,BK072594.1	CGN	97	65	{'R': 65}	{'R': 309, 'K': 9, 'S': 6, 'Y': 4}
+NC_009880.1	Tilletia indica	in 32	NC_023248.1+CP096881.1,BK073411.1,BK072594.1	GCN	252	139	{'A': 132, 'V': 2, 'L': 1, 'Q': 1}	{'A': 756, 'S': 60, 'V': 31, 'G': 29}
+BK072866.1	Cystobasidium benthicum	in 32	NC_036340.1+CM018325.1,BK073353.1,BK074216.1	AGA	9	4	{'A': 2, 'S': 1, 'L': 1}	{'A': 15, 'S': 9, 'L': 5, 'V': 3}
+BK072866.1	Cystobasidium benthicum	in 32	NC_036340.1+CM018325.1,BK073353.1,BK074216.1	AGG	0	0	{}	{}
+BK072866.1	Cystobasidium benthicum	in 32	NC_036340.1+CM018325.1,BK073353.1,BK074216.1	CGN	87	79	{'R': 79}	{'R': 326, 'K': 4, 'H': 4, 'Q': 4}
+BK072866.1	Cystobasidium benthicum	in 32	NC_036340.1+CM018325.1,BK073353.1,BK074216.1	GCN	324	225	{'A': 216, 'S': 5, 'T': 1, 'G': 1}	{'A': 1015, 'S': 90, 'G': 45, 'V': 40}
+BK072867.1	Cystobasidium minutum	in 32	NC_036340.1+CM018325.1,BK073353.1,BK074216.1	AGA	16	4	{'A': 3, 'S': 1}	{'A': 23, 'S': 15, 'L': 5, 'I': 4}
+BK072867.1	Cystobasidium minutum	in 32	NC_036340.1+CM018325.1,BK073353.1,BK074216.1	AGG	1	0	{}	{'S': 2, 'H': 1, 'V': 1}
+BK072867.1	Cystobasidium minutum	in 32	NC_036340.1+CM018325.1,BK073353.1,BK074216.1	CGN	86	78	{'R': 78}	{'R': 325, 'H': 5, 'K': 4, 'Q': 3}
+BK072867.1	Cystobasidium minutum	in 32	NC_036340.1+CM018325.1,BK073353.1,BK074216.1	GCN	337	225	{'A': 215, 'S': 5, 'V': 1, 'T': 1}	{'A': 1023, 'S': 105, 'G': 48, 'V': 46}
+BK074202.1	Solicoccozyma aeria-group (Tremellomycetes control)	control	NC_004336.1+BK073231.1,BK073612.1	AGA	4	4	{'R': 4}	{'R': 12}
+BK074202.1	Solicoccozyma aeria-group (Tremellomycetes control)	control	NC_004336.1+BK073231.1,BK073612.1	AGG	0	0	{}	{}
+BK074202.1	Solicoccozyma aeria-group (Tremellomycetes control)	control	NC_004336.1+BK073231.1,BK073612.1	CGN	85	75	{'R': 75}	{'R': 237, 'K': 4, 'Q': 3, 'S': 3}
+BK074202.1	Solicoccozyma aeria-group (Tremellomycetes control)	control	NC_004336.1+BK073231.1,BK073612.1	GCN	351	245	{'A': 234, 'S': 3, 'G': 3, 'C': 2}	{'A': 828, 'S': 60, 'G': 50, 'T': 41}
+BK072956.1	Exobasidium (Exobasidiomycetes control)	control	NC_023248.1+BK073411.1,BK072594.1	AGA	19	11	{'R': 11}	{'R': 39, 'K': 2, 'Y': 1, 'L': 1}
+BK072956.1	Exobasidium (Exobasidiomycetes control)	control	NC_023248.1+BK073411.1,BK072594.1	AGG	0	0	{}	{}
+BK072956.1	Exobasidium (Exobasidiomycetes control)	control	NC_023248.1+BK073411.1,BK072594.1	CGN	91	56	{'R': 55, 'K': 1}	{'R': 195, 'K': 13, 'S': 5, 'N': 3}
+BK072956.1	Exobasidium (Exobasidiomycetes control)	control	NC_023248.1+BK073411.1,BK072594.1	GCN	324	173	{'A': 162, 'S': 5, 'G': 3, 'V': 1}	{'A': 674, 'S': 78, 'G': 31, 'T': 25}
+CM018325.1	Symmetrospora (Cystobasidiomycetes control)	control	NC_036340.1+BK073353.1,BK074216.1	AGA	4	3	{'R': 2, 'K': 1}	{'R': 8, 'K': 3, 'Q': 1}
+CM018325.1	Symmetrospora (Cystobasidiomycetes control)	control	NC_036340.1+BK073353.1,BK074216.1	AGG	1	1	{'E': 1}	{'E': 3}
+CM018325.1	Symmetrospora (Cystobasidiomycetes control)	control	NC_036340.1+BK073353.1,BK074216.1	CGN	82	78	{'R': 76, 'H': 1, 'K': 1}	{'R': 230, 'K': 6, 'H': 4, 'Q': 2}
+CM018325.1	Symmetrospora (Cystobasidiomycetes control)	control	NC_036340.1+BK073353.1,BK074216.1	GCN	326	277	{'A': 222, 'S': 18, 'V': 10, 'T': 6}	{'A': 729, 'S': 91, 'V': 37, 'T': 27}
+BK074082.1	Rhodotorula diobovata (Pucciniomycotina control)	control	NC_036340.1+BK073353.1,BK074216.1	AGA	0	0	{}	{}
+BK074082.1	Rhodotorula diobovata (Pucciniomycotina control)	control	NC_036340.1+BK073353.1,BK074216.1	AGG	0	0	{}	{}
+BK074082.1	Rhodotorula diobovata (Pucciniomycotina control)	control	NC_036340.1+BK073353.1,BK074216.1	CGN	97	93	{'R': 93}	{'R': 287, 'K': 2, 'S': 1, 'Q': 1}
+BK074082.1	Rhodotorula diobovata (Pucciniomycotina control)	control	NC_036340.1+BK073353.1,BK074216.1	GCN	344	284	{'A': 279, 'S': 4, 'G': 1}	{'A': 934, 'S': 31, 'V': 16, 'G': 16}
+BK074509.1	Vanrija (G3:U70 carrier, not in 32)	extra	NC_004336.1+BK073231.1,BK073612.1,BK074202.1	AGA	10	5	{'A': 2, 'S': 2, 'G': 1}	{'S': 13, 'A': 10, 'T': 5, 'G': 4}
+BK074509.1	Vanrija (G3:U70 carrier, not in 32)	extra	NC_004336.1+BK073231.1,BK073612.1,BK074202.1	AGG	0	0	{}	{}
+BK074509.1	Vanrija (G3:U70 carrier, not in 32)	extra	NC_004336.1+BK073231.1,BK073612.1,BK074202.1	CGN	82	77	{'R': 76, 'K': 1}	{'R': 314, 'K': 11, 'I': 1, 'H': 1}
+BK074509.1	Vanrija (G3:U70 carrier, not in 32)	extra	NC_004336.1+BK073231.1,BK073612.1,BK074202.1	GCN	305	217	{'A': 208, 'G': 2, 'S': 2, 'L': 2}	{'A': 1000, 'S': 55, 'G': 43, 'T': 38}
+NC_036422.1	Tremella fuciformis (G3:U70 carrier, not in 32)	extra	NC_004336.1+BK073231.1,BK073612.1,BK074202.1	AGA	7	4	{'A': 3, 'S': 1}	{'A': 13, 'S': 7, 'L': 2, 'Y': 2}
+NC_036422.1	Tremella fuciformis (G3:U70 carrier, not in 32)	extra	NC_004336.1+BK073231.1,BK073612.1,BK074202.1	AGG	0	0	{}	{}
+NC_036422.1	Tremella fuciformis (G3:U70 carrier, not in 32)	extra	NC_004336.1+BK073231.1,BK073612.1,BK074202.1	CGN	86	79	{'R': 79}	{'R': 327, 'K': 5, 'T': 3, 'Y': 2}
+NC_036422.1	Tremella fuciformis (G3:U70 carrier, not in 32)	extra	NC_004336.1+BK073231.1,BK073612.1,BK074202.1	GCN	344	225	{'A': 216, 'S': 4, 'G': 2, 'P': 1}	{'A': 1064, 'S': 86, 'T': 52, 'G': 48}
+PP995850.1	Sympodiomycopsis (side)	extra	NC_023248.1+CP096881.1,BK073411.1,BK072594.1	AGA	55	25	{'S': 20, 'A': 2, 'H': 1, 'T': 1}	{'S': 114, 'T': 24, 'A': 14, 'I': 8}
+PP995850.1	Sympodiomycopsis (side)	extra	NC_023248.1+CP096881.1,BK073411.1,BK072594.1	AGG	1	0	{}	{'N': 2, 'V': 1}
+PP995850.1	Sympodiomycopsis (side)	extra	NC_023248.1+CP096881.1,BK073411.1,BK072594.1	CGN	98	65	{'R': 65}	{'R': 304, 'K': 7, 'I': 6, 'S': 6}
+PP995850.1	Sympodiomycopsis (side)	extra	NC_023248.1+CP096881.1,BK073411.1,BK072594.1	GCN	285	156	{'A': 142, 'G': 7, 'S': 2, 'P': 2}	{'A': 802, 'G': 92, 'S': 75, 'T': 33}

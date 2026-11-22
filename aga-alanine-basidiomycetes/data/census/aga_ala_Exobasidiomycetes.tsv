@@ -1,0 +1,30 @@
+AGA (std R) vs synonyms ['CGT', 'CGC', 'CGA', 'CGG', 'AGG'] at strict A / R columns; 27 genomes
+acc	table	genus	codon@Y	codon@STD	syn@Y	syn@STD	p
+NC_023248.1	4	Jaminaea	0	0	0	49	1.0e+00
+NC_009880.1	4	Tilletia	5	0	0	47	3.8e-07
+NC_010651.1	4	Tilletia	5	0	0	47	3.8e-07
+NC_073546.1	4	Tilletia	5	0	0	47	3.8e-07
+CP110633.1	4	Exobasidium	0	1	0	20	1.0e+00
+MT556837.1	4	Meira	0	3	0	42	1.0e+00
+OZ330317.1	4	Jaminaea	0	0	0	49	1.0e+00
+PP995848.1	4	Jaminaea	0	0	0	49	1.0e+00
+PP995849.1	4	Parajaminaea	0	2	0	47	1.0e+00
+PP995850.1	4	Sympodiomycopsis	0	0	0	49	1.0e+00
+BK072116.1	4	Acaromyces	0	0	0	50	1.0e+00
+BK072594.1	4	Ceraceosorus	0	1	0	48	1.0e+00
+BK072956.1	4	Exobasidium	0	7	0	40	1.0e+00
+BK073068.1	4	Golubevia	0	0	0	48	1.0e+00
+BK073069.1	4	Golubevia	0	0	0	48	1.0e+00
+BK073070.1	4	Golubevia	0	0	0	48	1.0e+00
+BK073179.1	4	Jaminaea	0	0	0	50	1.0e+00
+BK073411.1	4	Meira	0	4	0	46	1.0e+00
+BK073948.1	4	Microstroma	0	0	0	48	1.0e+00
+BK074095.1	4	Robbauera	0	0	0	49	1.0e+00
+BK074121.1	4	Salmacisia	5	0	0	49	3.2e-07
+BK074390.1	4	Tilletia	4	0	0	49	3.4e-06
+BK074391.1	4	Tilletia	6	0	0	49	3.4e-08
+BK074392.1	4	Tilletia	4	0	0	49	3.4e-06
+BK074393.1	4	Tilletia	5	1	0	49	1.7e-06
+BK074394.1	4	Tilletiopsis	0	0	0	50	1.0e+00
+CP096881.1	4	Exobasidium	0	8	0	37	1.0e+00
+pooled			39	27	0	1253	1.8e-57

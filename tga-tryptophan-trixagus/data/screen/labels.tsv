@@ -1,0 +1,148 @@
+acc	stop	known	ncbi_gcode	organism	lineage	project	source
+GCA_000021505.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola Dsem	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA32135	bacteriome
+GCA_000404725.1	TGA	Gracilibacteria	25	Gracilibacteria bacterium JGI 0000069-P22	Bacteria;Candidatus Altimarinota;Gracilibacteria bacterium JGI 0000069-P22	PRJNA192390	
+GCA_000442605.1	TGA	Nasuia	4	Candidatus Nasuia deltocephalinicola str. NAS-ALF	Bacteria;Pseudomonadota;Betaproteobacteria;Candidatus Nasuia;Candidatus Nasuia deltocephalincola	PRJNA206993	missing
+GCA_000699475.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA246493	Tettigades ulnaria
+GCA_000831405.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA233978	Tettigades undata
+GCA_000831425.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA237784	Tettigades undata
+GCA_001398315.1	TGA	CHECK	11	Chlamydia trachomatis	Bacteria;Chlamydiota;Chlamydiia;Chlamydiales;Chlamydiaceae;Chlamydia;Chlamydia trachomatis	PRJEB2035	cervical
+GCA_001447885.1	TGA	Nasuia	4	Candidatus Nasuia deltocephalincola	Bacteria;Pseudomonadota;Betaproteobacteria;Candidatus Nasuia;Candidatus Nasuia deltocephalincola	PRJNA300484	Macrosteles quadripunctulatus
+GCA_002010075.1	TAG	CHECK	11	Methanomicrobia archaeon JdFR-19	Archaea;Methanobacteriota;Methanomicrobia;Methanomicrobia archaeon JdFR-19	PRJNA269163	basaltic crustal fluids
+GCA_002290365.1	TGA	Nasuia	4	Candidatus Nasuia deltocephalincola	Bacteria;Pseudomonadota;Betaproteobacteria;Candidatus Nasuia;Candidatus Nasuia deltocephalincola	PRJNA385869	Entylia carinata
+GCA_002349325.1	TGA	CHECK	11	bacterium UBA2927	Bacteria;bacterium UBA2927	PRJNA348753	rumen
+GCA_002746815.1	TGA	NCBI code 25	25	Candidatus Altimarinota bacterium	Bacteria;Candidatus Altimarinota;Candidatus Altimarinota bacterium	PRJNA174530	swab sample of gingival sulcus (mouth) from 29 year old lactating female Dolphin_Z
+GCA_002748005.1	TGA	NCBI code 25	25	Candidatus Altimarinota bacterium	Bacteria;Candidatus Altimarinota;Candidatus Altimarinota bacterium	PRJNA174530	swab sample of gingival sulcus (mouth) from 29 year old lactating female Dolphin_Z
+GCA_002762255.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA390936	bacteriome tissue
+GCA_002762285.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA390936	bacteriome tissue
+GCA_002762315.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA390936	bacteriome tissue
+GCA_002774915.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA390936	bacteriome tissue
+GCA_002774935.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA390936	bacteriome tissue
+GCA_002774945.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA390936	bacteriome tissue
+GCA_002776595.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA385844	bacteriome
+GCA_002776615.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA385844	bacteriome
+GCA_002776635.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA385844	bacteriome
+GCA_002776655.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA385844	bacteriome
+GCA_002776675.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA385844	bacteriome
+GCA_002804305.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA385845	bacteriome
+GCA_002844025.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA246498	bacteriome
+GCA_002844045.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA385841	bacteriome
+GCA_002844065.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA246498	bacteriome
+GCA_002844085.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA385841	bacteriome
+GCA_002844105.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA385841	bacteriome
+GCA_002846095.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA385838	bacteriome
+GCA_002846115.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA385838	bacteriome
+GCA_002846175.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA385838	bacteriome
+GCA_002846935.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA385841	bacteriome
+GCA_002848985.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA246498	bacteriome
+GCA_002849005.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA246498	bacteriome
+GCA_002859145.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA385841	bacteriome
+GCA_002859165.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA385841	bacteriome
+GCA_002859185.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA246498	bacteriome
+GCA_003488625.1	TGA	NCBI code 25	25	Candidatus Altimarinota bacterium	Bacteria;Candidatus Altimarinota;Candidatus Altimarinota bacterium	PRJNA417962	metagenome
+GCA_003488725.1	TGA	NCBI code 25	25	Candidatus Altimarinota bacterium	Bacteria;Candidatus Altimarinota;Candidatus Altimarinota bacterium	PRJNA417962	metagenome
+GCA_003543185.1	TGA	NCBI code 25	25	Candidatus Altimarinota bacterium	Bacteria;Candidatus Altimarinota;Candidatus Altimarinota bacterium	PRJNA417962	sediment
+GCA_009756935.1	TGA	Mycoplasmoidales	4	Mesomycoplasma ovipneumoniae	Bacteria;Mycoplasmatota;Mycoplasmoidales;Metamycoplasmataceae;Mesomycoplasma;Mesomycoplasma ovipneumoniae	PRJNA573593	lung wash
+GCA_009994015.1	TGA	CHECK	11	bacterium	Bacteria;bacterium	PRJNA405969	subsurface aquifer
+GCA_014211875.1	TGA	Nasuia	4	Candidatus Nasuia deltocephalincola	Bacteria;Pseudomonadota;Betaproteobacteria;Candidatus Nasuia;Candidatus Nasuia deltocephalincola	PRJNA642181	bacteriome tissue
+GCA_015697925.1	TGA	NCBI code 4	4	Candidatus Pinguicoccus supinus	Bacteria;Verrucomicrobiota;Candidatus Pinguicoccus;Candidatus Pinguicoccus supinus	PRJNA516142	Euplotes sp.
+GCA_017086605.1	TGA	Nasuia	4	Candidatus Nasuia deltocephalincola	Bacteria;Pseudomonadota;Betaproteobacteria;Candidatus Nasuia;Candidatus Nasuia deltocephalincola	PRJNA418119	Cicadellidae
+GCA_017394375.1	TGA	CHECK	11	bacterium	Bacteria;bacterium	PRJNA657473	ruminant gastrointestinal tract
+GCA_017438765.1	TGA	CHECK	11	bacterium	Bacteria;bacterium	PRJNA657473	ruminant gastrointestinal tract
+GCA_017442645.1	TGA	CHECK	11	bacterium	Bacteria;bacterium	PRJNA657473	ruminant gastrointestinal tract
+GCA_017445005.1	TGA	CHECK	11	bacterium	Bacteria;bacterium	PRJNA657473	ruminant gastrointestinal tract
+GCA_017453665.1	TGA	CHECK	11	bacterium	Bacteria;bacterium	PRJNA657473	ruminant gastrointestinal tract
+GCA_017474695.1	TGA	CHECK	11	bacterium	Bacteria;bacterium	PRJNA657473	ruminant gastrointestinal tract
+GCA_017524305.1	TGA	CHECK	11	bacterium	Bacteria;bacterium	PRJNA657473	ruminant gastrointestinal tract
+GCA_017526685.1	TGA	CHECK	11	bacterium	Bacteria;bacterium	PRJNA657473	ruminant gastrointestinal tract
+GCA_017542395.1	TGA	CHECK	11	bacterium	Bacteria;bacterium	PRJNA657473	ruminant gastrointestinal tract
+GCA_017612895.1	TGA	CHECK	11	bacterium	Bacteria;bacterium	PRJNA657473	ruminant gastrointestinal tract
+GCA_017616075.1	TGA	CHECK	11	bacterium	Bacteria;bacterium	PRJNA657473	ruminant gastrointestinal tract
+GCA_017645525.1	TGA	CHECK	11	bacterium	Bacteria;bacterium	PRJNA657473	ruminant gastrointestinal tract
+GCA_017965525.1	TGA	CHECK	11	bacterium	Bacteria;bacterium	PRJNA657473	ruminant gastrointestinal tract
+GCA_018654075.1	TGA	CHECK	11	bacterium	Bacteria;bacterium	PRJNA630981	hypoxic seawater
+GCA_018658185.1	TGA	CHECK	11	bacterium	Bacteria;bacterium	PRJNA630981	hypoxic seawater
+GCA_018670105.1	TGA	CHECK	11	bacterium	Bacteria;bacterium	PRJNA630981	hypoxic seawater
+GCA_020632355.1	TGA	CHECK	11	Candidatus Peribacteria bacterium	Bacteria;Candidatus Peregrinibacteriota;Candidatus Peribacteria;Candidatus Peribacteria bacterium	PRJNA648801	activated sludge from Hong Kong Shatin wastewater treatment plant
+GCA_021409685.1	TGA	Mycoplasmatales	4	Candidatus Moeniiplasma glomeromycotorum	Bacteria;Mycoplasmatota;Mollicutes;Mycoplasmatales;Mycoplasmataceae;Candidatus Moeniiplasma;Candidatus Moeniiplasma glomeromycotorum	PRJNA670049	In vitro AMF culture A2 plate 6
+GCA_021409705.1	TGA	Mycoplasmatales	4	Candidatus Moeniiplasma glomeromycotorum	Bacteria;Mycoplasmatota;Mollicutes;Mycoplasmatales;Mycoplasmataceae;Candidatus Moeniiplasma;Candidatus Moeniiplasma glomeromycotorum	PRJNA670049	In vitro AMF culture A2 plate WG
+GCA_021409725.1	TGA	Mycoplasmatales	4	Candidatus Moeniiplasma glomeromycotorum	Bacteria;Mycoplasmatota;Mollicutes;Mycoplasmatales;Mycoplasmataceae;Candidatus Moeniiplasma;Candidatus Moeniiplasma glomeromycotorum	PRJNA670049	In vitro AMF culture A2 plate 3
+GCA_021409745.1	TGA	Mycoplasmatales	4	Candidatus Moeniiplasma glomeromycotorum	Bacteria;Mycoplasmatota;Mollicutes;Mycoplasmatales;Mycoplasmataceae;Candidatus Moeniiplasma;Candidatus Moeniiplasma glomeromycotorum	PRJNA670049	In vitro AMF culture A2 plate 4
+GCA_023898445.1	TGA	CHECK	11	Candidatus Peribacteria bacterium	Bacteria;Candidatus Peregrinibacteriota;Candidatus Peribacteria;Candidatus Peribacteria bacterium	PRJNA648801	activated sludge from Hong Kong Shatin wastewater treatment plant
+GCA_024407815.1	TGA	Mycoplasmoidales	4	Mycoplasmoidaceae bacterium	Bacteria;Mycoplasmatota;Mycoplasmoidales;Mycoplasmoidaceae;Mycoplasmoidaceae bacterium	PRJNA438436	feces from endurance ride Fontainebleau
+GCA_024407855.1	TGA	Mycoplasmoidales	4	Mycoplasmoidaceae bacterium	Bacteria;Mycoplasmatota;Mycoplasmoidales;Mycoplasmoidaceae;Mycoplasmoidaceae bacterium	PRJNA438436	feces from endurance ride Fontainebleau
+GCA_024427085.1	TGA	Mycoplasmoidales	4	Mycoplasmoidaceae bacterium	Bacteria;Mycoplasmatota;Mycoplasmoidales;Mycoplasmoidaceae;Mycoplasmoidaceae bacterium	PRJNA438436	feces from endurance ride Fontainebleau
+GCA_024427105.1	TGA	Mycoplasmoidales	4	Mycoplasmoidaceae bacterium	Bacteria;Mycoplasmatota;Mycoplasmoidales;Mycoplasmoidaceae;Mycoplasmoidaceae bacterium	PRJNA438436	feces from endurance ride Fontainebleau
+GCA_024427265.1	TGA	Mycoplasmoidales	4	Mycoplasmoidaceae bacterium	Bacteria;Mycoplasmatota;Mycoplasmoidales;Mycoplasmoidaceae;Mycoplasmoidaceae bacterium	PRJNA438436	feces from endurance ride Fontainebleau
+GCA_024818035.1	TGA	Nasuia	4	Candidatus Nasuia deltocephalincola	Bacteria;Pseudomonadota;Betaproteobacteria;Candidatus Nasuia;Candidatus Nasuia deltocephalincola	PRJNA816609	N. makaihe
+GCA_024818095.1	TGA	Nasuia	4	Candidatus Nasuia deltocephalincola	Bacteria;Pseudomonadota;Betaproteobacteria;Candidatus Nasuia;Candidatus Nasuia deltocephalincola	PRJNA816609	N. kanawao
+GCA_024818115.1	TGA	Nasuia	4	Candidatus Nasuia deltocephalincola	Bacteria;Pseudomonadota;Betaproteobacteria;Candidatus Nasuia;Candidatus Nasuia deltocephalincola	PRJNA816609	N. sp. 15
+GCA_024818135.1	TGA	Nasuia	4	Candidatus Nasuia deltocephalincola	Bacteria;Pseudomonadota;Betaproteobacteria;Candidatus Nasuia;Candidatus Nasuia deltocephalincola	PRJNA816609	N. sp. 48
+GCA_024818515.1	TGA	Nasuia	4	Candidatus Nasuia deltocephalincola	Bacteria;Pseudomonadota;Betaproteobacteria;Candidatus Nasuia;Candidatus Nasuia deltocephalincola	PRJNA816609	N. sp. 17
+GCA_024818655.1	TGA	Nasuia	4	Candidatus Nasuia deltocephalincola	Bacteria;Pseudomonadota;Betaproteobacteria;Candidatus Nasuia;Candidatus Nasuia deltocephalincola	PRJNA816609	N. sp. 126
+GCA_024820095.1	TGA	Nasuia	4	Candidatus Nasuia deltocephalincola	Bacteria;Pseudomonadota;Betaproteobacteria;Candidatus Nasuia;Candidatus Nasuia deltocephalincola	PRJNA816609	N. haleakala
+GCA_024820175.1	TGA	Nasuia	4	Candidatus Nasuia deltocephalincola	Bacteria;Pseudomonadota;Betaproteobacteria;Candidatus Nasuia;Candidatus Nasuia deltocephalincola	PRJNA816609	N. sp. 295
+GCA_025998835.1	TGA	CHECK	11	Bacilli bacterium	Bacteria;Bacillota;Bacilli;Bacilli bacterium	PRJDB10679	termite gut
+GCA_027421005.1	TGA	Mycoplasmoidales	4	Mycoplasmopsis bovis	Bacteria;Mycoplasmatota;Mycoplasmoidales;Metamycoplasmataceae;Mycoplasmopsis;Mycoplasmopsis bovis	PRJNA834572	sediment
+GCA_028029215.1	TGA	NCBI code 25	25	Candidatus Altimarinota bacterium	Bacteria;Candidatus Altimarinota;Candidatus Altimarinota bacterium	PRJNA846736	single cell amplified by WGA-X; Bigelow Laboratory Dock
+GCA_028112045.1	TGA	NCBI code 25	25	Candidatus Altimarinota bacterium	Bacteria;Candidatus Altimarinota;Candidatus Altimarinota bacterium	PRJNA846736	single cell amplified by WGA-X; Bigelow Laboratory Dock
+GCA_028355235.1	TGA	NCBI code 25	25	Candidatus Altimarinota bacterium	Bacteria;Candidatus Altimarinota;Candidatus Altimarinota bacterium	PRJNA846736	single cell amplified by WGA-X; Bigelow Laboratory Dock
+GCA_029210275.1	TGA	CHECK	11	Patescibacteria group bacterium	Bacteria;Patescibacteria group bacterium	PRJNA938176	four week timepoint of microcosm treated with crude oil after inoculation with natural surface seawater, biological replicate 1
+GCA_029910395.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA512238	Okanagana oregona
+GCA_029910415.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA512238	Okanagana oregona
+GCA_029910435.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA512238	Okanagana oregona
+GCA_029910455.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA512238	Okanagana oregona
+GCA_030059765.1	TGA	Mollicutes	11	Mollicutes bacterium	Bacteria;Mycoplasmatota;Mollicutes;Mollicutes bacterium	PRJNA574146	deep-sea coral community colony S3-14
+GCA_030297055.1	TGA	Nasuia	4	Candidatus Nasuia deltocephalincola	Bacteria;Pseudomonadota;Betaproteobacteria;Candidatus Nasuia;Candidatus Nasuia deltocephalincola	PRJDB15758	Nephotettix cincticeps
+GCA_030688485.1	TGA	CHECK	11	bacterium	Bacteria;bacterium	PRJNA700657	groundwater
+GCA_030949885.1	TGA	NCBI code 25	25	Candidatus Altimarinota bacterium	Bacteria;Candidatus Altimarinota;Candidatus Altimarinota bacterium	PRJNA949439	biosyringe of microbial iron mat on a black smoker
+GCA_031254045.1	TGA	CHECK	11	Candidatus Peribacteria bacterium	Bacteria;Candidatus Peregrinibacteriota;Candidatus Peribacteria;Candidatus Peribacteria bacterium	PRJNA732531	termite gut
+GCA_031271425.1	TGA	Entomoplasmatales	4	Spiroplasmataceae bacterium	Bacteria;Mycoplasmatota;Mollicutes;Entomoplasmatales;Spiroplasmataceae;Spiroplasmataceae bacterium	PRJNA732531	termite gut
+GCA_031275125.1	TGA	CHECK	11	Candidatus Peribacteria bacterium	Bacteria;Candidatus Peregrinibacteriota;Candidatus Peribacteria;Candidatus Peribacteria bacterium	PRJNA732531	termite gut
+GCA_031279095.1	TGA	CHECK	11	Candidatus Peribacteria bacterium	Bacteria;Candidatus Peregrinibacteriota;Candidatus Peribacteria;Candidatus Peribacteria bacterium	PRJNA732531	termite gut
+GCA_031675535.1	TGA	Mycoplasmatales	4	Mycoplasmataceae bacterium	Bacteria;Mycoplasmatota;Mollicutes;Mycoplasmatales;Mycoplasmataceae;Mycoplasmataceae bacterium	PRJNA924830	rhizosphere soil
+GCA_035329245.1	TGA	NCBI code 25	25	Candidatus Absconditabacterales bacterium	Bacteria;Candidatus Absconditibacteriota;Candidatus Absconditabacterales;Candidatus Absconditabacterales bacterium	PRJNA925477	full-scale industrial wastewater treatment plants sludge
+GCA_035453665.1	TGA	CHECK	11	Minisyncoccota bacterium	Bacteria;Minisyncoccota;Minisyncoccota bacterium	PRJNA925477	Activated sludge of municipal wastewater treatment plants
+GCA_036851215.1	TGA	Mollicutes	11	Mollicutes bacterium UO1	Bacteria;Mycoplasmatota;Mollicutes;Mollicutes bacterium UO1	PRJNA875092	Geosiphon pyriformis
+GCA_037128495.1	TGA	CHECK	11	bacterium	Bacteria;bacterium	PRJNA1003647	freshwater from boreal shield lake
+GCA_037134335.1	TGA	CHECK	11	bacterium	Bacteria;bacterium	PRJNA1003647	freshwater from boreal shield lake
+GCA_037138875.1	TGA	CHECK	11	bacterium	Bacteria;bacterium	PRJNA1003647	freshwater from boreal shield lake
+GCA_037141395.1	TGA	CHECK	11	bacterium	Bacteria;bacterium	PRJNA1003647	freshwater from boreal shield lake
+GCA_037144335.1	TGA	CHECK	11	bacterium	Bacteria;bacterium	PRJNA1003647	freshwater from boreal shield lake
+GCA_038241225.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA923375	bacteriome
+GCA_039738815.1	TGA	NCBI code 25	25	Candidatus Absconditabacterales bacterium	Bacteria;Candidatus Absconditibacteriota;Candidatus Absconditabacterales;Candidatus Absconditabacterales bacterium	PRJNA1084198	single cell amplified by WGA-X; Water column (<0.2 um), Mercer Subglacial Lake
+GCA_040210545.2	TGA	CHECK	11	Candidatus Shikimatogenerans sp. Tser	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Candidatus Shikimatogenerans;Candidatus Shikimatogenerans sp. Tser	PRJNA1062330	missing
+GCA_040211365.2	TGA	CHECK	11	Candidatus Shikimatogenerans sp. Tder	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Candidatus Shikimatogenerans;Candidatus Shikimatogenerans sp. Tder	PRJNA1062330	wood
+GCA_040409785.2	TGA	CHECK	11	Candidatus Shikimatogenerans sp. Ttur	Bacteria;Bacteroidota;Flavobacteriia;Flavobacteriales;Candidatus Shikimatogenerans;Candidatus Shikimatogenerans sp. Ttur	PRJNA1062330	missing
+GCA_045599485.1	TAG	CHECK	11	Clostridia bacterium	Bacteria;Bacillota;Clostridia;Clostridia bacterium	PRJNA1030165	high altitude fresh fecal sample
+GCA_046531125.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA1146783	bacteriomes
+GCA_046531135.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA1146783	bacteriomes
+GCA_047338565.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA1146783	bacteriomes
+GCA_047338575.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA1146783	bacteriomes
+GCA_051294945.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA1097019	Babras sonorivox
+GCA_051294965.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA1097028	Tettigotoma maculata
+GCA_051294975.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA1097024	Okanagana bella
+GCA_051294985.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA1097024	Okanagana bella
+GCA_051294995.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA1097024	Okanagana bella
+GCA_051295005.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA512240	Okanagana rimosa
+GCA_051295345.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA1097027	Tettigades sp.
+GCA_051295365.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA1097023	Mendozana platypleura
+GCA_051295375.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA1097022	Chonosia atrodorsalis
+GCA_051515685.1	TGA	Nasuia	4	Candidatus Nasuia deltocephalincola	Bacteria;Pseudomonadota;Betaproteobacteria;Candidatus Nasuia;Candidatus Nasuia deltocephalincola	PRJNA1282572	bacteriomes
+GCA_052366765.1	TGA	Hodgkinia	4	Candidatus Hodgkinia cicadicola	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Candidatus Hodgkinia;Candidatus Hodgkinia cicadicola	PRJNA1304414	bacteriomes
+GCA_056209055.1	TAG	Christensenellales	11	Christensenellales bacterium	Bacteria;Bacillota;Clostridia;Christensenellales;Christensenellales bacterium	PRJNA1030165	high altitude fresh fecal sample
+GCA_949290385.1	TAG	CHECK	11	uncultured bacterium	Bacteria;uncultured bacterium	PRJEB57055	metagenome
+GCA_949534495.1	TGA	Mycoplasmatales	4	uncultured Mycoplasmatales bacterium	Bacteria;Mycoplasmatota;Mollicutes;Mycoplasmatales;uncultured Mycoplasmatales bacterium	PRJEB32890	mouse gut metagenome
+GCA_949544815.1	TGA	Mycoplasmatales	4	uncultured Mycoplasmatales bacterium	Bacteria;Mycoplasmatota;Mollicutes;Mycoplasmatales;uncultured Mycoplasmatales bacterium	PRJEB32890	mouse gut metagenome
+GCA_964565395.1	TGA	CHECK	11	uncultured bacterium	Bacteria;uncultured bacterium	PRJEB82487	insect metagenome
+GCF_023651715.1	TGA	CHECK	11	endosymbiont of Metamasius hemipterus	Bacteria;Pseudomonadota;Gammaproteobacteria;Candidatus Nardonella;Candidatus Nardonella dryophthoridicola	PRJNA798699	ovary
+GCF_024818055.1	TGA	Nasuia	4	Candidatus Nasuia deltocephalincola	Bacteria;Pseudomonadota;Betaproteobacteria;Candidatus Nasuia;Candidatus Nasuia deltocephalincola	PRJNA816609	N. ponapona
+GCF_024818075.1	TGA	Nasuia	4	Candidatus Nasuia deltocephalincola	Bacteria;Pseudomonadota;Betaproteobacteria;Candidatus Nasuia;Candidatus Nasuia deltocephalincola	PRJNA816609	N. sp. 246
+GCF_024818155.1	TGA	Nasuia	4	Candidatus Nasuia deltocephalincola	Bacteria;Pseudomonadota;Betaproteobacteria;Candidatus Nasuia;Candidatus Nasuia deltocephalincola	PRJNA816609	N. sp. 242
+GCF_024818175.1	TGA	Nasuia	4	Candidatus Nasuia deltocephalincola	Bacteria;Pseudomonadota;Betaproteobacteria;Candidatus Nasuia;Candidatus Nasuia deltocephalincola	PRJNA816609	N. sp. 58
+GCF_024818335.1	TGA	Nasuia	4	Candidatus Nasuia deltocephalincola	Bacteria;Pseudomonadota;Betaproteobacteria;Candidatus Nasuia;Candidatus Nasuia deltocephalincola	PRJNA816609	N. sp. 21
+GCF_024820075.1	TGA	Nasuia	4	Candidatus Nasuia deltocephalincola	Bacteria;Pseudomonadota;Betaproteobacteria;Candidatus Nasuia;Candidatus Nasuia deltocephalincola	PRJNA816609	N. sp. 23
+GCF_024820115.1	TGA	Nasuia	4	Candidatus Nasuia deltocephalincola	Bacteria;Pseudomonadota;Betaproteobacteria;Candidatus Nasuia;Candidatus Nasuia deltocephalincola	PRJNA816609	N. sp. 281
+GCF_024820135.1	TGA	Nasuia	4	Candidatus Nasuia deltocephalincola	Bacteria;Pseudomonadota;Betaproteobacteria;Candidatus Nasuia;Candidatus Nasuia deltocephalincola	PRJNA816609	N. sp. 302
+GCF_024820155.1	TGA	Nasuia	4	Candidatus Nasuia deltocephalincola	Bacteria;Pseudomonadota;Betaproteobacteria;Candidatus Nasuia;Candidatus Nasuia deltocephalincola	PRJNA816609	N. ogradyi
+SYN_CAA2TAA05_Ecoli	TAA	SYN					
+SYN_CAA2TAA30_Ecoli	TAA	SYN					

@@ -1,0 +1,8 @@
+GCA_023651715.1 reads from SRR21424116 (first 328616 spots): 260204 mapped reads (<= 3% mismatches)
+in-frame TGA sites: 141; covered by >= 3 reads: 25 (median depth 181)
+TGA in >= 90% of reads: 25; mixed: 0; TGA in <= 10%: 0
+other codons at non-fixed TGA sites: []
+control:
+in-frame TGG sites: 68; covered by >= 3 reads: 14 (median depth 5791)
+TGG in >= 90% of reads: 14; mixed: 0; TGG in <= 10%: 0
+other codons at non-fixed TGG sites: []

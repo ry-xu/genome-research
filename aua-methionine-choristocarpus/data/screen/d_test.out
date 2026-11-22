@@ -1,0 +1,53 @@
+ATA=Met tables: [2, 3, 5, 13, 21] | anchors dropped as echo risk: 8589
+population (declared ATA=Ile): 20336 | flag_ATA 19 | flag_ATT 0 | flag_ATC 0
+recall: declared ATA=Met genomes 7728 | with >=10 ATA at M/I 58 | flagged 1
+shape: (19, 13)
+┌─────────────┬─────────┬─────┬──────────┬───┬───────┬───────┬───────┬───────┐
+│ acc         ┆ kind    ┆ tt  ┆ tt_src   ┆ … ┆ ATT_M ┆ ATT_I ┆ ATG_M ┆ ATG_I │
+│ ---         ┆ ---     ┆ --- ┆ ---      ┆   ┆ ---   ┆ ---   ┆ ---   ┆ ---   │
+│ str         ┆ str     ┆ i64 ┆ str      ┆   ┆ u32   ┆ u32   ┆ u32   ┆ u32   │
+╞═════════════╪═════════╪═════╪══════════╪═══╪═══════╪═══════╪═══════╪═══════╡
+│ NC_053319.1 ┆ mito    ┆ 1   ┆ taxonomy ┆ … ┆ 1     ┆ 40    ┆ 20    ┆ 6     │
+│ MT270119.1  ┆ mito    ┆ 1   ┆ taxonomy ┆ … ┆ 2     ┆ 59    ┆ 12    ┆ 3     │
+│ AP044084.1  ┆ mito    ┆ 1   ┆ taxonomy ┆ … ┆ 2     ┆ 59    ┆ 12    ┆ 3     │
+│ MZ748314.1  ┆ mito    ┆ 1   ┆ taxonomy ┆ … ┆ 2     ┆ 59    ┆ 12    ┆ 3     │
+│ NC_053320.1 ┆ mito    ┆ 1   ┆ taxonomy ┆ … ┆ 1     ┆ 55    ┆ 8     ┆ 4     │
+│ AP044106.1  ┆ mito    ┆ 1   ┆ taxonomy ┆ … ┆ 1     ┆ 55    ┆ 9     ┆ 4     │
+│ CM014806.1  ┆ mito    ┆ 1   ┆ taxonomy ┆ … ┆ 1     ┆ 50    ┆ 30    ┆ 2     │
+│ CM072268.1  ┆ mito    ┆ 1   ┆ taxonomy ┆ … ┆ 1     ┆ 49    ┆ 30    ┆ 2     │
+│ CM015709.1  ┆ mito    ┆ 1   ┆ taxonomy ┆ … ┆ 1     ┆ 47    ┆ 30    ┆ 2     │
+│ KU183024.1  ┆ mito    ┆ 23  ┆ record   ┆ … ┆ 1     ┆ 47    ┆ 30    ┆ 2     │
+│ NC_085326.1 ┆ mito    ┆ 1   ┆ taxonomy ┆ … ┆ 2     ┆ 103   ┆ 12    ┆ 0     │
+│ OR830334.1  ┆ mito    ┆ 1   ┆ taxonomy ┆ … ┆ 1     ┆ 41    ┆ 20    ┆ 0     │
+│ NC_013935.1 ┆ mito    ┆ 1   ┆ taxonomy ┆ … ┆ 1     ┆ 41    ┆ 20    ┆ 0     │
+│ PV826132.1  ┆ mito    ┆ 1   ┆ taxonomy ┆ … ┆ 1     ┆ 74    ┆ 7     ┆ 2     │
+│ NC_042489.1 ┆ plastid ┆ 11  ┆ record   ┆ … ┆ 2     ┆ 251   ┆ 107   ┆ 7     │
+│ LC716140.1  ┆ plastid ┆ 1   ┆ default  ┆ … ┆ 3     ┆ 192   ┆ 20    ┆ 2     │
+│ AP017371.1  ┆ plastid ┆ 11  ┆ record   ┆ … ┆ 3     ┆ 192   ┆ 20    ┆ 2     │
+│ LC716139.1  ┆ plastid ┆ 1   ┆ default  ┆ … ┆ 1     ┆ 184   ┆ 34    ┆ 2     │
+│ NC_027093.1 ┆ plastid ┆ 11  ┆ record   ┆ … ┆ 3     ┆ 150   ┆ 36    ┆ 2     │
+└─────────────┴─────────┴─────┴──────────┴───┴───────┴───────┴───────┴───────┘
+shape: (9, 5)
+┌─────────┬───────────────────────────┬───────────────────────┬─────────┬───────────┐
+│ kind    ┆ class                     ┆ order                 ┆ records ┆ organisms │
+│ ---     ┆ ---                       ┆ ---                   ┆ ---     ┆ ---       │
+│ str     ┆ str                       ┆ str                   ┆ u32     ┆ u32       │
+╞═════════╪═══════════════════════════╪═══════════════════════╪═════════╪═══════════╡
+│ mito    ┆ Bangiophyceae             ┆ Cavernulicolales      ┆ 1       ┆ 1         │
+│ mito    ┆ Bangiophyceae             ┆ Cyanidiales           ┆ 5       ┆ 3         │
+│ mito    ┆ Bigyra                    ┆ Thraustochytrida      ┆ 4       ┆ 4         │
+│ mito    ┆ Phaeophyceae              ┆ Sphacelariales        ┆ 1       ┆ 1         │
+│ mito    ┆ Pseudoscourfieldiophyceae ┆ Pseudoscourfieldiales ┆ 2       ┆ 2         │
+│ mito    ┆ Xanthophyceae             ┆ Mischococcales        ┆ 1       ┆ 1         │
+│ plastid ┆ Chloropicophyceae         ┆ Chloropicales         ┆ 1       ┆ 1         │
+│ plastid ┆ Dinophyceae               ┆ Gymnodiniales         ┆ 1       ┆ 1         │
+│ plastid ┆ Dinophyceae               ┆                       ┆ 3       ┆ 3         │
+└─────────┴───────────────────────────┴───────────────────────┴─────────┴───────────┘
+flagged ATT/ATC genomes:
+shape: (0, 7)
+┌─────┬──────────┬───────┬───────┬───────┬───────┬───────┐
+│ acc ┆ organism ┆ order ┆ ATT_M ┆ ATT_I ┆ ATC_M ┆ ATC_I │
+│ --- ┆ ---      ┆ ---   ┆ ---   ┆ ---   ┆ ---   ┆ ---   │
+│ str ┆ str      ┆ str   ┆ u32   ┆ u32   ┆ u32   ┆ u32   │
+╞═════╪══════════╪═══════╪═══════╪═══════╪═══════╪═══════╡
+└─────┴──────────┴───────┴───────┴───────┴───────┴───────┘

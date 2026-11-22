@@ -1,0 +1,172 @@
+{
+ "acc": "GCA_000021505.1",
+ "size": 143795,
+ "gc": 0.5838520115442123,
+ "n_domains": 90,
+ "n_pfams": 80,
+ "code": "FFLLSSSSYY??CCWWLLLLPPPPHHQQRRRRIIIMTTTTNNKKSSRRVVVVAAAADDEEGGGG",
+ "nonstandard": [
+  {
+   "codon": "TGA",
+   "std": "*",
+   "call": "W",
+   "post": 1.0,
+   "n": 35,
+   "margin_vs_std": 67.74156344916233,
+   "top3": "W:67.7,?:0.0,Y:-17.2"
+  }
+ ],
+ "trnas": [
+  {
+   "contig": "CP001226.1",
+   "start": 31635,
+   "end": 31706,
+   "strand": "+",
+   "product": "tRNA-Cys",
+   "anticodon": "",
+   "note": "predicted from tRNAscan-SE",
+   "attr": "ID=rna-HCDSEM_041;Parent=gene-HCDSEM_041;Note=predicted from tRNAscan-SE;gbkey=tRNA;gene=trnC;locus_tag=HCDSEM_041;product=tRNA-Cys"
+  },
+  {
+   "contig": "CP001226.1",
+   "start": 46345,
+   "end": 46415,
+   "strand": "+",
+   "product": "tRNA-Gly",
+   "anticodon": "",
+   "note": "predicted from tRNAscan-SE",
+   "attr": "ID=rna-HCDSEM_061;Parent=gene-HCDSEM_061;Note=predicted from tRNAscan-SE;gbkey=tRNA;gene=trnG;locus_tag=HCDSEM_061;product=tRNA-Gly"
+  },
+  {
+   "contig": "CP001226.1",
+   "start": 46416,
+   "end": 46487,
+   "strand": "+",
+   "product": "tRNA-Trp",
+   "anticodon": "",
+   "note": "predicted from tRNAscan-SE as a selenocysteine (TCA anticodon)%2C experimetally shown to be tryptophan",
+   "attr": "ID=rna-HCDSEM_062;Parent=gene-HCDSEM_062;Note=predicted from tRNAscan-SE as a selenocysteine (TCA anticodon)%2C experimetally shown to be tryptophan;gbkey=tRNA;gene=trnW;locus_tag=HCDSEM_062;product=tRNA-Trp"
+  },
+  {
+   "contig": "CP001226.1",
+   "start": 70696,
+   "end": 70767,
+   "strand": "-",
+   "product": "tRNA-Met",
+   "anticodon": "",
+   "note": "predicted from tRNAscan-SE",
+   "attr": "ID=rna-HCDSEM_096;Parent=gene-HCDSEM_096;Note=predicted from tRNAscan-SE;gbkey=tRNA;gene=trnM;locus_tag=HCDSEM_096;product=tRNA-Met"
+  },
+  {
+   "contig": "CP001226.1",
+   "start": 72516,
+   "end": 72590,
+   "strand": "+",
+   "product": "tRNA-Gly",
+   "anticodon": "",
+   "note": "predicted from ARWEN%2C which has a high false positive rate on GC-rich DNA",
+   "attr": "ID=rna-HCDSEM_099;Parent=gene-HCDSEM_099;Note=predicted from ARWEN%2C which has a high false positive rate on GC-rich DNA;gbkey=tRNA;gene=trnG;locus_tag=HCDSEM_099;product=tRNA-Gly"
+  },
+  {
+   "contig": "CP001226.1",
+   "start": 74532,
+   "end": 74602,
+   "strand": "+",
+   "product": "tRNA-Phe",
+   "anticodon": "",
+   "note": "predicted from tRNAscan-SE",
+   "attr": "ID=rna-HCDSEM_103;Parent=gene-HCDSEM_103;Note=predicted from tRNAscan-SE;gbkey=tRNA;gene=trnF;locus_tag=HCDSEM_103;product=tRNA-Phe"
+  },
+  {
+   "contig": "CP001226.1",
+   "start": 79576,
+   "end": 79648,
+   "strand": "+",
+   "product": "tRNA-Gly",
+   "anticodon": "",
+   "note": "predicted from tRNAscan-SE",
+   "attr": "ID=rna-HCDSEM_108;Parent=gene-HCDSEM_108;Note=predicted from tRNAscan-SE;gbkey=tRNA;gene=trnG;locus_tag=HCDSEM_108;product=tRNA-Gly"
+  },
+  {
+   "contig": "CP001226.1",
+   "start": 82874,
+   "end": 82945,
+   "strand": "+",
+   "product": "tRNA-Lys",
+   "anticodon": "",
+   "note": "predicted from ARWEN%2C which has a high false positive rate on GC-rich DNA",
+   "attr": "ID=rna-HCDSEM_114;Parent=gene-HCDSEM_114;Note=predicted from ARWEN%2C which has a high false positive rate on GC-rich DNA;gbkey=tRNA;gene=trnK;locus_tag=HCDSEM_114;product=tRNA-Lys"
+  },
+  {
+   "contig": "CP001226.1",
+   "start": 95098,
+   "end": 95170,
+   "strand": "+",
+   "product": "tRNA-Ala",
+   "anticodon": "",
+   "note": "predicted from tRNAscan-SE",
+   "attr": "ID=rna-HCDSEM_129;Parent=gene-HCDSEM_129;Note=predicted from tRNAscan-SE;gbkey=tRNA;gene=trnA;locus_tag=HCDSEM_129;product=tRNA-Ala"
+  },
+  {
+   "contig": "CP001226.1",
+   "start": 98082,
+   "end": 98152,
+   "strand": "+",
+   "product": "tRNA-Met",
+   "anticodon": "",
+   "note": "predicted from tRNAscan-SE",
+   "attr": "ID=rna-HCDSEM_132;Parent=gene-HCDSEM_132;Note=predicted from tRNAscan-SE;gbkey=tRNA;gene=trnM;locus_tag=HCDSEM_132;product=tRNA-Met"
+  },
+  {
+   "contig": "CP001226.1",
+   "start": 105177,
+   "end": 105247,
+   "strand": "-",
+   "product": "tRNA-Glu",
+   "anticodon": "",
+   "note": "predicted from tRNAscan-SE",
+   "attr": "ID=rna-HCDSEM_142;Parent=gene-HCDSEM_142;Note=predicted from tRNAscan-SE;gbkey=tRNA;gene=trnE;locus_tag=HCDSEM_142;product=tRNA-Glu"
+  },
+  {
+   "contig": "CP001226.1",
+   "start": 105249,
+   "end": 105319,
+   "strand": "+",
+   "product": "tRNA-Pro",
+   "anticodon": "",
+   "note": "predicted from tRNAscan-SE",
+   "attr": "ID=rna-HCDSEM_143;Parent=gene-HCDSEM_143;Note=predicted from tRNAscan-SE;gbkey=tRNA;gene=trnP;locus_tag=HCDSEM_143;product=tRNA-Pro"
+  },
+  {
+   "contig": "CP001226.1",
+   "start": 123319,
+   "end": 123389,
+   "strand": "-",
+   "product": "tRNA-Gln",
+   "anticodon": "",
+   "note": "predicted from tRNAscan-SE",
+   "attr": "ID=rna-HCDSEM_163;Parent=gene-HCDSEM_163;Note=predicted from tRNAscan-SE;gbkey=tRNA;gene=trnQ;locus_tag=HCDSEM_163;product=tRNA-Gln"
+  },
+  {
+   "contig": "CP001226.1",
+   "start": 123442,
+   "end": 123514,
+   "strand": "-",
+   "product": "tRNA-Ile",
+   "anticodon": "",
+   "note": "predicted from tRNAscan-SE",
+   "attr": "ID=rna-HCDSEM_164;Parent=gene-HCDSEM_164;Note=predicted from tRNAscan-SE;gbkey=tRNA;gene=trnI;locus_tag=HCDSEM_164;product=tRNA-Ile"
+  },
+  {
+   "contig": "CP001226.1",
+   "start": 142794,
+   "end": 142864,
+   "strand": "-",
+   "product": "tRNA-His",
+   "anticodon": "",
+   "note": "predicted from tRNAscan-SE",
+   "attr": "ID=rna-HCDSEM_187;Parent=gene-HCDSEM_187;Note=predicted from tRNAscan-SE;gbkey=tRNA;gene=trnH;locus_tag=HCDSEM_187;product=tRNA-His"
+  }
+ ],
+ "seconds": 67.6189169883728
+}

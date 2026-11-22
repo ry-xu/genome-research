@@ -1,0 +1,1 @@
+Written 2026-11-11 17:27 before running: AU test (iqtree3 -au -zb 10000, LG+F+G4) of the unconstrained ML tree vs the best tree with readers (Tser, Tder, Ttur) constrained monophyletic. Reader monophyly rejected if AU p < 0.05.

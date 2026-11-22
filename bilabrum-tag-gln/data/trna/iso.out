@@ -1,0 +1,1404 @@
+# cmscan :: search sequence(s) against a CM database
+# INFERNAL 1.1.5 (Sep 2023)
+# Copyright (C) 2023 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query sequence file:                   trna_check.fa
+# target CM database:                    ~/dev/tools/lib/tRNAscan-SE/models/TRNAinf-euk-iso
+# CM configuration:                      glocal
+# output directed to file:               iso.out
+# tabular output of hits:                iso.tbl
+# tabular output format:                 2
+# truncated sequence detection:          off
+# search top-strand only:                on
+# number of worker threads:              1 [--cpu]
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       Sup_CTA_OZ237757.1_trna1  [L=73]
+Hit scores:
+ rank     E-value  score  bias  modelname  start    end   mdl trunc   gc  description
+ ----   --------- ------ -----  --------- ------ ------   --- ----- ----  -----------
+  (1) !   5.8e-18   73.1   0.0  euk-Gln        1     73 +  cm    no 0.55  -
+  (2) !   1.3e-16   73.2   0.0  euk-His        1     73 +  cm    no 0.55  -
+  (3) !     6e-15   51.4   0.0  euk-Glu        1     73 +  cm    no 0.55  -
+  (4) !   1.7e-13   51.3   0.0  euk-Tyr        1     73 +  cm    no 0.55  -
+  (5) !   2.1e-13   49.4   0.0  euk-Cys        1     73 +  cm    no 0.55  -
+  (6) !   3.7e-13   51.1   0.0  euk-Arg        1     73 +  cm    no 0.55  -
+  (7) !   1.1e-12   49.2   0.0  euk-Thr        1     73 +  cm    no 0.55  -
+  (8) !   3.8e-12   48.6   0.0  euk-Asp        1     73 +  cm    no 0.55  -
+  (9) !   5.8e-12   45.1   0.0  euk-Gly        2     72 +  cm    no 0.54  -
+ (10) !     2e-11   35.2   0.0  euk-Ser        4     70 +  cm    no 0.51  -
+ (11) !   4.4e-11   41.7   0.0  euk-Val        1     73 +  cm    no 0.55  -
+ (12) !   6.5e-11   33.7   0.0  euk-Ala        1     73 +  cm    no 0.55  -
+ (13) !   4.6e-10   33.8   0.0  euk-Trp        1     73 +  cm    no 0.55  -
+ (14) !   1.3e-09   28.5   0.0  euk-Asn        1     73 +  cm    no 0.55  -
+ (15) !   1.6e-09   22.7   0.0  euk-Met        1     73 +  cm    no 0.55  -
+ (16) !   4.6e-09   24.4   0.0  euk-Ile        1     73 +  cm    no 0.55  -
+ (17) !   5.1e-09   19.1   0.0  euk-Leu        1     73 +  cm    no 0.55  -
+ (18) !   5.3e-08   13.5   0.0  euk-Pro        1     73 +  cm    no 0.55  -
+ (19) !   5.6e-07   -4.0   0.0  euk-iMet       1     73 +  cm    no 0.55  -
+ (20) !   1.3e-06    7.1   0.0  euk-Lys        3     73 +  cm    no 0.54  -
+ (21) !   6.3e-05   -6.3   0.0  euk-Phe        6     68 +  cm    no 0.49  -
+
+
+Hit alignments:
+>> euk-Gln  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   5.8e-18   73.1   0.0  cm        1       72 []           1          73 + [] 0.99    no 0.55
+
+                                                                                                        NC
+                              (((((((,,<<<<________>>>>,<<<<<_______>>>>>,.,,,<<<<<_______>>>>>))))))): CS
+                   euk-Gln  1 GGUuCCAUGGUGUAGUGGUUAGCACUCuGGACUuuuAAUCCaGc.AAcCCGGGUUCGAAUCCCGGUGGgACCU 72
+                               G:: CAU+GUGUAGUGGUUAGCAC  UGGACU U+A UCCA C +AC:C:GGUUCGAAUCC:G:UG ::C  
+  Sup_CTA_OZ237757.1_trna1  1 CGCGACAUAGUGUAGUGGUUAGCACAGUGGACUCUAACUCCAUCaGACGCAGGUUCGAAUCCUGCUGUCGCGG 73
+                              ********************************************66*************************** PP
+
+>> euk-His  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (2) !   1.3e-16   73.2   0.0  cm        1       72 []           1          73 + [] 0.99    no 0.55
+
+                                                                                                        NC
+                              (((((((,,<<<<________>>>>,<<<<<_______>>>>>,.,,,<<<<<_______>>>>>))))))): CS
+                   euk-His  1 GCCguggUaGUaUAGUGGUUAGuACaCugCGUUuuuGCCGcaGa.GACCCgGGUUCGAUUCCcGGccacGGCA 72
+                               :CG:::UAGU:UAGUGGUUAG:ACA UG::+U U+ C::CA + GAC:C:GGUUCGA+UCC:G::::CG:  
+  Sup_CTA_OZ237757.1_trna1  1 CGCGACAUAGUGUAGUGGUUAGCACAGUGGACUCUAACUCCAUCaGACGCAGGUUCGAAUCCUGCUGUCGCGG 73
+                              ********************************************66*************************** PP
+
+>> euk-Glu  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (3) !     6e-15   51.4   0.0  cm        1       72 []           1          73 + [] 0.99    no 0.55
+
+                                                                                                         NC
+                              (((((((,,<<<<________>>>>,<<<<<_______>>>>.>,,,.,<<<<<_______>>>>>))))))): CS
+                   euk-Glu  1 UCCgaugUGGUCUAGUGGUUAGGAUUcguCGCUcuuACCGac.gAGG.CCCGGGUUCGAUUCCCGGcaucGGAA 72
+                                CGA :U+:U:UAGUGGUUAG:A: :::::CUCU+AC:::: :A G C C:GGUUCGA UCC:G : UCG   
+  Sup_CTA_OZ237757.1_trna1  1 CGCGACAUAGUGUAGUGGUUAGCACAGUGGACUCUAACUCCAuCA-GaCGCAGGUUCGAAUCCUGCUGUCGCGG 73
+                              *********************************************.77************************** PP
+
+>> euk-Tyr  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (4) !   1.7e-13   51.3   0.0  cm        1       89 []           1          73 + [] 1.00    no 0.55
+
+                                                                                                                      NC
+                              (((((((,,<<<<_______._>>>>,<<<<<_______________________>>>>>,,,,,<<<<<_______>>>>>))))) CS
+                   euk-Tyr  1 CCUUCGAUAGCUCAGUUGGU.AGAGCGGaGGACUuuuGugggauuacaguaGaaAUCCuUAGGUCGCUGGUUCGAAUCCGGCUCGAA 86
+                              C::  :AUAG   AGU GGU A   C G:GGACU U++                 UCC:U  G CGC:GGUUCGAAUCC:GCU:  :
+  Sup_CTA_OZ237757.1_trna1  1 CGCGACAUAGUGUAGU-GGUuAGCACAGUGGACUCUAA----------------CUCCAUCAGACGCAGGUUCGAAUCCUGCUGUCG 70
+                              ****************.*********************................*******9************************* PP
+
+                                  NC
+                              )): CS
+                   euk-Tyr 87 GGA 89
+                              :G 
+  Sup_CTA_OZ237757.1_trna1 71 CGG 73
+                              *** PP
+
+>> euk-Cys  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (5) !   2.1e-13   49.4   0.0  cm        1       72 []           1          73 + [] 1.00    no 0.55
+
+                                                                                                        NC
+                              (((((((,,<<<<______._>>>>,<<<<<_______>>>>>,,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Cys  1 GGGGGUAUAGCUCAGUGGU.AGAGCAUUUGACUcuuGAUCAAGAGGUCCCgGGUUCAAAUCCcGGUGCCCCCU 72
+                               G G :AUAG   AGUGGU A   CA:U:GACUCU++ UC:A:  G C:C GGUUC+AAUCC G:U: C C  
+  Sup_CTA_OZ237757.1_trna1  1 CGCGACAUAGUGUAGUGGUuAGCACAGUGGACUCUAACUCCAUCAGACGCAGGUUCGAAUCCUGCUGUCGCGG 73
+                              ******************************************99999************************** PP
+
+>> euk-Arg  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (6) !   3.7e-13   51.1   0.0  cm        1       73 []           1          73 + [] 1.00    no 0.55
+
+                                                                                                         NC
+                              (((((((,,<<<<________>>>>,<<<<<_______>>>>.>,,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Arg  1 GcCCccGUGGCgcAAUGGaUAgcGCGUCuGACUuuuAAUCaG.AAGgUUGcGGGUUCGAGUCCCgCCggGGgCg 73
+                                C :C:U G:G A+UGG+UA C:C+ ::GACU U+A UC::  AG+  GC:GGUUCGA UCC:GC:G: G  G
+  Sup_CTA_OZ237757.1_trna1  1 CGCGACAUAGUGUAGUGGUUAGCACAGUGGACUCUAACUCCAuCAGA-CGCAGGUUCGAAUCCUGCUGUCGCGG 73
+                              ***********************************************.************************** PP
+
+>> euk-Thr  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (7) !   1.1e-12   49.2   0.0  cm        1       73 []           1          73 + [] 0.99    no 0.55
+
+                                                                                                        NC
+                              (((((((,,<<<<________>>>>,<<<<<_______>>>>>,,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Thr  1 GCCcccgUAGCUcAGUGGUUAgAGCGCcgGuCUauuAAaCcgGAGaUCcuGGGUUCGAuUCCCagcgggGGCA 73
+                               :C: C:UAG ::AGUGGUUA:: C  :GG:CU U+A :CC:   + C:::GGUUCGA+UCC::::G :G:  
+  Sup_CTA_OZ237757.1_trna1  1 CGCGACAUAGUGUAGUGGUUAGCACAGUGGACUCUAACUCCAUCAGACGCAGGUUCGAAUCCUGCUGUCGCGG 73
+                              ******************************************99999************************** PP
+
+>> euk-Asp  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (8) !   3.8e-12   48.6   0.0  cm        1       72 []           1          73 + [] 1.00    no 0.55
+
+                                                         v              v                               NC
+                              (((((((,,<<<<________>>>>,<<<<<_______>>>.>>,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Asp  1 UCCucGuUAGUaUAGUGGUUAGuAUucCcGCCUuuuACGCg.GgAGACCCGGGUUCAAUUCCCGGaCggGGAG 72
+                                C::::UA:U UAGUGGUUAG A: : :G:CU U+AC:C:  :AGAC C:GGUUC+A UCC:G ::::G  G
+  Sup_CTA_OZ237757.1_trna1  1 CGCGACAUAGUGUAGUGGUUAGCACAGUGGACUCUAACUCCaUCAGACGCAGGUUCGAAUCCUGCUGUCGCGG 73
+                              ************************************************************************* PP
+
+>> euk-Gly  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (9) !   5.8e-12   45.1   0.0  cm        1       71 []           2          72 + .. 0.98    no 0.54
+
+                                                                                                        NC
+                              (((((((,,<<<<______._>>>>,<<<<<_______>>>>>,.,,,<<<<<_______>>>>>))))))): CS
+                   euk-Gly  1 GCaUUGGUGGUUcAGUGGU.AgAAUuCuuGCCUuucAuGCagGa.GACCCGGGUUCGAUUCCCGGCCAAuGCA 71
+                              GC: : :U :U::AGUGGU A::A:+:: G:CU U A :C ::  GAC C:GGUUCGA UCC:G : : :GC 
+  Sup_CTA_OZ237757.1_trna1  2 GCGAC-AUAGUGUAGUGGUuAGCACAGUGGACUCUAACUCCAUCaGACGCAGGUUCGAAUCCUGCU-GUCGCG 72
+                              ***99.7**********************************************************7.9***** PP
+
+>> euk-Ser  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+ (10) !     2e-11   35.2   0.0  cm        1       82 []           4          70 + .. 0.97    no 0.51
+
+                                                                                                                   NC
+                              (((((((,,<<<<________>>>>,<<<<<_______>>>>>,<<<<___.>>>>,.,<<<<<_______>>>>>))))))): CS
+                   euk-Ser  1 GuCGugGUGGCCGAGUGGUUAAGGCGAUGGACUuuuAAUCCAUUGGGcUUU.gCCCG.CGCAGGUUCGAAUCCUGCCcaCGaCG 82
+                              G   :::U G : AGUGGUUA : C  UGGACU U+A UCCA              G CGCAGGUUCGAAUCCUGC:::   CG
+  Sup_CTA_OZ237757.1_trna1  4 G---ACAUAGUGUAGUGGUUAGCACAGUGGACUCUAACUCCAUC-------a----GaCGCAGGUUCGAAUCCUGCUGU---CG 70
+                              *...**************************************77.......6....55*********************...** PP
+
+>> euk-Val  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+ (11) !   4.4e-11   41.7   0.0  cm        1       73 []           1          73 + [] 0.99    no 0.55
+
+                                                                                                        NC
+                              (((((((,,<<<<________>>>>,<<<<<_______>>>>>,,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Val  1 GuUUCcGUAGUGUAGUGGUUAUCACGUcuGCCUuucACGCagAAGGUCCCCGGUUCGAuCCCGGGCgGAAaCA 73
+                               ::  C:UAGUG AGUGGUUA CAC  ::G CU U AC C::   G C:C GGUUCGA+ CC G::G  ::  
+  Sup_CTA_OZ237757.1_trna1  1 CGCGACAUAGUGUAGUGGUUAGCACAGUGGACUCUAACUCCAUCAGACGCAGGUUCGAAUCCUGCUGUCGCGG 73
+                              ******************************************998**************************** PP
+
+>> euk-Ala  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+ (12) !   6.5e-11   33.7   0.0  cm        1       72 []           1          73 + [] 1.00    no 0.55
+
+                                                                                                        NC
+                              (((((((,,<<<<______._>>>>,<<<<<_______>>>>>,,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Ala  1 GGGGaUGUAGCUCAGUGGU.AGAGCGCucGCUUgucAUGCgaGAGGUCCuGGGUUCGAUcCCCaGCAuCUCCA 72
+                               G GA :UAG:  AGUGGU A  :C  U:G: U U A :C:A   G C:: GGUUCGA +CC ::: UC C  
+  Sup_CTA_OZ237757.1_trna1  1 CGCGACAUAGUGUAGUGGUuAGCACAGUGGACUCUAACUCCAUCAGACGCAGGUUCGAAUCCUGCUGUCGCGG 73
+                              ************************************************************************* PP
+
+>> euk-Trp  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+ (13) !   4.6e-10   33.8   0.0  cm        1       72 []           1          73 + [] 1.00    no 0.55
+
+                                                                                                        NC
+                              (((((((,,<<<<______._>>>>,<<<<<_______>>>>>,,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Trp  1 GaCccgGUGGCuCAAUGGU.AGaGCGUcuGACUuuaGAUCagAaGGUUGCaGGUUCAAUUCCuGUCcggGuCA 72
+                                C: : U+G:: A+UGGU A ::C  ::GACU UA+ UC::   G  :CAGGUUC+A+UCCUG: : :G   
+  Sup_CTA_OZ237757.1_trna1  1 CGCGACAUAGUGUAGUGGUuAGCACAGUGGACUCUAACUCCAUCAGACGCAGGUUCGAAUCCUGCUGUCGCGG 73
+                              ********************************************8**************************** PP
+
+>> euk-Asn  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+ (14) !   1.3e-09   28.5   0.0  cm        1       74 []           1          73 + [] 1.00    no 0.55
+
+                                                                                                         NC
+                              (((((((,,<<<<_________>>>>,<<<<<_______>>>>>,,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Asn  1 GuCUCuGUGGCGCAAUUGGUUAGCGCGUuCGGCUuuuAACCGaAAGGUUGGUGGUUCGAGCCCACCCaGGGaCG 74
+                               :C  ::U G G A+U GGUUA C C  U G:CU U+A :C A   G +G :GGUUCGA  CC: C::  G: G
+  Sup_CTA_OZ237757.1_trna1  1 CGCGACAUAGUGUAGU-GGUUAGCACAGUGGACUCUAACUCCAUCAGACGCAGGUUCGAAUCCUGCUGUCGCGG 73
+                              ****************.********************************************************* PP
+
+>> euk-Met  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+ (15) !   1.6e-09   22.7   0.0  cm        1       73 []           1          73 + [] 1.00    no 0.55
+
+                                                                                                         NC
+                              (((((((,,<<<<_______._>>>>,<<<<<_______>>>>>,,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Met  1 GCCuucUUAGCGCAGUuGGu.AGCGCGUCAGUCUuuuAAUCUGAAGGUCGuGAGUUCGAgCCUCaCAgagGGCA 73
+                               :C: C UAG G:AGU GGU A:C C  ::G CU U+A  C::   G CG: :GUUCGA+ C: :C G :G:  
+  Sup_CTA_OZ237757.1_trna1  1 CGCGACAUAGUGUAGU-GGUuAGCACAGUGGACUCUAACUCCAUCAGACGCAGGUUCGAAUCCUGCUGUCGCGG 73
+                              ****************.********************************************************* PP
+
+>> euk-Ile  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+ (16) !   4.6e-09   24.4   0.0  cm        1       74 []           1          73 + [] 0.99    no 0.55
+
+                                                                                                         NC
+                              (((((((,,<<<<_________>>>>,<<<<<_______>>>>>,,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Ile  1 GCCCcggUAGCUCAGUUGGUUAGAGCGUGGUGCUuugAACGCCAAGGUCGuGGGUUCGAuCCCCaCccgGGGCA 74
+                               :C  ::UAG : AGU GGUUA : C   G::CU U A ::C    G CG::GGUUCGA+ CC::C::  G:  
+  Sup_CTA_OZ237757.1_trna1  1 CGCGACAUAGUGUAGU-GGUUAGCACAGUGGACUCUAACUCCAUCAGACGCAGGUUCGAAUCCUGCUGUCGCGG 73
+                              ****************.****************************999************************** PP
+
+>> euk-Leu  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+ (17) !   5.1e-09   19.1   0.0  cm        1       84 []           1          73 + [] 0.98    no 0.55
+
+                                                                                                                     NC
+                              (((((((,,<<<<_________>>>>,<<<<<_______>>>>>,<<<<.____.>>>>,,<<<<<_______>>>>>))))))): CS
+                   euk-Leu  1 GcCAGgAUGGCCGAGUGGUCUAAGGCGCUgGAuUuuaGUUCcAGUCuCC.guaa.GGaGGCGUGGGUUCGAAUCCCACUcCUGgCA 84
+                               :C:::AU G   AGUGGU UA   C  UGGA+U UA  UCCA                 CG: GGUUCGAAUCC :CU:::G:  
+  Sup_CTA_OZ237757.1_trna1  1 CGCGACAUAGUGUAGUGGU-UAGCACAGUGGACUCUAACUCCAUC----a----g----ACGCAGGUUCGAAUCCUGCUGUCGCGG 73
+                              *******************.*************************....5....4....7************************** PP
+
+>> euk-Pro  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+ (18) !   5.3e-08   13.5   0.0  cm        1       72 []           1          73 + [] 0.85    no 0.55
+
+                                                                                                                      NC
+                              (((((((,,<<<<______._>>>>,<<<<<______........._>>>>>,,.......,,,<<<<<_______>>>>>)))))) CS
+                   euk-Pro  1 GGCucguUGGUCUAGUGGU.AUGAUUCUCGCUUuuuG.........UGCGAGAG.......GUCCCGGGUUCAAAUCCCGGacgaGC 70
+                               GC:: :U :U: AGUGGU A :A:        + UG                        G C C GGUUC+AAUCC G : ::GC
+  Sup_CTA_OZ237757.1_trna1  1 CGCGACAUAGUGUAGUGGUuAGCAC--------AGUGgacucuaac--------uccaucaGACGCAGGUUCGAAUCCUGCUGUCGC 71
+                              *************************........3444677665555........4444444************************** PP
+
+                                 NC
+                              ): CS
+                   euk-Pro 71 CC 72
+                                
+  Sup_CTA_OZ237757.1_trna1 72 GG 73
+                              ** PP
+
+>> euk-iMet  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+ (19) !   5.6e-07   -4.0   0.0  cm        1       72 []           1          73 + [] 1.00    no 0.55
+
+                                                                                                        NC
+                              (((((((,,<<<<______._>>>>,<<<<<_______>>>>>,,,,,<<<<<_______>>>>>))))))): CS
+                  euk-iMet  1 AGCAGAGUGGCGCAGCGGA.AGCGUGCUGGGCCuuuAACCCAGAGGUCGAUGGAUCGAAACCAUCCUCUGCUA 72
+                               GC::: U : G AG GG  A C :  UGG C  U+A  CCA   G CG::GG UCGAA CC::C :::GC  
+  Sup_CTA_OZ237757.1_trna1  1 CGCGACAUAGUGUAGUGGUuAGCACAGUGGACUCUAACUCCAUCAGACGCAGGUUCGAAUCCUGCUGUCGCGG 73
+                              *************************9*********************************************** PP
+
+>> euk-Lys  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+ (20) !   1.3e-06    7.1   0.0  cm        1       73 []           3          73 + .] 0.99    no 0.54
+
+                                vvv                                                                 vvv   NC
+                              (.((((((,,<<<<_______._>>>>,<<<<<_______>>>>>,,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Lys  1 G.CCcGGcUAGCUCAGUCGGU.AGAGCAUGAGACUuuuAAUCUCAGGGUCGUGGGUUCGAGCCCCACgUUgGGCg 73
+                                   :::UAG   AGU GGU A   CA ::GACU U+A UC::   G CG: GGUUCGA +CC :C:::+G+ G
+  Sup_CTA_OZ237757.1_trna1  3 Cg---ACAUAGUGUAGU-GGUuAGCACAGUGGACUCUAACUCCAUCAGACGCAGGUUCGAAUCCUGCUGUCGCGG 73
+                              *8...************.9999***************************************************** PP
+
+>> euk-Phe  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+ (21) !   6.3e-05   -6.3   0.0  cm        1       73 []           6          68 + .. 1.00    no 0.49
+
+                                  v                                                               v      NC
+                              (((((((,,<<<<_______._>>>>,<<<<<_______>>>>>,,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Phe  1 GCCgAaAUAGCUCAGUUGGG.AGAGCGUUAGACUuuuGAUCUAAAGGUCCCuGGUUCGAUCCCgGGUuUcGGCA 73
+                                    AUAG   AGU GG  A   C  U GACU U+  UC A   G C C GGUUCGA  CC G U U     
+  Sup_CTA_OZ237757.1_trna1  6 -----CAUAGUGUAGU-GGUuAGCACAGUGGACUCUAACUCCAUCAGACGCAGGUUCGAAUCCUGCUGU----- 68
+                              .....99*********.****************************************************..... PP
+
+
+
+Internal CM pipeline statistics summary:
+----------------------------------------
+Query sequence(s):                                               1  (73 residues searched)
+Query sequences re-searched for truncated hits:                  0  (0.0 residues re-searched, avg per model)
+Target model(s):                                                22  (1647 consensus positions)
+Windows   passing  local HMM SSV           filter:              22  (1); expected (0.35)
+Windows   passing  local HMM Viterbi       filter:                  (off)
+Windows   passing  local HMM Viterbi  bias filter:                  (off)
+Windows   passing  local HMM Forward       filter:              22  (1); expected (0.02)
+Windows   passing  local HMM Forward  bias filter:              22  (1); expected (0.02)
+Windows   passing glocal HMM Forward       filter:              22  (1); expected (0.02)
+Windows   passing glocal HMM Forward  bias filter:              22  (1); expected (0.02)
+Envelopes passing glocal HMM envelope defn filter:              22  (0.995); expected (0.02)
+Envelopes passing glocal CM  CYK           filter:              21  (0.9502); expected (0.0001)
+Total CM hits reported:                                         21  (0.9421); includes 0 truncated hit(s)
+
+# CPU time: 0.05u 0.00s 00:00:00.05 Elapsed: 00:00:00.40
+//
+Query:       Sup_CTA_pseudo_OZ237737.1_trna4  [L=70]
+Hit scores:
+ rank     E-value  score  bias  modelname  start    end   mdl trunc   gc  description
+ ----   --------- ------ -----  --------- ------ ------   --- ----- ----  -----------
+  (1) !   1.5e-08   22.7   0.0  euk-His        1     70 +  cm    no 0.47  -
+  (2) !   1.5e-08   17.0   0.0  euk-Pro        1     70 +  cm    no 0.47  -
+  (3) !   1.7e-08   12.9   0.0  euk-Glu        1     67 +  cm    no 0.48  -
+  (4) !   4.5e-07   11.4   0.0  euk-Gly        2     69 +  cm    no 0.47  -
+  (5) !   5.4e-07    8.0   0.0  euk-Ala        3     68 +  cm    no 0.47  -
+  (6) !   2.2e-06    2.6   0.0  euk-Gln        1     70 +  cm    no 0.47  -
+  (7) !   7.8e-06    2.9   0.0  euk-Cys        1     70 +  cm    no 0.47  -
+  (8) !   8.3e-06    4.2   0.0  euk-Thr        1     70 +  cm    no 0.47  -
+  (9) !   0.00015   -4.9   0.0  euk-Val        1     70 +  cm    no 0.47  -
+ (10) !   0.00021  -10.0   0.0  euk-Tyr        1     70 +  cm    no 0.47  -
+ (11) !   0.00036   -6.6   0.0  euk-Asp        1     69 +  cm    no 0.48  -
+ (12) !   0.00066  -14.7   0.0  euk-Ser        4     67 +  cm    no 0.47  -
+
+
+Hit alignments:
+>> euk-His  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   1.5e-08   22.7   0.0  cm        1       72 []           1          70 + [] 0.91    no 0.47
+
+                                                                 v           v                                NC
+                                     (((((((,,<<<<________>>>>,<<<<<_______>>>>>,,,,<<<<<_______>>>>>))))))): CS
+                          euk-His  1 GCCguggUaGUaUAGUGGUUAGuACaCugCGUUuuuGCCGcaGaGACCCgGGUUCGAUUCCcGGccacGGCA 72
+                                       CG:::U+:U:UAGUG U AG:A:+CU C + U U   G AGAG C: :GGUU GAUUCC: ::::CG   
+  Sup_CTA_pseudo_OZ237737.1_trna4  1 CACGAUAUGGUGUAGUGAU-AGCAUUCU-CGCAUCUAGUGGAGAGGCGUUGGUUUGAUUCCAGCUAUCGUGU 70
+                                     *******************.*******9.455555556666******************************* PP
+
+>> euk-Pro  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (2) !   1.5e-08   17.0   0.0  cm        1       72 []           1          70 + [] 1.00    no 0.47
+
+                                                                 v         v                                  NC
+                                     (((((((,,<<<<_______>>>>,<<<<<_______>>>>>,,,,,<<<<<_______>>>>>))))))): CS
+                          euk-Pro  1 GGCucguUGGUCUAGUGGUAUGAUUCUCGCUUuuuGUGCGAGAGGUCCCGGGUUCAAAUCCCGGacgaGCCC 72
+                                       C::::UGGU: AGUG UA :AUUCUCGC U U+GUG GAGAGG C   GGUU +A+UCC   ::::G   
+  Sup_CTA_pseudo_OZ237737.1_trna4  1 CACGAUAUGGUGUAGUGAUAGCAUUCUCGCAUCUAGUG-GAGAGG-CGUUGGUUUGAUUCCAGCUAUCGUGU 70
+                                     ****************************9********9.******.************************** PP
+
+>> euk-Glu  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (3) !   1.7e-08   12.9   0.0  cm        1       72 []           1          67 + [. 0.99    no 0.48
+
+                                     vv                           v         v                             vv  NC
+                                     (((((((,,<<<<________>>>>,<<<<<_______>>>>>,,,,<<<<<_______>>>>>))))))): CS
+                          euk-Glu  1 UCCgaugUGGUCUAGUGGUUAGGAUUcguCGCUcuuACCGacgAGGCCCGGGUUCGAUUCCCGGcaucGGAA 72
+                                       CGAU:UGGU:UAGUG U AG:AUUC::  C   UA  G::GAGGC   GGUU GAUUCC   :AUCG   
+  Sup_CTA_pseudo_OZ237737.1_trna4  1 CACGAUAUGGUGUAGUGAU-AGCAUUCUC-GCAUCUAGUGGAGAGGCGUUGGUUUGAUUCCAGCUAUCG--- 67
+                                     *******************.********9.999999999*****99***********************... PP
+
+>> euk-Gly  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (4) !   4.5e-07   11.4   0.0  cm        1       71 []           2          69 + .. 0.96    no 0.47
+
+                                                                 v         v                                 NC
+                                     (((((((,,<<<<_______>>>>,<<<<<_______>>>>>,,,,<<<<<_______>>>>>))))))): CS
+                          euk-Gly  1 GCaUUGGUGGUUcAGUGGUAgAAUuCuuGCCUuucAuGCagGaGACCCGGGUUCGAUUCCCGGCCAAuGCA 71
+                                      C: U :UGGU::AGUG UA::AUUC::GC U U  UG ::GAG C   GGUU GAUUCC   : A :G  
+  Sup_CTA_pseudo_OZ237737.1_trna4  2 ACGAU-AUGGUGUAGUGAUAGCAUUCUCGCAUCUAGUG-GAGAGGCGUUGGUUUGAUUCCAGCU-AUCGUG 69
+                                     ***99.7********************99999999898.89**********************7.99**** PP
+
+>> euk-Ala  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (5) !   5.4e-07    8.0   0.0  cm        1       72 []           3          68 + .. 0.98    no 0.47
+
+                                                                 v         v                                   NC
+                                     (((((((,,<<<<_______>>>>,<<<<<_______>>>>>,,,,,<<<<<_______>>>>>))))).)): CS
+                          euk-Ala  1 GGGGaUGUAGCUCAGUGGUAGAGCGCucGCUUgucAUGCgaGAGGUCCuGGGUUCGAUcCCCaGCAuCU.CCA 72
+                                        GAU:U+::  AGUG UA  :: CUCGC U U  UG GAGAGG C:  GGUU GAU+CC  ::AUC     
+  Sup_CTA_pseudo_OZ237737.1_trna4  3 --CGAUAUGGUGUAGUGAUAGCAUUCUCGCAUCUAGUG-GAGAGG-CGUUGGUUUGAUUCCAGCUAUCGu--- 68
+                                     ..********************************7777.9***99.************************... PP
+
+>> euk-Gln  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (6) !   2.2e-06    2.6   0.0  cm        1       72 []           1          70 + [] 0.87    no 0.47
+
+                                                                 v v            v v                                NC
+                                     (((((((,,<<<<________>>>>,<<<<<______....._>>>>>,,,,<<<<<_______>>>>>))))))): CS
+                          euk-Gln  1 GGUuCCAUGGUGUAGUGGUUAGCACUCuGGACUuuuA.....AUCCaGcAAcCCGGGUUCGAAUCCCGGUGGgACCU 72
+                                       :: :AUG UGUAGUG U AGCA UCU        A     +   AG + C:  GGUU GA UCC  :U: ::  U
+  Sup_CTA_pseudo_OZ237737.1_trna4  1 CACGAUAUGGUGUAGUGAU-AGCAUUCU-----CGCAucuagUG-GAGAGGCGUUGGUUUGAUUCCAGCUAUCGUGU 70
+                                     *******************.******96.....67774433332.446699************************** PP
+
+>> euk-Cys  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (7) !   7.8e-06    2.9   0.0  cm        1       72 []           1          70 + [] 0.92    no 0.47
+
+                                               vv         vv    vvv          vvv                                  NC
+                                     (((((((,,<<<<_______>>>>,<<<<<______..._>>>.>>,,,,,<<<<<_______>>>>>))))))): CS
+                          euk-Cys  1 GGGGGUAUAGCUCAGUGGUAGAGCAUUUGACUcuuG...AUCA.AGAGGUCCCgGGUUCAAAUCCcGGUGCCCCCU 72
+                                        G :AU G+  AGUG UA   CAUU   CUC  +   A ++ AGAGG C:::GGUU +A UCC:::U: C   U
+  Sup_CTA_pseudo_OZ237737.1_trna4  1 CACGAUAUGGUGUAGUGAUAG--CAUU---CUCGCAucuAGUGgAGAGG-CGUUGGUUUGAUUCCAGCUAUCGUGU 70
+                                     **********88899999996..9998...999999888777769****.************************** PP
+
+>> euk-Thr  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (8) !   8.3e-06    4.2   0.0  cm        1       73 []           1          70 + [] 0.97    no 0.47
+
+                                                                                                                      NC
+                                     (((((((,,<<<<________>>>>,<<<<<______........_>>>>>,,,,,<<<<<_______>>>>>))))))) CS
+                          euk-Thr  1 GCCcccgUAGCUcAGUGGUUAgAGCGCcgGuCUauuA........AaCcgGAGaUCcuGGGUUCGAuUCCCagcgggGGC 72
+                                       C: ::U+: ::AGUG U A:: :     :CU   A        A:    AG+ C:::GGUU GAUUCC::::: :G  
+  Sup_CTA_pseudo_OZ237737.1_trna4  1 CACGAUAUGGUGUAGUGAU-AGCAU-----UCUCGCAucuaguggAG----AGG-CGUUGGUUUGAUUCCAGCUAUCGUG 69
+                                     *******************.*****.....89999999999999997....***.************************* PP
+
+                                       NC
+                                     : CS
+                          euk-Thr 73 A 73
+                                     +
+  Sup_CTA_pseudo_OZ237737.1_trna4 70 U 70
+                                     * PP
+
+>> euk-Val  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (9) !   0.00015   -4.9   0.0  cm        1       73 []           1          70 + [] 0.93    no 0.47
+
+                                                                                                                NC
+                                     (((((((,,<<<<________>>>>,<<<<<_______>>>.>>,,,,,<<<<<_______>>>>>))))))): CS
+                          euk-Val  1 GuUUCcGUAGUGUAGUGGUUAUCACGUcuGCCUuucACGCa.gAAGGUCCCCGGUUCGAuCCCGGGCgGAAaCA 73
+                                       :  ::U+:UG AGUG U A CA: ::::C U U   G:: ::AGG C:  GGUU GAU CC  :::  :   
+  Sup_CTA_pseudo_OZ237737.1_trna4  1 CACGAUAUGGUGUAGUGAU-AGCAUUCUCGCAUCUA--GUGgAGAGG-CGUUGGUUUGAUUCCAGCUAUCGUGU 70
+                                     ****************888.*******999988886..55559**99.************************** PP
+
+>> euk-Tyr  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+ (10) !   0.00021  -10.0   0.0  cm        1       89 []           1          70 + [] 0.87    no 0.47
+
+                                                                v                             v                       NC
+                                     (((((((,,<<<<________>>>>,<<<<<_______________________>>>>>,,,,,<<<<<_______>>>> CS
+                          euk-Tyr  1 CCUUCGAUAGCUCAGUUGGUAGAGCGGaGGACUuuuGugggauuacaguaGaaAUCCuUAGGUCGCUGGUUCGAAUCCGG 80
+                                     C :   AU     AGU G UA     :     U   +           UAG      +:AGG CG::GGUU GA UCC::
+  Sup_CTA_pseudo_OZ237737.1_trna4  1 CACGAUAUGGUGUAGU-GAUAGCAUUC-----UCGCA---------UCUAGUGG---AGAGG-CGUUGGUUUGAUUCCAG 61
+                                     ****************.*****99964.....67777.........33333334...5799*.***************** PP
+
+                                               NC
+                                     >))))))): CS
+                          euk-Tyr 81 CUCGAAGGA 89
+                                     CU   : G 
+  Sup_CTA_pseudo_OZ237737.1_trna4 62 CUAUCGUGU 70
+                                     ********* PP
+
+>> euk-Asp  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+ (11) !   0.00036   -6.6   0.0  cm        1       72 []           1          69 + [. 0.93    no 0.48
+
+                                     vv                                                                          vv  NC
+                                     (((((((,,<<<<________>>>>,<<<<<_______>>......>>>,,,,<<<<<_______>>>>>))))).)): CS
+                          euk-Asp  1 UCCucGuUAGUaUAGUGGUUAGuAUucCcGCCUuuuACGC......gGgAGACCCGGGUUCAAUUCCCGGaCggG.GAG 72
+                                      +C::::U+GU UAGUG U AG AUUC:C       A         G:GAG C   GGUU +AUUCC   ::::G   G
+  Sup_CTA_pseudo_OZ237737.1_trna4  1 CACGAUAUGGUGUAGUGAU-AGCAUUCUC-----GCAU--cuagugGAGAGGCGUUGGUUUGAUUCCAGCUAUCGu--G 69
+                                     *******************.********9.....5553..4467778*****************************..* PP
+
+>> euk-Ser  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+ (12) !   0.00066  -14.7   0.0  cm        1       82 []           4          67 + .. 0.83    no 0.47
+
+                                               v             v    vvv       vvv      v           v                    NC
+                                     (((((((,,<<<<______.__>>>>,<<<<<_______>>>>>,<<<<...___.....>>>>,,<<<<<_______>> CS
+                          euk-Ser  1 GuCGugGUGGCCGAGUGGU.UAAGGCGAUGGACUuuuAAUCCAUUGGGc...UUU.....gCCCGCGCAGGUUCGAAUCC 71
+                                     G   :::UG         U UA  G GAU          + CAUU:::    U+U     +:::GCG: GGUU GA UCC
+  Sup_CTA_pseudo_OZ237737.1_trna4  4 G---AUAUGG--------UgUA--GUGAU----------AGCAUUCUC-gcaUCUaguggAGAGGCGUUGGUUUGAUUCC 59
+                                     *...999996........99**..8****..........566666666.666666666775666**************** PP
+
+                                                 NC
+                                     >>>))))))): CS
+                          euk-Ser 72 UGCCcaCGaCG 82
+                                      :C:::   CG
+  Sup_CTA_pseudo_OZ237737.1_trna4 60 AGCUAU---CG 67
+                                     ***999...** PP
+
+
+
+Internal CM pipeline statistics summary:
+----------------------------------------
+Query sequence(s):                                               1  (70 residues searched)
+Query sequences re-searched for truncated hits:                  0  (0.0 residues re-searched, avg per model)
+Target model(s):                                                22  (1647 consensus positions)
+Windows   passing  local HMM SSV           filter:              14  (0.6364); expected (0.35)
+Windows   passing  local HMM Viterbi       filter:                  (off)
+Windows   passing  local HMM Viterbi  bias filter:                  (off)
+Windows   passing  local HMM Forward       filter:              14  (0.6364); expected (0.02)
+Windows   passing  local HMM Forward  bias filter:              14  (0.6364); expected (0.02)
+Windows   passing glocal HMM Forward       filter:              13  (0.5909); expected (0.02)
+Windows   passing glocal HMM Forward  bias filter:              13  (0.5909); expected (0.02)
+Envelopes passing glocal HMM envelope defn filter:              13  (0.5883); expected (0.02)
+Envelopes passing glocal CM  CYK           filter:              12  (0.5429); expected (0.0001)
+Total CM hits reported:                                         12  (0.5351); includes 0 truncated hit(s)
+
+# CPU time: 0.04u 0.00s 00:00:00.04 Elapsed: 00:00:00.59
+//
+Query:       Gln_TTG_OZ237739.1_trna6  [L=73]
+Hit scores:
+ rank     E-value  score  bias  modelname  start    end   mdl trunc   gc  description
+ ----   --------- ------ -----  --------- ------ ------   --- ----- ----  -----------
+  (1) !   1.6e-17   70.4   0.0  euk-Gln        1     73 +  cm    no 0.52  -
+  (2) !   1.7e-15   66.4   0.0  euk-His        1     73 +  cm    no 0.52  -
+  (3) !   8.3e-15   64.6   0.0  euk-Gly        1     73 +  cm    no 0.52  -
+  (4) !   1.9e-13   53.0   0.0  euk-Arg        1     73 +  cm    no 0.52  -
+  (5) !   1.7e-12   36.8   0.0  euk-Glu        1     73 +  cm    no 0.52  -
+  (6) !   5.4e-12   44.6   0.0  euk-Thr        1     73 +  cm    no 0.52  -
+  (7) !     5e-11   40.9   0.0  euk-Asp        1     73 +  cm    no 0.52  -
+  (8) !   1.4e-10   35.5   0.0  euk-Asn        1     73 +  cm    no 0.52  -
+  (9) !   1.4e-10   37.2   0.0  euk-Trp        1     73 +  cm    no 0.52  -
+ (10) !   6.3e-10   33.5   0.0  euk-Val        1     73 +  cm    no 0.52  -
+ (11) !   7.1e-10   30.1   0.0  euk-Ile        1     73 +  cm    no 0.52  -
+ (12) !     4e-09   23.2   0.0  euk-Cys        1     73 +  cm    no 0.52  -
+ (13) !   5.7e-09   21.0   0.0  euk-Ala        1     73 +  cm    no 0.52  -
+ (14) !   1.3e-08   16.5   0.0  euk-Ser        1     73 +  cm    no 0.52  -
+ (15) !   5.2e-08   12.8   0.0  euk-Met        1     73 +  cm    no 0.52  -
+ (16) !   6.9e-08   13.6   0.0  euk-Tyr        1     73 +  cm    no 0.52  -
+ (17) !   8.8e-08   12.1   0.0  euk-Pro        1     73 +  cm    no 0.52  -
+ (18) !   2.4e-07   12.1   0.0  euk-Lys        1     73 +  cm    no 0.52  -
+ (19) !   7.2e-06   -1.0   0.0  euk-Leu        1     73 +  cm    no 0.52  -
+
+
+Hit alignments:
+>> euk-Gln  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   1.6e-17   70.4   0.0  cm        1       72 []           1          73 + [] 1.00    no 0.52
+
+                                                                                                        NC
+                              (((((((,,<<<<___._____>>>>,<<<<<_______>>>>>,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Gln  1 GGUuCCAUGGUGUAGU.GGUUAGCACUCuGGACUuuuAAUCCaGcAAcCCGGGUUCGAAUCCCGGUGGgACCU 72
+                              G:::C::UGGUGUA+U G U AGCACU : G CUUU AA C : CAA+C::GGUUCGAAUCC::G::G:::C 
+  Gln_TTG_OZ237739.1_trna6  1 GCCUCUGUGGUGUAAUgGUUCAGCACUGGUGCCUUUGAAGCACUCAAUCUAGGUUCGAAUCCUAGCAGAGGCG 73
+                              ************************************************************************* PP
+
+>> euk-His  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (2) !   1.7e-15   66.4   0.0  cm        1       72 []           1          73 + [] 1.00    no 0.52
+
+                                                                                                        NC
+                              (((((((,,<<<<______.__>>>>,<<<<<_______>>>>>,,,,<<<<<_______>>>>>))))))): CS
+                   euk-His  1 GCCguggUaGUaUAGUGGU.UAGuACaCugCGUUuuuGCCGcaGaGACCCgGGUUCGAUUCCcGGccacGGCA 72
+                              GCC:::GU+GU:UA UGGU +AG:AC+ ::: +UUU  + ::: ++A C::GGUUCGA+UCC::GC:::GGC 
+  Gln_TTG_OZ237739.1_trna6  1 GCCUCUGUGGUGUAAUGGUuCAGCACUGGUGCCUUUGAAGCACUCAAUCUAGGUUCGAAUCCUAGCAGAGGCG 73
+                              ************************************************************************* PP
+
+>> euk-Gly  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (3) !   8.3e-15   64.6   0.0  cm        1       71 []           1          73 + [] 1.00    no 0.52
+
+                                                                                                        NC
+                              (((((((,,<<<<______.._>>>>,<<<<<_______>>>>>,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Gly  1 GCaUUGGUGGUUcAGUGGU..AgAAUuCuuGCCUuucAuGCagGaGACCCGGGUUCGAUUCCCGGCCAAuGCA 71
+                              GC:U: GUG:U::A UGGU  A::A:U::UGCCUUU A+GCA::  A C::GGUUCGA UCC::GC :A:GC 
+  Gln_TTG_OZ237739.1_trna6  1 GCCUCUGUGGUGUAAUGGUucAGCACUGGUGCCUUUGAAGCACUCAAUCUAGGUUCGAAUCCUAGCAGAGGCG 73
+                              ************************************************************************* PP
+
+>> euk-Arg  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (4) !   1.9e-13   53.0   0.0  cm        1       73 []           1          73 + [] 0.99    no 0.52
+
+                                                                                                          NC
+                              (((((((,,<<<<______.__>>>>,<<<<<_______>>>>.>,,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Arg  1 GcCCccGUGGCgcAAUGGa.UAgcGCGUCuGACUuuuAAUCaG.AAGgUUGcGGGUUCGAGUCCCgCCggGGgCg 73
+                              GCC:C:GUGG:G AAUGG+  A C:C  :UG:CUUU AA:CA:  A + U:::GGUUCGA UCC:::C:G:GGCG
+  Gln_TTG_OZ237739.1_trna6  1 GCCUCUGUGGUGUAAUGGUuCAGCACUGGUGCCUUUGAAGCACuCA-A-UCUAGGUUCGAAUCCUAGCAGAGGCG 73
+                              *******************************************888.*.************************** PP
+
+>> euk-Glu  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (5) !   1.7e-12   36.8   0.0  cm        1       72 []           1          73 + [] 0.99    no 0.52
+
+                                                                                                         NC
+                              (((((((,,<<<<______.__>>>>,<<<<<_______>>>>.>,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Glu  1 UCCgaugUGGUCUAGUGGU.UAGGAUUcguCGCUcuuACCGac.gAGGCCCGGGUUCGAUUCCCGGcaucGGAA 72
+                               CC  UGUG:U:UA UGGU  AG:A:U:GU: CU U A  :AC :A   C :GGUUCGA UCC: GCA  GG  
+  Gln_TTG_OZ237739.1_trna6  1 GCCUCUGUGGUGUAAUGGUuCAGCACUGGUGCCUUUGAAGCACuCA-AUCUAGGUUCGAAUCCUAGCAGAGGCG 73
+                              ***9***************************************888.8************************** PP
+
+>> euk-Thr  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (6) !   5.4e-12   44.6   0.0  cm        1       73 []           1          73 + [] 0.99    no 0.52
+
+                                                                                                         NC
+                              (((((((,,<<<<______.__>>>>,<<<<<_______>>>>>,,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Thr  1 GCCcccgUAGCUcAGUGGU.UAgAGCGCcgGuCUauuAAaCcgGAGaUCcuGGGUUCGAuUCCCagcgggGGCA 73
+                              GCC:C:GU+G ::A UGGU  A:: C  ::G:CU U AA:C::   A  CU:GGUUCGA+UCC:AGC:G:GGC 
+  Gln_TTG_OZ237739.1_trna6  1 GCCUCUGUGGUGUAAUGGUuCAGCACUGGUGCCUUUGAAGCACUCAA-UCUAGGUUCGAAUCCUAGCAGAGGCG 73
+                              ****************9999999**********************77.************************** PP
+
+>> euk-Asp  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (7) !     5e-11   40.9   0.0  cm        1       72 []           1          73 + [] 1.00    no 0.52
+
+                                                                                                        NC
+                              (((((((,,<<<<______.__>>>>,<<<<<_______>>>>>,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Asp  1 UCCucGuUAGUaUAGUGGU.UAGuAUucCcGCCUuuuACGCgGgAGACCCGGGUUCAAUUCCCGGaCggGGAG 72
+                              :CC C::U+:U UA UGGU  AG A:U ::GCCUUU A GC::   A C :GGUUC+A UCC: G::G GG:G
+  Gln_TTG_OZ237739.1_trna6  1 GCCUCUGUGGUGUAAUGGUuCAGCACUGGUGCCUUUGAAGCACUCAAUCUAGGUUCGAAUCCUAGCAGAGGCG 73
+                              ************************************************************************* PP
+
+>> euk-Asn  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (8) !   1.4e-10   35.5   0.0  cm        1       74 []           1          73 + [] 0.97    no 0.52
+
+                                                                                                          NC
+                              (((((((,,<<<<_______.__>>>>,<<<<<_______>>>>>,,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Asn  1 GuCUCuGUGGCGCAAUUGGU.UAGCGCGUuCGGCUuuuAACCGaAAGGUUGGUGGUUCGAGCCCACCCaGGGaCG 74
+                              G:C:CUGUGG G AAU GGU  A C C  ::G CUUU AA C::     U ::GGUUCGA  CC:: CAG:G:CG
+  Gln_TTG_OZ237739.1_trna6  1 GCCUCUGUGGUGUAAU-GGUuCAGCACUGGUGCCUUUGAAGCACUC-AAUCUAGGUUCGAAUCCUAGCAGAGGCG 73
+                              ****************.5555*************************.88************************** PP
+
+>> euk-Trp  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (9) !   1.4e-10   37.2   0.0  cm        1       72 []           1          73 + [] 0.99    no 0.52
+
+                                                                                                         NC
+                              (((((((,,<<<<______.._>>>>,<<<<<_______>>>>>,,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Trp  1 GaCccgGUGGCuCAAUGGU..AGaGCGUcuGACUuuaGAUCagAaGGUUGCaGGUUCAAUUCCuGUCcggGuCA 72
+                              G:C C:GUGG:: AAUGGU  A ::C+  UG:CUUU +A:CA      U: AGGUUC+A+UCCU :C:G G:C 
+  Gln_TTG_OZ237739.1_trna6  1 GCCUCUGUGGUGUAAUGGUucAGCACUGGUGCCUUUGAAGCACUC-AAUCUAGGUUCGAAUCCUAGCAGAGGCG 73
+                              *********************************************.88************************** PP
+
+>> euk-Val  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+ (10) !   6.3e-10   33.5   0.0  cm        1       73 []           1          73 + [] 0.99    no 0.52
+
+                                                                                                         NC
+                              (((((((,,<<<<______.__>>>>,<<<<<_______>>>>>,,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Val  1 GuUUCcGUAGUGUAGUGGU.UAUCACGUcuGCCUuucACGCagAAGGUCCCCGGUUCGAuCCCGGGCgGAAaCA 73
+                              G::UC:GU+GUG A UGGU  A CAC   UGCCUUU A GCA       C: GGUUCGA+ CC :GC:GA::C 
+  Gln_TTG_OZ237739.1_trna6  1 GCCUCUGUGGUGUAAUGGUuCAGCACUGGUGCCUUUGAAGCACUC-AAUCUAGGUUCGAAUCCUAGCAGAGGCG 73
+                              *******************************************99.789************************* PP
+
+>> euk-Ile  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+ (11) !   7.1e-10   30.1   0.0  cm        1       74 []           1          73 + [] 1.00    no 0.52
+
+                                                                                                          NC
+                              (((((((,,<<<<_______.__>>>>,<<<<<_______>>>>>,,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Ile  1 GCCCcggUAGCUCAGUUGGU.UAGAGCGUGGUGCUuugAACGCCAAGGUCGuGGGUUCGAuCCCCaCccgGGGCA 74
+                              GCC C GU+G : A U GGU  A : C  G : CUUUGAA : C       U:GGUUCGA+ CC:A C G GGC 
+  Gln_TTG_OZ237739.1_trna6  1 GCCUCUGUGGUGUAAU-GGUuCAGCACUGGUGCCUUUGAAGCACUCAA-UCUAGGUUCGAAUCCUAGCAGAGGCG 73
+                              ****************.*******************************.************************** PP
+
+>> euk-Cys  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+ (12) !     4e-09   23.2   0.0  cm        1       72 []           1          73 + [] 0.99    no 0.52
+
+                                                                                                         NC
+                              (((((((,,<<<<______.._>>>>,<<<<<_______>>>>>,,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Cys  1 GGGGGUAUAGCUCAGUGGU..AGAGCAUUUGACUcuuGAUCAAGAGGUCCCgGGUUCAAAUCCcGGUGCCCCCU 72
+                              G: ::::U G   A UGGU  A   C : UG CU U +A CA :     C: GGUUC+AAUCC :G:::: :C 
+  Gln_TTG_OZ237739.1_trna6  1 GCCUCUGUGGUGUAAUGGUucAGCACUGGUGCCUUUGAAGCACUCAA-UCUAGGUUCGAAUCCUAGCAGAGGCG 73
+                              *******************************************9976.************************** PP
+
+>> euk-Ala  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+ (13) !   5.7e-09   21.0   0.0  cm        1       72 []           1          73 + [] 1.00    no 0.52
+
+                                                                                                         NC
+                              (((((((,,<<<<______.._>>>>,<<<<<_______>>>>>,,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Ala  1 GGGGaUGUAGCUCAGUGGU..AGAGCGCucGCUUgucAUGCgaGAGGUCCuGGGUUCGAUcCCCaGCAuCUCCA 72
+                              G:  :UGU+G:  A UGGU  A  :C  ::GC U U A GC::      CU GGUUCGA +CC AGCA:  :C 
+  Gln_TTG_OZ237739.1_trna6  1 GCCUCUGUGGUGUAAUGGUucAGCACUGGUGCCUUUGAAGCACUC-AAUCUAGGUUCGAAUCCUAGCAGAGGCG 73
+                              *********************************************.99************************** PP
+
+>> euk-Ser  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+ (14) !   1.3e-08   16.5   0.0  cm        1       82 []           1          73 + [] 0.98    no 0.52
+
+                                                                                                                   NC
+                              (((((((,,<<<<______.__>>>>,<<<<<_______>>>>>,<<<<___.>>>>,,<<<<<_______>>>>>))))))): CS
+                   euk-Ser  1 GuCGugGUGGCCGAGUGGU.UAAGGCGAUGGACUuuuAAUCCAUUGGGcUUU.gCCCGCGCAGGUUCGAAUCCUGCCcaCGaCG 82
+                              G:C ::GUGG : A UGGU  A : C  ::G:CUUU AA:C::                 :AGGUUCGAAUCCU: C:: G:CG
+  Gln_TTG_OZ237739.1_trna6  1 GCCUCUGUGGUGUAAUGGUuCAGCACUGGUGCCUUUGAAGCACUC-------a----AUCUAGGUUCGAAUCCUAGCAGAGGCG 73
+                              *******************************************77.......6....699************************ PP
+
+>> euk-Met  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+ (15) !   5.2e-08   12.8   0.0  cm        1       73 []           1          73 + [] 0.99    no 0.52
+
+                                                                                                          NC
+                              (((((((,,<<<<_______.._>>>>,<<<<<_______>>>>>,,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Met  1 GCCuucUUAGCGCAGUuGGu..AGCGCGUCAGUCUuuuAAUCUGAAGGUCGuGAGUUCGAgCCUCaCAgagGGCA 73
+                              GCC::::U+G G:A U GGU  A:C C    G CUUU AA C        :U :GUUCGA+ C: A:::::GGC 
+  Gln_TTG_OZ237739.1_trna6  1 GCCUCUGUGGUGUAAU-GGUucAGCACUGGUGCCUUUGAAGCACUC-AAUCUAGGUUCGAAUCCUAGCAGAGGCG 73
+                              ****************.***************************99.999************************* PP
+
+>> euk-Tyr  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+ (16) !   6.9e-08   13.6   0.0  cm        1       89 []           1          73 + [] 0.99    no 0.52
+
+                                                                                                                      NC
+                              (((((((,,<<<<_______.._>>>>,<<<<<_______________________>>>>>,,,,,<<<<<_______>>>>>)))) CS
+                   euk-Tyr  1 CCUUCGAUAGCUCAGUUGGU..AGAGCGGaGGACUuuuGugggauuacaguaGaaAUCCuUAGGUCGCUGGUUCGAAUCCGGCUCGA 85
+                              :C:UC :U G   A U GGU  A   C G  G CUUU +                A C  U       :GGUUCGAAUCC:  : GA
+  Gln_TTG_OZ237739.1_trna6  1 GCCUCUGUGGUGUAAU-GGUucAGCACUGGUGCCUUUGA----------------AGCACUC-AAUCUAGGUUCGAAUCCUAGCAGA 69
+                              ****************.**********************................*******.66********************** PP
+
+                                   NC
+                              ))): CS
+                   euk-Tyr 86 AGGA 89
+                              :G: 
+  Gln_TTG_OZ237739.1_trna6 70 GGCG 73
+                              **** PP
+
+>> euk-Pro  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+ (17) !   8.8e-08   12.1   0.0  cm        1       72 []           1          73 + [] 0.98    no 0.52
+
+                                                                                                         NC
+                              (((((((,,<<<<______.._>>>>,<<<<<_______>>>>>,,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Pro  1 GGCucguUGGUCUAGUGGU..AUGAUUCUCGCUUuuuGUGCGAGAGGUCCCGGGUUCAAAUCCCGGacgaGCCC 72
+                              G:CUC::UG:U: A UGGU  A :A:U ::GC UUU   GC::      C: GGUUC+AAUCC :G::GAG:C 
+  Gln_TTG_OZ237739.1_trna6  1 GCCUCUGUGGUGUAAUGGUucAGCACUGGUGCCUUUGAAGCACUC-AAUCUAGGUUCGAAUCCUAGCAGAGGCG 73
+                              ******************************************977.77************************** PP
+
+>> euk-Lys  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+ (18) !   2.4e-07   12.1   0.0  cm        1       73 []           1          73 + [] 1.00    no 0.52
+
+                                                                                                          NC
+                              (((((((,,<<<<_______.._>>>>,<<<<<_______>>>>>,,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Lys  1 GCCcGGcUAGCUCAGUCGGU..AGAGCAUGAGACUuuuAAUCUCAGGGUCGUGGGUUCGAGCCCCACgUUgGGCg 73
+                              GCC:  :U G   A U GGU  A   C  G:G CUUU AA C:C      :U GGUUCGA +CC A::  :GGCG
+  Gln_TTG_OZ237739.1_trna6  1 GCCUCUGUGGUGUAAU-GGUucAGCACUGGUGCCUUUGAAGCACUCAA-UCUAGGUUCGAAUCCUAGCAGAGGCG 73
+                              ****************.*******************************.************************** PP
+
+>> euk-Leu  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+ (19) !   7.2e-06   -1.0   0.0  cm        1       84 []           1          73 + [] 0.89    no 0.52
+
+                                       vvvv         vvvv v  vv       vv  v                                           NC
+                              (((((((,,<<<<_________>>>>,<<<<<_______>>>>>,<<<<.____.>>>>,,<<<<<_______>>>>>))))))): CS
+                   euk-Leu  1 GcCAGgAUGGCCGAGUGGUCUAAGGCGCUgGAuUuuaGUUCcAGUCuCC.guaa.GGaGGCGUGGGUUCGAAUCCCACUcCUGgCA 84
+                              GCC : :UGG+ +A UGGU  A    GC    +U   G  +   U ::  G+A   ::    U GGUUCGAAUCC A : : GGC 
+  Gln_TTG_OZ237739.1_trna6  1 GCCUCUGUGGUGUAAUGGUUCA----GC---ACUGGUGCCU---UUGA-aGCA-c-UCAAUCUAGGUUCGAAUCCUAGCAGAGGCG 73
+                              **********************....87...5999***532...7777.6555.6.7779************************** PP
+
+
+
+Internal CM pipeline statistics summary:
+----------------------------------------
+Query sequence(s):                                               1  (73 residues searched)
+Query sequences re-searched for truncated hits:                  0  (0.0 residues re-searched, avg per model)
+Target model(s):                                                22  (1647 consensus positions)
+Windows   passing  local HMM SSV           filter:              20  (0.9091); expected (0.35)
+Windows   passing  local HMM Viterbi       filter:                  (off)
+Windows   passing  local HMM Viterbi  bias filter:                  (off)
+Windows   passing  local HMM Forward       filter:              19  (0.8636); expected (0.02)
+Windows   passing  local HMM Forward  bias filter:              19  (0.8636); expected (0.02)
+Windows   passing glocal HMM Forward       filter:              19  (0.8636); expected (0.02)
+Windows   passing glocal HMM Forward  bias filter:              19  (0.8636); expected (0.02)
+Envelopes passing glocal HMM envelope defn filter:              19  (0.8636); expected (0.02)
+Envelopes passing glocal CM  CYK           filter:              19  (0.8636); expected (0.0001)
+Total CM hits reported:                                         19  (0.8636); includes 0 truncated hit(s)
+
+# CPU time: 0.06u 0.01s 00:00:00.06 Elapsed: 00:00:00.85
+//
+Query:       Gln_CTG_OZ237741.1_trna1  [L=72]
+Hit scores:
+ rank     E-value  score  bias  modelname  start    end   mdl trunc   gc  description
+ ----   --------- ------ -----  --------- ------ ------   --- ----- ----  -----------
+  (1) !   1.6e-15   66.5   0.0  euk-His        1     72 +  cm    no 0.57  -
+  (2) !   3.5e-15   56.1   0.0  euk-Gln        1     72 +  cm    no 0.57  -
+  (3) !   1.6e-13   53.5   0.0  euk-Arg        1     72 +  cm    no 0.57  -
+  (4) !   3.3e-13   52.5   0.0  euk-Thr        1     72 +  cm    no 0.57  -
+  (5) !   1.3e-12   49.6   0.0  euk-Gly        1     72 +  cm    no 0.57  -
+  (6) !   1.3e-12   44.6   0.0  euk-Cys        1     72 +  cm    no 0.57  -
+  (7) !     2e-11   30.4   0.0  euk-Glu        1     72 +  cm    no 0.57  -
+  (8) !   4.4e-11   41.2   0.0  euk-Asp        1     72 +  cm    no 0.57  -
+  (9) !   8.4e-11   30.9   0.0  euk-Met        1     72 +  cm    no 0.57  -
+ (10) !     3e-10   29.5   0.0  euk-Tyr        1     72 +  cm    no 0.57  -
+ (11) !   1.4e-09   30.5   0.0  euk-Trp        1     72 +  cm    no 0.57  -
+ (12) !   6.2e-09   23.2   0.0  euk-Lys        1     72 +  cm    no 0.57  -
+ (13) !   6.5e-09   23.3   0.0  euk-Asn        1     72 +  cm    no 0.57  -
+ (14) !   8.6e-09   22.5   0.0  euk-Ile        1     72 +  cm    no 0.57  -
+ (15) !   3.2e-08   16.1   0.0  euk-Ala        1     72 +  cm    no 0.57  -
+ (16) !     5e-08   19.9   0.0  euk-Val        1     72 +  cm    no 0.57  -
+ (17) !   1.7e-07   11.2   0.0  euk-Phe        1     72 +  cm    no 0.57  -
+ (18) !   3.4e-07    8.2   0.0  euk-Pro        1     72 +  cm    no 0.57  -
+ (19) !   5.9e-06   -0.5   0.0  euk-Leu        1     72 +  cm    no 0.57  -
+ (20) !   9.5e-06   -2.4   0.0  euk-Ser        1     72 +  cm    no 0.57  -
+
+
+Hit alignments:
+>> euk-His  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   1.6e-15   66.5   0.0  cm        1       72 []           1          72 + [] 1.00    no 0.57
+
+                                 v                                                               v     NC
+                              (((((((,,<<<<________>>>>,<<<<<_______>>>>>,,,,<<<<<_______>>>>>))))))): CS
+                   euk-His  1 GCCguggUaGUaUAGUGGUUAGuACaCugCGUUuuuGCCGcaGaGACCCgGGUUCGAUUCCcGGccacGGCA 72
+                              GCC :::U GUA:A  GGU+A:UACA U:::+U U  +:::A  GACCCGGGUUCGA UCCCGG::: GGC 
+  Gln_CTG_OZ237741.1_trna1  1 GCCAGCAUCGUACAACGGUCAGUACAUUAGACUCUGAAUCUAGGGACCCGGGUUCGACUCCCGGUGCAGGCU 72
+                              ************************************************************************ PP
+
+>> euk-Gln  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (2) !   3.5e-15   56.1   0.0  cm        1       72 []           1          72 + [] 1.00    no 0.57
+
+                                 v                                                               v     NC
+                              (((((((,,<<<<________>>>>,<<<<<_______>>>>>,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Gln  1 GGUuCCAUGGUGUAGUGGUUAGCACUCuGGACUuuuAAUCCaGcAAcCCGGGUUCGAAUCCCGGUGGgACCU 72
+                              G:: :CAU GU  A+ GGU A  AC :U:GACU U AAUC:A: +ACCCGGGUUCGA UCCCGGUG: ::CU
+  Gln_CTG_OZ237741.1_trna1  1 GCCAGCAUCGUACAACGGUCAGUACAUUAGACUCUGAAUCUAGGGACCCGGGUUCGACUCCCGGUGCAGGCU 72
+                              ************************************************************************ PP
+
+>> euk-Arg  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (3) !   1.6e-13   53.5   0.0  cm        1       73 []           1          72 + [] 1.00    no 0.57
+
+                                 v                                                                v     NC
+                              (((((((,,<<<<________>>>>,<<<<<_______>>>>>,,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Arg  1 GcCCccGUGGCgcAAUGGaUAgcGCGUCuGACUuuuAAUCaGAAGgUUGcGGGUUCGAGUCCCgCCggGGgCg 73
+                              GCC :C:U G: CAA GG+ AG :C+:::GACU U AAUC::: G+  :CGGGUUCGA UCCCG::G: GGC+
+  Gln_CTG_OZ237741.1_trna1  1 GCCAGCAUCGUACAACGGUCAGUACAUUAGACUCUGAAUCUAGGGA-CCCGGGUUCGACUCCCGGUGCAGGCU 72
+                              **********************************************.************************** PP
+
+>> euk-Thr  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (4) !   3.3e-13   52.5   0.0  cm        1       73 []           1          72 + [] 1.00    no 0.57
+
+                                 v                                                                v     NC
+                              (((((((,,<<<<________>>>>,<<<<<_______>>>>>,,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Thr  1 GCCcccgUAGCUcAGUGGUUAgAGCGCcgGuCUauuAAaCcgGAGaUCcuGGGUUCGAuUCCCagcgggGGCA 73
+                              GCC :C:U G  CA  GGU AG  C  : G:CU U AA:C :  GA CC:GGGUUCGA UCCC:G:G: GGC+
+  Gln_CTG_OZ237741.1_trna1  1 GCCAGCAUCGUACAACGGUCAGUACAUUAGACUCUGAAUCUAGGGA-CCCGGGUUCGACUCCCGGUGCAGGCU 72
+                              **********************************************.************************** PP
+
+>> euk-Gly  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (5) !   1.3e-12   49.6   0.0  cm        1       71 []           1          72 + [] 1.00    no 0.57
+
+                                 v                                                               v     NC
+                              (((((((,,<<<<______._>>>>,<<<<<_______>>>>>,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Gly  1 GCaUUGGUGGUUcAGUGGU.AgAAUuCuuGCCUuucAuGCagGaGACCCGGGUUCGAUUCCCGGCCAAuGCA 71
+                              GC: : :U :U CA  GGU AG A:+ ::G:CU U A+:C::  GACCCGGGUUCGA UCCCGG: : :GC 
+  Gln_CTG_OZ237741.1_trna1  1 GCCAGCAUCGUACAACGGUcAGUACAUUAGACUCUGAAUCUAGGGACCCGGGUUCGACUCCCGGUGCAGGCU 72
+                              ************************************************************************ PP
+
+>> euk-Cys  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (6) !   1.3e-12   44.6   0.0  cm        1       72 []           1          72 + [] 0.98    no 0.57
+
+                                 v                                                                v     NC
+                              (((((((,,<<<<______._>>>>,<<<<<_______>>>>>,,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Cys  1 GGGGGUAUAGCUCAGUGGU.AGAGCAUUUGACUcuuGAUCAAGAGGUCCCgGGUUCAAAUCCcGGUGCCCCCU 72
+                              G:  G:AU G  CA  GGU AG  CAUU:GACUCU +AUC:AG  G CCCGGGUUC+A UCCCGGU:C  :CU
+  Gln_CTG_OZ237741.1_trna1  1 GCCAGCAUCGUACAACGGUcAGUACAUUAGACUCUGAAUCUAGG-GACCCGGGUUCGACUCCCGGUGCAGGCU 72
+                              ***8****************************************.55************************** PP
+
+>> euk-Glu  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (7) !     2e-11   30.4   0.0  cm        1       72 []           1          72 + [] 0.99    no 0.57
+
+                                 v                                                                 v     NC
+                              ((((.(((,,<<<<________>>>>,<<<<<_______>>>>>,,,.,<<<<<_______>>>>>))))))): CS
+                   euk-Glu  1 UCCg.augUGGUCUAGUGGUUAGGAUUcguCGCUcuuACCGacgAGG.CCCGGGUUCGAUUCCCGGcaucGGAA 72
+                               CC    :U :U :A  GGU A: A: :: ::CUCU A :: ::  G CCCGGGUUCGA UCCCGG:  +GG  
+  Gln_CTG_OZ237741.1_trna1  1 GCC-aGCAUCGUACAACGGUCAGUACAUUAGACUCUGAAUCUAGG-GaCCCGGGUUCGACUCCCGGUGCAGGCU 72
+                              **8.9****************************************.77************************** PP
+
+>> euk-Asp  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (8) !   4.4e-11   41.2   0.0  cm        1       72 []           1          72 + [] 1.00    no 0.57
+
+                                 v                                                                v     NC
+                              (((((((,.,<<<<________>>>>,<<<<<_______>>>>>,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Asp  1 UCCucGuU.AGUaUAGUGGUUAGuAUucCcGCCUuuuACGCgGgAGACCCGGGUUCAAUUCCCGGaCggGGAG 72
+                              :CC  ::U  :UA:A  GGU A:UA: :::G:CU U A :C::: GACCCGGGUUC+A UCCCGG::  GG: 
+  Gln_CTG_OZ237741.1_trna1  1 GCCAGCAUc-GUACAACGGUCAGUACAUUAGACUCUGAAUCUAGGGACCCGGGUUCGACUCCCGGUGCAGGCU 72
+                              ********8.*************************************************************** PP
+
+>> euk-Met  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (9) !   8.4e-11   30.9   0.0  cm        1       73 []           1          72 + [] 1.00    no 0.57
+
+                                 v                                                                 v     NC
+                              (((((((,,<<<<_______._>>>>,<<<<<_______>>>>>,,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Met  1 GCCuucUUAGCGCAGUuGGu.AGCGCGUCAGUCUuuuAAUCUGAAGGUCGuGAGUUCGAgCCUCaCAgagGGCA 73
+                              GCC :C U G  CA   GGU AG  C ::AG CU U AA CU::  G C::G:GUUCGA  C:C:: G: GGC 
+  Gln_CTG_OZ237741.1_trna1  1 GCCAGCAUCGUACAAC-GGUcAGUACAUUAGACUCUGAAUCUAGG-GACCCGGGUUCGACUCCCGGUGCAGGCU 72
+                              ****************.***************************9.**************************** PP
+
+>> euk-Tyr  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+ (10) !     3e-10   29.5   0.0  cm        1       89 []           1          72 + [] 1.00    no 0.57
+
+                                 v                                                                                 v  NC
+                              (((((((,,<<<<_______._>>>>,<<<<<_______________________>>>>>,,,,,<<<<<_______>>>>>))))) CS
+                   euk-Tyr  1 CCUUCGAUAGCUCAGUUGGU.AGAGCGGaGGACUuuuGugggauuacaguaGaaAUCCuUAGGUCGCUGGUUCGAAUCCGGCUCGAA 86
+                              :C: ::AU G  CA + GGU AG  C  ::GACU U +                AUC::  G  C C:GGUUCGA UCC:G U:: :
+  Gln_CTG_OZ237741.1_trna1  1 GCCAGCAUCGUACAAC-GGUcAGUACAUUAGACUCUGA----------------AUCUAGGGA-CCCGGGUUCGACUCCCGGUGCAG 69
+                              ****************.*********************................*******99.*********************** PP
+
+                                  NC
+                              )): CS
+                   euk-Tyr 87 GGA 89
+                              G: 
+  Gln_CTG_OZ237741.1_trna1 70 GCU 72
+                              *** PP
+
+>> euk-Trp  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+ (11) !   1.4e-09   30.5   0.0  cm        1       72 []           1          72 + [] 1.00    no 0.57
+
+                                 v                                                                v     NC
+                              (((((((,,<<<<______._>>>>,<<<<<_______>>>>>,,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Trp  1 GaCccgGUGGCuCAAUGGU.AGaGCGUcuGACUuuaGAUCagAaGGUUGCaGGUUCAAUUCCuGUCcggGuCA 72
+                              G:C :: U G: CAA+GGU AG :C  : GACU U +AUC : + G  :C:GGUUC+A UCC:G: :: G:C 
+  Gln_CTG_OZ237741.1_trna1  1 GCCAGCAUCGUACAACGGUcAGUACAUUAGACUCUGAAUCUAGG-GACCCGGGUUCGACUCCCGGUGCAGGCU 72
+                              ********************************************.99************************** PP
+
+>> euk-Lys  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+ (12) !   6.2e-09   23.2   0.0  cm        1       73 []           1          72 + [] 0.98    no 0.57
+
+                                 v                                                                 v     NC
+                              (((((((,,<<<<_______._>>>>,<<<<<_______>>>>>,,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Lys  1 GCCcGGcUAGCUCAGUCGGU.AGAGCAUGAGACUuuuAAUCUCAGGGUCGUGGGUUCGAGCCCCACgUUgGGCg 73
+                              GCC :::U G  CA   GGU AG  CA :AGACU U AAUCU: GG  C::GGGUUCGA +CCC::::: GGC+
+  Gln_CTG_OZ237741.1_trna1  1 GCCAGCAUCGUACAAC-GGUcAGUACAUUAGACUCUGAAUCUAGGGA-CCCGGGUUCGACUCCCGGUGCAGGCU 72
+                              **********999999.99999999*****************99999.************************** PP
+
+>> euk-Asn  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+ (13) !   6.5e-09   23.3   0.0  cm        1       74 []           1          72 + [] 0.99    no 0.57
+
+                                 v                                                                 v     NC
+                              (((((((,,<<<<_________>>>>,<<<<<_______>>>>>,,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Asn  1 GuCUCuGUGGCGCAAUUGGUUAGCGCGUuCGGCUuuuAACCGaAAGGUUGGUGGUUCGAGCCCACCCaGGGaCG 74
+                              G:C :::U G  CAA  GGU AG  C :U:G:CU U AA:C:A:  G +  :GGUUCGA  CC:  ::: G:C 
+  Gln_CTG_OZ237741.1_trna1  1 GCCAGCAUCGUACAAC-GGUCAGUACAUUAGACUCUGAAUCUAGG-GACCCGGGUUCGACUCCCGGUGCAGGCU 72
+                              ****************.***************************9.66************************** PP
+
+>> euk-Ile  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+ (14) !   8.6e-09   22.5   0.0  cm        1       74 []           1          72 + [] 1.00    no 0.57
+
+                                 v                                                                 v     NC
+                              (((((((,,<<<<_________>>>>,<<<<<_______>>>>>,,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Ile  1 GCCCcggUAGCUCAGUUGGUUAGAGCGUGGUGCUuugAACGCCAAGGUCGuGGGUUCGAuCCCCaCccgGGGCA 74
+                              GCC :::U G  CA   GGU AG  C   :::CU UGAA:::   G  C :GGGUUCGA  CCC: ::: GGC 
+  Gln_CTG_OZ237741.1_trna1  1 GCCAGCAUCGUACAAC-GGUCAGUACAUUAGACUCUGAAUCUAGGGA-CCCGGGUUCGACUCCCGGUGCAGGCU 72
+                              ****************.******************************.************************** PP
+
+>> euk-Ala  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+ (15) !   3.2e-08   16.1   0.0  cm        1       72 []           1          72 + [] 0.99    no 0.57
+
+                                 v                                                                v     NC
+                              (((((((,,<<<<______._>>>>,<<<<<_______>>>>>,,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Ala  1 GGGGaUGUAGCUCAGUGGU.AGAGCGCucGCUUgucAUGCgaGAGGUCCuGGGUUCGAUcCCCaGCAuCUCCA 72
+                              G:  : :U G::CA  GGU AG::C  U G: U U A :C A   G CC:GGGUUCGA +CCC:G: :  :C 
+  Gln_CTG_OZ237741.1_trna1  1 GCCAGCAUCGUACAACGGUcAGUACAUUAGACUCUGAAUCUAGG-GACCCGGGUUCGACUCCCGGUGCAGGCU 72
+                              ********************************************.77************************** PP
+
+>> euk-Val  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+ (16) !     5e-08   19.9   0.0  cm        1       73 []           1          72 + [] 0.99    no 0.57
+
+                                 v                                                                v     NC
+                              (((((((,,<<<<________>>>>,<<<<<_______>>>>>,,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Val  1 GuUUCcGUAGUGUAGUGGUUAUCACGUcuGCCUuucACGCagAAGGUCCCCGGUUCGAuCCCGGGCgGAAaCA 73
+                              G:: :C:U GU  A  GGU A  AC  ::G CU U A  C::   G CCC:GGUUCGA  CC:GG:G: ::C 
+  Gln_CTG_OZ237741.1_trna1  1 GCCAGCAUCGUACAACGGUCAGUACAUUAGACUCUGAAUCUAGG-GACCCGGGUUCGACUCCCGGUGCAGGCU 72
+                              ***7***************************************9.88************************** PP
+
+>> euk-Phe  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+ (17) !   1.7e-07   11.2   0.0  cm        1       73 []           1          72 + [] 0.99    no 0.57
+
+                                 v                                                                 v     NC
+                              (((((((,,<<<<_______._>>>>,<<<<<_______>>>>>,,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Phe  1 GCCgAaAUAGCUCAGUUGGG.AGAGCGUUAGACUuuuGAUCUAAAGGUCCCuGGUUCGAUCCCgGGUuUcGGCA 73
+                              GCC   AU G  CA   GG  AG  C :UAGACU U  AUCUA: G  CCC:GGUUCGA  CC:GGU   GGC 
+  Gln_CTG_OZ237741.1_trna1  1 GCCAGCAUCGUACAAC-GGUcAGUACAUUAGACUCUGAAUCUAGGGA-CCCGGGUUCGACUCCCGGUGCAGGCU 72
+                              ***9************.***************************987.************************** PP
+
+>> euk-Pro  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+ (18) !   3.4e-07    8.2   0.0  cm        1       72 []           1          72 + [] 0.99    no 0.57
+
+                                 v                                                                v     NC
+                              (((((((,,<<<<______._>>>>,<<<<<_______>>>>>,,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Pro  1 GGCucguUGGUCUAGUGGU.AUGAUUCUCGCUUuuuGUGCGAGAGGUCCCGGGUUCAAAUCCCGGacgaGCCC 72
+                              G:C : :U :U :A  GGU A: A:  U G  U U    C A   G CCCGGGUUC+A UCCCGG: : G:C 
+  Gln_CTG_OZ237741.1_trna1  1 GCCAGCAUCGUACAACGGUcAGUACAUUAGACUCUGAAUCUAGG-GACCCGGGUUCGACUCCCGGUGCAGGCU 72
+                              *************************************9999999.99************************** PP
+
+>> euk-Leu  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+ (19) !   5.9e-06   -0.5   0.0  cm        1       84 []           1          72 + [] 0.94    no 0.57
+
+                                 v       vv         vv                                                         v     NC
+                              (((((((,,<<<<_________>>.>>,<<<<<_______>>>>>,<<<<____>>>>,.,<<<<<_______>>>>>))))))): CS
+                   euk-Leu  1 GcCAGgAUGGCCGAGUGGUCUAAG.GCGCUgGAuUuuaGUUCcAGUCuCCguaaGGaGG.CGUGGGUUCGAAUCCCACUcCUGgCA 84
+                              GCC G:AU G + A +GGUC      C  U:GA+U U+  UC:A              G C :GGGUUCGA UCCC: U:C GGC 
+  Gln_CTG_OZ237741.1_trna1  1 GCCAGCAUCGUACAACGGUCAG--uACAUUAGACUCUGAAUCUAGG------------GaCCCGGGUUCGACUCCCGGUGCAGGCU 72
+                              **********998******633..36********************............55************************** PP
+
+>> euk-Ser  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+ (20) !   9.5e-06   -2.4   0.0  cm        1       82 []           1          72 + [] 0.99    no 0.57
+
+                                 v                                                                          v     NC
+                              (((((((,,<<<<________>>>>,<<<<<_______>>>>>,<<<<___>>>>,.,<<<<<_______>>>>>))))))): CS
+                   euk-Ser  1 GuCGugGUGGCCGAGUGGUUAAGGCGAUGGACUuuuAAUCCAUUGGGcUUUgCCCG.CGCAGGUUCGAAUCCUGCCcaCGaCG 82
+                              G:C :::U G   A  GGU A   C  U:GACU U AAUC:A             G C C:GGUUCGA UCC:G ::: G:C 
+  Gln_CTG_OZ237741.1_trna1  1 GCCAGCAUCGUACAACGGUCAGUACAUUAGACUCUGAAUCUAGG-----------GaCCCGGGUUCGACUCCCGGUGCAGGCU 72
+                              ********************************************...........88*********************5**** PP
+
+
+
+Internal CM pipeline statistics summary:
+----------------------------------------
+Query sequence(s):                                               1  (72 residues searched)
+Query sequences re-searched for truncated hits:                  0  (0.0 residues re-searched, avg per model)
+Target model(s):                                                22  (1647 consensus positions)
+Windows   passing  local HMM SSV           filter:              21  (0.9545); expected (0.35)
+Windows   passing  local HMM Viterbi       filter:                  (off)
+Windows   passing  local HMM Viterbi  bias filter:                  (off)
+Windows   passing  local HMM Forward       filter:              20  (0.9091); expected (0.02)
+Windows   passing  local HMM Forward  bias filter:              20  (0.9091); expected (0.02)
+Windows   passing glocal HMM Forward       filter:              20  (0.9091); expected (0.02)
+Windows   passing glocal HMM Forward  bias filter:              20  (0.9091); expected (0.02)
+Envelopes passing glocal HMM envelope defn filter:              20  (0.9091); expected (0.02)
+Envelopes passing glocal CM  CYK           filter:              20  (0.9091); expected (0.0001)
+Total CM hits reported:                                         20  (0.9091); includes 0 truncated hit(s)
+
+# CPU time: 0.04u 0.00s 00:00:00.04 Elapsed: 00:00:00.89
+//
+Query:       Tyr_GTA_OZ237735.1_trna3  [L=73]
+Hit scores:
+ rank     E-value  score  bias  modelname  start    end   mdl trunc   gc  description
+ ----   --------- ------ -----  --------- ------ ------   --- ----- ----  -----------
+  (1) !   2.4e-17   73.6   0.0  euk-Cys        1     73 +  cm    no 0.51  -
+  (2) !   5.8e-17   74.6   0.0  euk-Tyr        1     73 +  cm    no 0.51  -
+  (3) !   2.4e-15   65.3   0.0  euk-Phe        1     73 +  cm    no 0.51  -
+  (4) !   1.8e-14   60.7   0.0  euk-Thr        1     73 +  cm    no 0.51  -
+  (5) !   6.4e-14   56.4   0.0  euk-His        1     73 +  cm    no 0.51  -
+  (6) !   3.9e-13   48.2   0.0  euk-Ala        1     73 +  cm    no 0.51  -
+  (7) !   2.4e-12   49.2   0.0  euk-Trp        1     73 +  cm    no 0.51  -
+  (8) !   9.2e-12   41.7   0.0  euk-Arg        1     73 +  cm    no 0.51  -
+  (9) !   1.6e-11   41.4   0.0  euk-Lys        1     73 +  cm    no 0.51  -
+ (10) !   4.8e-11   31.0   0.0  euk-Gln        1     73 +  cm    no 0.51  -
+ (11) !   1.1e-10   38.8   0.0  euk-Val        1     73 +  cm    no 0.51  -
+ (12) !   1.4e-10   29.6   0.0  euk-Met        1     73 +  cm    no 0.51  -
+ (13) !     6e-10   30.9   0.0  euk-Asn        4     70 +  cm    no 0.51  -
+ (14) !     1e-09   24.8   0.0  euk-Pro        1     73 +  cm    no 0.51  -
+ (15) !   1.4e-09   28.0   0.0  euk-Ile        1     73 +  cm    no 0.51  -
+ (16) !   2.4e-09   27.2   0.0  euk-Gly        4     70 +  cm    no 0.51  -
+ (17) !   2.8e-08   21.9   0.0  euk-Asp        1     73 +  cm    no 0.51  -
+ (18) !   8.2e-08   11.4   0.0  euk-Leu        1     73 +  cm    no 0.51  -
+ (19) !   1.3e-06    3.3   0.0  euk-Ser        4     70 +  cm    no 0.51  -
+ (20) !   0.00069  -14.3   0.0  euk-Glu        8     66 +  cm    no 0.49  -
+
+
+Hit alignments:
+>> euk-Cys  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   2.4e-17   73.6   0.0  cm        1       72 []           1          73 + [] 1.00    no 0.51
+
+                                                                                                        NC
+                              (((((((,,<<<<___.____>>>>,<<<<<_______>>>>>,,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Cys  1 GGGGGUAUAGCUCAGU.GGUAGAGCAUUUGACUcuuGAUCAAGAGGUCCCgGGUUCAAAUCCcGGUGCCCCCU 72
+                                 G :AUAGCUCAGU GGUAGAGC+:UUGACU U+G UCAA:  GUCCC:GGUUC+A UCC:GGU: C    
+  Tyr_GTA_OZ237735.1_trna3  1 CUCGACAUAGCUCAGUuGGUAGAGCGGUUGACUGUAGUUCAAUUAGUCCCUGGUUCGAUUCCGGGUGUCGAGA 73
+                              ************************************************************************* PP
+
+>> euk-Tyr  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (2) !   5.8e-17   74.6   0.0  cm        1       89 []           1          73 + [] 1.00    no 0.51
+
+                                                                                                                      NC
+                              (((((((,,<<<<________>>>>,<<<<<_______________________>>>>>,,,,,<<<<<_______>>>>>)))))) CS
+                   euk-Tyr  1 CCUUCGAUAGCUCAGUUGGUAGAGCGGaGGACUuuuGugggauuacaguaGaaAUCCuUAGGUCGCUGGUUCGAAUCCGGCUCGAAG 87
+                              C::  :AUAGCUCAGUUGGUAGAGCGG: GACU U+G                 UC :U  GUC CUGGUUCGA UCCGG U:  ::
+  Tyr_GTA_OZ237735.1_trna3  1 CUCGACAUAGCUCAGUUGGUAGAGCGGUUGACUGUAG----------------UUCAAUUAGUCCCUGGUUCGAUUCCGGGUGUCGA 71
+                              *************************************................*******9************************** PP
+
+                                 NC
+                              ): CS
+                   euk-Tyr 88 GA 89
+                              GA
+  Tyr_GTA_OZ237735.1_trna3 72 GA 73
+                              ** PP
+
+>> euk-Phe  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (3) !   2.4e-15   65.3   0.0  cm        1       73 []           1          73 + [] 1.00    no 0.51
+
+                                                                                                        NC
+                              (((((((,,<<<<________>>>>,<<<<<_______>>>>>,,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Phe  1 GCCgAaAUAGCUCAGUUGGGAGAGCGUUAGACUuuuGAUCUAAAGGUCCCuGGUUCGAUCCCgGGUuUcGGCA 73
+                                CGA AUAGCUCAGUUGG AGAGCG U GACU U+G UC A   GUCCCUGGUUCGAU CCGGGU UCG  A
+  Tyr_GTA_OZ237735.1_trna3  1 CUCGACAUAGCUCAGUUGGUAGAGCGGUUGACUGUAGUUCAAUUAGUCCCUGGUUCGAUUCCGGGUGUCGAGA 73
+                              ************************************************************************* PP
+
+>> euk-Thr  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (4) !   1.8e-14   60.7   0.0  cm        1       73 []           1          73 + [] 1.00    no 0.51
+
+                                                                                                         NC
+                              (((((((,,<<<<___._____>>>>,<<<<<_______>>>>>,,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Thr  1 GCCcccgUAGCUcAGU.GGUUAgAGCGCcgGuCUauuAAaCcgGAGaUCcuGGGUUCGAuUCCCagcgggGGCA 73
+                               :C: C:UAGCUCAGU GGU AGAGCG ::G:CU U+  :C::   +UCC::GGUUCGAUUCC::G:G :G: A
+  Tyr_GTA_OZ237735.1_trna3  1 CUCGACAUAGCUCAGUuGGU-AGAGCGGUUGACUGUAGUUCAAUUAGUCCCUGGUUCGAUUCCGGGUGUCGAGA 73
+                              ********************.***************************************************** PP
+
+>> euk-His  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (5) !   6.4e-14   56.4   0.0  cm        1       72 []           1          73 + [] 0.99    no 0.51
+
+                                                                                                         NC
+                              (((((((,,<<<<___._____>>>>,<<<<<_______>>>>>,.,,,<<<<<_______>>>>>))))))): CS
+                   euk-His  1 GCCguggUaGUaUAGU.GGUUAGuACaCugCGUUuuuGCCGcaGa.GACCCgGGUUCGAUUCCcGGccacGGCA 72
+                               :CG:::UAG:::AGU GGU A:::C+ U:::+U U+G :::A   G CCC GGUUCGAUUCC GG:::CG: A
+  Tyr_GTA_OZ237735.1_trna3  1 CUCGACAUAGCUCAGUuGGU-AGAGCGGUUGACUGUAGUUCAAUUaGUCCCUGGUUCGAUUCCGGGUGUCGAGA 73
+                              ********************.************************66*************************** PP
+
+>> euk-Ala  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (6) !   3.9e-13   48.2   0.0  cm        1       72 []           1          73 + [] 1.00    no 0.51
+
+                                                                                                        NC
+                              (((((((,,<<<<___.____>>>>,<<<<<_______>>>>>,,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Ala  1 GGGGaUGUAGCUCAGU.GGUAGAGCGCucGCUUgucAUGCgaGAGGUCCuGGGUUCGAUcCCCaGCAuCUCCA 72
+                                 GA :UAGCUCAGU GGUAGAGCG U:G: UGU  U:C:A   GUCC: GGUUCGAU+CC :G: UC   A
+  Tyr_GTA_OZ237735.1_trna3  1 CUCGACAUAGCUCAGUuGGUAGAGCGGUUGACUGUAGUUCAAUUAGUCCCUGGUUCGAUUCCGGGUGUCGAGA 73
+                              ************************************************************************* PP
+
+>> euk-Trp  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (7) !   2.4e-12   49.2   0.0  cm        1       72 []           1          73 + [] 1.00    no 0.51
+
+                                                                                                        NC
+                              (((((((,,<<<<___.____>>>>,<<<<<_______>>>>>,,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Trp  1 GaCccgGUGGCuCAAU.GGUAGaGCGUcuGACUuuaGAUCagAaGGUUGCaGGUUCAAUUCCuGUCcggGuCA 72
+                                C: : U+GCUCA+U GGUAGAGCG :UGACU UAG UCA:   GU :C GGUUC+AUUCC G: : :G  A
+  Tyr_GTA_OZ237735.1_trna3  1 CUCGACAUAGCUCAGUuGGUAGAGCGGUUGACUGUAGUUCAAUUAGUCCCUGGUUCGAUUCCGGGUGUCGAGA 73
+                              ********************************************8**************************** PP
+
+>> euk-Arg  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (8) !   9.2e-12   41.7   0.0  cm        1       73 []           1          73 + [] 0.99    no 0.51
+
+                                                                                                         NC
+                              (((((((,,<<<<___._____>>>>,<<<<<_______>>>>>,,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Arg  1 GcCCccGUGGCgcAAU.GGaUAgcGCGUCuGACUuuuAAUCaGAAGgUUGcGGGUUCGAGUCCCgCCggGGgCg 73
+                               :C :C:U GC:CA+U GG+ AG:GCG :UGACU U++ UCA:   GU :C GGUUCGA UCC G::G: G:  
+  Tyr_GTA_OZ237735.1_trna3  1 CUCGACAUAGCUCAGUuGGU-AGAGCGGUUGACUGUAGUUCAAUUAGUCCCUGGUUCGAUUCCGGGUGUCGAGA 73
+                              ********************.************************8999999********************** PP
+
+>> euk-Lys  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (9) !   1.6e-11   41.4   0.0  cm        1       73 []           1          73 + [] 1.00    no 0.51
+
+                                                                                                        NC
+                              (((((((,,<<<<________>>>>,<<<<<_______>>>>>,,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Lys  1 GCCcGGcUAGCUCAGUCGGUAGAGCAUGAGACUuuuAAUCUCAGGGUCGUGGGUUCGAGCCCCACgUUgGGCg 73
+                                C::::UAGCUCAGU+GGUAGAGC+ ::GACU U+  UC::   GUC:: GGUUCGA +CC ::::::G  +
+  Tyr_GTA_OZ237735.1_trna3  1 CUCGACAUAGCUCAGUUGGUAGAGCGGUUGACUGUAGUUCAAUUAGUCCCUGGUUCGAUUCCGGGUGUCGAGA 73
+                              ************************************************************************* PP
+
+>> euk-Gln  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+ (10) !   4.8e-11   31.0   0.0  cm        1       72 []           1          73 + [] 0.99    no 0.51
+
+                                                                                                         NC
+                              (((((((,,<<<<___._____>>>>,<<<<<_______>>>>>,.,,,<<<<<_______>>>>>))))))): CS
+                   euk-Gln  1 GGUuCCAUGGUGUAGU.GGUUAGCACUCuGGACUuuuAAUCCaGc.AAcCCGGGUUCGAAUCCCGGUGGgACCU 72
+                                :: CAU+G:  AGU GGU A  :C  U GACU U+ +UC A + + CCC GGUUCGA UCC GGUG ::   
+  Tyr_GTA_OZ237735.1_trna3  1 CUCGACAUAGCUCAGUuGGU-AGAGCGGUUGACUGUAGUUCAAUUaGUCCCUGGUUCGAUUCCGGGUGUCGAGA 73
+                              ********************.************************669************************** PP
+
+>> euk-Val  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+ (11) !   1.1e-10   38.8   0.0  cm        1       73 []           1          73 + [] 1.00    no 0.51
+
+                                                                                                         NC
+                              (((((((,,<<<<___._____>>>>,<<<<<_______>>>>>,,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Val  1 GuUUCcGUAGUGUAGU.GGUUAUCACGUcuGCCUuucACGCagAAGGUCCCCGGUUCGAuCCCGGGCgGAAaCA 73
+                               U:  C:UAG:  AGU GGU A  :CG :UG CU U    CA:   GUCCC GGUUCGAU CC GG:G  :A A
+  Tyr_GTA_OZ237735.1_trna3  1 CUCGACAUAGCUCAGUuGGU-AGAGCGGUUGACUGUAGUUCAAUUAGUCCCUGGUUCGAUUCCGGGUGUCGAGA 73
+                              ********************.************************9**************************** PP
+
+>> euk-Met  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+ (12) !   1.4e-10   29.6   0.0  cm        1       73 []           1          73 + [] 1.00    no 0.51
+
+                                                                                                        NC
+                              (((((((,,<<<<________>>>>,<<<<<_______>>>>>,,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Met  1 GCCuucUUAGCGCAGUuGGuAGCGCGUCAGUCUuuuAAUCUGAAGGUCGuGAGUUCGAgCCUCaCAgagGGCA 73
+                               :C: C UAGC:CAGUUGGUAG:GCG : G CU U+   C :   GUC:: :GUUCGA  C: :: G :G: A
+  Tyr_GTA_OZ237735.1_trna3  1 CUCGACAUAGCUCAGUUGGUAGAGCGGUUGACUGUAGUUCAAUUAGUCCCUGGUUCGAUUCCGGGUGUCGAGA 73
+                              ************************************************************************* PP
+
+>> euk-Asn  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+ (13) !     6e-10   30.9   0.0  cm        1       74 []           4          70 + .. 0.99    no 0.51
+
+                                                                                                         NC
+                              (((((((,,<<<<_________>>>>,<<<<<_______>>>>>,,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Asn  1 GuCUCuGUGGCGCAAUUGGUUAGCGCGUuCGGCUuuuAACCGaAAGGUUGGUGGUUCGAGCCCACCCaGGGaCG 74
+                              G:C   :U GC:CA+UUGGU AG:GCG U:G:CU U+  :C:A   GU+   GGUUCGA  CC   :   G:CG
+  Tyr_GTA_OZ237735.1_trna3  4 GAC---AUAGCUCAGUUGGU-AGAGCGGUUGACUGUAGUUCAAUUAGUCCCUGGUUCGAUUCCGGGU---GUCG 70
+                              **8...9*************.*********************************************9...8*** PP
+
+>> euk-Pro  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+ (14) !     1e-09   24.8   0.0  cm        1       72 []           1          73 + [] 0.99    no 0.51
+
+                                                                                                        NC
+                              (((((((,,<<<<___.____>>>>,<<<<<_______>>>>>,,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Pro  1 GGCucguUGGUCUAGU.GGUAUGAUUCUCGCUUuuuGUGCGAGAGGUCCCGGGUUCAAAUCCCGGacgaGCCC 72
+                                C:: :U ::::AGU GGUA::::  U:G  U U+GU C:A   GUCCC GGUUC+A+UCC GG: ::G   
+  Tyr_GTA_OZ237735.1_trna3  1 CUCGACAUAGCUCAGUuGGUAGAGCGGUUGACUGUAGUUCAAUUAGUCCCUGGUUCGAUUCCGGGUGUCGAGA 73
+                              ********************************************7**************************** PP
+
+>> euk-Ile  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+ (15) !   1.4e-09   28.0   0.0  cm        1       74 []           1          73 + [] 1.00    no 0.51
+
+                                                                                                         NC
+                              (((((((,,<<<<_________>>>>,<<<<<_______>>>>>,,,,,<<<<<_______>>>>>))))))): CS
+                   euk-Ile  1 GCCCcggUAGCUCAGUUGGUUAGAGCGUGGUGCUuugAACGCCAAGGUCGuGGGUUCGAuCCCCaCccgGGGCA 74
+                                C  ::UAGCUCAGUUGGU AGAGCG   ::CU U   ::     GUC : GGUUCGAU CC : ::  G  A
+  Tyr_GTA_OZ237735.1_trna3  1 CUCGACAUAGCUCAGUUGGU-AGAGCGGUUGACUGUAGUUCAAUUAGUCCCUGGUUCGAUUCCGGGUGUCGAGA 73
+                              ********************.***************************************************** PP
+
+>> euk-Gly  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+ (16) !   2.4e-09   27.2   0.0  cm        1       71 []           4          70 + .. 0.98    no 0.51
+
+                                                                                                        NC
+                              (((((((,,<<<<___.____>>>>,<<<<<_______>>>>>,.,,,<<<<<_______>>>>>))))))): CS
+                   euk-Gly  1 GCaUUGGUGGUUcAGU.GGUAgAAUuCuuGCCUuucAuGCagGa.GACCCGGGUUCGAUUCCCGGCCAAuGCA 71
+                              G   : :U : UCAGU GGUAGA : ::UG:CU U  U:CA::  G CCC GGUUCGAUUCC GG: :   C 
+  Tyr_GTA_OZ237735.1_trna3  4 G---ACAUAGCUCAGUuGGUAGAGCGGUUGACUGUAGUUCAAUUaGUCCCUGGUUCGAUUCCGGGUGU---CG 70
+                              *...69************************************************************96...** PP
+
+>> euk-Asp  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+ (17) !   2.8e-08   21.9   0.0  cm        1       72 []           1          73 + [] 0.99    no 0.51
+
+                                                                                                         NC
+                              (((((((,,<<<<___._____>>>>,<<<<<_______>>>>>,.,,,<<<<<_______>>>>>))))))): CS
+                   euk-Asp  1 UCCucGuUAGUaUAGU.GGUUAGuAUucCcGCCUuuuACGCgGgA.GACCCGGGUUCAAUUCCCGGaCggGGAG 72
+                                C::::UA::::AGU GGU A::::  ::G:CU U+  :C::   G CCC GGUUC+AUUCC GG::::G  +
+  Tyr_GTA_OZ237735.1_trna3  1 CUCGACAUAGCUCAGUuGGU-AGAGCGGUUGACUGUAGUUCAAUUaGUCCCUGGUUCGAUUCCGGGUGUCGAGA 73
+                              ********************.*********************8888**************************** PP
+
+>> euk-Leu  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+ (18) !   8.2e-08   11.4   0.0  cm        1       84 []           1          73 + [] 0.98    no 0.51
+
+                                                                              vv     vv                              NC
+                              (((((((,,<<<<___.______>>>>,<<<<<_______>>>>>,<<<<____.>>>>,,<<<<<_______>>>>>))))))): CS
+                   euk-Leu  1 GcCAGgAUGGCCGAGU.GGUCUAAGGCGCUgGAuUuuaGUUCcAGUCuCCguaa.GGaGGCGUGGGUUCGAAUCCCACUcCUGgCA 84
+                               :C:::AU GC  AGU GGU  A  GCG U GA+U UAGUUC A U         G+   C : GGUUCGA UCC : U:::G: A
+  Tyr_GTA_OZ237735.1_trna3  1 CUCGACAUAGCUCAGUuGGU--AGAGCGGUUGACUGUAGUUCAAUU--------aGU---CCCUGGUUCGAUUCCGGGUGUCGAGA 73
+                              ********************..999*********************........666...************************** PP
+
+>> euk-Ser  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+ (19) !   1.3e-06    3.3   0.0  cm        1       82 []           4          70 + .. 0.93    no 0.51
+
+                                                                                                                    NC
+                              (((((((,,<<<<___._____>>>>,<<<<<_______>>>>>,<<<<___.>>>>,.,<<<<<_______>>>>>))))))): CS
+                   euk-Ser  1 GuCGugGUGGCCGAGU.GGUUAAGGCGAUGGACUuuuAAUCCAUUGGGcUUU.gCCCG.CGCAGGUUCGAAUCCUGCCcaCGaCG 82
+                              G   :::U GC  AGU GGU A  GCG U:GACU U+  UC:A U            G C C GGUUCGA UCC G :::   CG
+  Tyr_GTA_OZ237735.1_trna3  4 G---ACAUAGCUCAGUuGGU-AGAGCGGUUGACUGUAGUUCAAUU-------a----GuCCCUGGUUCGAUUCCGGGUGU---CG 70
+                              *...************9555.777*********************.......6....439999*****************...** PP
+
+>> euk-Glu  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+ (20) !   0.00069  -14.3   0.0  cm        1       72 []           8          66 + .. 1.00    no 0.49
+
+                                                                                                           NC
+                              (((((((,,<<<<___._____>>>>,<<<<<_______>>>>.>,,,.,<<<<<_______>>>>>.))))))): CS
+                   euk-Glu  1 UCCgaugUGGUCUAGU.GGUUAGGAUUcguCGCUcuuACCGac.gAGG.CCCGGGUUCGAUUCCCGG.caucGGAA 72
+                                     U+:  :AGU GGU A:  :  :U::CU U+  ::A:  A G CCC GGUUCGAUUCC GG         
+  Tyr_GTA_OZ237735.1_trna3  8 -------UAGCUCAGUuGGU-AGAGCGGUUGACUGUAGUUCAAuUA-GuCCCUGGUUCGAUUCCGGGu-------- 66
+                              .......*************.*************************.*********************........ PP
+
+
+
+Internal CM pipeline statistics summary:
+----------------------------------------
+Query sequence(s):                                               1  (73 residues searched)
+Query sequences re-searched for truncated hits:                  0  (0.0 residues re-searched, avg per model)
+Target model(s):                                                22  (1647 consensus positions)
+Windows   passing  local HMM SSV           filter:              22  (1); expected (0.35)
+Windows   passing  local HMM Viterbi       filter:                  (off)
+Windows   passing  local HMM Viterbi  bias filter:                  (off)
+Windows   passing  local HMM Forward       filter:              21  (0.9545); expected (0.02)
+Windows   passing  local HMM Forward  bias filter:              21  (0.9545); expected (0.02)
+Windows   passing glocal HMM Forward       filter:              21  (0.9545); expected (0.02)
+Windows   passing glocal HMM Forward  bias filter:              21  (0.9545); expected (0.02)
+Envelopes passing glocal HMM envelope defn filter:              21  (0.9471); expected (0.02)
+Envelopes passing glocal CM  CYK           filter:              20  (0.9022); expected (0.0001)
+Total CM hits reported:                                         20  (0.8892); includes 0 truncated hit(s)
+
+# CPU time: 0.06u 0.00s 00:00:00.06 Elapsed: 00:00:00.77
+//
+[ok]

@@ -1,0 +1,73 @@
+== annotated tRNAs with a CAT anticodon (loop-pattern read) or annotated Met/Ile
+Fucus              3628-3700   + trnM(cau)e                             len=73 anticodon=CAT loop=ATCATAT (pos:3661..3663,aa:Met,seq:cat)
+Fucus              8394-8466   + trnI(cau)                              len=73 anticodon=CAT loop=CTCATGA (pos:8427..8429,aa:Ile,seq:cat)
+Fucus             20820-20891  + trnI(gau)                              len=72 anticodon=GAT loop=CTGATAA (pos:20852..20854,aa:Ile,seq:gat)
+Fucus             34901-34975  + trnM(cau)f [initiator]                 len=75 anticodon=CAT loop=CTCATGC (pos:34936..34938,aa:Met,seq:cat)
+Desmarestia        4412-4484   + trnM(cau)e [elongator]                 len=73 anticodon=CAT loop=ATCATAT (pos:4445..4447,aa:Met,seq:cat)
+Desmarestia        9300-9372   + trnI(cau)                              len=73 anticodon=CAT loop=CTCATGA (pos:9333..9335,aa:Ile,seq:cat)
+Desmarestia       22332-22403  + trnI(gau)                              len=72 anticodon=GAT loop=CTGATAA (pos:22364..22366,aa:Ile,seq:gat)
+Desmarestia       37536-37610  + trnM(cau)f [initiator]                 len=75 anticodon=CAT loop=CTCATGC (pos:37571..37573,aa:Met,seq:cat)
+Cutleria           3287-3359   + trnM-CAU                               len=73 anticodon=CAT loop=ATCATAT 
+Cutleria           8055-8129   + trnM-CAU                               len=75 anticodon=CAT loop=CTCATGA 
+Cutleria          20474-20545  + trnI-GAU                               len=72 anticodon=GAT loop=CTGATAA 
+Cutleria          35861-35937  + trnM-CAU                               len=77 anticodon=CAT loop=CTCATGC 
+Saccharina         3464-3536   + trnM                                   len=73 anticodon=CAT loop=ATCATAT 
+Saccharina         8353-8425   + trnI                                   len=73 anticodon=CAT loop=CTCATGA 
+Saccharina        21120-21191  + trnI                                   len=72 anticodon=GAT loop=CTGATAA 
+Saccharina        36010-36084  + trnM                                   len=75 anticodon=CAT loop=CTCATGC 
+Phaeostrophion    17294-17366  + trnM-CAU                               len=73 anticodon=CAT loop=ATCATAA 
+Phaeostrophion    22257-22330  + trnM-CAU                               len=74 anticodon=CAT loop=CTCATGA 
+Phaeostrophion    33725-33798  + trnI-GAU                               len=74 anticodon=GAT loop=CTGATAA 
+Phaeostrophion    46360-46433  + trnM-CAU                               len=74 anticodon=CAT loop=CTCATGC 
+Phaeostrophion    49570-49643  + trnM-CAU                               len=74 anticodon=CAT loop=CTCATGC 
+Protohalopteris    2762-2834   + tRNA-Met                               len=73 anticodon=CAT loop=ATCATAC 
+Protohalopteris    7793-7865   + tRNA-Met                               len=73 anticodon=CAT loop=CTCATGA 
+Protohalopteris   20975-21046  + tRNA-Ile                               len=72 anticodon=GAT loop=CTGATAA 
+Protohalopteris   40915-40988  + tRNA-Met                               len=74 anticodon=CAT loop=CTCATGC 
+Chor_NC            2625-2701   + trnM-CAU                               len=77 anticodon=CAT loop=CTCATGC 
+Chor_NC            2859-2931   + trnM-CAU                               len=73 anticodon=CAT loop=CTCATAA 
+Chor_NC           18862-18934  + trnI-GAU                               len=73 anticodon=GAT loop=CTGATAA 
+Chor_WGS          10956-11028  + PHAE_CTEN_TRNI-GAU_10956               len=73 anticodon=GAT loop=CTGATAA 
+Chor_WGS          27063-27139  + PHAE_CTEN_TRNM-CAU_27063               len=77 anticodon=CAT loop=CTCATGC 
+Chor_WGS          27297-27369  + PHAE_CTEN_TRNM-CAU_27297               len=73 anticodon=CAT loop=CTCATAA 
+
+== each CAU tRNA: global identity to labelled Fucus/Desmarestia CAU tRNAs (best per class)
+Fucus              3628 trnM(cau)e                             Met-e=0.918 Ile-CAU=0.603 Met-f=0.627  -> Met-e
+Fucus              8394 trnI(cau)                              Met-e=0.603 Ile-CAU=0.904 Met-f=0.520  -> Ile-CAU
+Fucus             34901 trnM(cau)f [initiator]                 Met-e=0.627 Ile-CAU=0.520 Met-f=0.840  -> Met-f
+Desmarestia        4412 trnM(cau)e [elongator]                 Met-e=0.918 Ile-CAU=0.630 Met-f=0.600  -> Met-e
+Desmarestia        9300 trnI(cau)                              Met-e=0.630 Ile-CAU=0.904 Met-f=0.547  -> Ile-CAU
+Desmarestia       37536 trnM(cau)f [initiator]                 Met-e=0.573 Ile-CAU=0.547 Met-f=0.840  -> Met-f
+Cutleria           3287 trnM-CAU                               Met-e=0.959 Ile-CAU=0.616 Met-f=0.627  -> Met-e
+Cutleria           8055 trnM-CAU                               Met-e=0.667 Ile-CAU=0.907 Met-f=0.573  -> Ile-CAU
+Cutleria          35861 trnM-CAU                               Met-e=0.649 Ile-CAU=0.584 Met-f=0.857  -> Met-f
+Saccharina         3464 trnM                                   Met-e=0.959 Ile-CAU=0.521 Met-f=0.613  -> Met-e
+Saccharina         8353 trnI                                   Met-e=0.616 Ile-CAU=0.918 Met-f=0.507  -> Ile-CAU
+Saccharina        36010 trnM                                   Met-e=0.640 Ile-CAU=0.547 Met-f=0.933  -> Met-f
+Phaeostrophion    17294 trnM-CAU                               Met-e=0.781 Ile-CAU=0.452 Met-f=0.640  -> Met-e
+Phaeostrophion    22257 trnM-CAU                               Met-e=0.622 Ile-CAU=0.865 Met-f=0.587  -> Ile-CAU
+Phaeostrophion    46360 trnM-CAU                               Met-e=0.581 Ile-CAU=0.486 Met-f=0.773  -> Met-f
+Phaeostrophion    49570 trnM-CAU                               Met-e=0.568 Ile-CAU=0.473 Met-f=0.747  -> Met-f
+Protohalopteris    2762 tRNA-Met                               Met-e=0.904 Ile-CAU=0.548 Met-f=0.640  -> Met-e
+Protohalopteris    7793 tRNA-Met                               Met-e=0.603 Ile-CAU=0.890 Met-f=0.573  -> Ile-CAU
+Protohalopteris   40915 tRNA-Met                               Met-e=0.635 Ile-CAU=0.527 Met-f=0.827  -> Met-f
+Chor_NC            2625 trnM-CAU                               Met-e=0.649 Ile-CAU=0.636 Met-f=0.831  -> Met-f
+Chor_NC            2859 trnM-CAU                               Met-e=0.712 Ile-CAU=0.562 Met-f=0.573  -> Met-e
+Chor_WGS          27063 PHAE_CTEN_TRNM-CAU_27063               Met-e=0.649 Ile-CAU=0.636 Met-f=0.831  -> Met-f
+Chor_WGS          27297 PHAE_CTEN_TRNM-CAU_27297               Met-e=0.712 Ile-CAU=0.562 Met-f=0.573  -> Met-e
+
+== Chor_NC: CAU-tRNA blastn loci (merged within 40 nt); best 3 queries; anticodon read from extracted locus
+  2627-2700 + anticodon-loop CAT at [37] | Chor_NC_2625 100.000%/77 bits=140; Cutleria_35861 86.486%/74 bits=90; Saccharina_36010 85.135%/74 bits=85
+  2866-2922 + anticodon-loop CAT at [29] | Chor_NC_2859 100.000%/73 bits=132; Fucus_Met-e 77.193%/57 bits=46; Protohalopteris_2762 75.439%/57 bits=41
+  7571-7629 + anticodon-loop CAT at [] | Protohalopteris_2762 74.576%/59 bits=40
+
+== Chor_WGS: CAU-tRNA blastn loci (merged within 40 nt); best 3 queries; anticodon read from extracted locus
+  27065-27138 + anticodon-loop CAT at [37] | Chor_NC_2625 100.000%/77 bits=140; Cutleria_35861 86.486%/74 bits=90; Saccharina_36010 85.135%/74 bits=85
+  27304-27360 + anticodon-loop CAT at [29] | Chor_NC_2859 100.000%/73 bits=132; Fucus_Met-e 77.193%/57 bits=46; Protohalopteris_2762 75.439%/57 bits=41
+  32002-32060 + anticodon-loop CAT at [] | Protohalopteris_2762 74.576%/59 bits=40
+
+== Dmes: CAU-tRNA blastn loci (merged within 40 nt); best 3 queries; anticodon read from extracted locus
+  16956-17028 + anticodon-loop CAT at [38] | Chor_NC_2625 91.667%/72 bits=104; Saccharina_36010 87.671%/73 bits=92; Fucus_Met-f 87.671%/73 bits=92
+  21722-21781 + anticodon-loop CAT at [] | Cutleria_3287 77.049%/61 bits=45; Protohalopteris_2762 75.439%/57 bits=41
+  33027-33064 + anticodon-loop CAT at [32] | Chor_NC_2859 84.211%/38 bits=43
+  33180-33245 + anticodon-loop CAT at [32] | Cutleria_3287 77.273%/66 bits=53; Fucus_Met-e 75.758%/66 bits=48; Protohalopteris_2762 77.586%/58 bits=47

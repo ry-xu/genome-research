@@ -1,0 +1,11 @@
+group	subset	passed	failed	fail_frac
+TGA-recoded Mollicutes	all	2605	38	0.014
+TGA-recoded Mollicutes	good assembly	2386	18	0.007
+standard-code Mollicutes	all	314	0	0.0
+standard-code Mollicutes	good assembly	229	0	0.0
+TGA-recoded insect symbionts	all	51	0	0.0
+TGA-recoded insect symbionts	good assembly	51	0	0.0
+standard-code insect symbionts	all	206	3	0.014
+standard-code insect symbionts	good assembly	201	0	0.0
+all bacteria	all	878998	151024	0.147
+all bacteria	good assembly	568156	15929	0.027

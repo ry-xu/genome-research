@@ -1,0 +1,52 @@
+[M::mm_idx_gen::9.632*0.08] collected minimizers
+[M::mm_idx_gen::11.538*0.10] sorted minimizers
+[M::main::11.538*0.10] loaded/built the index for 111 target sequence(s)
+[M::mm_mapopt_update::11.538*0.10] mid_occ = 1000
+[M::mm_idx_stat] kmer size: 21; skip: 11; is_hpc: 0; #seq: 111
+[M::mm_idx_stat::12.253*0.11] distinct minimizers: 6806692 (95.39% are singletons); average occurrences: 1.189; average spacing: 5.999; total length: 48566841
+[M::worker_pipeline::229.691*0.02] mapped 555556 sequences
+[M::worker_pipeline::238.416*0.03] mapped 555556 sequences
+[M::worker_pipeline::248.011*0.04] mapped 555556 sequences
+[M::worker_pipeline::256.999*0.04] mapped 555556 sequences
+[M::worker_pipeline::266.258*0.05] mapped 555556 sequences
+[M::worker_pipeline::278.057*0.06] mapped 555556 sequences
+[M::worker_pipeline::287.947*0.06] mapped 555556 sequences
+[M::worker_pipeline::297.919*0.07] mapped 555556 sequences
+[M::worker_pipeline::305.587*0.08] mapped 555556 sequences
+[M::worker_pipeline::313.469*0.08] mapped 555556 sequences
+[M::worker_pipeline::323.259*0.09] mapped 555556 sequences
+[M::worker_pipeline::331.333*0.09] mapped 555556 sequences
+[M::worker_pipeline::338.632*0.10] mapped 555556 sequences
+[M::worker_pipeline::347.544*0.10] mapped 555556 sequences
+[M::worker_pipeline::357.007*0.10] mapped 555556 sequences
+[M::worker_pipeline::365.344*0.11] mapped 555556 sequences
+[M::worker_pipeline::373.954*0.11] mapped 555556 sequences
+[M::worker_pipeline::382.895*0.12] mapped 555556 sequences
+[M::worker_pipeline::391.889*0.12] mapped 555556 sequences
+[M::worker_pipeline::398.625*0.12] mapped 555556 sequences
+[M::worker_pipeline::407.100*0.12] mapped 555556 sequences
+[M::worker_pipeline::416.902*0.13] mapped 555556 sequences
+[M::worker_pipeline::426.530*0.13] mapped 555556 sequences
+[M::worker_pipeline::435.472*0.13] mapped 555556 sequences
+[M::worker_pipeline::444.463*0.14] mapped 555556 sequences
+[M::worker_pipeline::454.279*0.14] mapped 555556 sequences
+[M::worker_pipeline::463.744*0.14] mapped 555556 sequences
+[M::worker_pipeline::471.975*0.14] mapped 555556 sequences
+[M::worker_pipeline::480.512*0.15] mapped 555556 sequences
+[M::worker_pipeline::488.260*0.15] mapped 555556 sequences
+[M::worker_pipeline::496.055*0.15] mapped 555556 sequences
+[M::worker_pipeline::504.269*0.15] mapped 555556 sequences
+[M::worker_pipeline::511.569*0.15] mapped 555556 sequences
+[M::worker_pipeline::517.509*0.16] mapped 555556 sequences
+[M::worker_pipeline::525.798*0.16] mapped 555556 sequences
+[M::worker_pipeline::535.421*0.16] mapped 555556 sequences
+[M::worker_pipeline::542.903*0.16] mapped 555556 sequences
+[M::worker_pipeline::551.031*0.16] mapped 555556 sequences
+[M::worker_pipeline::558.890*0.16] mapped 555556 sequences
+[M::worker_pipeline::566.732*0.17] mapped 555556 sequences
+[M::worker_pipeline::573.123*0.17] mapped 555556 sequences
+[M::worker_pipeline::580.430*0.17] mapped 555556 sequences
+[M::worker_pipeline::587.313*0.17] mapped 552068 sequences
+[M::main] Version: 2.31-r1302
+[M::main] CMD: minimap2 -x sr -c --cs=long -t 3 lab/work/stop-sense-euk/data/dl_bil/GCA_965178125.1_puBilCfla1.1_genomic.fna -
+[M::main] Real time: 587.395 sec; CPU: 99.463 sec; Peak RSS: 0.429 GB

@@ -1,0 +1,26 @@
+A=scratchpad/gb.k797/NC_062302.1.gb
+B=scratchpad/gb.055I/MT483995.1.gb
+shared genes (14): ['atp6', 'atp9', 'cob', 'cox1', 'cox2', 'cox3', 'nad1', 'nad2', 'nad3', 'nad4', 'nad4l', 'nad5', 'nad6', 'rps3']
+duplicate gene names: A [], B []
+translation check (own table-4 translation == /translation): A 17/17, B 18/18; failures A [], B []
+
+## mafft_nt
+codon-paired positions 4315, identical codons 2847 (0.660)
+B at A=AGG (57): {'AGG': 37, 'ATG': 16, 'GGA': 1, 'ATA': 1, 'TGG': 1, 'ACA': 1}
+   -> AGG 37, ATG 16, other Arg 0, else 4
+B at A in AGA/CGN (78): same codon 41, different Arg codon 34 (of which AGG 0), ATG 0, else 3: {'CGT': 28, 'CGA': 24, 'AGA': 16, 'CGC': 7, 'TGA': 1, 'CAA': 1, 'AAT': 1}
+B at A=ATG (70): {'ATG': 42, 'AGG': 16, 'ATA': 5, 'GTA': 3, 'ATT': 1, 'ACT': 1, 'TTG': 1, 'GTC': 1}
+
+## biopython_nt
+codon-paired positions 4308, identical codons 2847 (0.661)
+B at A=AGG (57): {'AGG': 37, 'ATG': 16, 'GGA': 1, 'ATA': 1, 'TGG': 1, 'ACA': 1}
+   -> AGG 37, ATG 16, other Arg 0, else 4
+B at A in AGA/CGN (78): same codon 41, different Arg codon 34 (of which AGG 0), ATG 0, else 3: {'CGT': 28, 'CGA': 24, 'AGA': 16, 'CGC': 7, 'TGA': 1, 'CAA': 1, 'AAT': 1}
+B at A=ATG (70): {'ATG': 42, 'AGG': 16, 'ATA': 5, 'GTA': 3, 'ATT': 1, 'ACT': 1, 'TTG': 1, 'GTC': 1}
+
+## mafft_prot_AGGmasked
+codon-paired positions 4320, identical codons 2848 (0.659)
+B at A=AGG (58): {'AGG': 37, 'ATG': 16, 'GGA': 1, 'ATA': 1, 'TGG': 1, 'ACA': 1, 'TTG': 1}
+   -> AGG 37, ATG 16, other Arg 0, else 5
+B at A in AGA/CGN (78): same codon 41, different Arg codon 34 (of which AGG 0), ATG 0, else 3: {'CGT': 28, 'CGA': 24, 'AGA': 16, 'CGC': 7, 'CAA': 2, 'TGA': 1}
+B at A=ATG (71): {'ATG': 42, 'AGG': 16, 'ATA': 5, 'GTA': 3, 'ATT': 1, 'ACT': 1, 'TTA': 1, 'TTG': 1, 'GTC': 1}

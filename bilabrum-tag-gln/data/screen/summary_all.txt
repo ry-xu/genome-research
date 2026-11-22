@@ -1,0 +1,182 @@
+## Coverage (units with a score row; powered = >= 100,000 inner columns)
+stratum	units	scored	powered
+genome_scan	247	247	139
+genome_scan2	300	300	153
+mmetsp	678	678	622
+reads_asm	8	8	5
+tsa	694	694	620
+all	1927	1927	1539
+
+## Calls and watches by label (codon rows; distinct lineages in brackets)
+call	candidate	2	[2]
+call	known	144	[76]
+call	lineage	6	[3]
+call	new	11	[9]
+watch	candidate	3	[3]
+watch	known	3	[3]
+watch	lineage	7	[6]
+watch	new	51	[43]
+
+## Wider recall: non-control units in a lineage with a known row
+unit	stratum	name	row	expected	powered	inner	result
+GABU01	tsa	Chilodonella uncinata	Phyllopharyngea	TAG:L,TAG:Q	no	12604	TAG:L/Q=miss(n=0)
+GCA_001272955.2	genome_scan2	Urostyla sp. PUJRC_G1	Stichotrichia	TAA:Q,TAG:Q,TGA:R	no	33931	TAA:Q=call(n=316) TAG:Q=call(n=206) TGA:R=miss(n=6)
+GCA_001272965.2	genome_scan2	Paraurostyla sp. PUJRC_G6	Stichotrichia	TAA:Q,TAG:Q,TGA:R	no	79034	TAA:Q=call(n=695) TAG:Q=call(n=287) TGA:R=miss(n=11)
+GCA_001272975.2	genome_scan2	Laurentiella sp. PUJRC_G5	Stichotrichia	TAA:Q,TAG:Q,TGA:R	no	77539	TAA:Q=call(n=850) TAG:Q=call(n=185) TGA:R=miss(n=8)
+GCA_001273295.2	genome_scan2	Tetmemena sp. SeJ-2015	Stichotrichia	TAA:Q,TAG:Q,TGA:R	no	96790	TAA:Q=call(n=363) TAG:Q=call(n=364) TGA:R=miss(n=6)
+GCA_001653735.1	genome_scan2	Uroleptopsis citrina	Stichotrichia	TAA:Q,TAG:Q,TGA:R	no	74928	TAA:Q=call(n=185) TAG:Q=call(n=462) TGA:R=miss(n=2)
+GCA_010577775.2	genome_scan	Strombidium stylifer	Oligotrichia	TAA:Q,TAG:Q	yes	100194	TAA:Q=call(n=126) TAG:Q=call(n=337)
+GCA_013420745.1	genome_scan2	Pseudokeronopsis flava	Stichotrichia	TAA:Q,TAG:Q,TGA:R	yes	141275	TAA:Q=call(n=143) TAG:Q=call(n=239) TGA:R=miss(n=16)
+GCA_021439955.1	genome_scan2	Certesia quadrinucleata	Certesia	TAA:Q,TAG:Q	no	71312	TAA:Q=call(n=86) TAG:Q=call(n=279)
+GCA_021441625.1	genome_scan2	Diophrys sp. 3 WChen-2021	Uronychiidae	TAA:Q,TAG:Q,TGA:R	no	94590	TAA:Q=call(n=280) TAG:Q=call(n=149) TGA:R=miss(n=4)
+GCA_021441645.1	genome_scan2	Uronychia binucleata	Uronychiidae	TAA:Q,TAG:Q,TGA:R	no	56800	TAA:Q=call(n=63) TAG:Q=call(n=161) TGA:R=miss(n=27)
+GCA_023658685.1	genome_scan	Schmidingerella meunieri	Choreotrichia	TAA:Q,TAG:Q	yes	291654	TAA:Q=miss(n=2) TAG:Q=miss(n=0)
+GCA_036325645.1	genome_scan2	Balantidium ctenopharyngodoni	Balantidium	TGA:L	yes	111639	TGA:L=call(n=942)
+GCA_046529125.1	genome_scan2	Colpoda cucullus	Colpodea	TAA:Q,TAG:Q	no	1610	TAA:Q=miss(n=1) TAG:Q=miss(n=1)
+GCA_047430905.1	genome_scan	Amoebophrya sp. ex Karlodinium veneficum	Amoebophrya	TAA:Q,TAG:Q,TGA:W	no	62479	TAA:Q=call(n=120) TAG:Q=call(n=59) TGA:W=call(n=29)
+GCA_047495895.1	genome_scan	Halteria grandinella	Stichotrichia	TAA:Q,TAG:Q,TGA:R	yes	115266	TAA:Q=call(n=184) TAG:Q=call(n=380) TGA:R=watch-other:Q(n=14)
+GCA_062075020.1	genome_scan	Chilodonella uncinata	Phyllopharyngea	TAG:L,TAG:Q	yes	126344	TAG:L/Q=miss(n=9)
+GCA_947596155.1	genome_scan2	uncultured Oligohymenophorea	Oligohymenophorea	TAA:K,TAA:Q,TAG:E,TAG:Q	no	27767	TAA:K/Q=call(n=151) TAG:E/Q=call(n=63)
+GCA_976927705.1	genome_scan2	Plagiopyla sp. strain OYSTR	Plagiopyla	TAA:Q,TAG:Q,TGA:W	no	5297	TAA:Q=call(n=60) TAG:Q=watch(n=14) TGA:W=miss(n=1)
+GEEV01	tsa	Cryptocaryon irritans	Cryptocaryon	TAA:Q,TAG:Q	no	14625	TAA:Q=call(n=38) TAG:Q=miss(n=3)
+GFCE01	tsa	Iotanema spirale	Iotanema	TAG:Q	no	52126	TAG:Q=call(n=59)
+GGWG01	tsa	Amoebophrya sp. ex Karlodinium veneficum	Amoebophrya	TAA:Q,TAG:Q,TGA:W	yes	474282	TAA:Q=miss(n=0) TAG:Q=miss(n=0) TGA:W=miss(n=1)
+GJXX01	tsa	Schmidingerella meunieri	Choreotrichia	TAA:Q,TAG:Q	no	36497	TAA:Q=miss(n=5) TAG:Q=watch(n=15)
+GJYA01	tsa	Schmidingerella arcuata	Choreotrichia	TAA:Q,TAG:Q	yes	241829	TAA:Q=miss(n=38) TAG:Q=call(n=226)
+GLKX01	tsa	Prodiscophrya collini	Phyllopharyngea	TAG:L,TAG:Q	yes	524704	TAG:L/Q=miss(n=17)
+HBJI01	tsa	Schmidingerella taraikaensis	Choreotrichia	TAA:Q,TAG:Q	yes	294081	TAA:Q=call(n=167) TAG:Q=call(n=687)
+HBSK01	tsa	uncultured Stichotrichia	Stichotrichia	TAA:Q,TAG:Q,TGA:R	yes	175316	TAA:Q=call(n=242) TAG:Q=call(n=545) TGA:R=miss(n=1)
+HBSN01	tsa	Aristerostoma sp. ATCC 50986	Colpodea	TAA:Q,TAG:Q	yes	115322	TAA:Q=call(n=158) TAG:Q=call(n=329)
+HBYC01	tsa	uncultured Uronema sp.	Oligohymenophorea	TAA:K,TAA:Q,TAG:E,TAG:Q	no	8423	TAA:K/Q=call(n=169) TAG:E/Q=miss(n=6)
+HBYH01	tsa	Mesodinium pulex	Mesodiniidae	TAA:Y,TAG:Y	yes	392097	TAA:Y=call(n=110) TAG:Y=call(n=503)
+HBYI01	tsa	uncultured Strombidinopsis	Choreotrichia	TAA:Q,TAG:Q	yes	179999	TAA:Q=call(n=659) TAG:Q=call(n=588)
+MMETSP0123	mmetsp	Favella ehrenbergii	Choreotrichia	TAA:Q,TAG:Q	yes	153644	TAA:Q=call(n=153) TAG:Q=call(n=534)
+MMETSP0125	mmetsp	Aristerostoma	Colpodea	TAA:Q,TAG:Q	yes	115322	TAA:Q=call(n=158) TAG:Q=call(n=329)
+MMETSP0126	mmetsp	Strombidinopsis acuminata	Choreotrichia	TAA:Q,TAG:Q	yes	380060	TAA:Q=call(n=395) TAG:Q=call(n=354)
+MMETSP0127	mmetsp	Platyophrya macrostoma	Colpodea	TAA:Q,TAG:Q	yes	283757	TAA:Q=miss(n=0) TAG:Q=miss(n=0)
+MMETSP0208	mmetsp	Strombidium inclinatum	Oligotrichia	TAA:Q,TAG:Q	yes	174952	TAA:Q=call(n=114) TAG:Q=call(n=515)
+MMETSP0211	mmetsp	Pseudokeronopsis	Stichotrichia	TAA:Q,TAG:Q,TGA:R	yes	110612	TAA:Q=call(n=198) TAG:Q=call(n=500) TGA:R=miss(n=1)
+MMETSP0434	mmetsp	Schmidingerella taraikaensis	Choreotrichia	TAA:Q,TAG:Q	yes	217821	TAA:Q=call(n=137) TAG:Q=call(n=560)
+MMETSP0436	mmetsp	Schmidingerella taraikaensis	Choreotrichia	TAA:Q,TAG:Q	yes	151543	TAA:Q=call(n=113) TAG:Q=call(n=468)
+MMETSP0449	mmetsp	Strombidium rassoulzadegani	Oligotrichia	TAA:Q,TAG:Q	yes	166926	TAA:Q=call(n=43) TAG:Q=call(n=312)
+MMETSP0463	mmetsp	Strombidinopsis	Choreotrichia	TAA:Q,TAG:Q	yes	179999	TAA:Q=call(n=659) TAG:Q=call(n=588)
+MMETSP0795	mmetsp	Amoebophrya sp.	Amoebophrya	TAA:Q,TAG:Q,TGA:W	no	83552	TAA:Q=miss(n=0) TAG:Q=miss(n=1) TGA:W=miss(n=0)
+MMETSP1019	mmetsp	Anophryoides haemophila	Oligohymenophorea	TAA:K,TAA:Q,TAG:E,TAG:Q	no	13307	TAA:K/Q=call(n=173) TAG:E/Q=miss(n=30)
+MMETSP1396	mmetsp	Pseudokeronopsis	Stichotrichia	TAA:Q,TAG:Q,TGA:R	yes	175316	TAA:Q=call(n=242) TAG:Q=call(n=545) TGA:R=miss(n=1)
+SRR1296783	reads_asm	Euplotes focardii (MMETSP0205 reads)	Euplotidae	TGA:C	no	72888	TGA:C=call(n=83)
+SRR1768423	reads_asm	Campanella umbellaria	Peritrichia	TAA:E,TAG:E	yes	115352	TAA:E=call(n=241) TAG:E=call(n=44)
+SRR1768437	reads_asm	Carchesium polypinum	Peritrichia	TAA:E,TAG:E	yes	107269	TAA:E=call(n=93) TAG:E=call(n=101)
+SRR34787369	reads_asm	Tetrahymena thermophila SB210	Oligohymenophorea	TAA:K,TAA:Q,TAG:E,TAG:Q	no	67815	TAA:K/Q=call(n=1146) TAG:E/Q=call(n=273)
+SRR39497168	reads_asm	Ichthyophthirius multifiliis theront RNA (PRJNA1490969)	Oligohymenophorea	TAA:K,TAA:Q,TAG:E,TAG:Q	yes	180457	TAA:K/Q=miss(n=118) TAG:E/Q=miss(n=23)
+SRR6486645	reads_asm	Epistylis sp. 1 MW-2017	Peritrichia	TAA:E,TAG:E	no	99995	TAA:E=call(n=857) TAG:E=call(n=230)
+SRR6486651	reads_asm	Vorticella campanula	Peritrichia	TAA:E,TAG:E	yes	111625	TAA:E=call(n=755) TAG:E=call(n=386)
+SRR6486653	reads_asm	Zoothamnium arbuscula	Peritrichia	TAA:E,TAG:E	yes	244049	TAA:E=call(n=130) TAG:E=call(n=125)
+
+row	powered	call	watch	miss
+Amoebophrya	no	3	0	3
+Amoebophrya	yes	0	0	3
+Balantidium	yes	1	0	0
+Certesia	no	2	0	0
+Choreotrichia	no	0	1	1
+Choreotrichia	yes	15	0	3
+Colpodea	no	0	0	2
+Colpodea	yes	4	0	2
+Cryptocaryon	no	1	0	1
+Euplotidae	no	1	0	0
+Iotanema	no	1	0	0
+Mesodiniidae	yes	2	0	0
+Oligohymenophorea	no	6	0	2
+Oligohymenophorea	yes	0	0	2
+Oligotrichia	yes	6	0	0
+Peritrichia	no	2	0	0
+Peritrichia	yes	8	0	0
+Phyllopharyngea	no	0	0	1
+Phyllopharyngea	yes	0	0	2
+Plagiopyla	no	1	1	1
+Stichotrichia	no	10	0	5
+Stichotrichia	yes	10	1	4
+Uronychiidae	no	4	0	2
+ALL powered		46	1	16
+
+## Leads: calls and watches not labelled known
+unit	stratum	name	duplicate_of	codon	meaning	tier	label	n	prot	prot_meaning	rate_al	rel	inner	powered	lineage
+GCA_001887855.2	genome_scan	Sclerospora graminicola		TAG	Q	watch	new	42	19	5	0.116	0.277	361361	yes	Peronosporomycetes; Peronosporales; Peronosporaceae; Sclerospora; Sclerospora graminicola
+GCA_004359215.2	genome_scan2	Bremia lactucae		TAG	T	watch	new	16	11	4	0.081	0.284	197814	yes	Peronosporomycetes; Peronosporales; Peronosporaceae; Bremia; Bremia lactucae
+GCA_008632985.1	genome_scan2	Psammoneis japonica		TAA	A	watch	new	20	16	5	0.124	0.358	161249	yes	Plagiogrammaphyceae; Plagiogrammales; Plagiogrammaceae; Psammoneis; Psammoneis japonica
+GCA_008632985.1	genome_scan2	Psammoneis japonica		TAG	K	watch	new	17	12	5	0.105	0.492	161249	yes	Plagiogrammaphyceae; Plagiogrammales; Plagiogrammaceae; Psammoneis; Psammoneis japonica
+GCA_013187285.2	genome_scan	Cyclotella cryptica		TAG	Q	watch	new	16	10	4	0.106	0.721	150361	yes	Thalassiosirophycidae; Thalassiosirales; Thalassiosiraceae; Cyclotella; Cyclotella cryptica
+GCA_015144975.1	genome_scan	Epipyxis sp. PR26KG		TAG	E	watch	new	11	7	3	0.090	0.581	122620	yes	Chrysophyceae; Chromulinales; Dinobryaceae; Epipyxis; unclassified Epipyxis
+GCA_015146115.1	genome_scan	Spumella sp. AR4D6		TAA	L	watch	new	10	7	4	0.060	0.144	165368	yes	Chrysophyceae; Chromulinales; Chromulinaceae; Spumella; unclassified Spumella
+GCA_018136815.1	genome_scan	Isochrysis galbana		TAG	T	watch	new	11	10	3	0.082	0.284	134041	yes	Haptophyta; Prymnesiophyceae; Isochrysidales; Isochrysidaceae; Isochrysis
+GCA_020048535.1	genome_scan2	Bacillariophyta sp.		TGA	W	watch	new	26	6	5	0.675	1.197	38536	no	Stramenopiles; Ochrophyta; Bacillariophyta; unclassified Bacillariophyta; Bacillariophyta sp.
+GCA_022925895.1	genome_scan	Fragilaria crotonensis		TAA	K	watch	new	13	9	4	0.079	0.124	164930	yes	Fragilariophycidae; Fragilariales; Fragilariaceae; Fragilaria; Fragilaria crotonensis
+GCA_023078555.1	genome_scan	Ulva prolifera		TGA	Q	watch	lineage	14	13	3	0.194	0.229	72289	no	Ulvophyceae; OUU clade; Ulvales; Ulvaceae; Ulva
+GCA_032356245.1	genome_scan	Endocladia muricata		TGA	G	watch	new	22	10	8	0.059	0.921	370488	yes	Rhodymeniophycidae; Gigartinales; Endocladiaceae; Endocladia; Endocladia muricata
+GCA_032356305.1	genome_scan	Prasiola linearis		TGA	G	watch	new	43	6	6	0.164	0.610	262848	yes	Trebouxiophyceae; Prasiolales; Prasiolaceae; Prasiola; Prasiola linearis
+GCA_032358295.1	genome_scan	Pterothamnion heteromorphum		TAA	Q	call	new	72	48	10	0.262	0.423	274848	yes	Rhodymeniophycidae; Ceramiales; Ceramiaceae; Pterothamnion; Pterothamnion heteromorphum
+GCA_032358295.1	genome_scan	Pterothamnion heteromorphum		TAG	E	watch	new	39	37	15	0.142	0.687	274848	yes	Rhodymeniophycidae; Ceramiales; Ceramiaceae; Pterothamnion; Pterothamnion heteromorphum
+GCA_036939755.2	genome_scan	Stephanodiscus triporus		TAG	F	watch	new	10	7	4	0.077	0.158	129521	yes	Thalassiosirophyceae; Thalassiosirophycidae; Thalassiosirales; Thalassiosiraceae; Stephanodiscus
+GCA_036939975.2	genome_scan	Cyclostephanos tholiformis		TAG	W	watch	new	15	9	3	0.082	0.185	182005	yes	Thalassiosirophycidae; Thalassiosirales; Thalassiosiraceae; Cyclostephanos; Cyclostephanos tholiformis
+GCA_043090175.1	genome_scan	Acanthophora spicifera		TGA	W	watch	new	11	6	3	0.121	0.615	91169	no	Ceramiales; Rhodomelaceae; Chondrieae; Acanthophora; Acanthophora spicifera
+GCA_047495895.1	genome_scan	Halteria grandinella		TGA	Q	watch	lineage	14	9	3	0.121	0.108	115266	yes	Stichotrichia; Sporadotrichida; Halteriidae; Halteria; Halteria grandinella
+GCA_059731305.1	genome_scan	Skeletonema pseudocostatum		TGA	W	watch	new	56	7	3	0.283	1.071	198024	yes	Thalassiosirophycidae; Thalassiosirales; Thalassiosiraceae; Skeletonema; Skeletonema pseudocostatum
+GCA_905220665.1	genome_scan2	Albugo candida		TAG	Q	watch	new	20	15	3	0.116	0.248	173117	yes	Peronosporomycetes; Albuginales; Albuginaceae; Albugo; Albugo candida
+GCA_949320135.1	genome_scan2	uncultured ciliate		TAA	E	call	lineage	228	47	29	14.088	0.516	16184	no	Sar; Alveolata; Ciliophora; environmental samples; uncultured ciliate
+GCA_949320135.1	genome_scan2	uncultured ciliate		TAG	E	call	lineage	68	19	14	4.202	0.228	16184	no	Sar; Alveolata; Ciliophora; environmental samples; uncultured ciliate
+GCA_963920595.1	genome_scan2	Eimeria praecox		TGA	W	watch	new	13	6	3	0.618	0.272	21019	no	Eucoccidiorida; Eimeriorina; Eimeriidae; Eimeria; Eimeria praecox
+GCA_964026335.1	genome_scan2	uncultured Cafeteriaceae		TGA	Q	watch	new	13	8	3	0.096	0.320	134800	yes	Opalozoa; Bicosoecida; Cafeteriaceae; environmental samples; uncultured Cafeteriaceae
+GCA_965178125.1	genome_scan2	Bilabrum cf. latius		TAG	Q	call	new	190	121	46	1.389	0.560	136762	yes	Opalozoa; Bicosoecida; Bicosoecida incertae sedis; Bilabrum; Bilabrum cf. latius
+GCA_977006965.1	genome_scan2	Phymatolithon calcareum		TGA	W	watch	new	19	9	4	0.080	0.108	236457	yes	Hapalidiales; Hapalidiaceae; Melobesioideae; Phymatolithon; Phymatolithon calcareum
+GCA_977017595.1	genome_scan2	Maristentor dinoferus		TAA	E	call	lineage	752	78	58	10.317	0.527	72886	no	Heterotrichea; Heterotrichida; Stentoridae; Maristentor; Maristentor dinoferus
+GCA_977017595.1	genome_scan2	Maristentor dinoferus		TAG	Q	call	lineage	510	74	42	6.997	0.558	72886	no	Heterotrichea; Heterotrichida; Stentoridae; Maristentor; Maristentor dinoferus
+GCA_977017595.1	genome_scan2	Maristentor dinoferus		TGA	W	call	lineage	29	12	6	0.398	0.600	72886	no	Heterotrichea; Heterotrichida; Stentoridae; Maristentor; Maristentor dinoferus
+GCA_977969985.1	genome_scan	Asterionellopsis sp. RCC1712		TAA	K	watch	new	18	7	5	0.094	0.147	192280	yes	Rhaphoneidales; Asterionellopsidaceae; Asterionellopsis; unclassified Asterionellopsis; Asterionellopsis sp. RCC1712
+GCA_984582945.1	genome_scan	Minidiscus variabilis		TGA	W	watch	new	10	6	3	0.060	0.592	166128	yes	Thalassiosirophycidae; Thalassiosirales; Thalassiosiraceae; Minidiscus; Minidiscus variabilis
+GCA_988225515.1	genome_scan2	Mediolabrus comicus		TGA	W	watch	new	14	6	5	0.066	0.745	211196	yes	Thalassiosirophycidae; Thalassiosirales; Thalassiosiraceae; Mediolabrus; Mediolabrus comicus
+GFKQ01	tsa	Dumontia simplex		TAA	E	watch	new	10	7	6	0.050	1.649	198852	yes	Florideophyceae; Rhodymeniophycidae; Gigartinales; Dumontiaceae; Dumontia
+GFKY01	tsa	Pyropia yezoensis		TAG	Q	watch	new	24	20	7	0.112	0.389	213368	yes	Rhodophyta; Bangiophyceae; Bangiales; Bangiaceae; Pyropia
+GFLB01	tsa	Mazzaella japonica		TAA	E	watch	new	22	17	8	0.090	0.777	243394	yes	Florideophyceae; Rhodymeniophycidae; Gigartinales; Gigartinaceae; Mazzaella
+GFLB01	tsa	Mazzaella japonica		TAG	E	watch	new	14	10	5	0.058	1.086	243394	yes	Florideophyceae; Rhodymeniophycidae; Gigartinales; Gigartinaceae; Mazzaella
+GFLH01	tsa	Heterosiphonia pulchra		TAA	E	watch	new	16	13	11	0.079	1.933	201942	yes	Florideophyceae; Rhodymeniophycidae; Ceramiales; Dasyaceae; Heterosiphonia
+GFLH01	tsa	Heterosiphonia pulchra		TAG	E	watch	new	19	15	8	0.094	0.910	201942	yes	Florideophyceae; Rhodymeniophycidae; Ceramiales; Dasyaceae; Heterosiphonia
+GFTM01	tsa	Camontagnea oxyclada		TGA	W	watch	new	34	9	6	0.051	0.615	661100	yes	Florideophyceae; Nemaliophycidae; Palmariales; Rhodothamniellaceae; Camontagnea
+GGNT01	tsa	Spirostomum semivirescens		TAA	Q	watch	lineage	45	21	9	0.147	0.872	306154	yes	Postciliodesmatophora; Heterotrichea; Heterotrichida; Spirostomidae; Spirostomum
+GGNT01	tsa	Spirostomum semivirescens		TAG	Q	watch	lineage	40	22	13	0.131	1.099	306154	yes	Postciliodesmatophora; Heterotrichea; Heterotrichida; Spirostomidae; Spirostomum
+GHIO01	tsa	Porolithon sp.		TAA	Q	watch	new	100	53	28	0.156	0.940	641443	yes	Corallinales; Porolithaceae; Porolithoideae; Porolithon; unclassified Porolithon
+GHIO01	tsa	Porolithon sp.		TAG	Q	watch	new	49	35	13	0.076	0.472	641443	yes	Corallinales; Porolithaceae; Porolithoideae; Porolithon; unclassified Porolithon
+GHIP01	tsa	Lithothamnion proliferum		TAG	Q	watch	new	19	11	5	0.052	0.966	368677	yes	Corallinophycidae; Hapalidiales; Hapalidiaceae; Melobesioideae; Lithothamnion
+GHIV01	tsa	Lithophyllum sp.		TAA	Q	watch	new	67	37	25	0.062	1.278	1079220	yes	Corallinales; Lithophyllaceae; Lithophylloideae; Lithophyllum; unclassified Lithophyllum
+GHIV01	tsa	Lithophyllum sp.		TAG	Q	watch	new	64	45	24	0.059	0.696	1079220	yes	Corallinales; Lithophyllaceae; Lithophylloideae; Lithophyllum; unclassified Lithophyllum
+GHVR01	tsa	Apicomplexa sp. symbiont X		TAA	E	call	new	701	71	52	1.726	0.396	406183	yes	Eukaryota; Sar; Alveolata; Apicomplexa; unclassified Apicomplexa
+GHVR01	tsa	Apicomplexa sp. symbiont X		TAG	E	call	new	247	41	20	0.608	0.113	406183	yes	Eukaryota; Sar; Alveolata; Apicomplexa; unclassified Apicomplexa
+GIHL01	tsa	Valvulineria inflata		TAA	Q	watch	new	61	31	15	0.068	1.290	890712	yes	Foraminifera; Rotaliida; Discorboidea; Cancrisidae; Valvulineria
+GILD01	tsa	Gracilaria vermiculophylla		TAA	Q	call	new	255	88	41	0.324	0.897	787105	yes	Florideophyceae; Rhodymeniophycidae; Gracilariales; Gracilariaceae; Gracilaria
+GILD01	tsa	Gracilaria vermiculophylla		TAG	E	watch	new	60	27	14	0.076	0.749	787105	yes	Florideophyceae; Rhodymeniophycidae; Gracilariales; Gracilariaceae; Gracilaria
+GJAQ01	tsa	Heterosigma akashiwo		TGA	W	watch	new	48	14	7	0.089	1.044	538838	yes	Ochrophyta; Raphidophyceae; Chattonellales; Chattonellaceae; Heterosigma
+GKPA01	tsa	Ochromonas sp. RCC6673		TAA	Q	watch	new	32	15	8	0.080	1.284	400770	yes	Chrysophyceae; Chromulinales; Chromulinaceae; Ochromonas; unclassified Ochromonas
+GKPA01	tsa	Ochromonas sp. RCC6673		TAG	Q	call	new	125	29	16	0.312	1.499	400770	yes	Chrysophyceae; Chromulinales; Chromulinaceae; Ochromonas; unclassified Ochromonas
+GKSM01	tsa	Chondrus crispus		TAG	Q	watch	new	19	13	3	0.053	0.359	357314	yes	Florideophyceae; Rhodymeniophycidae; Gigartinales; Gigartinaceae; Chondrus
+GKSM01	tsa	Chondrus crispus		TGA	W	watch	new	34	9	4	0.095	0.867	357314	yes	Florideophyceae; Rhodymeniophycidae; Gigartinales; Gigartinaceae; Chondrus
+GLKX01	tsa	Prodiscophrya collini		TAA	N	watch	lineage	38	7	3	0.072	0.116	524704	yes	Phyllopharyngea; Suctoria; Evaginogenida; Discophryidae; Prodiscophrya
+HBGH01	tsa	Compsopogon caeruleus	MMETSP0312	TGA	W	watch	new	33	5	5	0.122	1.524	270179	yes	Rhodophyta; Compsopogonophyceae; Compsopogonales; Compsopogonaceae; Compsopogon
+HBJK01	tsa	Euplotes focardii		TAG	Q	watch	candidate	15	11	3	0.055	0.182	271748	yes	Spirotrichea; Hypotrichia; Euplotida; Euplotidae; Euplotes
+HBRG01	tsa	Tiarina fusus		TAA	Q	call	candidate	494	87	68	0.806	0.792	612839	yes	Intramacronucleata; Prostomatea; Prorodontida; Colepidae; Tiarina
+HBRG01	tsa	Tiarina fusus		TAG	Q	watch	candidate	87	38	21	0.142	0.828	612839	yes	Intramacronucleata; Prostomatea; Prorodontida; Colepidae; Tiarina
+HBSA01	tsa	Mesopedinella arctica		TGA	T	watch	new	38	17	3	0.059	0.157	641884	yes	Stramenopiles; Ochrophyta; Dictyochophyceae; Pedinellales; Mesopedinella
+HBTB01	tsa	Symbiodinium sp. clade D		TAA	Q	call	new	122	36	24	0.254	0.717	479792	yes	Dinophyceae; Suessiales; Symbiodiniaceae; Symbiodinium; Symbiodinium sp. clades
+HBTB01	tsa	Symbiodinium sp. clade D		TAG	Q	watch	new	41	25	9	0.085	0.180	479792	yes	Dinophyceae; Suessiales; Symbiodiniaceae; Symbiodinium; Symbiodinium sp. clades
+HCKS01	tsa	Chaetoceros protuberans		TAA	Q	watch	new	34	21	7	0.145	1.055	234042	yes	Thalassiosirophyceae; Chaetocerotophycidae; Chaetocerotales; Chaetocerotaceae; Chaetoceros
+HCKS01	tsa	Chaetoceros protuberans		TAG	Q	watch	new	13	12	9	0.056	1.782	234042	yes	Thalassiosirophyceae; Chaetocerotophycidae; Chaetocerotales; Chaetocerotaceae; Chaetoceros
+ICSH01	tsa	Codium fragile subsp. fragile		TGA	W	watch	lineage	19	7	3	0.053	0.155	356122	yes	Bryopsidales; Bryopsidineae; Codiaceae; Codium; Codium fragile
+ICSK01	tsa	Aduncisulcus paluster		TAG	K	call	lineage	36	18	8	0.267	0.729	134924	yes	Eukaryota; Metamonada; Fornicata; Carpediemonas-like organisms; Aduncisulcus
+MMETSP0018	mmetsp	Uronema		TAA	Q	call	new	169	39	23	20.064	0.731	8423	no	core chlorophytes; Chlorophyceae; OCC clade; Chaetophorales; Uronemataceae
+MMETSP0312	mmetsp	Compsopogon caeruleus		TGA	W	watch	new	33	5	5	0.122	1.524	270179	yes	Rhodophyta; Compsopogonophyceae; Compsopogonales; Compsopogonaceae; Compsopogon
+MMETSP0472	mmetsp	Tiarina fusa		TAA	Q	call	candidate	494	87	68	0.806	0.792	612839	yes	Intramacronucleata; Prostomatea; Prorodontida; Colepidae; Tiarina
+MMETSP0472	mmetsp	Tiarina fusa		TAG	Q	watch	candidate	87	38	21	0.142	0.828	612839	yes	Intramacronucleata; Prostomatea; Prorodontida; Colepidae; Tiarina
+MMETSP1165	mmetsp	Chrysocystis fragilis		TAA	Q	watch	new	14	5	4	0.077	1.494	181752	yes	Ochrophyta; Pelagophyceae; Sarcinochrysidales; Chrysocystaceae; Chrysocystis
+MMETSP1317	mmetsp	uncultured eukaryote		TAA	Q	call	new	165	40	25	3.741	0.707	44100	no	cellular organisms; Eukaryota; environmental samples
+MMETSP1317	mmetsp	uncultured eukaryote		TAG	Q	call	new	189	52	28	4.286	0.452	44100	no	cellular organisms; Eukaryota; environmental samples
+MMETSP1317	mmetsp	uncultured eukaryote		TGA	W	watch	new	16	9	5	0.363	0.828	44100	no	cellular organisms; Eukaryota; environmental samples
+MMETSP1377	mmetsp	Symbiodinium sp.		TAA	Q	call	new	122	36	24	0.254	0.717	479792	yes	Dinophyceae; Suessiales; Symbiodiniaceae; Symbiodinium; unclassified Symbiodinium
+MMETSP1377	mmetsp	Symbiodinium sp.		TAG	Q	watch	new	41	25	9	0.085	0.180	479792	yes	Dinophyceae; Suessiales; Symbiodiniaceae; Symbiodinium; unclassified Symbiodinium
+SRR39497168	reads_asm	Ichthyophthirius multifiliis theront RNA (PRJNA1490969)	GCA_000220395.1	TGA	W	watch	lineage	26	5	4	0.144	1.020	180457	yes	Oligohymenophorea; Hymenostomatida; Ophryoglenina; Ichthyophthirius; Ichthyophthirius multifiliis

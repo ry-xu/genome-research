@@ -1,0 +1,16 @@
+cten_WGS aligned subject codons checked 74019 translation mismatches 0
+dmes_WGS aligned subject codons checked 73955 translation mismatches 0
+POS_NC_085326 aligned subject codons checked 73881 translation mismatches 0
+NEG_Phaeostrophion aligned subject codons checked 72454 translation mismatches 0
+NEG_Protohalopteris aligned subject codons checked 73822 translation mismatches 0
+NEG_Saccharina aligned subject codons checked 69388 translation mismatches 0
+NEG_Petalonia aligned subject codons checked 71962 translation mismatches 0
+NEG_Sargassum aligned subject codons checked 67301 translation mismatches 0
+cten_WGS ATA:M=88/I=6 ATG:M=27/I=2 ATT:M=3/I=245 ATC:M=2/I=13
+dmes_WGS ATA:M=3/I=51 ATG:M=113/I=4 ATT:M=6/I=190 ATC:M=0/I=10
+POS_NC_085326 ATA:M=88/I=5 ATG:M=27/I=3 ATT:M=3/I=242 ATC:M=2/I=13
+NEG_Phaeostrophion ATA:M=2/I=69 ATG:M=98/I=12 ATT:M=5/I=126 ATC:M=0/I=28
+NEG_Protohalopteris ATA:M=3/I=55 ATG:M=93/I=3 ATT:M=3/I=166 ATC:M=0/I=17
+NEG_Saccharina ATA:M=1/I=116 ATG:M=137/I=6 ATT:M=2/I=233 ATC:M=0/I=25
+NEG_Petalonia ATA:M=0/I=127 ATG:M=135/I=2 ATT:M=3/I=214 ATC:M=1/I=39
+NEG_Sargassum ATA:M=4/I=118 ATG:M=131/I=8 ATT:M=1/I=202 ATC:M=1/I=32

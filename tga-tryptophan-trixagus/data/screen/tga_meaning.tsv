@@ -1,0 +1,142 @@
+acc	known	organism	n	W	G	top4	call
+GCA_000021505.1	Hodgkinia	Candidatus Hodgkinia cicadicola Dsem	76	0.24	0.09	W18 L7 G7 V7	Trp
+GCA_000404725.1	Gracilibacteria	Gracilibacteria bacterium JGI 0000069-P22	43	0.00	0.72	G31 S2 T2 I1	Gly
+GCA_000442605.1	Nasuia	Candidatus Nasuia deltocephalinicola str. NAS-ALF	36	0.31	0.11	W11 N5 G4 F3	Trp
+GCA_000699475.1	Hodgkinia	Candidatus Hodgkinia cicadicola	77	0.21	0.05	W16 A8 E7 R7	Trp
+GCA_000831405.1	Hodgkinia	Candidatus Hodgkinia cicadicola	48	0.21	0.06	W10 A6 R3 G3	Trp
+GCA_000831425.1	Hodgkinia	Candidatus Hodgkinia cicadicola	66	0.18	0.05	W12 A8 V6 N5	Trp
+GCA_001398315.1	CHECK	Chlamydia trachomatis	247	0.43	0.02	W107 L26 F14 N10	Trp
+GCA_001447885.1	Nasuia	Candidatus Nasuia deltocephalincola	42	0.33	0.05	W14 L5 N4 F3	Trp
+GCA_002290365.1	Nasuia	Candidatus Nasuia deltocephalincola	49	0.37	0.02	W18 V4 S3 L3	Trp
+GCA_002349325.1	CHECK	bacterium UBA2927	150	0.33	0.02	W50 L13 K12 Y9	Trp
+GCA_002746815.1	NCBI code 25	Candidatus Altimarinota bacterium	25	0.00	0.60	G15 N3 K2 E2	Gly
+GCA_002748005.1	NCBI code 25	Candidatus Altimarinota bacterium	23	0.00	0.52	G12 A4 R2 N1	Gly
+GCA_002762255.1	Hodgkinia	Candidatus Hodgkinia cicadicola	215	0.11	0.07	A25 W24 L20 I19	?
+GCA_002762285.1	Hodgkinia	Candidatus Hodgkinia cicadicola	238	0.14	0.07	W34 A25 I23 L18	Trp
+GCA_002762315.1	Hodgkinia	Candidatus Hodgkinia cicadicola	83	0.20	0.06	W17 A10 E6 L5	Trp
+GCA_002774915.1	Hodgkinia	Candidatus Hodgkinia cicadicola	247	0.10	0.06	E29 L24 W24 A23	?
+GCA_002774935.1	Hodgkinia	Candidatus Hodgkinia cicadicola	224	0.18	0.08	W40 G17 E16 A16	Trp
+GCA_002774945.1	Hodgkinia	Candidatus Hodgkinia cicadicola	237	0.14	0.06	W33 A22 L18 E16	Trp
+GCA_002776595.1	Hodgkinia	Candidatus Hodgkinia cicadicola	13	0.08	0.08	S2 V2 A1 I1	?
+GCA_002776615.1	Hodgkinia	Candidatus Hodgkinia cicadicola	17	0.18	0.06	R3 W3 V2 S2	?
+GCA_002776635.1	Hodgkinia	Candidatus Hodgkinia cicadicola	21	0.24	0.00	W5 L3 P2 V2	Trp
+GCA_002776655.1	Hodgkinia	Candidatus Hodgkinia cicadicola	28	0.21	0.11	W6 T3 L3 G3	?
+GCA_002776675.1	Hodgkinia	Candidatus Hodgkinia cicadicola	61	0.20	0.10	W12 T6 G6 R6	?
+GCA_002804305.1	Hodgkinia	Candidatus Hodgkinia cicadicola	83	0.18	0.06	W15 I7 L6 T6	Trp
+GCA_002844025.1	Hodgkinia	Candidatus Hodgkinia cicadicola	22	0.09	0.09	T4 L3 A3 W2	?
+GCA_002844045.1	Hodgkinia	Candidatus Hodgkinia cicadicola	32	0.09	0.09	D4 R3 G3 A3	?
+GCA_002844065.1	Hodgkinia	Candidatus Hodgkinia cicadicola	47	0.15	0.13	W7 G6 R4 Y4	?
+GCA_002844085.1	Hodgkinia	Candidatus Hodgkinia cicadicola	46	0.15	0.09	W7 I5 R5 E5	?
+GCA_002844105.1	Hodgkinia	Candidatus Hodgkinia cicadicola	59	0.17	0.12	W10 G7 R6 I4	?
+GCA_002846095.1	Hodgkinia	Candidatus Hodgkinia cicadicola	52	0.17	0.13	W9 G7 E6 A4	?
+GCA_002846115.1	Hodgkinia	Candidatus Hodgkinia cicadicola	47	0.13	0.06	A7 W6 S3 D3	?
+GCA_002846175.1	Hodgkinia	Candidatus Hodgkinia cicadicola	64	0.19	0.05	W12 A10 R5 K4	Trp
+GCA_002846935.1	Hodgkinia	Candidatus Hodgkinia cicadicola	22	0.14	0.09	A4 W3 G2 D2	?
+GCA_002848985.1	Hodgkinia	Candidatus Hodgkinia cicadicola	22	0.23	0.05	W5 N3 T3 E3	Trp
+GCA_002849005.1	Hodgkinia	Candidatus Hodgkinia cicadicola	20	0.00	0.10	R4 D4 G2 Y2	?
+GCA_002859145.1	Hodgkinia	Candidatus Hodgkinia cicadicola	13	0.31	0.00	W4 L2 E2 A1	Trp
+GCA_002859165.1	Hodgkinia	Candidatus Hodgkinia cicadicola	30	0.20	0.03	W6 E6 D2 R2	Trp
+GCA_002859185.1	Hodgkinia	Candidatus Hodgkinia cicadicola	17	0.06	0.06	T2 L2 Q1 C1	?
+GCA_003488625.1	NCBI code 25	Candidatus Altimarinota bacterium	326	0.00	0.33	G108 L31 I21 S18	Gly
+GCA_003488725.1	NCBI code 25	Candidatus Altimarinota bacterium	131	0.00	0.51	G67 N8 L7 S7	Gly
+GCA_003543185.1	NCBI code 25	Candidatus Altimarinota bacterium	335	0.00	0.33	G110 A22 V21 I21	Gly
+GCA_009756935.1	Mycoplasmoidales	Mesomycoplasma ovipneumoniae	316	0.40	0.03	W127 K21 L20 I16	Trp
+GCA_009994015.1	CHECK	bacterium	198	0.00	0.23	G46 E14 R13 A12	Gly
+GCA_014211875.1	Nasuia	Candidatus Nasuia deltocephalincola	40	0.35	0.15	W14 G6 T4 N3	Trp
+GCA_015697925.1	NCBI code 4	Candidatus Pinguicoccus supinus	88	0.23	0.07	W20 K7 L6 G6	Trp
+GCA_017086605.1	Nasuia	Candidatus Nasuia deltocephalincola	40	0.42	0.05	W17 K4 A3 F2	Trp
+GCA_017394375.1	CHECK	bacterium	217	0.21	0.03	W45 F20 L19 I17	Trp
+GCA_017438765.1	CHECK	bacterium	111	0.00	0.50	G55 E7 A7 K6	Gly
+GCA_017442645.1	CHECK	bacterium	343	0.00	0.29	G99 A25 I20 L19	Gly
+GCA_017445005.1	CHECK	bacterium	106	0.01	0.42	G44 A9 L6 I6	Gly
+GCA_017453665.1	CHECK	bacterium	195	0.01	0.44	G85 A19 E11 V9	Gly
+GCA_017474695.1	CHECK	bacterium	72	0.00	0.47	G34 V5 I5 K4	Gly
+GCA_017524305.1	CHECK	bacterium	109	0.01	0.43	G47 D7 Y6 A6	Gly
+GCA_017526685.1	CHECK	bacterium	126	0.01	0.35	G44 A10 I10 D9	Gly
+GCA_017542395.1	CHECK	bacterium	149	0.00	0.50	G74 V9 I8 E7	Gly
+GCA_017612895.1	CHECK	bacterium	297	0.00	0.30	G88 L29 I21 A19	Gly
+GCA_017616075.1	CHECK	bacterium	64	0.00	0.25	G16 A6 K6 D5	Gly
+GCA_017645525.1	CHECK	bacterium	58	0.00	0.50	G29 V4 E4 K3	Gly
+GCA_017965525.1	CHECK	bacterium	310	0.25	0.03	W78 L34 I25 F25	Trp
+GCA_018654075.1	CHECK	bacterium	115	0.00	0.46	G53 E9 A8 L5	Gly
+GCA_018658185.1	CHECK	bacterium	122	0.00	0.43	G53 E10 A7 K5	Gly
+GCA_018670105.1	CHECK	bacterium	116	0.00	0.39	G45 E9 R7 A7	Gly
+GCA_020632355.1	CHECK	Candidatus Peribacteria bacterium	300	0.00	0.28	G84 E29 A24 D18	Gly
+GCA_021409685.1	Mycoplasmatales	Candidatus Moeniiplasma glomeromycotorum	177	0.09	0.07	W16 I14 L14 V13	?
+GCA_021409705.1	Mycoplasmatales	Candidatus Moeniiplasma glomeromycotorum	168	0.09	0.07	L15 W15 I13 V13	?
+GCA_021409725.1	Mycoplasmatales	Candidatus Moeniiplasma glomeromycotorum	177	0.09	0.07	W16 I14 L14 V13	?
+GCA_021409745.1	Mycoplasmatales	Candidatus Moeniiplasma glomeromycotorum	168	0.10	0.07	W16 L14 V13 I12	?
+GCA_023898445.1	CHECK	Candidatus Peribacteria bacterium	406	0.00	0.31	G126 S28 N27 E27	Gly
+GCA_024407815.1	Mycoplasmoidales	Mycoplasmoidaceae bacterium	275	0.27	0.03	W73 L23 I16 V15	Trp
+GCA_024407855.1	Mycoplasmoidales	Mycoplasmoidaceae bacterium	336	0.24	0.03	W80 L31 F28 V23	Trp
+GCA_024427085.1	Mycoplasmoidales	Mycoplasmoidaceae bacterium	250	0.27	0.01	W67 L29 F17 V16	Trp
+GCA_024427105.1	Mycoplasmoidales	Mycoplasmoidaceae bacterium	314	0.27	0.02	W85 L37 F17 D16	Trp
+GCA_024427265.1	Mycoplasmoidales	Mycoplasmoidaceae bacterium	338	0.25	0.01	W83 L41 V22 E19	Trp
+GCA_024818035.1	Nasuia	Candidatus Nasuia deltocephalincola	39	0.36	0.03	W14 I4 N4 L3	Trp
+GCA_024818095.1	Nasuia	Candidatus Nasuia deltocephalincola	36	0.36	0.08	W13 N3 G3 I3	Trp
+GCA_024818115.1	Nasuia	Candidatus Nasuia deltocephalincola	46	0.33	0.04	W15 I4 L3 A3	Trp
+GCA_024818135.1	Nasuia	Candidatus Nasuia deltocephalincola	41	0.41	0.02	W17 N4 S3 F3	Trp
+GCA_024818515.1	Nasuia	Candidatus Nasuia deltocephalincola	36	0.42	0.00	W15 F4 R2 I2	Trp
+GCA_024818655.1	Nasuia	Candidatus Nasuia deltocephalincola	38	0.45	0.00	W17 A3 I3 D3	Trp
+GCA_024820095.1	Nasuia	Candidatus Nasuia deltocephalincola	45	0.40	0.04	W18 L4 I3 N3	Trp
+GCA_024820175.1	Nasuia	Candidatus Nasuia deltocephalincola	38	0.47	0.08	W18 N3 R3 G3	Trp
+GCA_025998835.1	CHECK	Bacilli bacterium	318	0.25	0.04	W81 L21 K20 S20	Trp
+GCA_027421005.1	Mycoplasmoidales	Mycoplasmopsis bovis	189	0.38	0.04	W72 L16 S10 V8	Trp
+GCA_028029215.1	NCBI code 25	Candidatus Altimarinota bacterium	14	0.00	0.43	G6 L2 T1 N1	Gly
+GCA_028112045.1	NCBI code 25	Candidatus Altimarinota bacterium	114	0.00	0.34	G39 S10 V8 A8	Gly
+GCA_028355235.1	NCBI code 25	Candidatus Altimarinota bacterium	72	0.00	0.31	G22 I9 L5 N5	Gly
+GCA_029210275.1	CHECK	Patescibacteria group bacterium	170	0.00	0.47	G80 D10 E10 A8	Gly
+GCA_029910395.1	Hodgkinia	Candidatus Hodgkinia cicadicola	42	0.19	0.05	W8 V5 R5 I3	Trp
+GCA_029910415.1	Hodgkinia	Candidatus Hodgkinia cicadicola	33	0.18	0.06	W6 D3 K3 Y2	Trp
+GCA_029910435.1	Hodgkinia	Candidatus Hodgkinia cicadicola	45	0.16	0.04	W7 R6 V5 L5	Trp
+GCA_029910455.1	Hodgkinia	Candidatus Hodgkinia cicadicola	27	0.11	0.11	L4 A4 W3 G3	?
+GCA_030059765.1	Mollicutes	Mollicutes bacterium	213	0.15	0.05	W31 L22 F17 I14	Trp
+GCA_030297055.1	Nasuia	Candidatus Nasuia deltocephalincola	42	0.40	0.07	W17 K4 G3 A3	Trp
+GCA_030688485.1	CHECK	bacterium	343	0.01	0.29	G101 A30 L25 K21	Gly
+GCA_030949885.1	NCBI code 25	Candidatus Altimarinota bacterium	138	0.01	0.44	G61 E11 T9 L8	Gly
+GCA_031254045.1	CHECK	Candidatus Peribacteria bacterium	317	0.01	0.31	G97 I21 E20 A20	Gly
+GCA_031271425.1	Entomoplasmatales	Spiroplasmataceae bacterium	169	0.13	0.04	W22 L18 V15 D14	Trp
+GCA_031275125.1	CHECK	Candidatus Peribacteria bacterium	101	0.00	0.41	G41 I7 A7 S6	Gly
+GCA_031279095.1	CHECK	Candidatus Peribacteria bacterium	72	0.00	0.46	G33 L7 A6 E3	Gly
+GCA_031675535.1	Mycoplasmatales	Mycoplasmataceae bacterium	127	0.09	0.05	V14 Y13 L12 E11	?
+GCA_035329245.1	NCBI code 25	Candidatus Absconditabacterales bacterium	225	0.02	0.42	G94 A15 L14 E12	Gly
+GCA_035453665.1	CHECK	Minisyncoccota bacterium	211	0.15	0.06	W31 K21 L18 Y15	Trp
+GCA_036851215.1	Mollicutes	Mollicutes bacterium UO1	163	0.14	0.04	W23 N16 E15 L15	Trp
+GCA_037128495.1	CHECK	bacterium	367	0.01	0.34	G124 A24 L20 E20	Gly
+GCA_037134335.1	CHECK	bacterium	352	0.01	0.26	G90 I26 D25 A24	Gly
+GCA_037138875.1	CHECK	bacterium	293	0.00	0.26	G75 A29 E23 L17	Gly
+GCA_037141395.1	CHECK	bacterium	318	0.00	0.35	G112 A22 D22 E20	Gly
+GCA_037144335.1	CHECK	bacterium	66	0.00	0.38	G25 E9 A5 S5	Gly
+GCA_038241225.1	Hodgkinia	Candidatus Hodgkinia cicadicola	65	0.23	0.09	W15 K6 G6 V6	Trp
+GCA_039738815.1	NCBI code 25	Candidatus Absconditabacterales bacterium	177	0.01	0.35	G62 V14 S13 K10	Gly
+GCA_040210545.2	CHECK	Candidatus Shikimatogenerans sp. Tser	49	0.24	0.04	W12 Y5 I4 E3	Trp
+GCA_040211365.2	CHECK	Candidatus Shikimatogenerans sp. Tder	49	0.22	0.06	W11 Y7 S5 N4	Trp
+GCA_040409785.2	CHECK	Candidatus Shikimatogenerans sp. Ttur	43	0.28	0.09	W12 Y4 G4 F3	Trp
+GCA_046531125.1	Hodgkinia	Candidatus Hodgkinia cicadicola	53	0.15	0.04	W8 L6 D6 I6	Trp
+GCA_046531135.1	Hodgkinia	Candidatus Hodgkinia cicadicola	23	0.26	0.09	W6 R3 A2 G2	Trp
+GCA_047338565.1	Hodgkinia	Candidatus Hodgkinia cicadicola	38	0.34	0.03	W13 K3 S3 N3	Trp
+GCA_047338575.1	Hodgkinia	Candidatus Hodgkinia cicadicola	44	0.25	0.00	W11 D4 E4 I4	Trp
+GCA_051294945.1	Hodgkinia	Candidatus Hodgkinia cicadicola	85	0.21	0.11	W18 G9 A8 L7	?
+GCA_051294965.1	Hodgkinia	Candidatus Hodgkinia cicadicola	73	0.16	0.10	W12 F9 G7 I5	?
+GCA_051294975.1	Hodgkinia	Candidatus Hodgkinia cicadicola	28	0.21	0.11	W6 A5 G3 T3	?
+GCA_051294985.1	Hodgkinia	Candidatus Hodgkinia cicadicola	40	0.15	0.03	W6 R5 K4 I3	Trp
+GCA_051294995.1	Hodgkinia	Candidatus Hodgkinia cicadicola	53	0.19	0.04	W10 A5 R5 I5	Trp
+GCA_051295005.1	Hodgkinia	Candidatus Hodgkinia cicadicola	25	0.24	0.04	W6 A3 Q2 I2	Trp
+GCA_051295345.1	Hodgkinia	Candidatus Hodgkinia cicadicola	67	0.22	0.03	W15 A7 E7 T6	Trp
+GCA_051295365.1	Hodgkinia	Candidatus Hodgkinia cicadicola	72	0.21	0.07	W15 L9 I6 R5	Trp
+GCA_051295375.1	Hodgkinia	Candidatus Hodgkinia cicadicola	78	0.27	0.05	W21 A6 I6 K6	Trp
+GCA_051515685.1	Nasuia	Candidatus Nasuia deltocephalincola	36	0.31	0.06	W11 I4 N3 F3	Trp
+GCA_052366765.1	Hodgkinia	Candidatus Hodgkinia cicadicola	17	0.35	0.06	W6 S2 K2 R1	Trp
+GCA_949534495.1	Mycoplasmatales	uncultured Mycoplasmatales bacterium	154	0.33	0.01	W51 F17 Y11 I10	Trp
+GCA_949544815.1	Mycoplasmatales	uncultured Mycoplasmatales bacterium	171	0.33	0.00	W56 F19 I12 Y12	Trp
+GCA_964565395.1	CHECK	uncultured bacterium	41	0.37	0.15	W15 G6 T4 S3	Trp
+GCF_023651715.1	CHECK	endosymbiont of Metamasius hemipterus	30	0.57	0.03	W17 L3 M2 V2	Trp
+GCF_024818055.1	Nasuia	Candidatus Nasuia deltocephalincola	45	0.38	0.02	W17 I4 A3 F3	Trp
+GCF_024818075.1	Nasuia	Candidatus Nasuia deltocephalincola	39	0.41	0.03	W16 S5 I3 F2	Trp
+GCF_024818155.1	Nasuia	Candidatus Nasuia deltocephalincola	42	0.40	0.00	W17 R4 K3 I3	Trp
+GCF_024818175.1	Nasuia	Candidatus Nasuia deltocephalincola	41	0.34	0.02	W14 N5 A3 I3	Trp
+GCF_024818335.1	Nasuia	Candidatus Nasuia deltocephalincola	41	0.41	0.02	W17 R4 S3 T3	Trp
+GCF_024820075.1	Nasuia	Candidatus Nasuia deltocephalincola	41	0.44	0.02	W18 K3 N2 I2	Trp
+GCF_024820115.1	Nasuia	Candidatus Nasuia deltocephalincola	43	0.37	0.00	W16 R4 A4 F3	Trp
+GCF_024820135.1	Nasuia	Candidatus Nasuia deltocephalincola	38	0.42	0.03	W16 I5 V2 F2	Trp
+GCF_024820155.1	Nasuia	Candidatus Nasuia deltocephalincola	42	0.43	0.02	W18 I5 N3 S3	Trp

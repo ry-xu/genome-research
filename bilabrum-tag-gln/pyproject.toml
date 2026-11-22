@@ -1,0 +1,14 @@
+[project]
+name = "bilabrum-tag-gln"
+version = "0.1.0"
+description = "Analysis code and data: the marine flagellate Bilabrum reads the stop codon TAG as glutamine"
+requires-python = ">=3.11"
+dependencies = [
+    "biopython",
+    "matplotlib",
+    "numpy",
+    "scipy",
+]
+
+[tool.uv]
+package = false

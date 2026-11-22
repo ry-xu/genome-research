@@ -1,0 +1,61 @@
+red algal genomes with sites: 389; red sites 2101119
+declared tables of red algal genomes: {4: 372, 1: 17, 3: 1}
+AGG: red sites 4455, at strict Met 7 (in 1 genomes; {'NC_062302.1': 7}...), at strict Arg 1418
+AGA: red sites 18956, at strict Met 1 (in 1 genomes; {'PV600744.1': 1}...), at strict Arg 7201
+ATG: red sites 50844, at strict Met 9741 (in 387 genomes; {'PX512364.1': 32, 'PP734019.1': 32, 'MH026109.1': 31}...), at strict Arg 1
+
+== NC_062302.1: 4155 sites
+  strict Met columns by codon: {'ATG': 13, 'AGG': 7, 'AGT': 1, 'ATA': 1}
+  strict Arg columns by codon: {'CGT': 17, 'AGA': 13, 'CGA': 7, 'AAA': 3, 'CGC': 1, 'ATT': 1, 'TTT': 1}
+  AGG sites 52; consensus at AGG sites (all): {'M': 19, 'L': 12, 'I': 4, 'F': 3, 'A': 3, 'V': 3, 'S': 2, 'G': 2, 'N': 1, 'R': 1, 'T': 1, 'K': 1}
+  AGG at strict columns by consensus: {'M': 7}
+  AGA at strict columns by consensus: {'R': 13}
+  Arg codons at strict Arg: {'AGA': 13, 'CGT': 17, 'CGA': 7, 'CGC': 1}
+
+== MT483996.1: 3611 sites
+  strict Met columns by codon: {'ATG': 20, 'TTA': 2, 'ATA': 1}
+  strict Arg columns by codon: {'AGA': 18, 'CGT': 10, 'CGA': 9, 'AAA': 8, 'CGC': 5, 'AAG': 3, 'CAA': 2, 'CCT': 1, 'ACT': 1, 'TCA': 1, 'ATT': 1, 'AGG': 1, 'TCG': 1, 'AAC': 1}
+  AGG sites 2; consensus at AGG sites (all): {'R': 2}
+  AGG at strict columns by consensus: {'R': 1}
+  AGA at strict columns by consensus: {'R': 18, 'G': 1, 'Y': 1, 'P': 1, 'K': 1}
+  Arg codons at strict Arg: {'AGA': 18, 'CGT': 10, 'CGA': 9, 'CGC': 5, 'AGG': 1}
+MT483995.1 not in census
+
+== NC_062401.1: 4522 sites
+  strict Met columns by codon: {'ATG': 15, 'TTG': 1, 'CAA': 1, 'ATA': 1}
+  strict Arg columns by codon: {'AGA': 13, 'CGT': 12, 'CGA': 7, 'CGC': 3, 'AAA': 3, 'CGG': 2, 'CCT': 1, 'GCT': 1, 'AAT': 1, 'AGT': 1, 'CTA': 1, 'CAT': 1, 'AAG': 1}
+  AGG sites 8; consensus at AGG sites (all): {'R': 4, 'P': 2, 'H': 1, 'Q': 1}
+  AGG at strict columns by consensus: {}
+  AGA at strict columns by consensus: {'R': 13}
+  Arg codons at strict Arg: {'AGA': 13, 'CGA': 7, 'CGT': 12, 'CGC': 3, 'CGG': 2}
+
+== NC_062400.1: 4380 sites
+  strict Met columns by codon: {'ATG': 20, 'TTT': 1, 'TGT': 1}
+  strict Arg columns by codon: {'AGA': 26, 'CGT': 7, 'CGA': 5, 'CGC': 3, 'AGG': 2}
+  AGG sites 6; consensus at AGG sites (all): {'R': 5, 'E': 1}
+  AGG at strict columns by consensus: {'R': 2}
+  AGA at strict columns by consensus: {'R': 26}
+  Arg codons at strict Arg: {'AGA': 26, 'CGA': 5, 'AGG': 2, 'CGT': 7, 'CGC': 3}
+
+== NC_062303.1: 4672 sites
+  strict Met columns by codon: {'ATG': 25}
+  strict Arg columns by codon: {'AGA': 14, 'CGT': 12, 'CGA': 9, 'AGG': 2, 'CGC': 2, 'TGT': 1}
+  AGG sites 11; consensus at AGG sites (all): {'R': 7, 'K': 2, 'G': 1, 'N': 1}
+  AGG at strict columns by consensus: {'R': 2}
+  AGA at strict columns by consensus: {'R': 14, 'E': 2}
+  Arg codons at strict Arg: {'CGT': 12, 'AGA': 14, 'CGA': 9, 'AGG': 2, 'CGC': 2}
+
+== NC_062397.1: 4036 sites
+  strict Met columns by codon: {'ATG': 19, 'TTA': 1, 'TGT': 1, 'ATA': 1}
+  strict Arg columns by codon: {'AGA': 25, 'CGA': 7, 'CGT': 4, 'AGG': 4, 'CGC': 1, 'AAA': 1, 'CGG': 1}
+  AGG sites 9; consensus at AGG sites (all): {'R': 8, 'Y': 1}
+  AGG at strict columns by consensus: {'R': 4}
+  AGA at strict columns by consensus: {'R': 25}
+  Arg codons at strict Arg: {'AGA': 25, 'CGA': 7, 'CGT': 4, 'AGG': 4, 'CGC': 1, 'CGG': 1}
+
+SAG AGG columns: 52; relatives: 233 codons at them, ATG 84, Arg codons 1
+  MT483996.1 37 ATG 14 Arg 0
+  NC_062401.1 47 ATG 19 Arg 0
+  NC_062400.1 50 ATG 20 Arg 0
+  NC_062303.1 49 ATG 18 Arg 1
+  NC_062397.1 50 ATG 13 Arg 0

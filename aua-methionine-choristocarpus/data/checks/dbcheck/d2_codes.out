@@ -1,0 +1,83 @@
+== (a) NCBI Datasets v2 taxonomy dataset_report (query 116065,2870,2833,35131,240563)
+taxid 116065 Choristocarpus tenellus (SPECIES): primary={'id': 1, 'name': 'Standard'} mito={'id': 1, 'name': 'Standard'} plastid={'id': 11, 'name': 'Bacterial, Archaeal and Plant Plastid'}
+   keys in genetic_code: ['mitochondrial', 'plastid', 'primary']
+taxid 240563 Sphaerosorus (GENUS): primary={'id': 1, 'name': 'Standard'} mito={'id': 1, 'name': 'Standard'} plastid={'id': 11, 'name': 'Bacterial, Archaeal and Plant Plastid'}
+   keys in genetic_code: ['mitochondrial', 'plastid', 'primary']
+taxid 2833 Xanthophyceae (CLASS): primary={'id': 1, 'name': 'Standard'} mito={'id': 1, 'name': 'Standard'} plastid={'id': 11, 'name': 'Bacterial, Archaeal and Plant Plastid'}
+   keys in genetic_code: ['mitochondrial', 'plastid', 'primary']
+taxid 2870 Phaeophyceae (CLASS): primary={'id': 1, 'name': 'Standard'} mito={'id': 1, 'name': 'Standard'} plastid={'id': 11, 'name': 'Bacterial, Archaeal and Plant Plastid'}
+   keys in genetic_code: ['mitochondrial', 'plastid', 'primary']
+taxid 35131 Labyrinthulomycetes (SUBCLASS): primary={'id': 1, 'name': 'Standard'} mito={'id': 1, 'name': 'Standard'} plastid={'id': 11, 'name': 'Bacterial, Archaeal and Plant Plastid'}
+   keys in genetic_code: ['mitochondrial', 'plastid', 'primary']
+
+== (b) gc.prt tables with AUA (ATA) = M
+table  1: ATA=I ATG=M ATA-start=-  Standard / SGC0
+table  2: ATA=M ATG=M ATA-start=M  Vertebrate Mitochondrial / SGC1   <== ATA=Met
+table  3: ATA=M ATG=M ATA-start=M  Yeast Mitochondrial / SGC2   <== ATA=Met
+table  4: ATA=I ATG=M ATA-start=M  Mold Mitochondrial; Protozoan Mitochondrial; Coelenterate
+ Mitochondrial; Mycoplasma; Spiroplasma / SGC3
+table  5: ATA=M ATG=M ATA-start=M  Invertebrate Mitochondrial / SGC4   <== ATA=Met
+table  6: ATA=I ATG=M ATA-start=-  Ciliate Nuclear; Dasycladacean Nuclear; Hexamita Nuclear / SGC5
+table  9: ATA=I ATG=M ATA-start=-  Echinoderm Mitochondrial; Flatworm Mitochondrial / SGC8
+table 10: ATA=I ATG=M ATA-start=-  Euplotid Nuclear / SGC9
+table 11: ATA=I ATG=M ATA-start=M  Bacterial, Archaeal and Plant Plastid
+table 12: ATA=I ATG=M ATA-start=-  Alternative Yeast Nuclear
+table 13: ATA=M ATG=M ATA-start=M  Ascidian Mitochondrial   <== ATA=Met
+table 14: ATA=I ATG=M ATA-start=-  Alternative Flatworm Mitochondrial
+table 15: ATA=I ATG=M ATA-start=-  Blepharisma Macronuclear
+table 16: ATA=I ATG=M ATA-start=-  Chlorophycean Mitochondrial
+table 21: ATA=M ATG=M ATA-start=-  Trematode Mitochondrial   <== ATA=Met
+table 22: ATA=I ATG=M ATA-start=-  Scenedesmus obliquus Mitochondrial
+table 23: ATA=I ATG=M ATA-start=-  Thraustochytrium Mitochondrial
+table 24: ATA=I ATG=M ATA-start=-  Rhabdopleuridae Mitochondrial
+table 25: ATA=I ATG=M ATA-start=-  Candidate Division SR1 and Gracilibacteria
+table 26: ATA=I ATG=M ATA-start=-  Pachysolen tannophilus Nuclear
+table 27: ATA=I ATG=M ATA-start=-  Karyorelict Nuclear
+table 28: ATA=I ATG=M ATA-start=-  Condylostoma Nuclear
+table 29: ATA=I ATG=M ATA-start=-  Mesodinium Nuclear
+table 30: ATA=I ATG=M ATA-start=-  Peritrich Nuclear
+table 31: ATA=I ATG=M ATA-start=-  Blastocrithidia Nuclear
+table 32: ATA=I ATG=M ATA-start=M  Balanophoraceae Plastid
+table 33: ATA=I ATG=M ATA-start=-  Cephalodiscidae Mitochondrial
+
+== (c) wprintgc.html: text for tables with ATA=M, searching for stramenopile/brown-algal terms
+term 'Phaeophyceae': 0 hits
+term 'brown alga': 0 hits
+term 'Choristocarpus': 0 hits
+term 'Discosporangi': 0 hits
+term 'stramenopile': 0 hits
+term 'Stramenopile': 0 hits
+term 'Xanthophyceae': 0 hits
+term 'yellow-green': 0 hits
+term 'Labyrinthul': 0 hits
+term 'heterokont': 0 hits
+term 'Heterokont': 0 hits
+term 'Ochrophyta': 0 hits
+
+== (d) wprintgc.html sanity: does it carry the table text?
+term 'Vertebrate Mitochondrial': 2 hits
+term 'Thraustochytrium': 3 hits
+term 'Ascidian': 2 hits
+term 'AUA': 19 hits
+term 'ATA': 2 hits
+term 'Systematic Range': 24 hits
+term 'alga': 2 hits
+Thraustochytrium section excerpt: Thraustochytrium Mitochondrial Code   24. Rhabdopleuridae Mitochondrial Code   25. Candidate Division SR1 and Gracilibacteria Code   26. Pachysolen tannophilus Nuclear Code   27. Karyorelict Nuclear Code   28. Condylostoma Nuclear Code   29. Mesodinium Nuclear Code   30. Peritrich Nuclear Code   31. Blastocrithidia Nuclear Code   32. Balanophoraceae Plastid Code   33. Cephalodiscidae Mitochondrial UAA-Tyr Code         Translation table 1 "> Translation table 11 "> Translation table 11 "> Translation table 4 "> Translation table 11 "> Translation table 11 "> Translation table 11 "> Translation 
+
+-- table 2 (The Vertebrate Mitochondrial Code) systematic range: Systematic Range:     Vertebrata     Comments:       AGA and AGG were thought to have become mitochondrial stop codons early in vertebrate evolution ( Osawa, Ohama, Jukes & Watanabe 1989 ). However, at least in humans it has now been shown that AGA and AGG sequences are not recognized as termination codons. A -1 mitoribosome frameshift occurs at the AGA and AGG codons predicted to terminate the CO
+
+-- table 3 (The Yeast Mitochondrial Code) systematic range: Systematic Range:       Saccharomyces cerevisiae , Candida glabrata , Hansenula saturnus , and Kluyveromyces thermotolerans ( Clark-Walker and Weiller, 1994 )     Comments:     GUG (GTG) is used as a start codon for a few proteins in some Saccharomyces species ( Sulo et al. 2017 ). The remaining CGN codons are rare in Saccharomyces cerevisiae and absent in Candida glabrata (= Torulopsis glabrata )
+
+-- table 4 (The Mold, Protozoan, and Coelenterate Mitochondrial Code) systematic range: Systematic Range:       Bacteria : The code is used in Entomoplasmatales and Mycoplasmatales ( Bove et al. 1989 ). The situation in the Acholeplasmatales is unclear. Based on a study of ribosomal protein genes, it had been concluded that UGA does not code for tryptophan in plant-pathogenic mycoplasma-like organisms (MLO) and the Acholeplasmataceae ( Lim and Sears, 1992 ) and there seems to be only
+
+-- table 5 (The Invertebrate Mitochondrial Code) systematic range: Systematic Range:     Nematoda : Ascaris, Caenorhabditis;   Mollusca : Bivalvia ( Hoffmann et al., 1992 ); Polyplacophora ( Boore and Brown, 1994 )   Arthropoda/Crustacea : Artemia ( Batuecas et al., 1988 );   Arthropoda/Insecta : Drosophila [Locusta migratoria (migratory locust), Apis mellifera (honeybee)]     Comments:     Several arthropods translate the codon AGG as lysine instead of serine (a
+
+-- table 21 (Trematode Mitochondrial Code) systematic range: Systematic Range:       Trematoda : Ohama, T, S. Osawa, K. Watanabe, T.H. Jukes, 1990. J. Molec Evol. 30   Garey, J.R. and D.R. Wolstenholme, 1989. J. Molec. Evol. 28: 374-387 329-332.     Back to top     22. Scenedesmus obliquus Mitochondrial Code (transl_table=22)     AAs = FFLLSS*SYY*LCC*WLLLLPPPPHHQQRRRRIIIMTTTTNNKKSSRRVVVVAAAADDEEGGGG  Starts = ------*---*---*--------------------M------------
+
+== (e) for each ATA=Met table, every sense/stop difference from table 1 (is any table 'standard + AUA=Met' only?)
+   table 2: ['TGA:*->W', 'ATA:I->M', 'AGA:R->*', 'AGG:R->*']
+   table 3: ['TGA:*->W', 'CTT:L->T', 'CTC:L->T', 'CTA:L->T', 'CTG:L->T', 'ATA:I->M']
+   table 5: ['TGA:*->W', 'ATA:I->M', 'AGA:R->S', 'AGG:R->S']
+   table 13: ['TGA:*->W', 'ATA:I->M', 'AGA:R->G', 'AGG:R->G']
+   table 21: ['TGA:*->W', 'ATA:I->M', 'AAA:K->N', 'AGA:R->S', 'AGG:R->S']
+   tables differing from table 1 only at ATA: none

@@ -1,0 +1,19 @@
+coordinate check: genome codon translates to the HSP residue 184612, mismatches 0
+HSPs 652; owning HSPs 373; owned codon columns 76835
+TAA: all 6 (in 5 queries); inner>=10 6 (in 5 queries); inner residues [('-', 5), ('L', 1)]
+    all residues [('-', 5), ('L', 1)]
+TAG: all 201 (in 48 queries); inner>=10 183 (in 44 queries); inner residues [('Q', 52), ('-', 34), ('K', 20), ('E', 11), ('R', 11), ('S', 8), ('L', 7), ('N', 7), ('A', 6), ('D', 4), ('V', 4), ('P', 4), ('H', 4), ('F', 2), ('I', 2), ('Y', 2), ('G', 2), ('M', 1), ('W', 1), ('T', 1)]
+    all residues [('Q', 56), ('-', 35), ('K', 23), ('E', 11), ('R', 11), ('S', 9), ('N', 9), ('L', 8), ('A', 7), ('H', 5), ('D', 5), ('V', 5), ('P', 5), ('F', 3), ('I', 2), ('Y', 2), ('G', 2), ('M', 1), ('W', 1), ('T', 1)]
+TGA: all 28 (in 13 queries); inner>=10 26 (in 12 queries); inner residues [('-', 24), ('A', 1), ('C', 1)]
+    all residues [('-', 24), ('A', 1), ('K', 1), ('R', 1), ('C', 1)]
+CAG n=2633 top [('Q', 1077), ('E', 237), ('K', 233), ('R', 170), ('D', 109)]
+CAA n=247 top [('Q', 87), ('K', 32), ('E', 20), ('M', 12), ('S', 12)]
+TGG n=591 top [('W', 355), ('Y', 61), ('F', 54), ('L', 29), ('R', 11)]
+TAC n=1571 top [('Y', 920), ('F', 236), ('L', 62), ('H', 58), ('V', 39)]
+TAT n=204 top [('Y', 101), ('F', 30), ('L', 13), ('I', 8), ('H', 6)]
+TAG per 1000 aligned codons: 2.16
+CAG per 1000 aligned codons: 34.27
+CAA per 1000 aligned codons: 3.21
+gene ends (HSP qend>=qlen-3, e<=1e-10), 60 loci; first in-frame stop codon: {'TGA': 51, 'TAA': 6, None: 2, 'TAG': 1}
+  loci with TAA/TGA within 20 codons: 47; terminator {'TGA': 41, 'TAA': 6}; TAGs read before it 1 in 1 loci
+  loci with any stop within 0-3 codons after HSP: 31; {'TGA': 26, 'TAA': 5}

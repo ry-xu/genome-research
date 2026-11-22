@@ -1,0 +1,422 @@
+gene	codon_index	codon	model_col	cons	share	strict	reads	same	other
+orf	365	CGT	mito_Fun_rps3:235	N	0.39	0	74	74	{}
+orf	373	AGA	mito_Fun_rps3:243	S	0.74	0	70	70	{}
+orf	377	GCT	mito_Fun_rps3:247	T	0.32	0	70	70	{}
+orf	381	GCT	mito_Fun_rps3:251	A	0.34	0	74	73	{'GAT': 1}
+orf	399	CGT	mito_Fun_rps3:271	K	0.39	0	94	93	{'CAT': 1}
+orf	456	CGA	mito_Fun_rps3:326	R	0.97	1	48	48	{}
+orf	465	CGA	mito_Fun_rps3:335	R	0.93	1	54	54	{}
+orf	535	CGA	mito_Fun_rps3:379	R	0.64	0	82	82	{}
+orf	538	GCA	mito_Fun_rps3:382	A	0.45	0	79	79	{}
+orf	32	CGA	mito_Vir_cox1:22	R	0.98	1	43	42	{'AGA': 1}
+orf	39	GCT	mito_Vir_cox1:29	H	0.68	0	56	55	{'ACT': 1}
+orf	50	AGA	mito_Vir_cox1:40	G	0.63	0	74	74	{}
+orf	53	GCA	mito_Vir_cox1:43	A	0.49	0	78	78	{}
+orf	59	GCA	mito_Vir_cox1:49	A	0.47	0	75	75	{}
+orf	65	CGT	mito_Vir_cox1:55	R	1.00	1	72	72	{}
+orf	69	GCC	mito_Vir_cox1:59	A	0.52	0	71	71	{}
+orf	70	GCC	mito_Vir_cox1:60	A	0.22	0	75	75	{}
+orf	89	GCA	mito_Vir_cox1:79	A	0.86	0	71	71	{}
+orf	91	GCT	mito_Vir_cox1:81	A	0.92	1	72	72	{}
+orf	102	AGA	mito_Vir_cox1:92	A	0.57	0	77	76	{'GGA': 1}
+orf	118	AGA	mito_Vir_cox1:108	A	0.70	0	88	88	{}
+orf	122	GCT	mito_Vir_cox1:112	A	0.95	1	85	85	{}
+orf	125	CGA	mito_Vir_cox1:115	R	1.00	1	82	82	{}
+orf	143	GCT	mito_Vir_cox1:133	S	0.34	0	91	91	{}
+orf	145	GCT	mito_Vir_cox1:135	A	0.54	0	87	87	{}
+orf	151	GCA	mito_Vir_cox1:141	A	0.57	0	80	80	{}
+orf	10	AGA	mito_Vir_cox1:393	A	0.94	1	11	11	{}
+orf	20	GCC	mito_Vir_cox1:403	A	0.99	1	20	20	{}
+orf	23	GCA	mito_Vir_cox1:406	A	0.80	0	24	24	{}
+orf	26	GCT	mito_Vir_cox1:409	A	0.64	0	27	27	{}
+orf	27	GCA	mito_Vir_cox1:410	G	0.83	0	28	28	{}
+orf	46	CGA	mito_Vir_cox1:429	Q	0.46	0	67	67	{}
+orf	69	GCT	mito_Vir_cox1:452	A	0.53	0	74	74	{}
+orf	3	CGT	mito_Fun_cob:38	R	0.87	0	5	5	{}
+orf	14	GCT	mito_Fun_cob:49	V	0.51	0	26	26	{}
+orf	25	GCA	mito_Fun_cob:60	S	0.57	0	37	37	{}
+orf	52	AGA	mito_Fun_cob:87	A	0.97	1	69	69	{}
+orf	62	GCT	mito_Fun_cob:97	A	0.99	1	69	69	{}
+orf	71	CGA	mito_Fun_cob:106	R	0.99	1	75	75	{}
+orf	80	CGG	mito_Fun_cob:115	R	0.97	1	79	79	{}
+orf	84	GCG	mito_Fun_cob:119	A	0.55	0	85	85	{}
+orf	87	GCT	mito_Fun_cob:122	A	0.96	1	94	93	{'GAT': 1}
+orf	99	GCT	mito_Fun_cob:134	G	0.82	0	107	107	{}
+orf	100	CGA	mito_Fun_cob:135	R	0.85	0	109	109	{}
+orf	111	CGT	mito_Fun_cob:146	R	0.95	1	110	110	{}
+orf	127	GCA	mito_Fun_cob:162	A	0.73	0	106	105	{'ACA': 1}
+orf	129	GCT	mito_Fun_cob:164	A	0.78	0	107	105	{'GAT': 1, 'TCT': 1}
+orf	80	GCA	mito_Fun_cox2:32	A	0.93	1	87	87	{}
+orf	128	GCA	mito_Fun_cox2:80	L	0.71	0	54	54	{}
+orf	143	GCC	mito_Fun_cox2:95	A	0.96	1	60	60	{}
+orf	148	GCT	mito_Fun_cox2:100	L	0.39	0	59	59	{}
+orf	150	GCC	mito_Fun_cox2:102	A	0.97	1	57	57	{}
+orf	212	CGT	mito_Fun_cox2:164	R	1.00	1	80	80	{}
+orf	229	CGA	mito_Fun_cox2:181	R	0.98	1	82	82	{}
+orf	235	GCT	mito_Fun_cox2:187	A	0.65	0	80	80	{}
+orf	242	GCA	mito_Fun_cox2:194	A	0.91	1	103	103	{}
+orf	245	GCA	mito_Fun_cox2:197	S	0.70	0	102	102	{}
+orf	252	AGA	mito_Fun_cox2:204	A	0.88	0	111	111	{}
+orf	256	CGA	mito_Fun_cox2:208	R	0.99	1	113	113	{}
+orf	266	CGA	mito_Fun_cox2:218	R	1.00	1	132	132	{}
+orf	291	GCA	mito_Fun_cox2:243	A	0.49	0	157	157	{}
+orf	51	GCG	mito_Fun_nad2:18	S	0.51	0	57	56	{'GAG': 1}
+orf	56	GCC	mito_Fun_nad2:23	L	0.38	0	53	53	{}
+orf	58	CGT	mito_Fun_nad2:25	R	0.61	0	52	52	{}
+orf	66	CGA	mito_Fun_nad2:33	R	0.97	1	58	58	{}
+orf	76	GCA	mito_Fun_nad2:43	A	0.21	0	73	73	{}
+orf	79	GCC	mito_Fun_nad2:46	S	0.37	0	78	78	{}
+orf	89	CGG	mito_Fun_nad2:56	G	0.29	0	79	79	{}
+orf	107	AGA	mito_Fun_nad2:74	I	0.26	0	98	97	{'ATA': 1}
+orf	206	GCT	mito_Fun_nad2:126	A	0.54	0	83	83	{}
+orf	228	GCA	mito_Fun_nad2:148	G	0.71	0	58	58	{}
+orf	233	GCT	mito_Fun_nad2:153	S	0.50	0	59	59	{}
+orf	237	CGA	mito_Fun_nad2:157	R	0.88	0	59	59	{}
+orf	244	GCA	mito_Fun_nad2:164	S	0.55	0	55	55	{}
+orf	245	GCA	mito_Fun_nad2:165	A	0.58	0	56	56	{}
+orf	258	GCT	mito_Fun_nad2:178	C	0.75	0	60	60	{}
+orf	284	GCT	mito_Fun_nad2:204	S	0.75	0	70	70	{}
+orf	324	GCA	mito_Fun_nad2:231	S	0.58	0	63	63	{}
+orf	325	GCA	mito_Fun_nad2:232	A	0.91	1	62	61	{'TCA': 1}
+orf	326	GCA	mito_Fun_nad2:233	A	0.97	1	62	61	{'GAA': 1}
+orf	332	GCT	mito_Fun_nad2:239	S	0.66	0	64	64	{}
+orf	344	AGA	mito_Fun_nad2:251	T	0.97	1	74	74	{}
+orf	462	CGA	mito_Fun_nad2:307	R	0.79	0	235	232	{'CTA': 2, 'CGT': 1}
+orf	465	CGT	mito_Fun_nad2:310	R	0.95	1	249	246	{'AGT': 1, 'GGT': 1}
+orf	468	GCT	mito_Fun_nad2:313	A	0.92	1	275	275	{}
+orf	481	GCT	mito_Fun_nad2:326	A	0.82	0	275	274	{'GAT': 1}
+orf	483	GCT	mito_Fun_nad2:328	S	0.44	0	269	268	{'GAT': 1}
+orf	513	GCA	mito_Fun_nad2:358	A	0.51	0	183	183	{}
+orf	538	GCA	mito_Fun_nad2:371	L	0.78	0	94	93	{'TCA': 1}
+orf	539	AGA	mito_Fun_nad2:372	L	0.30	0	95	94	{'TGA': 1}
+orf	565	AGA	mito_Fun_nad2:398	S	0.85	0	52	52	{}
+orf	567	GCA	mito_Fun_nad2:400	A	0.52	0	54	54	{}
+orf	574	GCA	mito_Fun_nad2:407	A	0.60	0	53	53	{}
+orf	584	GCT	mito_Fun_nad2:417	A	0.49	0	58	58	{}
+orf	604	GCT	mito_Fun_nad2:437	A	0.79	0	73	73	{}
+orf	612	GCA	mito_Fun_nad2:445	A	0.83	0	81	81	{}
+orf	627	GCA	mito_Fun_nad2:460	P	0.30	0	74	74	{}
+orf	671	AGA	mito_Fun_nad2:481	S	0.67	0	95	95	{}
+orf	699	AGA	mito_Fun_nad2:509	A	0.44	0	146	146	{}
+orf	25	GCG	mito_Fun_nad3:21	L	0.40	0	27	27	{}
+orf	30	GCG	mito_Fun_nad3:26	A	0.80	0	32	32	{}
+orf	33	CGA	mito_Fun_nad3:29	N	0.59	0	35	35	{}
+orf	54	CGA	mito_Fun_nad3:50	R	0.98	1	52	52	{}
+orf	82	AGA	mito_Fun_nad3:78	A	0.44	0	51	50	{'ATA': 1}
+orf	85	GCT	mito_Fun_nad3:81	L	0.36	0	54	54	{}
+orf	90	GCT	mito_Fun_nad3:86	I	0.43	0	53	53	{}
+orf	115	AGA	mito_Fun_nad3:111	A	0.93	1	54	54	{}
+orf	122	CGA	mito_Fun_nad3:118	Q	0.80	0	51	51	{}
+orf	124	GCG	mito_Fun_nad3:120	S	0.23	0	51	51	{}
+orf	28	GCA	mito_Fun_cox3:11	A	0.40	0	42	42	{}
+orf	46	GCA	mito_Fun_cox3:29	S	0.62	0	68	67	{'GAA': 1}
+orf	53	GCA	mito_Fun_cox3:36	S	0.49	0	71	71	{}
+orf	83	GCT	mito_Fun_cox3:61	S	0.48	0	63	63	{}
+orf	89	CGA	mito_Fun_cox3:67	R	0.87	0	58	58	{}
+orf	114	AGA	mito_Fun_cox3:92	A	0.31	0	48	48	{}
+orf	130	GCA	mito_Fun_cox3:108	A	0.79	0	47	46	{'GTA': 1}
+orf	139	GCT	mito_Fun_cox3:117	T	0.54	0	54	54	{}
+orf	172	GCA	mito_Fun_cox3:150	A	0.52	0	64	63	{'GCG': 1}
+orf	177	GCA	mito_Fun_cox3:155	A	0.60	0	60	60	{}
+orf	186	CGA	mito_Fun_cox3:164	R	0.96	1	68	68	{}
+orf	187	CGA	mito_Fun_cox3:165	K	0.36	0	67	67	{}
+orf	189	GCT	mito_Fun_cox3:167	A	0.65	0	69	69	{}
+orf	200	GCG	mito_Fun_cox3:178	A	0.93	1	73	72	{'GAG': 1}
+orf	214	GCT	mito_Fun_cox3:192	S	0.57	0	75	74	{'GCG': 1}
+orf	219	GCT	mito_Fun_cox3:197	S	0.72	0	74	74	{}
+orf	246	GCA	mito_Fun_cox3:224	A	0.46	0	53	53	{}
+orf	251	CGA	mito_Fun_cox3:229	R	0.98	1	44	44	{}
+orf	285	GCT	mito_Fun_cox3:263	S	0.65	0	31	31	{}
+orf	20	GCT	mito_Vir_cox1:312	T	0.81	0	30	30	{}
+orf	28	CGA	mito_Vir_cox1:320	R	0.99	1	40	40	{}
+orf	29	GCT	mito_Vir_cox1:321	A	0.99	1	40	40	{}
+orf	33	GCT	mito_Vir_cox1:325	A	0.95	1	43	43	{}
+orf	34	GCT	mito_Vir_cox1:326	A	0.99	1	45	44	{'TCT': 1}
+orf	39	GCG	mito_Vir_cox1:331	A	0.98	1	55	55	{}
+orf	51	AGA	mito_Vir_cox1:343	A	0.97	1	68	68	{}
+orf	59	CGA	mito_Vir_cox1:351	R	0.32	0	67	67	{}
+orf	67	GCT	mito_Vir_cox1:359	A	0.83	0	71	71	{}
+orf	72	GCT	mito_Vir_cox1:364	F	0.77	0	72	72	{}
+orf	85	GCT	mito_Vir_cox1:377	A	0.86	0	70	70	{}
+orf	87	GCT	mito_Vir_cox1:379	S	0.56	0	68	67	{'GAT': 1}
+orf	92	GCA	mito_Vir_cox1:384	A	0.78	0	62	62	{}
+orf	4	CGA	mito_Vir_cox1:456	R	1.00	1	12	12	{}
+orf	5	CGT	mito_Vir_cox1:457	R	1.00	1	16	16	{}
+orf	12	GCT	mito_Vir_cox1:464	A	0.85	0	27	27	{}
+orf	14	GCG	mito_Vir_cox1:466	A	0.68	0	27	27	{}
+orf	18	GCA	mito_Vir_cox1:470	A	0.40	0	37	37	{}
+orf	30	GCT	mito_Vir_cox1:482	G	0.41	0	61	61	{}
+orf	47	GCT	mito_Vir_cox1:499	K	0.18	0	92	92	{}
+orf	50	AGA	mito_Vir_cox1:502	P	0.26	0	95	95	{}
+orf	72	GCA	mito_Vir_cox1:511	S	0.34	0	81	81	{}
+orf	87	AGA	mito_Vir_cox1:526	T	0.61	0	85	85	{}
+orf	15	AGA	mito_Met_cob:143	G	0.90	1	26	26	{}
+orf	16	GCT	mito_Met_cob:144	A	0.98	1	26	26	{}
+orf	25	GCT	mito_Met_cob:153	A	0.91	1	38	38	{}
+orf	40	AGA	mito_Fun_atp8:16	A	0.43	0	95	94	{'ATA': 1}
+orf	53	CGA	mito_Fun_atp8:29	K	0.80	0	122	122	{}
+orf	66	CGA	mito_Fun_atp8:42	R	0.99	1	144	144	{}
+orf	19	GCA	mito_Fun_cox1:169	G	0.75	0	37	37	{}
+orf	60	AGA	mito_Fun_cox1:200	K	0.21	0	81	81	{}
+orf	71	CGA	mito_Fun_cox1:214	K	0.21	0	95	95	{}
+orf	73	AGA	mito_Fun_cox1:216	A	0.32	0	96	96	{}
+orf	183	GCC	mito_Fun_cox1:297	S	0.36	0	81	80	{'TCC': 1}
+orf	195	CGT	mito_Fun_cox1:309	N	0.22	0	95	95	{}
+orf	35	GCT	mito_Vir_cox1:165	A	0.94	1	71	71	{}
+orf	42	GCC	mito_Vir_cox1:172	S	0.62	0	79	78	{'ACC': 1}
+orf	50	AGA	mito_Vir_cox1:180	A	0.65	0	92	92	{}
+orf	61	CGA	mito_Vir_cox1:191	R	0.99	1	92	92	{}
+orf	76	GCT	mito_Vir_cox1:206	S	0.59	0	82	82	{}
+orf	81	GCC	mito_Vir_cox1:211	A	0.89	0	88	87	{'GCA': 1}
+orf	92	AGA	mito_Vir_cox1:222	A	0.98	1	99	99	{}
+orf	94	AGA	mito_Vir_cox1:224	A	0.72	0	98	97	{'ATA': 1}
+orf	102	CGT	mito_Vir_cox1:232	R	1.00	1	102	102	{}
+orf	112	GCA	mito_Vir_cox1:242	A	0.91	1	110	110	{}
+orf	150	GCC	mito_Fun_cox1:172	S	0.31	0	68	68	{}
+orf	168	AGA	mito_Fun_cox1:193	P	0.17	0	77	77	{}
+orf	194	CGA	mito_Fun_cox1:218	R	0.30	0	79	79	{}
+orf	219	CGA	mito_Fun_cox1:248	K	0.57	0	86	86	{}
+orf	262	GCT	mito_Fun_cox1:287	A	0.20	0	84	84	{}
+orf	270	GCA	mito_Fun_cox1:302	A	0.59	0	83	83	{}
+orf	289	CGA	mito_Fun_cox1:323	E	0.25	0	80	80	{}
+orf	293	CGA	mito_Fun_cox1:327	R	0.29	0	82	82	{}
+orf	320	CGG	mito_Fun_cox1:367	R	0.38	0	86	86	{}
+orf	330	CGT	mito_Fun_cox1:380	R	0.20	0	84	84	{}
+orf	337	GCA	mito_Fun_cox1:388	K	0.21	0	81	81	{}
+orf	364	CGA	mito_Fun_cox1:434	K	0.34	0	64	64	{}
+orf	68	CGT	mito_Fun_cox1:182	S	0.29	0	62	62	{}
+orf	89	CGA	mito_Fun_cox1:199	K	0.35	0	62	62	{}
+orf	96	CGA	mito_Fun_cox1:205	S	0.34	0	70	70	{}
+orf	15	GCA	mito_Fun_cob:210	A	0.88	0	58	58	{}
+orf	19	CGA	mito_Fun_cob:214	R	0.96	1	89	88	{'CGG': 1}
+orf	32	GCT	mito_Fun_cob:227	A	0.92	1	140	140	{}
+orf	33	GCA	mito_Fun_cob:228	A	0.95	1	142	142	{}
+orf	35	GCT	mito_Fun_cob:230	A	0.56	0	154	154	{}
+orf	36	AGA	mito_Fun_cob:231	L	0.54	0	158	157	{'AGT': 1}
+orf	59	CGA	mito_Fun_cob:254	R	0.86	0	195	194	{'CTA': 1}
+orf	80	GCG	mito_Fun_cob:275	V	0.59	0	160	159	{'TCG': 1}
+orf	91	GCT	mito_Fun_cob:286	V	0.36	0	148	147	{'G--': 1}
+orf	101	GCA	mito_Fun_cob:296	A	0.85	0	136	136	{}
+orf	121	GCA	mito_Fun_cob:316	A	0.81	0	114	114	{}
+orf	124	CGA	mito_Fun_cob:319	R	0.84	0	110	110	{}
+orf	131	GCA	mito_Fun_cob:326	L	0.78	0	98	98	{}
+orf	135	AGA	mito_Fun_cob:330	A	0.86	0	94	94	{}
+orf	145	AGA	mito_Fun_cob:340	A	0.28	0	83	83	{}
+orf	153	CGA	mito_Fun_cob:348	R	0.69	0	72	72	{}
+orf	155	CGA	mito_Fun_cob:350	R	0.83	0	68	68	{}
+orf	160	CGA	mito_Fun_cob:355	R	0.82	0	69	69	{}
+orf	164	CGA	mito_Fun_cob:359	K	0.80	0	65	65	{}
+orf	166	GCT	mito_Fun_cob:361	A	0.64	0	62	62	{}
+orf	169	AGA	mito_Fun_cob:364	I	0.27	0	60	60	{}
+orf	194	AGA	mito_Fun_cob:389	Q	0.87	0	66	66	{}
+orf	198	GCT	mito_Fun_cob:393	V	0.36	0	71	71	{}
+orf	202	GCA	mito_Fun_cob:397	A	0.36	0	74	74	{}
+orf	210	AGA	mito_Fun_cob:405	V	0.29	0	75	74	{'AGG': 1}
+orf	35	GCA	mito_Fun_atp6:23	A	0.64	0	60	60	{}
+orf	39	AGA	mito_Fun_atp6:27	G	0.68	0	69	69	{}
+orf	55	GCA	mito_Fun_atp6:43	G	0.28	0	80	80	{}
+orf	59	GCT	mito_Fun_atp6:47	I	0.42	0	85	85	{}
+orf	66	GCC	mito_Fun_atp6:54	A	0.44	0	98	98	{}
+orf	76	CGA	mito_Fun_atp6:64	K	0.35	0	115	115	{}
+orf	86	GCT	mito_Fun_atp6:74	A	0.67	0	123	123	{}
+orf	94	GCT	mito_Fun_atp6:82	N	0.46	0	135	135	{}
+orf	99	GCA	mito_Fun_atp6:87	K	0.37	0	147	147	{}
+orf	117	GCT	mito_Fun_atp6:105	N	0.50	0	152	152	{}
+orf	133	GCT	mito_Fun_atp6:121	F	0.52	0	152	152	{}
+orf	153	CGA	mito_Fun_atp6:141	Q	0.36	0	135	134	{'CTA': 1}
+orf	171	AGA	mito_Fun_atp6:159	A	0.49	0	125	125	{}
+orf	186	GCT	mito_Fun_atp6:174	A	0.84	0	132	132	{}
+orf	187	CGA	mito_Fun_atp6:175	R	0.98	1	128	128	{}
+orf	188	GCA	mito_Fun_atp6:176	N	0.47	0	129	128	{'GAA': 1}
+orf	194	CGA	mito_Fun_atp6:182	R	0.99	1	127	126	{'CGG': 1}
+orf	197	GCA	mito_Fun_atp6:185	A	0.94	1	123	122	{'TCA': 1}
+orf	201	AGA	mito_Fun_atp6:189	S	0.52	0	119	118	{'ATA': 1}
+orf	214	GCT	mito_Fun_atp6:202	Y	0.67	0	107	107	{}
+orf	218	GCT	mito_Fun_atp6:206	T	0.44	0	109	109	{}
+orf	224	GCT	mito_Fun_atp6:212	F	0.64	0	102	102	{}
+orf	243	GCA	mito_Fun_atp6:231	A	0.50	0	85	84	{'TCA': 1}
+orf	249	GCT	mito_Fun_atp6:237	A	0.82	0	86	85	{'GAT': 1}
+orf	263	GCT	mito_Fun_atp6:251	A	0.66	0	69	69	{}
+orf	83	GCA	mito_Fun_nad4:58	A	0.78	0	62	62	{}
+orf	106	AGA	mito_Fun_nad4:81	N	0.54	0	89	89	{}
+orf	142	CGA	mito_Fun_nad4:98	Y	0.54	0	162	161	{'CTA': 1}
+orf	191	GCA	mito_Fun_nad4:147	A	0.64	0	158	158	{}
+orf	225	CGA	mito_Fun_nad4:180	R	0.51	0	93	92	{'CAA': 1}
+orf	227	CGA	mito_Fun_nad4:182	R	0.75	0	86	85	{'CTA': 1}
+orf	228	GCA	mito_Fun_nad4:183	A	0.78	0	85	84	{'TCA': 1}
+orf	229	GCT	mito_Fun_nad4:184	S	0.57	0	85	84	{'GAA': 1}
+orf	284	GCG	mito_Fun_nad4:239	A	0.96	1	79	78	{'GCT': 1}
+orf	298	CGA	mito_Fun_nad4:253	K	0.61	0	118	118	{}
+orf	299	GCA	mito_Fun_nad4:254	A	0.95	1	121	121	{}
+orf	301	GCG	mito_Fun_nad4:256	V	0.59	0	120	120	{}
+orf	303	GCT	mito_Fun_nad4:258	S	0.78	0	126	126	{}
+orf	312	GCA	mito_Fun_nad4:267	A	1.00	1	128	128	{}
+orf	319	AGA	mito_Fun_nad4:274	S	0.51	0	127	127	{}
+orf	325	CGT	mito_Fun_nad4:280	R	0.99	1	127	127	{}
+orf	334	GCT	mito_Fun_nad4:289	A	0.91	1	128	127	{'GCC': 1}
+orf	346	GCA	mito_Fun_nad4:301	G	0.47	0	95	95	{}
+orf	353	GCT	mito_Fun_nad4:308	A	0.78	0	87	87	{}
+orf	356	GCT	mito_Fun_nad4:311	S	0.63	0	84	84	{}
+orf	359	CGA	mito_Fun_nad4:314	R	0.75	0	85	84	{'CGT': 1}
+orf	365	GCT	mito_Fun_nad4:320	E	0.52	0	86	86	{}
+orf	368	GCT	mito_Fun_nad4:323	A	1.00	1	78	78	{}
+orf	373	GCG	mito_Fun_nad4:328	S	0.49	0	78	78	{}
+orf	399	GCT	mito_Fun_nad4:354	A	0.85	0	70	70	{}
+orf	406	GCT	mito_Fun_nad4:361	G	0.55	0	69	69	{}
+orf	418	CGA	mito_Fun_nad4:373	R	0.98	1	60	59	{'CTA': 1}
+orf	422	CGT	mito_Fun_nad4:377	R	0.99	1	60	59	{'CTT': 1}
+orf	428	CGA	mito_Fun_nad4:383	R	0.82	0	62	62	{}
+orf	432	AGA	mito_Fun_nad4:387	Q	0.55	0	57	57	{}
+orf	447	AGA	mito_Fun_nad4:402	G	0.45	0	56	56	{}
+orf	455	GCT	mito_Fun_nad4:410	L	0.74	0	54	54	{}
+orf	467	GCT	mito_Fun_nad4:422	I	0.33	0	60	60	{}
+orf	472	AGA	mito_Fun_nad4:427	P	0.86	0	58	58	{}
+orf	475	GCT	mito_Fun_nad4:430	G	0.61	0	64	63	{'GNT': 1}
+orf	486	GCT	mito_Fun_nad4:441	A	0.96	1	74	73	{'TCT': 1}
+orf	487	AGA	mito_Fun_nad4:442	A	0.60	0	74	73	{'AGG': 1}
+orf	495	CGA	mito_Fun_nad4:450	R	0.95	1	71	71	{}
+orf	497	AGA	mito_Fun_nad4:452	A	0.42	0	71	71	{}
+orf	513	CGA	mito_Fun_nad4:468	K	0.46	0	83	83	{}
+orf	514	CGA	mito_Fun_nad4:469	R	0.94	1	86	86	{}
+orf	525	GCA	mito_Fun_nad4:480	F	0.40	0	100	100	{}
+orf	535	AGA	mito_Fun_nad4:490	P	0.33	0	104	103	{'ATA': 1}
+orf	24	GCT	mito_Fun_nad1:25	A	0.99	1	75	75	{}
+orf	31	CGA	mito_Fun_nad1:32	R	1.00	1	95	95	{}
+orf	39	CGA	mito_Fun_nad1:40	R	0.99	1	113	110	{'CCA': 1, 'CGT': 1}
+orf	40	CGT	mito_Fun_nad1:41	R	1.00	1	116	116	{}
+orf	56	GCA	mito_Fun_nad1:57	A	0.86	0	112	111	{'GTA': 1}
+orf	58	GCA	mito_Fun_nad1:59	A	0.95	1	108	108	{}
+orf	80	GCA	mito_Fun_nad1:81	G	0.53	0	92	92	{}
+orf	102	GCA	mito_Fun_nad1:103	A	0.38	0	88	86	{'GCT': 1, 'TCA': 1}
+orf	115	GCT	mito_Fun_nad1:116	A	0.95	1	91	91	{}
+orf	127	GCA	mito_Fun_nad1:128	A	0.92	1	81	81	{}
+orf	131	GCT	mito_Fun_nad1:132	A	0.93	1	72	71	{'TCT': 1}
+orf	136	GCT	mito_Fun_nad1:137	A	0.92	1	72	72	{}
+orf	142	CGT	mito_Fun_nad1:143	R	1.00	1	76	76	{}
+orf	145	GCC	mito_Fun_nad1:146	A	0.98	1	79	79	{}
+orf	156	GCT	mito_Fun_nad1:157	S	0.81	0	78	78	{}
+orf	157	GCA	mito_Fun_nad1:158	A	0.72	0	80	80	{}
+orf	176	GCT	mito_Fun_nad1:177	A	0.33	0	89	89	{}
+orf	197	GCT	mito_Fun_nad1:198	S	0.45	0	112	112	{}
+orf	199	GCA	mito_Fun_nad1:200	A	0.99	1	109	109	{}
+orf	203	CGT	mito_Fun_nad1:204	R	1.00	1	113	113	{}
+orf	211	AGA	mito_Fun_nad1:212	A	0.96	1	115	115	{}
+orf	217	GCT	mito_Fun_nad1:218	S	0.60	0	122	122	{}
+orf	234	GCA	mito_Fun_nad1:235	A	0.77	0	118	118	{}
+orf	247	AGA	mito_Fun_nad1:248	S	0.59	0	112	112	{}
+orf	255	AGA	mito_Fun_nad1:256	L	0.61	0	118	118	{}
+orf	272	AGA	mito_Fun_nad1:271	G	0.45	0	113	113	{}
+orf	276	GCA	mito_Fun_nad1:275	G	0.85	0	113	113	{}
+orf	279	GCT	mito_Fun_nad1:278	T	0.50	0	113	113	{}
+orf	290	CGT	mito_Fun_nad1:289	R	0.99	1	91	91	{}
+orf	291	GCT	mito_Fun_nad1:290	A	0.97	1	90	90	{}
+orf	295	CGT	mito_Fun_nad1:294	R	1.00	1	83	83	{}
+orf	297	CGA	mito_Fun_nad1:296	R	0.97	1	81	81	{}
+orf	313	GCA	mito_Fun_nad1:312	V	0.41	0	78	78	{}
+orf	315	GCC	mito_Fun_nad1:314	A	0.79	0	80	80	{}
+orf	326	AGA	mito_Fun_nad1:325	S	0.42	0	76	76	{}
+orf	20	CGG	mito_Fun_nad4l:26	R	0.91	1	29	29	{}
+orf	36	GCA	mito_Fun_nad4l:42	A	0.68	0	54	54	{}
+orf	62	AGA	mito_Fun_nad4l:68	A	0.46	0	65	65	{}
+orf	64	GCT	mito_Fun_nad4l:70	A	0.98	1	67	66	{'GAT': 1}
+orf	66	GCA	mito_Fun_nad4l:72	A	0.96	1	65	64	{'GAA': 1}
+orf	69	GCA	mito_Fun_nad4l:75	A	0.76	0	65	65	{}
+orf	77	GCA	mito_Fun_nad4l:83	A	0.90	1	64	64	{}
+orf	80	CGA	mito_Fun_nad4l:86	R	0.94	1	63	63	{}
+orf	82	CGA	mito_Fun_nad4l:88	R	0.93	1	58	58	{}
+orf	24	GCT	mito_Fun_nad5:248	A	0.95	1	65	65	{}
+orf	28	GCT	mito_Fun_nad5:252	A	0.98	1	76	76	{}
+orf	29	GCT	mito_Fun_nad5:253	A	0.98	1	77	77	{}
+orf	34	GCA	mito_Fun_nad5:258	A	0.98	1	87	87	{}
+orf	41	CGA	mito_Fun_nad5:265	R	1.00	1	102	102	{}
+orf	49	AGA	mito_Fun_nad5:273	S	0.82	0	130	130	{}
+orf	61	GCA	mito_Fun_nad5:285	A	0.76	0	140	139	{'TCA': 1}
+orf	64	GCA	mito_Fun_nad5:288	T	0.56	0	145	145	{}
+orf	67	GCT	mito_Fun_nad5:291	S	0.54	0	140	139	{'GAT': 1}
+orf	68	GCA	mito_Fun_nad5:292	S	0.52	0	141	141	{}
+orf	79	CGA	mito_Fun_nad5:303	K	0.54	0	170	170	{}
+orf	82	GCA	mito_Fun_nad5:306	A	1.00	1	169	169	{}
+orf	95	GCT	mito_Fun_nad5:319	A	0.92	1	179	177	{'TCT': 2}
+orf	104	GCT	mito_Fun_nad5:328	A	0.94	1	172	172	{}
+orf	112	GCT	mito_Fun_nad5:336	A	0.94	1	163	161	{'GGT': 1, 'GAT': 1}
+orf	116	AGA	mito_Fun_nad5:340	A	0.70	0	165	163	{'TGA': 1, 'ATA': 1}
+orf	121	GCA	mito_Fun_nad5:345	G	0.70	0	147	147	{}
+orf	122	GCT	mito_Fun_nad5:346	A	0.99	1	145	145	{}
+orf	124	GCG	mito_Fun_nad5:348	A	0.71	0	137	137	{}
+orf	128	GCT	mito_Fun_nad5:352	A	0.62	0	138	138	{}
+orf	136	CGT	mito_Fun_nad5:360	R	0.99	1	139	138	{'CGA': 1}
+orf	137	CGA	mito_Fun_nad5:361	K	0.67	0	134	134	{}
+orf	151	GCT	mito_Fun_nad5:375	V	0.60	0	117	117	{}
+orf	161	GCT	mito_Fun_nad5:385	A	0.97	1	106	106	{}
+orf	178	GCT	mito_Fun_nad5:402	A	0.82	0	104	104	{}
+orf	180	GCT	mito_Fun_nad5:404	G	0.87	0	103	103	{}
+orf	188	GCA	mito_Fun_nad5:412	V	0.29	0	108	108	{}
+orf	189	GCT	mito_Fun_nad5:413	V	0.55	0	108	108	{}
+orf	197	GCT	mito_Fun_nad5:421	A	0.99	1	104	104	{}
+orf	201	GCA	mito_Fun_nad5:425	T	0.50	0	108	108	{}
+orf	206	CGT	mito_Fun_nad5:430	K	0.53	0	107	107	{}
+orf	218	AGA	mito_Fun_nad5:442	G	0.79	0	115	114	{'AAA': 1}
+orf	219	GCA	mito_Fun_nad5:443	P	0.60	0	113	113	{}
+orf	229	GCA	mito_Fun_nad5:453	G	0.46	0	120	120	{}
+orf	244	AGA	mito_Fun_nad5:468	S	0.93	1	117	117	{}
+orf	251	GCT	mito_Fun_nad5:475	T	0.54	0	116	116	{}
+orf	267	AGA	mito_Fun_nad5:490	S	0.76	0	113	112	{'GGA': 1}
+orf	274	CGA	mito_Fun_nad5:497	H	0.63	0	107	107	{}
+orf	280	GCA	mito_Fun_nad5:503	T	0.60	0	107	107	{}
+orf	300	AGA	mito_Fun_nad5:523	S	0.47	0	116	116	{}
+orf	303	GCT	mito_Fun_nad5:526	A	0.58	0	118	117	{'GAT': 1}
+orf	312	AGA	mito_Fun_nad5:535	K	0.25	0	110	110	{}
+orf	314	AGA	mito_Fun_nad5:537	L	0.48	0	104	104	{}
+orf	324	CGA	mito_Fun_nad5:547	Y	0.56	0	97	96	{'AGA': 1}
+orf	361	CGG	mito_Fun_nad5:584	K	0.57	0	92	92	{}
+orf	363	AGA	mito_Fun_nad5:586	S	0.49	0	94	94	{}
+orf	373	AGA	mito_Fun_nad5:596	E	0.46	0	100	100	{}
+orf	384	GCA	mito_Fun_nad5:607	A	0.39	0	98	98	{}
+orf	395	GCT	mito_Fun_nad5:618	A	0.76	0	92	90	{'GCC': 1, 'GAT': 1}
+orf	402	AGA	mito_Fun_nad5:625	L	0.68	0	94	93	{'CGA': 1}
+orf	29	GCA	mito_Fun_nad6:28	S	0.38	0	23	23	{}
+orf	32	GCT	mito_Fun_nad6:31	A	0.41	0	25	25	{}
+orf	60	GCA	mito_Fun_nad6:59	A	0.61	0	47	47	{}
+orf	82	GCT	mito_Fun_nad6:81	A	0.99	1	46	46	{}
+orf	84	GCT	mito_Fun_nad6:83	S	0.51	0	44	44	{}
+orf	99	GCG	mito_Fun_nad6:98	S	0.62	0	46	45	{'TCG': 1}
+orf	119	AGA	mito_Fun_nad6:115	G	0.50	0	50	50	{}
+orf	21	AGA	mito_Fun_nad5:18	V	0.59	0	51	50	{'GGA': 1}
+orf	22	GCT	mito_Fun_nad5:19	S	0.75	0	51	51	{}
+orf	24	AGA	mito_Fun_nad5:21	F	0.74	0	56	55	{'AGT': 1}
+orf	27	CGA	mito_Fun_nad5:24	R	0.98	1	61	60	{'CGG': 1}
+orf	34	GCT	mito_Fun_nad5:31	A	0.53	0	76	76	{}
+orf	46	AGA	mito_Fun_nad5:43	T	0.54	0	100	99	{'AGT': 1}
+orf	49	GCG	mito_Fun_nad5:46	A	0.71	0	111	110	{'GCT': 1}
+orf	52	GCT	mito_Fun_nad5:49	A	0.75	0	117	115	{'GC-': 1, 'GAT': 1}
+orf	57	GCC	mito_Fun_nad5:54	G	0.86	0	120	120	{}
+orf	112	AGG	mito_Fun_nad5:109	H	0.39	0	89	89	{}
+orf	118	CGA	mito_Fun_nad5:115	R	1.00	1	86	86	{}
+orf	163	CGA	mito_Fun_nad5:160	R	0.99	1	91	91	{}
+orf	166	GCA	mito_Fun_nad5:163	A	0.95	1	96	96	{}
+orf	170	GCT	mito_Fun_nad5:167	S	0.50	0	100	100	{}
+orf	173	GCT	mito_Fun_nad5:170	A	0.99	1	101	101	{}
+orf	178	CGA	mito_Fun_nad5:175	R	0.98	1	97	97	{}
+orf	187	AGA	mito_Fun_nad5:184	G	0.90	0	88	87	{'AGT': 1}
+orf	190	GCC	mito_Fun_nad5:187	A	0.71	0	84	84	{}
+orf	201	GCC	mito_Fun_nad5:198	S	0.51	0	82	82	{}
+orf	205	AGA	mito_Fun_nad5:202	S	0.87	0	84	84	{}
+orf	210	AGA	mito_Fun_nad5:207	I	0.40	0	86	86	{}
+orf	214	AGA	mito_Fun_nad5:211	I	0.39	0	92	92	{}
+orf	225	GCT	mito_Fun_nad5:222	G	0.83	0	90	90	{}
+orf	231	GCA	mito_Fun_nad5:228	S	0.52	0	101	99	{'GAA': 1, 'TCA': 1}
+orf	242	AGA	mito_Fun_nad5:239	A	0.73	0	114	114	{}
+orf	31	GCT	mito_Fun_atp9:3	Q	0.52	0	55	55	{}
+orf	32	GCT	mito_Fun_atp9:4	A	0.80	0	57	57	{}
+orf	33	GCT	mito_Fun_atp9:5	A	0.87	0	59	59	{}
+orf	41	GCT	mito_Fun_atp9:13	A	0.96	1	69	69	{}
+orf	48	GCC	mito_Fun_atp9:20	A	0.97	1	81	81	{}
+orf	57	GCG	mito_Fun_atp9:29	G	0.51	0	80	80	{}
+orf	58	GCT	mito_Fun_atp9:30	A	0.60	0	78	78	{}
+orf	65	CGA	mito_Fun_atp9:37	R	0.98	1	77	77	{}
+orf	70	CGA	mito_Fun_atp9:42	R	0.81	0	67	67	{}
+orf	72	GCT	mito_Fun_atp9:44	Q	0.88	0	67	67	{}
+orf	77	AGA	mito_Fun_atp9:49	A	0.87	0	61	61	{}
+orf	82	GCT	mito_Fun_atp9:54	A	0.99	1	64	63	{'TCT': 1}
+orf	86	GCT	mito_Fun_atp9:58	A	0.99	1	67	67	{}
+orf	91	GCT	mito_Fun_atp9:63	A	0.70	0	63	63	{}

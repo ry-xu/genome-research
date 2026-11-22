@@ -1,0 +1,13 @@
+# not included (see src/README.md): genomes, read runs, PAF alignments, BLAST databases
+data/dl/
+*.fna
+*.fna.gz
+*.paf
+*.sra
+results/
+scratch/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env

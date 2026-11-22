@@ -1,0 +1,232 @@
+{
+ "acc": "GCA_029851105.1",
+ "size": 177918,
+ "gc": 0.1372036556166324,
+ "n_domains": 137,
+ "n_pfams": 117,
+ "code": "FFL?S?S?Y???C??WL???P?P?H?Q?R???I?IMT?T?N?KKS?R?V?V?AAA?DDE?GGGG",
+ "nonstandard": [],
+ "trnas": [
+  {
+   "contig": "CP099822.1",
+   "start": 6258,
+   "end": 6329,
+   "strand": "-",
+   "product": "tRNA-Trp",
+   "anticodon": "(pos:complement(6295..6297))",
+   "note": "",
+   "attr": "ID=rna-NHG11_00040;Parent=gene-NHG11_00040;anticodon=(pos:complement(6295..6297));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=NHG11_00040;product=tRNA-Trp"
+  },
+  {
+   "contig": "CP099822.1",
+   "start": 7577,
+   "end": 7649,
+   "strand": "-",
+   "product": "tRNA-Gly",
+   "anticodon": "(pos:complement(7614..7616))",
+   "note": "",
+   "attr": "ID=rna-NHG11_00050;Parent=gene-NHG11_00050;anticodon=(pos:complement(7614..7616));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=NHG11_00050;product=tRNA-Gly"
+  },
+  {
+   "contig": "CP099822.1",
+   "start": 7678,
+   "end": 7761,
+   "strand": "-",
+   "product": "tRNA-Tyr",
+   "anticodon": "(pos:complement(7725..7727))",
+   "note": "",
+   "attr": "ID=rna-NHG11_00055;Parent=gene-NHG11_00055;anticodon=(pos:complement(7725..7727));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=NHG11_00055;product=tRNA-Tyr"
+  },
+  {
+   "contig": "CP099822.1",
+   "start": 7824,
+   "end": 7896,
+   "strand": "-",
+   "product": "tRNA-Thr",
+   "anticodon": "(pos:complement(7861..7863))",
+   "note": "",
+   "attr": "ID=rna-NHG11_00060;Parent=gene-NHG11_00060;anticodon=(pos:complement(7861..7863));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=NHG11_00060;product=tRNA-Thr"
+  },
+  {
+   "contig": "CP099822.1",
+   "start": 22293,
+   "end": 22367,
+   "strand": "+",
+   "product": "tRNA-Val",
+   "anticodon": "(pos:22328..22330)",
+   "note": "",
+   "attr": "ID=rna-NHG11_00130;Parent=gene-NHG11_00130;anticodon=(pos:22328..22330);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=NHG11_00130;product=tRNA-Val"
+  },
+  {
+   "contig": "CP099822.1",
+   "start": 63004,
+   "end": 63093,
+   "strand": "-",
+   "product": "tRNA-Ser",
+   "anticodon": "(pos:complement(63057..63059))",
+   "note": "",
+   "attr": "ID=rna-NHG11_00405;Parent=gene-NHG11_00405;anticodon=(pos:complement(63057..63059));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=NHG11_00405;product=tRNA-Ser"
+  },
+  {
+   "contig": "CP099822.1",
+   "start": 63577,
+   "end": 63648,
+   "strand": "-",
+   "product": "tRNA-Met",
+   "anticodon": "(pos:complement(63614..63616))",
+   "note": "",
+   "attr": "ID=rna-NHG11_00415;Parent=gene-NHG11_00415;anticodon=(pos:complement(63614..63616));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=NHG11_00415;product=tRNA-Met"
+  },
+  {
+   "contig": "CP099822.1",
+   "start": 64895,
+   "end": 64968,
+   "strand": "-",
+   "product": "tRNA-Ile",
+   "anticodon": "(pos:complement(64932..64934))",
+   "note": "",
+   "attr": "ID=rna-NHG11_00425;Parent=gene-NHG11_00425;anticodon=(pos:complement(64932..64934));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=NHG11_00425;product=tRNA-Ile"
+  },
+  {
+   "contig": "CP099822.1",
+   "start": 68402,
+   "end": 68473,
+   "strand": "-",
+   "product": "tRNA-Glu",
+   "anticodon": "(pos:complement(68438..68440))",
+   "note": "",
+   "attr": "ID=rna-NHG11_00435;Parent=gene-NHG11_00435;anticodon=(pos:complement(68438..68440));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=NHG11_00435;product=tRNA-Glu"
+  },
+  {
+   "contig": "CP099822.1",
+   "start": 82126,
+   "end": 82199,
+   "strand": "+",
+   "product": "tRNA-Ile",
+   "anticodon": "(pos:82160..82162)",
+   "note": "",
+   "attr": "ID=rna-NHG11_00520;Parent=gene-NHG11_00520;anticodon=(pos:82160..82162);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=NHG11_00520;product=tRNA-Ile"
+  },
+  {
+   "contig": "CP099822.1",
+   "start": 82277,
+   "end": 82348,
+   "strand": "+",
+   "product": "tRNA-Ala",
+   "anticodon": "(pos:82309..82311)",
+   "note": "",
+   "attr": "ID=rna-NHG11_00525;Parent=gene-NHG11_00525;anticodon=(pos:82309..82311);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=NHG11_00525;product=tRNA-Ala"
+  },
+  {
+   "contig": "CP099822.1",
+   "start": 104023,
+   "end": 104104,
+   "strand": "+",
+   "product": "tRNA-Ser",
+   "anticodon": "(pos:104057..104059)",
+   "note": "",
+   "attr": "ID=rna-NHG11_00630;Parent=gene-NHG11_00630;anticodon=(pos:104057..104059);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=NHG11_00630;product=tRNA-Ser"
+  },
+  {
+   "contig": "CP099822.1",
+   "start": 104169,
+   "end": 104244,
+   "strand": "+",
+   "product": "tRNA-Pro",
+   "anticodon": "(pos:104205..104207)",
+   "note": "",
+   "attr": "ID=rna-NHG11_00635;Parent=gene-NHG11_00635;anticodon=(pos:104205..104207);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=NHG11_00635;product=tRNA-Pro"
+  },
+  {
+   "contig": "CP099822.1",
+   "start": 104267,
+   "end": 104340,
+   "strand": "+",
+   "product": "tRNA-Arg",
+   "anticodon": "(pos:104301..104303)",
+   "note": "",
+   "attr": "ID=rna-NHG11_00640;Parent=gene-NHG11_00640;anticodon=(pos:104301..104303);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=NHG11_00640;product=tRNA-Arg"
+  },
+  {
+   "contig": "CP099822.1",
+   "start": 110012,
+   "end": 110086,
+   "strand": "-",
+   "product": "tRNA-His",
+   "anticodon": "(pos:complement(110049..110051))",
+   "note": "",
+   "attr": "ID=rna-NHG11_00675;Parent=gene-NHG11_00675;anticodon=(pos:complement(110049..110051));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=NHG11_00675;product=tRNA-His"
+  },
+  {
+   "contig": "CP099822.1",
+   "start": 126891,
+   "end": 126961,
+   "strand": "-",
+   "product": "tRNA-Gln",
+   "anticodon": "(pos:complement(126927..126929))",
+   "note": "",
+   "attr": "ID=rna-NHG11_00755;Parent=gene-NHG11_00755;anticodon=(pos:complement(126927..126929));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=NHG11_00755;product=tRNA-Gln"
+  },
+  {
+   "contig": "CP099822.1",
+   "start": 127983,
+   "end": 128055,
+   "strand": "-",
+   "product": "tRNA-Lys",
+   "anticodon": "(pos:complement(128020..128022))",
+   "note": "",
+   "attr": "ID=rna-NHG11_00765;Parent=gene-NHG11_00765;anticodon=(pos:complement(128020..128022));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=NHG11_00765;product=tRNA-Lys"
+  },
+  {
+   "contig": "CP099822.1",
+   "start": 135847,
+   "end": 135919,
+   "strand": "+",
+   "product": "tRNA-Gly",
+   "anticodon": "(pos:135880..135882)",
+   "note": "",
+   "attr": "ID=rna-NHG11_00810;Parent=gene-NHG11_00810;anticodon=(pos:135880..135882);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=NHG11_00810;product=tRNA-Gly"
+  },
+  {
+   "contig": "CP099822.1",
+   "start": 135986,
+   "end": 136075,
+   "strand": "+",
+   "product": "tRNA-Leu",
+   "anticodon": "(pos:136020..136022)",
+   "note": "",
+   "attr": "ID=rna-NHG11_00815;Parent=gene-NHG11_00815;anticodon=(pos:136020..136022);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=NHG11_00815;product=tRNA-Leu"
+  },
+  {
+   "contig": "CP099822.1",
+   "start": 147022,
+   "end": 147094,
+   "strand": "-",
+   "product": "tRNA-Phe",
+   "anticodon": "(pos:complement(147059..147061))",
+   "note": "",
+   "attr": "ID=rna-NHG11_00865;Parent=gene-NHG11_00865;anticodon=(pos:complement(147059..147061));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=NHG11_00865;product=tRNA-Phe"
+  },
+  {
+   "contig": "CP099822.1",
+   "start": 151538,
+   "end": 151610,
+   "strand": "-",
+   "product": "tRNA-Arg",
+   "anticodon": "(pos:complement(151575..151577))",
+   "note": "",
+   "attr": "ID=rna-NHG11_00895;Parent=gene-NHG11_00895;anticodon=(pos:complement(151575..151577));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=NHG11_00895;product=tRNA-Arg"
+  },
+  {
+   "contig": "CP099822.1",
+   "start": 159240,
+   "end": 159313,
+   "strand": "+",
+   "product": "tRNA-Asp",
+   "anticodon": "(pos:159274..159276)",
+   "note": "",
+   "attr": "ID=rna-NHG11_00925;Parent=gene-NHG11_00925;anticodon=(pos:159274..159276);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=NHG11_00925;product=tRNA-Asp"
+  }
+ ],
+ "seconds": 93.82564091682434
+}

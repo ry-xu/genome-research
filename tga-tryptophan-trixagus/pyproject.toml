@@ -1,0 +1,18 @@
+[project]
+name = "tga-tryptophan-trixagus"
+version = "0.1.0"
+description = "Analysis code and data: symbionts of three Trixagus beetles read TGA as tryptophan and have deleted RF2"
+requires-python = ">=3.11"
+dependencies = [
+    "biopython",
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "pyaragorn",
+    "pyhmmer",
+    "pyrodigal",
+    "requests",
+]
+
+[tool.uv]
+package = false

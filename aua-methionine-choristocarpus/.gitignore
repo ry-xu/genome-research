@@ -1,0 +1,14 @@
+# not included (see src/README.md): genome downloads, read runs, BLAST work files, database dumps
+data/genomes/
+dbcheck/data/
+kill/tmp/
+*.fastq.gz
+*.bam
+*.bai
+results/
+scratch/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env

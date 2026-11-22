@@ -1,0 +1,20 @@
+panel codons 77622; called (>= 2 reads) 48106; read codon differs from genome at 5014; mixed 622
+test	genome codon sites called	changed to target	per 1,000
+C->T, Gln CAG to TAG	1677	21	12.5
+C->T, Leu CTG to TTG (synonymous)	2233	29	13.0
+C->T, Leu CTA to TTA (synonymous)	133	3	22.6
+C->T, Gln CAA to TAA (TAA stop)	88	0	0.0
+C->T, Arg CGA to TGA (TGA stop)	230	1	4.3
+C->T, His CAC/CAT to TAC/TAT (H->Y)	957	1	1.0
+C->T, Arg CGG to TGG (R->W)	547	0	0.0
+C->T, Pro CCN to TCN (P->S)	1941	1	0.5
+T->C, TAG to CAG	93	25	268.8
+T->C, Leu TTG to CTG (synonymous)	340	69	202.9
+T->C, Leu TTA to CTA (synonymous)	30	1	33.3
+T->C, Tyr TAC/TAT to CAC/CAT (Y->H)	1175	0	0.0
+T->C, Trp TGG to CGG (W->R)	359	0	0.0
+3rd pos, Gln CAG to CAA	1677	20	11.9
+3rd pos, Gln CAA to CAG	88	30	340.9
+
+non-stop genome codon -> stop in reads: TAA 0, TAG 23, TGA 1
+genome stop -> read codon: TAA: ; TAG: TAG 64, CAG 25, CAA 1, TCG 1, mixed 1, GAG 1; TGA: TGA 2

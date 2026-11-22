@@ -1,0 +1,2 @@
+NC_085326: start codons {'ATG': 35}; stop codons {'TGA': 6, 'TAG': 3, 'TAA': 26}; first aa of /translation {'M': 35}; ATA-start CDS: []
+CAXNAD020000071.1: start codons {'ATG': 35}; stop codons {'TAA': 25, 'TAG': 4, 'TGA': 6}; first aa of /translation {'M': 35}; ATA-start CDS: []

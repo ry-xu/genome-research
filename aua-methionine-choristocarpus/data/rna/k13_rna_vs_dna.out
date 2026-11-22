@@ -1,0 +1,6 @@
+CDS: 23642 positions, mean depth 7.43
+intergenic: 2880 positions, mean depth 5.18
+rRNA: 4146 positions, mean depth 3.34
+tRNA: 1683 positions, mean depth 1.69
+CDS genes 35: per-gene mean depth min 1.40 (rps13), median 6.39, max 18.16 (nad7); max/min 13.0
+lowest 3: [('rps13', 1.4), ('rpl5', 2.48), ('nad6', 2.51)] highest 3: [('atp9', 13.83), ('cox3', 16.21), ('nad7', 18.16)]

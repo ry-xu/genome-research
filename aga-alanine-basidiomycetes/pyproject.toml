@@ -1,0 +1,17 @@
+[project]
+name = "aga-alanine-basidiomycetes"
+version = "0.1.0"
+description = "Analysis code and data: basidiomycete fungi whose mitochondria read AGA as alanine"
+requires-python = ">=3.11"
+dependencies = [
+    "biopython",
+    "matplotlib",
+    "numpy",
+    "pyaragorn",
+    "pyhmmer",
+    "pyteomics",
+    "scipy",
+]
+
+[tool.uv]
+package = false

@@ -1,0 +1,18 @@
+r1_head.fastq.gz (600000000 bytes): complete reads from the truncated gzip: 6683494
+r2_head.fastq.gz (600000000 bytes): complete reads from the truncated gzip: 6994611
+reads total: 13678105
+primary mapped reads: 1443; MAPQ>=20: 1414 (0.0001 of reads)
+positions with depth >= 10: 7117, >= 3: 21728 of 32351; median depth 5, mean 6.2
+genome-wide: positions (depth>=5) with a non-reference base at >=10% of reads: 91 of 16350: {'G>T': 22, 'T>C': 18, 'A>T': 14, 'C>T': 10, 'T>G': 6, 'A>G': 5, 'T>A': 4, 'G>C': 3, 'C>T (major)': 2, 'C>A': 2, 'A>C': 2, 'T>A (major)': 1, 'C>G': 1, 'G>A': 1}
+
+== consensus sites: sense-strand read bases at codon position 3, pooled over sites (Q>=20, MAPQ>=20); per-site summary for depth >= 3
+ATA@M: 88 sites, 86 with any read, 74 with depth >= 3; pooled 3rd-base counts {'A': 796, 'T': 1} (G fraction 0.000, genome base 'A' fraction 0.999); pooled 1st {'A': 802, 'T': 1} 2nd {'T': 808}; depth>=3 sites with G >= 20%: 0
+   + pos 23923 depth 27 third-base {'A': 27}
+   + pos 29295 depth 23 third-base {'A': 23}
+   + pos 29220 depth 23 third-base {'A': 23}
+   + pos 23911 depth 23 third-base {'A': 23}
+   + pos 29262 depth 22 third-base {'A': 22}
+ATG@M: 27 sites, 26 with any read, 26 with depth >= 3; pooled 3rd-base counts {'G': 287, 'T': 3} (G fraction 0.990, genome base 'G' fraction 0.990); pooled 1st {'A': 287, 'T': 2} 2nd {'T': 296}; depth>=3 sites with G >= 20%: 26
+ATT@I: 242 sites, 239 with any read, 210 with depth >= 3; pooled 3rd-base counts {'T': 2031, 'C': 1} (G fraction 0.000, genome base 'T' fraction 1.000); pooled 1st {'A': 1977} 2nd {'T': 2045}; depth>=3 sites with G >= 20%: 0
+ATA@I: 5 sites, 4 with any read, 4 with depth >= 3; pooled 3rd-base counts {'A': 42} (G fraction 0.000, genome base 'A' fraction 1.000); pooled 1st {'A': 41} 2nd {'T': 41}; depth>=3 sites with G >= 20%: 0
+ATC@I: 13 sites, 12 with any read, 12 with depth >= 3; pooled 3rd-base counts {'C': 147} (G fraction 0.000, genome base 'C' fraction 1.000); pooled 1st {'A': 151} 2nd {'T': 147}; depth>=3 sites with G >= 20%: 0

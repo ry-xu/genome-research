@@ -1,0 +1,26 @@
+query	label	role	AGA_unan	AGA_A	AGA_R	CGN_unan	CGN_A	CGN_R	GCN_unan	GCN_A	GCN_R
+NC_054273.1	Trichosporon inkin	in 32	27	18	0	77	0	71	204	180	0
+MZ439919.1	Apiotrichum gamsii	in 32	38	26	0	75	0	74	189	174	0
+BK074411.1	Tremella mesenterica	in 32	35	29	1	77	0	76	193	175	0
+NC_009880.1	Tilletia indica	in 32	21	14	0	65	0	65	139	132	0
+BK072866.1	Cystobasidium benthicum	in 32	4	2	0	79	0	79	225	216	0
+BK072867.1	Cystobasidium minutum	in 32	4	3	0	78	0	78	225	215	0
+BK074202.1	Solicoccozyma aeria-group (Tremellomycetes control)	control	4	0	4	75	0	75	245	234	0
+BK072956.1	Exobasidium (Exobasidiomycetes control)	control	11	0	11	56	0	55	173	162	0
+CM018325.1	Symmetrospora (Cystobasidiomycetes control)	control	3	0	2	78	0	76	277	222	1
+BK074082.1	Rhodotorula diobovata (Pucciniomycotina control)	control	0	0	0	93	0	93	284	279	0
+BK074509.1	Vanrija (G3:U70 carrier, not in 32)	extra	5	2	0	77	0	76	217	208	0
+NC_036422.1	Tremella fuciformis (G3:U70 carrier, not in 32)	extra	4	3	0	79	0	79	225	216	0
+PP995850.1	Sympodiomycopsis (side)	extra	25	2	0	65	0	65	156	142	0
+POOLED in 32: AGA n129 A92 R1 | CGN n451 A0 R443 | GCN n1175 A1092 R0
+  AGA vs CGN at A vs R columns, one-sided p = 3.8e-104
+  Ala share AGA vs GCN: 0.71 vs 0.93, two-sided p = 8.4e-12
+  AGA non-A/R residues: {'V': 4, 'S': 16, 'T': 4, 'M': 1, 'G': 6, 'F': 1, 'L': 2, 'N': 1, 'I': 1}
+POOLED control: AGA n18 A0 R17 | CGN n302 A0 R299 | GCN n979 A897 R1
+  AGA vs CGN at A vs R columns, one-sided p = 1
+  Ala share AGA vs GCN: 0.00 vs 0.92, two-sided p = 2.4e-19
+  AGA non-A/R residues: {'K': 1}
+POOLED extra: AGA n34 A7 R0 | CGN n221 A0 R220 | GCN n598 A566 R0
+  AGA vs CGN at A vs R columns, one-sided p = 1.8e-13
+  Ala share AGA vs GCN: 0.21 vs 0.95, two-sided p = 8.3e-25
+  AGA non-A/R residues: {'G': 1, 'S': 23, 'H': 1, 'T': 1, 'Y': 1}

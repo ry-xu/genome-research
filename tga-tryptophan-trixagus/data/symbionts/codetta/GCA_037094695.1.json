@@ -1,0 +1,262 @@
+{
+ "acc": "GCA_037094695.1",
+ "size": 161204,
+ "gc": 0.12051189796779237,
+ "n_domains": 97,
+ "n_pfams": 87,
+ "code": "F?L?S?S?Y???C??W????PPP?H?QQR?R?I?IMTTT?NNKKS?RRV?VVAAA?D?EEG?GG",
+ "nonstandard": [],
+ "trnas": [
+  {
+   "contig": "CP146597.1",
+   "start": 11371,
+   "end": 11444,
+   "strand": "-",
+   "product": "tRNA-Val",
+   "anticodon": "(pos:complement(11408..11410))",
+   "note": "",
+   "attr": "ID=rna-V9V01_00120;Parent=gene-V9V01_00120;anticodon=(pos:complement(11408..11410));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=V9V01_00120;product=tRNA-Val"
+  },
+  {
+   "contig": "CP146597.1",
+   "start": 23445,
+   "end": 23517,
+   "strand": "-",
+   "product": "tRNA-Met",
+   "anticodon": "(pos:complement(23482..23484))",
+   "note": "",
+   "attr": "ID=rna-V9V01_00195;Parent=gene-V9V01_00195;anticodon=(pos:complement(23482..23484));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=V9V01_00195;product=tRNA-Met"
+  },
+  {
+   "contig": "CP146597.1",
+   "start": 24629,
+   "end": 24701,
+   "strand": "-",
+   "product": "tRNA-Ile",
+   "anticodon": "(pos:complement(24666..24668))",
+   "note": "",
+   "attr": "ID=rna-V9V01_00205;Parent=gene-V9V01_00205;anticodon=(pos:complement(24666..24668));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=V9V01_00205;product=tRNA-Ile"
+  },
+  {
+   "contig": "CP146597.1",
+   "start": 41089,
+   "end": 41161,
+   "strand": "-",
+   "product": "tRNA-Phe",
+   "anticodon": "(pos:complement(41126..41128))",
+   "note": "",
+   "attr": "ID=rna-V9V01_00280;Parent=gene-V9V01_00280;anticodon=(pos:complement(41126..41128));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=V9V01_00280;product=tRNA-Phe"
+  },
+  {
+   "contig": "CP146597.1",
+   "start": 51759,
+   "end": 51843,
+   "strand": "+",
+   "product": "tRNA-Leu",
+   "anticodon": "(pos:51792..51794)",
+   "note": "",
+   "attr": "ID=rna-V9V01_00345;Parent=gene-V9V01_00345;anticodon=(pos:51792..51794);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=V9V01_00345;product=tRNA-Leu"
+  },
+  {
+   "contig": "CP146597.1",
+   "start": 54654,
+   "end": 54724,
+   "strand": "+",
+   "product": "tRNA-Cys",
+   "anticodon": "(pos:54686..54688)",
+   "note": "",
+   "attr": "ID=rna-V9V01_00360;Parent=gene-V9V01_00360;anticodon=(pos:54686..54688);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=V9V01_00360;product=tRNA-Cys"
+  },
+  {
+   "contig": "CP146597.1",
+   "start": 54754,
+   "end": 54827,
+   "strand": "-",
+   "product": "tRNA-Met",
+   "anticodon": "(pos:complement(54791..54793))",
+   "note": "",
+   "attr": "ID=rna-V9V01_00365;Parent=gene-V9V01_00365;anticodon=(pos:complement(54791..54793));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=V9V01_00365;product=tRNA-Met"
+  },
+  {
+   "contig": "CP146597.1",
+   "start": 54834,
+   "end": 54905,
+   "strand": "-",
+   "product": "tRNA-Asn",
+   "anticodon": "(pos:complement(54871..54873))",
+   "note": "",
+   "attr": "ID=rna-V9V01_00370;Parent=gene-V9V01_00370;anticodon=(pos:complement(54871..54873));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=V9V01_00370;product=tRNA-Asn"
+  },
+  {
+   "contig": "CP146597.1",
+   "start": 64641,
+   "end": 64714,
+   "strand": "+",
+   "product": "tRNA-Ile",
+   "anticodon": "(pos:64675..64677)",
+   "note": "",
+   "attr": "ID=rna-V9V01_00410;Parent=gene-V9V01_00410;anticodon=(pos:64675..64677);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=V9V01_00410;product=tRNA-Ile"
+  },
+  {
+   "contig": "CP146597.1",
+   "start": 64730,
+   "end": 64801,
+   "strand": "+",
+   "product": "tRNA-Ala",
+   "anticodon": "(pos:64762..64764)",
+   "note": "",
+   "attr": "ID=rna-V9V01_00415;Parent=gene-V9V01_00415;anticodon=(pos:64762..64764);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=V9V01_00415;product=tRNA-Ala"
+  },
+  {
+   "contig": "CP146597.1",
+   "start": 70772,
+   "end": 70862,
+   "strand": "-",
+   "product": "tRNA-Ser",
+   "anticodon": "(pos:complement(70824..70826))",
+   "note": "",
+   "attr": "ID=rna-V9V01_00445;Parent=gene-V9V01_00445;anticodon=(pos:complement(70824..70826));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=V9V01_00445;product=tRNA-Ser"
+  },
+  {
+   "contig": "CP146597.1",
+   "start": 85646,
+   "end": 85731,
+   "strand": "+",
+   "product": "tRNA-Ser",
+   "anticodon": "(pos:85678..85680)",
+   "note": "",
+   "attr": "ID=rna-V9V01_00530;Parent=gene-V9V01_00530;anticodon=(pos:85678..85680);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=V9V01_00530;product=tRNA-Ser"
+  },
+  {
+   "contig": "CP146597.1",
+   "start": 85743,
+   "end": 85818,
+   "strand": "+",
+   "product": "tRNA-Pro",
+   "anticodon": "(pos:85779..85781)",
+   "note": "",
+   "attr": "ID=rna-V9V01_00535;Parent=gene-V9V01_00535;anticodon=(pos:85779..85781);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=V9V01_00535;product=tRNA-Pro"
+  },
+  {
+   "contig": "CP146597.1",
+   "start": 85833,
+   "end": 85905,
+   "strand": "+",
+   "product": "tRNA-Arg",
+   "anticodon": "(pos:85866..85868)",
+   "note": "",
+   "attr": "ID=rna-V9V01_00540;Parent=gene-V9V01_00540;anticodon=(pos:85866..85868);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=V9V01_00540;product=tRNA-Arg"
+  },
+  {
+   "contig": "CP146597.1",
+   "start": 90820,
+   "end": 90891,
+   "strand": "-",
+   "product": "tRNA-His",
+   "anticodon": "(pos:complement(90857..90859))",
+   "note": "",
+   "attr": "ID=rna-V9V01_00575;Parent=gene-V9V01_00575;anticodon=(pos:complement(90857..90859));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=V9V01_00575;product=tRNA-His"
+  },
+  {
+   "contig": "CP146597.1",
+   "start": 95689,
+   "end": 95759,
+   "strand": "-",
+   "product": "tRNA-Gln",
+   "anticodon": "(pos:complement(95725..95727))",
+   "note": "",
+   "attr": "ID=rna-V9V01_00600;Parent=gene-V9V01_00600;anticodon=(pos:complement(95725..95727));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=V9V01_00600;product=tRNA-Gln"
+  },
+  {
+   "contig": "CP146597.1",
+   "start": 107462,
+   "end": 107533,
+   "strand": "-",
+   "product": "tRNA-Lys",
+   "anticodon": "(pos:complement(107499..107501))",
+   "note": "",
+   "attr": "ID=rna-V9V01_00655;Parent=gene-V9V01_00655;anticodon=(pos:complement(107499..107501));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=V9V01_00655;product=tRNA-Lys"
+  },
+  {
+   "contig": "CP146597.1",
+   "start": 113967,
+   "end": 114037,
+   "strand": "+",
+   "product": "tRNA-Gly",
+   "anticodon": "(pos:113999..114001)",
+   "note": "",
+   "attr": "ID=rna-V9V01_00695;Parent=gene-V9V01_00695;anticodon=(pos:113999..114001);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=V9V01_00695;product=tRNA-Gly"
+  },
+  {
+   "contig": "CP146597.1",
+   "start": 114053,
+   "end": 114135,
+   "strand": "+",
+   "product": "tRNA-Leu",
+   "anticodon": "(pos:114086..114088)",
+   "note": "",
+   "attr": "ID=rna-V9V01_00700;Parent=gene-V9V01_00700;anticodon=(pos:114086..114088);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=V9V01_00700;product=tRNA-Leu"
+  },
+  {
+   "contig": "CP146597.1",
+   "start": 118205,
+   "end": 118277,
+   "strand": "-",
+   "product": "tRNA-Arg",
+   "anticodon": "(pos:complement(118242..118244))",
+   "note": "",
+   "attr": "ID=rna-V9V01_00710;Parent=gene-V9V01_00710;anticodon=(pos:complement(118242..118244));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=V9V01_00710;product=tRNA-Arg"
+  },
+  {
+   "contig": "CP146597.1",
+   "start": 124223,
+   "end": 124294,
+   "strand": "+",
+   "product": "tRNA-Asp",
+   "anticodon": "(pos:124255..124257)",
+   "note": "",
+   "attr": "ID=rna-V9V01_00735;Parent=gene-V9V01_00735;anticodon=(pos:124255..124257);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=V9V01_00735;product=tRNA-Asp"
+  },
+  {
+   "contig": "CP146597.1",
+   "start": 144074,
+   "end": 144145,
+   "strand": "-",
+   "product": "tRNA-Trp",
+   "anticodon": "(pos:complement(144110..144112))",
+   "note": "",
+   "attr": "ID=rna-V9V01_00845;Parent=gene-V9V01_00845;anticodon=(pos:complement(144110..144112));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=V9V01_00845;product=tRNA-Trp"
+  },
+  {
+   "contig": "CP146597.1",
+   "start": 145349,
+   "end": 145419,
+   "strand": "-",
+   "product": "tRNA-Gly",
+   "anticodon": "(pos:complement(145385..145387))",
+   "note": "",
+   "attr": "ID=rna-V9V01_00855;Parent=gene-V9V01_00855;anticodon=(pos:complement(145385..145387));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=V9V01_00855;product=tRNA-Gly"
+  },
+  {
+   "contig": "CP146597.1",
+   "start": 145430,
+   "end": 145514,
+   "strand": "-",
+   "product": "tRNA-Tyr",
+   "anticodon": "(pos:complement(145478..145480))",
+   "note": "",
+   "attr": "ID=rna-V9V01_00860;Parent=gene-V9V01_00860;anticodon=(pos:complement(145478..145480));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=V9V01_00860;product=tRNA-Tyr"
+  },
+  {
+   "contig": "CP146597.1",
+   "start": 145533,
+   "end": 145604,
+   "strand": "-",
+   "product": "tRNA-Thr",
+   "anticodon": "(pos:complement(145570..145572))",
+   "note": "",
+   "attr": "ID=rna-V9V01_00865;Parent=gene-V9V01_00865;anticodon=(pos:complement(145570..145572));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=V9V01_00865;product=tRNA-Thr"
+  }
+ ],
+ "seconds": 77.08298683166504
+}

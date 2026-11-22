@@ -1,0 +1,24 @@
+== stop sites by class (distinct genomic sites, best-scoring HSP) ==
+TAA: all 0 | aligned to a query residue 0 | aligned & >=10 from HSP ends 0 | clean (also no query gap within 6 cols, >=8/25 identical in window) 0 in 0 queries, 0 contigs
+     clean residues: []
+TAG: all 0 | aligned to a query residue 0 | aligned & >=10 from HSP ends 0 | clean (also no query gap within 6 cols, >=8/25 identical in window) 0 in 0 queries, 0 contigs
+     clean residues: []
+TGA: all 13 | aligned to a query residue 7 | aligned & >=10 from HSP ends 3 | clean (also no query gap within 6 cols, >=8/25 identical in window) 0 in 0 queries, 0 contigs
+     clean residues: []
+   CAG aligned n=2427: Q 0.490, E 0.086, K 0.073, R 0.057, S 0.034
+   CAA aligned n=140: Q 0.379, K 0.150, E 0.079, R 0.071, S 0.050
+   AAG aligned n=3599: K 0.559, R 0.102, E 0.048, Q 0.041, S 0.031
+   GAG aligned n=4752: E 0.542, D 0.110, K 0.059, Q 0.050, S 0.031
+   TGG aligned n=622: W 0.617, F 0.095, Y 0.093, L 0.037, K 0.021
+== uniform point-error model (aligned columns, all HSP positions) ==
+   TAA: sense codons one step away 2310, observed aligned 0, expected at TAG's rate 0.0
+   TAG: sense codons one step away 14270, observed aligned 0, expected at TAG's rate 0.0
+   TGA: sense codons one step away 2483, observed aligned 7, expected at TAG's rate 0.0
+   C->T first-position model: rate 0.0000; expected TAA from CAA 0.0 (obs 0), TGA from CGA 0.0 (obs 7); CAG n=2427 CAA n=140 CGA n=177
+== HSPs (>=60 codons, owning >=1 codon) with vs without a clean TAG ==
+   with: n=0 GC3 mean nan, pid mean nan
+   without: n=375 GC3 mean 0.881, pid mean 43.1
+   contigs with TAG HSPs: 0; of these also carrying TAG-free HSPs: 0; unplaced (CBCXTV) contigs among TAG HSPs: 0; among TAG-free: 0
+== gene ends: HSPs reaching query C-terminus (qend >= qlen-3), first in-frame stop within 20 codons ==
+   loci 54; with a stop within 20 codons 46: {'TGA': 43, 'TAA': 2, 'TAG': 1}
+   first TAA/TGA within 20 codons: 45; TAGs passed before it: 0

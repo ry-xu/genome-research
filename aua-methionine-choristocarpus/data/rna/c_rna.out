@@ -1,0 +1,15 @@
+ATA@M sites 88 depth>=10 6 median G share 0.0 max G share 0.0 median depth 10
+ATA@I sites 6 depth>=10 0 median G share None max G share None median depth None
+ATG@M sites 27 depth>=10 0 median G share None max G share None median depth None
+ATG@I sites 2 depth>=10 0 median G share None max G share None median depth None
+shape: (4, 8)
+┌───────┬───────┬─────────┬───────┬─────┬─────┬─────┬─────┐
+│ group ┆ sites ┆ covered ┆ depth ┆ A   ┆ G   ┆ C   ┆ T   │
+│ ---   ┆ ---   ┆ ---     ┆ ---   ┆ --- ┆ --- ┆ --- ┆ --- │
+│ str   ┆ u32   ┆ u32     ┆ i64   ┆ i64 ┆ i64 ┆ i64 ┆ i64 │
+╞═══════╪═══════╪═════════╪═══════╪═════╪═════╪═════╪═════╡
+│ ATA@I ┆ 6     ┆ 4       ┆ 11    ┆ 11  ┆ 0   ┆ 0   ┆ 0   │
+│ ATA@M ┆ 88    ┆ 71      ┆ 271   ┆ 270 ┆ 0   ┆ 0   ┆ 1   │
+│ ATG@I ┆ 2     ┆ 1       ┆ 5     ┆ 0   ┆ 5   ┆ 0   ┆ 0   │
+│ ATG@M ┆ 27    ┆ 26      ┆ 96    ┆ 0   ┆ 94  ┆ 0   ┆ 2   │
+└───────┴───────┴─────────┴───────┴─────┴─────┴─────┴─────┘

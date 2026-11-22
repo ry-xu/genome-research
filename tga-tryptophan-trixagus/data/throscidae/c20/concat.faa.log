@@ -1,0 +1,74 @@
+IQ-TREE single-core version 3.1.4 for MacOS ARM 64-bit built Sep 10 2026
+Developed by Bui Quang Minh, Thomas Wong, Nhan Ly-Trong, Huaiyan Ren
+Contributed by Lam-Tung Nguyen, Dominik Schrempf, Chris Bielow,
+Olga Chernomor, Michael Woodhams, Diep Thi Hoang, Heiko Schmidt
+
+Host:    mini (SSE4.2, 32 GB RAM)
+Command: iqtree3 -s c20/concat.faa -m LG+C20+F+G4 -B 1000 -T 1 --redo -o S_bostrichidophilus --quiet
+Seed:    734718 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Wed Nov 11 17:05:42 2026
+Kernel:  SSE2
+
+NOTE: Consider using the multicore version because your CPU has 12 cores!
+
+Reading alignment file c20/concat.faa ... Fasta format detected
+Reading fasta file: done in 0.00172615 secs using 86.49% CPU
+Alignment most likely contains protein sequences
+Constructing alignment: done in 0.012028 secs using 64.71% CPU
+WARNING: 42 sites contain only gaps or ambiguous characters.
+Alignment has 8 sequences with 34439 columns, 15977 distinct patterns
+10080 parsimony-informative, 12331 singleton sites, 12028 constant sites
+                      Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 0.000159025 secs using 98.73% CPU
+   1  Tcar_carinifrons        9.02%    failed      0.00%
+   2  Tser_sericeus          14.03%    passed     79.00%
+   3  Tder_dermestoides      16.94%    failed      0.00%
+   4  Ttur_turgidus           9.21%    failed      0.00%
+   5  Tduv_duvalii            8.81%    failed      0.61%
+   6  Tmey                   12.49%    passed     74.50%
+   7  Aulonothroscus_AUS03    8.59%    failed      0.00%
+   8  S_bostrichidophilus    11.51%    failed      0.00%
+****  TOTAL                  11.33%  6 sequences failed composition chi2 test (p-value<5%; df=19)
+Checking for duplicate sequences: done in 0.000212193 secs using 84.83% CPU
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.007 seconds
+Generating 1000 samples for ultrafast bootstrap (seed: 734718)...
+Model LG+C20+F+G4 is alias for LG+POISSON+G+FMIX{C20pi1:1:0.0559910600,C20pi2:1:0.0514824870,C20pi3:1:0.0812922124,C20pi4:1:0.0721976867,C20pi5:1:0.0556718858,C20pi6:1:0.0331003080,C20pi7:1:0.0589501763,C20pi8:1:0.0263756889,C20pi9:1:0.0307584220,C20pi10:1:0.0376701125,C20pi11:1:0.0303058290,C20pi12:1:0.0808775576,C20pi13:1:0.0263349134,C20pi14:1:0.0579101455,C20pi15:1:0.0371248064,C20pi16:1:0.0586867766,C20pi17:1:0.0561479138,C20pi18:1:0.0349810886,C20pi19:1:0.0544937394,C20pi20:1:0.0596471901}+F+G4
+
+NOTE: 1722 MB RAM (1 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -349283.481
+2. Current log-likelihood: -310866.772
+3. Current log-likelihood: -310818.978
+4. Current log-likelihood: -310815.714
+5. Current log-likelihood: -310813.217
+6. Current log-likelihood: -310811.892
+7. Current log-likelihood: -310811.668
+8. Current log-likelihood: -310811.559
+Optimal log-likelihood: -310811.498
+Mixture weights: 0.929 0.009 0.005 0.012 0.000 0.001 0.000 0.001 0.000 0.000 0.010 0.000 0.000 0.004 0.014 0.003 0.009 0.002 0.000 0.000 0.001
+Gamma shape alpha: 0.620
+Parameters optimization took 8 rounds (683.419 sec)
+WARNING: The mixture model might be overfitting because some mixture weights are estimated close to zero
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.00485086 secs using 99.92% CPU
+Computing ML distances took 0.005446 sec (of wall-clock time) 0.005170 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 5.00679e-06 secs using 79.89% CPU
+Constructing RapidNJ tree: done in 8.10623e-06 secs using 74.02% CPU
+Computing RapidNJ tree took 0.000022 sec (of wall-clock time) 0.000013 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -312135.306
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 4.089 second
+Computing log-likelihood of 49 initial trees ... 1328.073 seconds
+Current best score: -310811.498
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+WARNING: The mixture model might be overfitting because some mixture weights are estimated close to zero
+BETTER TREE FOUND at iteration 1: -310765.610
+Estimate model parameters (epsilon = 0.100)
+WARNING: The mixture model might be overfitting because some mixture weights are estimated close to zero
+BETTER TREE FOUND at iteration 4: -310765.122

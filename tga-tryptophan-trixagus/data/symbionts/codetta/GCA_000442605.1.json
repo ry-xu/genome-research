@@ -1,0 +1,312 @@
+{
+ "acc": "GCA_000442605.1",
+ "size": 112091,
+ "gc": 0.17128047746919914,
+ "n_domains": 68,
+ "n_pfams": 65,
+ "code": "FFLLSSSSYY??CCW?L?L?PPPPHHQQ????I?IMTTT?NNKKS?RRVVVVAAAADDEEGGGG",
+ "nonstandard": [
+  {
+   "codon": "TGA",
+   "std": "*",
+   "call": "W",
+   "post": 1.0,
+   "n": 33,
+   "margin_vs_std": 86.24184610810214,
+   "top3": "W:86.2,?:0.0,Y:-1.6"
+  }
+ ],
+ "trnas": [
+  {
+   "contig": "CP006059.1",
+   "start": 5147,
+   "end": 5231,
+   "strand": "+",
+   "product": "tRNA-Tyr",
+   "anticodon": "",
+   "note": "trnY%3B tRNA-Tyr",
+   "attr": "ID=rna-NASALF_008;Parent=gene-NASALF_008;Note=trnY%3B tRNA-Tyr;gbkey=tRNA;gene=trnY;locus_tag=NASALF_008;product=tRNA-Tyr"
+  },
+  {
+   "contig": "CP006059.1",
+   "start": 5246,
+   "end": 5316,
+   "strand": "+",
+   "product": "tRNA-Gly",
+   "anticodon": "",
+   "note": "trnG%3B tRNA-Gly",
+   "attr": "ID=rna-NASALF_009;Parent=gene-NASALF_009;Note=trnG%3B tRNA-Gly;gbkey=tRNA;gene=trnG;locus_tag=NASALF_009;product=tRNA-Gly"
+  },
+  {
+   "contig": "CP006059.1",
+   "start": 5322,
+   "end": 5395,
+   "strand": "+",
+   "product": "tRNA-Thr",
+   "anticodon": "",
+   "note": "tnrT%3B tRNA-Thr",
+   "attr": "ID=rna-NASALF_010;Parent=gene-NASALF_010;Note=tnrT%3B tRNA-Thr;gbkey=tRNA;gene=tnrT;locus_tag=NASALF_010;product=tRNA-Thr"
+  },
+  {
+   "contig": "CP006059.1",
+   "start": 6612,
+   "end": 6683,
+   "strand": "+",
+   "product": "tRNA-Trp",
+   "anticodon": "",
+   "note": "trnW%3B tRNA-Trp",
+   "attr": "ID=rna-NASALF_012;Parent=gene-NASALF_012;Note=trnW%3B tRNA-Trp;gbkey=tRNA;gene=trnW;locus_tag=NASALF_012;product=tRNA-Trp"
+  },
+  {
+   "contig": "CP006059.1",
+   "start": 33064,
+   "end": 33147,
+   "strand": "+",
+   "product": "tRNA-Leu",
+   "anticodon": "",
+   "note": "tnrL",
+   "attr": "ID=rna-NASALF_053;Parent=gene-NASALF_053;Note=tnrL;gbkey=tRNA;gene=tnrL;locus_tag=NASALF_053;product=tRNA-Leu"
+  },
+  {
+   "contig": "CP006059.1",
+   "start": 44741,
+   "end": 44825,
+   "strand": "+",
+   "product": "tRNA-Leu",
+   "anticodon": "",
+   "note": "trnL%3B tRNA-Leu",
+   "attr": "ID=rna-NASALF_068;Parent=gene-NASALF_068;Note=trnL%3B tRNA-Leu;gbkey=tRNA;gene=trnL;locus_tag=NASALF_068;product=tRNA-Leu"
+  },
+  {
+   "contig": "CP006059.1",
+   "start": 44843,
+   "end": 44915,
+   "strand": "-",
+   "product": "tRNA-Asn",
+   "anticodon": "",
+   "note": "trnN%3B tRNA-Asn",
+   "attr": "ID=rna-NASALF_069;Parent=gene-NASALF_069;Note=trnN%3B tRNA-Asn;gbkey=tRNA;gene=trnN;locus_tag=NASALF_069;product=tRNA-Asn"
+  },
+  {
+   "contig": "CP006059.1",
+   "start": 45399,
+   "end": 45472,
+   "strand": "+",
+   "product": "tRNA-Pro",
+   "anticodon": "",
+   "note": "trnP%3B tRNA-Pro",
+   "attr": "ID=rna-NASALF_071;Parent=gene-NASALF_071;Note=trnP%3B tRNA-Pro;gbkey=tRNA;gene=trnP;locus_tag=NASALF_071;product=tRNA-Pro"
+  },
+  {
+   "contig": "CP006059.1",
+   "start": 49076,
+   "end": 49148,
+   "strand": "+",
+   "product": "tRNA-Met",
+   "anticodon": "",
+   "note": "trnM%3B tRNA-Met",
+   "attr": "ID=rna-NASALF_075;Parent=gene-NASALF_075;Note=trnM%3B tRNA-Met;gbkey=tRNA;gene=trnM;locus_tag=NASALF_075;product=tRNA-Met"
+  },
+  {
+   "contig": "CP006059.1",
+   "start": 55512,
+   "end": 55584,
+   "strand": "-",
+   "product": "tRNA-His",
+   "anticodon": "",
+   "note": "hisR%3B tRNA-His",
+   "attr": "ID=rna-NASALF_082;Parent=gene-NASALF_082;Note=hisR%3B tRNA-His;gbkey=tRNA;gene=hisR;locus_tag=NASALF_082;product=tRNA-His"
+  },
+  {
+   "contig": "CP006059.1",
+   "start": 59464,
+   "end": 59536,
+   "strand": "-",
+   "product": "tRNA-Val",
+   "anticodon": "",
+   "note": "trnV%3B tRNA-Val",
+   "attr": "ID=rna-NASALF_088;Parent=gene-NASALF_088;Note=trnV%3B tRNA-Val;gbkey=tRNA;gene=trnV;locus_tag=NASALF_088;product=tRNA-Val"
+  },
+  {
+   "contig": "CP006059.1",
+   "start": 62146,
+   "end": 62218,
+   "strand": "+",
+   "product": "tRNA-Cys",
+   "anticodon": "",
+   "note": "trnC%3B tRNA-Cys",
+   "attr": "ID=rna-NASALF_092;Parent=gene-NASALF_092;Note=trnC%3B tRNA-Cys;gbkey=tRNA;gene=trnC;locus_tag=NASALF_092;product=tRNA-Cys"
+  },
+  {
+   "contig": "CP006059.1",
+   "start": 62228,
+   "end": 62299,
+   "strand": "-",
+   "product": "tRNA-Gly",
+   "anticodon": "",
+   "note": "trnG%3B tRNA-Gly",
+   "attr": "ID=rna-NASALF_093;Parent=gene-NASALF_093;Note=trnG%3B tRNA-Gly;gbkey=tRNA;gene=trnG;locus_tag=NASALF_093;product=tRNA-Gly"
+  },
+  {
+   "contig": "CP006059.1",
+   "start": 62303,
+   "end": 62374,
+   "strand": "-",
+   "product": "tRNA-Met",
+   "anticodon": "",
+   "note": "trnM%3B tRNA-Met",
+   "attr": "ID=rna-NASALF_094;Parent=gene-NASALF_094;Note=trnM%3B tRNA-Met;gbkey=tRNA;gene=trnM;locus_tag=NASALF_094;product=tRNA-Met"
+  },
+  {
+   "contig": "CP006059.1",
+   "start": 64086,
+   "end": 64157,
+   "strand": "-",
+   "product": "tRNA-Thr",
+   "anticodon": "",
+   "note": "trnT%3B tRNA-Thr",
+   "attr": "ID=rna-NASALF_099;Parent=gene-NASALF_099;Note=trnT%3B tRNA-Thr;gbkey=tRNA;gene=trnT;locus_tag=NASALF_099;product=tRNA-Thr"
+  },
+  {
+   "contig": "CP006059.1",
+   "start": 69539,
+   "end": 69625,
+   "strand": "+",
+   "product": "tRNA-Leu",
+   "anticodon": "",
+   "note": "trnL: tRNA-Leu",
+   "attr": "ID=rna-NASALF_107;Parent=gene-NASALF_107;Note=trnL: tRNA-Leu;gbkey=tRNA;locus_tag=NASALF_107;product=tRNA-Leu"
+  },
+  {
+   "contig": "CP006059.1",
+   "start": 70896,
+   "end": 70970,
+   "strand": "-",
+   "product": "tRNA-Arg",
+   "anticodon": "",
+   "note": "trnR%3B tRNA-Arg",
+   "attr": "ID=rna-NASALF_109;Parent=gene-NASALF_109;Note=trnR%3B tRNA-Arg;gbkey=tRNA;gene=trnR;locus_tag=NASALF_109;product=tRNA-Arg"
+  },
+  {
+   "contig": "CP006059.1",
+   "start": 74051,
+   "end": 74123,
+   "strand": "+",
+   "product": "tRNA-Arg",
+   "anticodon": "",
+   "note": "trnR%3B tRNA-Arg",
+   "attr": "ID=rna-NASALF_114;Parent=gene-NASALF_114;Note=trnR%3B tRNA-Arg;gbkey=tRNA;gene=trnR;locus_tag=NASALF_114;product=tRNA-Arg"
+  },
+  {
+   "contig": "CP006059.1",
+   "start": 74124,
+   "end": 74206,
+   "strand": "+",
+   "product": "tRNA-Ser",
+   "anticodon": "",
+   "note": "trnS%3B tRNA-Ser",
+   "attr": "ID=rna-NASALF_115;Parent=gene-NASALF_115;Note=trnS%3B tRNA-Ser;gbkey=tRNA;gene=trnS;locus_tag=NASALF_115;product=tRNA-Ser"
+  },
+  {
+   "contig": "CP006059.1",
+   "start": 74206,
+   "end": 74279,
+   "strand": "-",
+   "product": "tRNA-Met",
+   "anticodon": "",
+   "note": "trnM%3B tRNA-Met",
+   "attr": "ID=rna-NASALF_116;Parent=gene-NASALF_116;Note=trnM%3B tRNA-Met;gbkey=tRNA;gene=trnM;locus_tag=NASALF_116;product=tRNA-Met"
+  },
+  {
+   "contig": "CP006059.1",
+   "start": 76120,
+   "end": 76192,
+   "strand": "+",
+   "product": "tRNA-Gln",
+   "anticodon": "",
+   "note": "trnQ%3B tRNA-Gln",
+   "attr": "ID=rna-NASALF_118;Parent=gene-NASALF_118;Note=trnQ%3B tRNA-Gln;gbkey=tRNA;gene=trnQ;locus_tag=NASALF_118;product=tRNA-Gln"
+  },
+  {
+   "contig": "CP006059.1",
+   "start": 78053,
+   "end": 78124,
+   "strand": "-",
+   "product": "tRNA-Lys",
+   "anticodon": "",
+   "note": "trnL%3B tRNA-Lys",
+   "attr": "ID=rna-NASALF_122;Parent=gene-NASALF_122;Note=trnL%3B tRNA-Lys;gbkey=tRNA;gene=trnL;locus_tag=NASALF_122;product=tRNA-Lys"
+  },
+  {
+   "contig": "CP006059.1",
+   "start": 89535,
+   "end": 89606,
+   "strand": "-",
+   "product": "tRNA-Val",
+   "anticodon": "",
+   "note": "trnV%3B tRNA-Val",
+   "attr": "ID=rna-NASALF_138;Parent=gene-NASALF_138;Note=trnV%3B tRNA-Val;gbkey=tRNA;gene=trnV;locus_tag=NASALF_138;product=tRNA-Val"
+  },
+  {
+   "contig": "CP006059.1",
+   "start": 92556,
+   "end": 92629,
+   "strand": "-",
+   "product": "tRNA-Ile",
+   "anticodon": "",
+   "note": "trnL%3B tRNA-Ile",
+   "attr": "ID=rna-NASALF_141;Parent=gene-NASALF_141;Note=trnL%3B tRNA-Ile;gbkey=tRNA;gene=trnL;locus_tag=NASALF_141;product=tRNA-Ile"
+  },
+  {
+   "contig": "CP006059.1",
+   "start": 94269,
+   "end": 94340,
+   "strand": "-",
+   "product": "tRNA-Ala",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NASALF_143;Parent=gene-NASALF_143;gbkey=tRNA;gene=trnA;locus_tag=NASALF_143;product=tRNA-Ala"
+  },
+  {
+   "contig": "CP006059.1",
+   "start": 94350,
+   "end": 94434,
+   "strand": "-",
+   "product": "tRNA-Ser",
+   "anticodon": "",
+   "note": "trnS%3B tRNA-Ser",
+   "attr": "ID=rna-NASALF_144;Parent=gene-NASALF_144;Note=trnS%3B tRNA-Ser;gbkey=tRNA;gene=trnS;locus_tag=NASALF_144;product=tRNA-Ser"
+  },
+  {
+   "contig": "CP006059.1",
+   "start": 97546,
+   "end": 97619,
+   "strand": "-",
+   "product": "tRNA-Phe",
+   "anticodon": "",
+   "note": "trnF%3B tRNA-Phe",
+   "attr": "ID=rna-NASALF_148;Parent=gene-NASALF_148;Note=trnF%3B tRNA-Phe;gbkey=tRNA;gene=trnF;locus_tag=NASALF_148;product=tRNA-Phe"
+  },
+  {
+   "contig": "CP006059.1",
+   "start": 111194,
+   "end": 111265,
+   "strand": "-",
+   "product": "tRNA-Asp",
+   "anticodon": "",
+   "note": "trnD%3B tRNA-Asp",
+   "attr": "ID=rna-NASALF_168;Parent=gene-NASALF_168;Note=trnD%3B tRNA-Asp;gbkey=tRNA;gene=trnD;locus_tag=NASALF_168;product=tRNA-Asp"
+  },
+  {
+   "contig": "CP006059.1",
+   "start": 111270,
+   "end": 111341,
+   "strand": "-",
+   "product": "tRNA-Glu",
+   "anticodon": "",
+   "note": "trnE%3B tRNA-Glu",
+   "attr": "ID=rna-NASALF_169;Parent=gene-NASALF_169;Note=trnE%3B tRNA-Glu;gbkey=tRNA;gene=trnE;locus_tag=NASALF_169;product=tRNA-Glu"
+  }
+ ],
+ "seconds": 47.50846195220947
+}

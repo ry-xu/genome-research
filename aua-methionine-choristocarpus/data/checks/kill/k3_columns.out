@@ -1,0 +1,66 @@
+== consensus-M sites: total M columns and all-codon breakdown, per target; aligned consensus codons
+cten_WGS consensus codons 5839 M cols 138 (0.0236) I cols 367 (0.0629) M codons {'ATA': 88, 'ATG': 27, 'TTA': 9, 'ATT': 3, 'GTA': 2, 'TTT': 2}
+dmes_WGS consensus codons 5793 M cols 137 (0.0236) I cols 363 (0.0627) M codons {'ATG': 113, 'TTA': 7, 'ATT': 6, 'ATA': 3, 'TTG': 2, 'AAA': 1}
+POS_NC_085326 consensus codons 5815 M cols 138 (0.0237) I cols 366 (0.0629) M codons {'ATA': 88, 'ATG': 27, 'TTA': 9, 'ATT': 3, 'TTT': 2, 'AAT': 2}
+NEG_Phaeostrophion consensus codons 5787 M cols 134 (0.0232) I cols 356 (0.0615) M codons {'ATG': 98, 'TTA': 12, 'ATT': 5, 'CTT': 3, 'GTA': 2, 'ATA': 2}
+NEG_Protohalopteris consensus codons 5495 M cols 120 (0.0218) I cols 344 (0.0626) M codons {'ATG': 93, 'TTA': 11, 'CTT': 4, 'ATA': 3, 'ATT': 3, 'TTG': 1}
+NEG_Saccharina consensus codons 6568 M cols 142 (0.0216) I cols 418 (0.0636) M codons {'ATG': 137, 'ATT': 2, 'ATA': 1, 'TTG': 1, 'CTC': 1}
+NEG_Petalonia consensus codons 6669 M cols 142 (0.0213) I cols 429 (0.0643) M codons {'ATG': 135, 'ATT': 3, 'TTA': 2, 'ATC': 1, 'TTG': 1}
+NEG_Sargassum consensus codons 6591 M cols 144 (0.0218) I cols 421 (0.0639) M codons {'ATG': 131, 'ATA': 4, 'TTG': 2, 'TTA': 1, 'ACA': 1, 'ATT': 1}
+
+== relative position in Desmarestia protein (dpos/dlen) of ATA@M (cten) vs ATG@M (each target)
+cten ATA@M n=88 quintiles 20 22 14 20 12 | dpos<=30: 3
+cten ATG@M n=27 quintiles 4 7 7 4 5 | dpos<=30: 0
+dmes_WGS ATG@M n=113 quintiles 22 29 23 22 17 | dpos<=30: 2
+POS_NC_085326 ATG@M n=27 quintiles 4 7 7 4 5 | dpos<=30: 0
+NEG_Phaeostrophion ATG@M n=98 quintiles 18 28 17 18 17 | dpos<=30: 2
+NEG_Protohalopteris ATG@M n=93 quintiles 21 24 16 17 15 | dpos<=30: 3
+NEG_Saccharina ATG@M n=137 quintiles 28 33 26 29 21 | dpos<=30: 3
+NEG_Petalonia ATG@M n=135 quintiles 28 33 26 27 21 | dpos<=30: 3
+NEG_Sargassum ATG@M n=131 quintiles 25 34 25 28 19 | dpos<=30: 2
+cten ATT@I n=243 quintiles 44 59 41 45 54 | dpos<=30: 19
+
+== per gene, cten: ATA@M, ATG@M  (genes by Desmarestia name)
+cox1	ATA=13	ATG=7
+nad5	ATA=13	ATG=3
+nad7	ATA=10	ATG=4
+nad4	ATA=9	ATG=1
+cob	ATA=7	ATG=1
+nad1	ATA=6	ATG=2
+cox2	ATA=5	ATG=2
+nad6	ATA=4	ATG=0
+atp6	ATA=3	ATG=2
+rps7	ATA=3	ATG=0
+cox3	ATA=3	ATG=2
+nad2	ATA=3	ATG=0
+nad11	ATA=2	ATG=0
+rps19	ATA=1	ATG=0
+rpl2	ATA=1	ATG=0
+rpl14	ATA=1	ATG=0
+rpl5	ATA=1	ATG=0
+rps8	ATA=1	ATG=1
+nad3	ATA=1	ATG=0
+rpl16	ATA=1	ATG=0
+atp9	ATA=0	ATG=2
+genes with >=1 ATA@M: 20 of 21 ; max share of ATA@M in one gene: 0.148 ; top-2 share: 0.295
+
+== at cten ATA@M columns (Desmarestia key), codon in other genomes (consensus M or I there)
+cten ATA@M sites with a Desmarestia key: 88
+dmes_WGS matched 88 codon {'ATG': 82, 'TTA': 2, 'ATT': 2, 'AAA': 1, 'GTT': 1} cons {'M': 88}
+POS_NC_085326 matched 88 codon {'ATA': 88} cons {'M': 88}
+NEG_Phaeostrophion matched 86 codon {'ATG': 69, 'TTA': 5, 'CTT': 2, 'ATA': 2, 'ATT': 2} cons {'M': 86}
+NEG_Protohalopteris matched 76 codon {'ATG': 61, 'TTA': 7, 'ATT': 3, 'ATA': 2, 'CTT': 1} cons {'M': 76}
+NEG_Saccharina matched 88 codon {'ATG': 88} cons {'M': 88}
+NEG_Petalonia matched 88 codon {'ATG': 86, 'ATT': 2} cons {'M': 88}
+NEG_Sargassum matched 88 codon {'ATG': 85, 'TTA': 1, 'GTA': 1, 'TCT': 1} cons {'M': 88}
+
+== at cten ATT@I columns, same view (control)
+dmes_WGS matched 240 codon {'ATT': 165, 'ATA': 34, 'GTT': 11, 'CTT': 9, 'GTA': 6} cons {'I': 240}
+NEG_Phaeostrophion matched 239 codon {'ATT': 102, 'ATA': 48, 'ATC': 22, 'GTT': 17, 'CTT': 9} cons {'I': 239}
+NEG_Saccharina matched 242 codon {'ATT': 164, 'ATA': 58, 'ATC': 15, 'GTG': 1, 'CTT': 1} cons {'I': 242}
+
+== Dmes ATG@M columns: what does cten have there?
+dmes ATG@M keys 113 cten matched 113 codon {'ATA': 82, 'ATG': 27, 'TTA': 2, 'ATC': 1, 'GTA': 1} cons {'M': 113}
+
+== Dmes ATA@I columns: what does cten have there?
+dmes ATA@I keys 51 cten matched 50 codon {'ATT': 34, 'TTA': 7, 'ATC': 7, 'CTA': 1, 'GTT': 1} cons {'I': 50}

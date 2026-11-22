@@ -1,0 +1,8 @@
+aligned TAG: sites 166, covered (>=2 reads) 46; majority read codon {'TAG': 35, 'CAG': 10, 'CAA': 1}; reads {'TAG': 273, 'CAG': 46, 'CAA': 2, 'TCG': 1}
+aligned TAA: sites 1, covered (>=2 reads) 0; majority read codon {}; reads {}
+aligned TGA: sites 4, covered (>=2 reads) 1; majority read codon {'TGA': 1}; reads {'TGA': 3}
+clean   TAG: sites 91, covered (>=2 reads) 33; majority read codon {'TAG': 25, 'CAG': 7, 'CAA': 1}; reads {'TAG': 111, 'CAG': 33, 'CAA': 2}
+clean   TAA: sites 0, covered (>=2 reads) 0; majority read codon {}; reads {}
+clean   TGA: sites 1, covered (>=2 reads) 0; majority read codon {}; reads {}
+clean TAG opposite Q: covered 16; majority {'TAG': 14, 'CAG': 2}
+clean TAG opposite other residues: covered 17; majority {'TAG': 11, 'CAG': 5, 'CAA': 1}

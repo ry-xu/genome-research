@@ -1,0 +1,109 @@
+genomes scored by tier: {'T1': 8746, 'T2': 1347, 'T3': 500, 'ctrl': 9}
+leads awaiting stage 2: 0
+
+== TAG: 4 flagged
+  GCA_045599485.1        ctrl rt_full  201/376   0.535  x76.4   abs 67.0  others 3/566 3/492    2.13 Mb 117 ctg CM1  CM2   
+  GCA_002010075.1        ctrl rt_full  113/168   0.673  x59.5   abs 28.2  others 1/193 4/407    1.29 Mb 27 ctg CM1  CM2   
+  GCA_949290385.1        ctrl rt_full  281/739   0.38   x39.5   abs 56.2  others 4/496 5/509    2.68 Mb 168 ctg CM1  CM2   
+  GCA_056209055.1        ctrl rt_full   42/154   0.273  x29.7   abs 6.0   others 3/795 7/891    3.55 Mb 205 ctg CM1  CM2   
+
+== TGA: 141 flagged
+  GCA_037128495.1        T1   rt_full  367/1231  0.298  x734.0  abs 367.0 others 0/226 0/75     1.27 Mb 28 ctg CM1 36.67 CM2 27.85  derived from metagenome; genus undefined
+  GCA_003488625.1        T1   rt_full  326/1043  0.313  x652.0  abs 326.0 others 0/216 0/59     1.15 Mb 51 ctg CM1 40.14 CM2 32.31  derived from metagenome; genus undefined
+  GCA_037141395.1        T1   rt_full  318/1071  0.297  x636.0  abs 318.0 others 0/170 0/55     1.26 Mb 17 ctg CM1 35.69 CM2 21.87  derived from metagenome; genus undefined
+  GCA_024427105.1        T1   rt_full  314/631   0.498  x628.0  abs 314.0 others 0/71 0/25      0.60 Mb 21 ctg CM1 70.35 CM2 46.77  derived from metagenome; genus undefined
+  GCA_017965525.1        T1   rt_full  310/687   0.451  x620.0  abs 310.0 others 0/77 0/22      0.63 Mb 44 ctg CM1 67.12 CM2 45.24  derived from metagenome; genus undefined
+  GCA_020632355.1        T1   rt_full  300/881   0.341  x600.0  abs 300.0 others 0/179 0/51     0.88 Mb 4 ctg CM1 40.23 CM2 46.86  derived from metagenome; genus undefined
+  GCA_017612895.1        T3   rt_full  297/761   0.39   x594.0  abs 297.0 others 0/155 0/59     0.79 Mb 34 ctg CM1 61.89 CM2 62.77  derived from metagenome; genus undefined
+  GCA_024427085.1        T1   rt_full  250/450   0.556  x500.0  abs 250.0 others 0/54 0/36      0.42 Mb 13 ctg CM1 51.58 CM2 30.34  derived from metagenome; genus undefined
+  GCA_017394375.1        T1   rt_full  217/623   0.348  x434.0  abs 217.0 others 0/63 0/19      0.63 Mb 47 ctg CM1 65.0 CM2 32.85  derived from metagenome; genus undefined
+  GCA_030059765.1        T1   rt_full  213/475   0.448  x426.0  abs 213.0 others 0/70 0/15      0.45 Mb 1 ctg CM1 48.43 CM2 33.53  derived from metagenome; genus undefined
+  GCA_017453665.1        T1   rt_full  195/706   0.276  x390.0  abs 195.0 others 0/143 0/66     1.07 Mb 32 ctg CM1 68.81 CM2 19.76  derived from metagenome; genus undefined
+  GCA_027421005.1        T1   rt_full  189/477   0.396  x378.0  abs 189.0 others 0/51 0/24      0.52 Mb 44 ctg CM1 54.23 CM2 56.52  derived from metagenome; genome length too small
+  GCA_021409725.1        T1   rt_full  177/559   0.317  x354.0  abs 177.0 others 0/49 0/20      0.57 Mb 7 ctg CM1 49.08 CM2 71.97  derived from metagenome
+  GCA_021409685.1        T1   rt_full  177/556   0.318  x354.0  abs 177.0 others 0/45 0/20      0.56 Mb 5 ctg CM1 49.08 CM2 71.97  derived from metagenome
+  GCA_039738815.1        T1   rt_full  177/534   0.331  x354.0  abs 177.0 others 0/80 0/30      0.52 Mb 28 ctg CM1 25.54 CM2 47.25  derived from single cell; genus undefined
+  GCA_949544815.1        T1   rt_full  171/316   0.541  x342.0  abs 171.0 others 0/63 0/3       0.36 Mb 18 ctg CM1 55.58 CM2 48.95  derived from metagenome; genus undefined
+  GCA_029210275.1        T1   rt_full  170/574   0.296  x340.0  abs 170.0 others 0/97 0/21      0.97 Mb 36 ctg CM1 18.24 CM2 15.53  derived from metagenome; genus undefined
+  GCA_021409745.1        T1   rt_full  168/509   0.33   x336.0  abs 168.0 others 0/40 0/18      0.51 Mb 6 ctg CM1 46.39 CM2 63.68  derived from metagenome
+  GCA_021409705.1        T1   rt_full  168/515   0.326  x336.0  abs 168.0 others 0/41 0/21      0.50 Mb 7 ctg CM1 45.32 CM2 58.52  derived from metagenome
+  GCA_036851215.1        T1   rt_full  163/656   0.248  x326.0  abs 163.0 others 0/116 0/55     0.82 Mb 18 ctg CM1 37.63 CM2 32.87  contaminated; derived from metagenome; genus undefined
+  GCA_949534495.1        T1   rt_full  154/264   0.583  x308.0  abs 154.0 others 0/46 0/3       0.28 Mb 2 ctg CM1 51.25 CM2 42.08  derived from metagenome; genus undefined
+  GCA_002349325.1        T1   rt_full  150/290   0.517  x300.0  abs 150.0 others 0/48 0/13      0.32 Mb 8 ctg CM1 54.36 CM2 50.17  derived from metagenome; genus undefined
+  GCA_017542395.1        T1   rt_full  149/602   0.248  x298.0  abs 149.0 others 0/145 0/55     1.29 Mb 13 ctg CM1 23.03 CM2 18.74  derived from metagenome; genus undefined
+  GCA_030949885.1        T1   rt_full  138/510   0.271  x276.0  abs 138.0 others 0/112 0/18     1.51 Mb 89 ctg CM1 59.37 CM2 61.72  derived from metagenome; genus undefined
+  GCA_003488725.1        T1   rt_full  131/593   0.221  x262.0  abs 131.0 others 0/141 0/30     0.99 Mb 27 ctg CM1 14.99 CM2 12.86  derived from metagenome; genus undefined
+  GCA_031675535.1        T1   rt_full  127/446   0.285  x254.0  abs 127.0 others 0/78 0/14      0.49 Mb 1 ctg CM1 45.37 CM2 62.25  derived from metagenome; genus undefined
+  GCA_017526685.1        T1   rt_full  126/505   0.25   x252.0  abs 126.0 others 0/123 0/65     1.27 Mb 17 ctg CM1 30.41 CM2 20.1  derived from metagenome; genus undefined
+  GCA_018658185.1        T1   rt_full  122/528   0.231  x244.0  abs 122.0 others 0/228 0/55     1.32 Mb 113 ctg CM1 14.63 CM2 16.39  derived from metagenome; genus undefined
+  GCA_018654075.1        T1   rt_full  115/477   0.241  x230.0  abs 115.0 others 0/211 0/46     1.16 Mb 90 ctg CM1 13.15 CM2 12.42  derived from metagenome; genus undefined
+  GCA_028112045.1        T1   rt_full  114/342   0.333  x228.0  abs 114.0 others 0/62 0/23      0.60 Mb 35 ctg CM1 36.93 CM2 55.11  derived from single cell; genus undefined
+  GCA_017438765.1        T1   rt_full  111/513   0.216  x222.0  abs 111.0 others 0/150 0/55     1.09 Mb 38 ctg CM1 63.2 CM2 18.58  derived from metagenome; genus undefined
+  GCA_017524305.1        T1   rt_full  109/610   0.179  x218.0  abs 109.0 others 0/172 0/70     1.35 Mb 18 ctg CM1 6.78 CM2 21.42  derived from metagenome; genus undefined
+  GCA_017445005.1        T1   rt_full  106/443   0.239  x212.0  abs 106.0 others 0/89 0/43      0.82 Mb 11 ctg CM1 52.25 CM2 14.02  derived from metagenome; genus undefined
+  GCA_031275125.1        T1   rt_full  101/583   0.173  x202.0  abs 101.0 others 0/228 0/36     1.29 Mb 34 ctg CM1 12.91 CM2 11.39  derived from metagenome; genus undefined
+  GCA_015697925.1        T2   rt_full   88/135   0.652  x176.0  abs 88.0  others 0/18 0/5       0.16 Mb 1 ctg CM1 16.46 CM2 47.21  abnormal gene to sequence ratio; missing rRNA genes
+  GCA_051294945.1        T1   rt_full   85/161   0.528  x170.0  abs 85.0  others 0/22 0/25      0.15 Mb 1 ctg CM1 14.07 CM2 88.89  genome length too small
+  GCA_002804305.1        T2   rt_full   83/160   0.519  x166.0  abs 83.0  others 0/28 0/11      0.15 Mb 1 ctg CM1 16.48 CM2 95.28  derived from metagenome; genome length too small; missing tR
+  GCA_051295375.1        T1   rt_full   78/163   0.479  x156.0  abs 78.0  others 0/19 0/25      0.15 Mb 1 ctg CM1 16.48 CM2 93.81  derived from metagenome; genome length too small
+  GCA_000021505.1        T2   rt_full   76/160   0.475  x152.0  abs 76.0  others 0/23 0/36      0.14 Mb 1 ctg CM1 22.02 CM2 95.47  genome length too small; low gene count; missing tRNA genes
+  GCA_028355235.1        T1   rt_full   72/239   0.301  x144.0  abs 72.0  others 0/40 0/19      0.35 Mb 26 ctg CM1 12.5 CM2 26.38  derived from single cell; genus undefined
+  GCA_017474695.1        T1   rt_full   72/215   0.335  x144.0  abs 72.0  others 0/47 0/14      0.51 Mb 27 ctg CM1 50.78 CM2 9.59  derived from metagenome; genus undefined
+  GCA_037144335.1        T1   rt_full   66/481   0.137  x132.0  abs 66.0  others 0/210 0/44     1.50 Mb 64 ctg CM1 3.01 CM2 10.22  derived from metagenome; genus undefined
+  GCA_017616075.1        T1   rt_full   64/398   0.161  x128.0  abs 64.0  others 0/196 0/53     1.46 Mb 103 ctg CM1 11.19 CM2 17.98  derived from metagenome; genus undefined
+  GCA_002776675.1        T2   rt_full   61/104   0.587  x122.0  abs 61.0  others 0/43 0/24      0.15 Mb 1 ctg CM1 12.14 CM2 92.84  derived from metagenome; genome length too small; missing tR
+  GCA_002844105.1        T2   rt_full   59/94    0.628  x118.0  abs 59.0  others 0/29 0/17      0.13 Mb 1 ctg CM1 11.87 CM2 80.24  abnormal gene to sequence ratio; derived from metagenome; ge
+  GCA_017645525.1        T1   rt_full   58/271   0.214  x116.0  abs 58.0  others 0/63 0/37      0.76 Mb 41 ctg CM1 13.18 CM2 8.65  derived from metagenome; genus undefined
+  GCA_046531125.1        T1   rt_full   53/127   0.417  x106.0  abs 53.0  others 0/60 0/16      0.20 Mb 27 ctg CM1 12.96 CM2 44.05  derived from metagenome; genome length too small
+  GCA_051294995.1        T1   rt_full   53/96    0.552  x106.0  abs 53.0  others 0/17 0/34      0.14 Mb 1 ctg CM1 16.06 CM2 92.56  genome length too small
+  GCA_002290365.1        T2   rt_full   49/80    0.613  x98.0   abs 49.0  others 0/21 0/1       0.14 Mb 1 ctg CM1 31.5 CM2 76.72  derived from metagenome; genome length too large; missing rR
+  GCA_040210545.2        T1   rt_full   49/61    0.803  x98.0   abs 49.0  others 0/39 0/0       0.16 Mb 1 ctg CM1 30.41 CM2 57.02  derived from metagenome
+  GCA_000831405.1        T2   rt_full   48/105   0.457  x96.0   abs 48.0  others 0/27 0/25      0.13 Mb 1 ctg CM1 8.69 CM2 84.32  derived from metagenome; genome length too small; missing rR
+  GCA_002844065.1        T2   rt_full   47/99    0.475  x94.0   abs 47.0  others 0/32 0/11      0.13 Mb 1 ctg CM1 11.07 CM2 88.39  abnormal gene to sequence ratio; derived from metagenome; ge
+  GCA_002846115.1        T2   rt_full   47/98    0.48   x94.0   abs 47.0  others 0/32 0/37      0.13 Mb 1 ctg CM1 7.76 CM2 72.34  abnormal gene to sequence ratio; derived from metagenome; ge
+  GCF_024818055.1        T1   rt_full   45/68    0.662  x90.0   abs 45.0  others 0/25 0/3       0.11 Mb 1 ctg CM1 19.91 CM2 88.45  na
+  GCA_024820095.1        T2   rt_full   45/68    0.662  x90.0   abs 45.0  others 0/23 0/3       0.12 Mb 1 ctg CM1 10.16 CM2 89.56  missing rRNA genes
+  GCA_000404725.1        T1   rt_full   43/147   0.293  x86.0   abs 43.0  others 0/32 0/6       0.34 Mb 30 ctg CM1 14.84 CM2 25.73  derived from single cell; genus undefined; partial
+  GCA_040409785.2        T1   rt_full   43/58    0.741  x86.0   abs 43.0  others 0/28 0/0       0.13 Mb 1 ctg CM1 28.42 CM2 63.1  derived from metagenome
+  GCF_024820115.1        T1   rt_full   43/68    0.632  x86.0   abs 43.0  others 0/19 0/2       0.11 Mb 1 ctg CM1 22.55 CM2 86.84  na
+  GCA_037138875.1        T1   rt_full  293/1010  0.29   x85.5   abs 293.0 others 1/236 0/109    1.22 Mb 76 ctg CM1 29.66 CM2 31.2  derived from metagenome; genus undefined
+  GCA_001447885.1        T2   rt_full   42/62    0.677  x84.0   abs 42.0  others 0/26 0/2       0.11 Mb 1 ctg CM1 10.1 CM2 94.91  derived from metagenome; missing rRNA genes; missing tRNA ge
+  GCA_030297055.1        T2   rt_full   42/69    0.609  x84.0   abs 42.0  others 0/20 0/1       0.11 Mb 1 ctg CM1 22.05 CM2 83.44  missing rRNA genes
+  GCA_029910395.1        T1   rt_full   42/75    0.56   x84.0   abs 42.0  others 0/13 0/31      0.11 Mb 1 ctg CM1 10.38 CM2 86.34  derived from metagenome; genome length too small
+  GCF_024820155.1        T1   rt_full   42/63    0.667  x84.0   abs 42.0  others 0/17 0/3       0.11 Mb 1 ctg CM1 23.74 CM2 86.32  na
+  GCF_024818155.1        T1   rt_full   42/68    0.618  x84.0   abs 42.0  others 0/22 0/4       0.11 Mb 1 ctg CM1 24.8 CM2 83.09  na
+  GCF_024818335.1        T1   rt_full   41/64    0.641  x82.0   abs 41.0  others 0/22 0/1       0.11 Mb 1 ctg CM1 24.96 CM2 86.35  na
+  GCA_024818135.1        T2   rt_full   41/63    0.651  x82.0   abs 41.0  others 0/20 0/4       0.11 Mb 1 ctg CM1 21.59 CM2 85.73  missing rRNA genes; missing tRNA genes
+  GCF_024820075.1        T1   rt_full   41/63    0.651  x82.0   abs 41.0  others 0/17 0/3       0.11 Mb 1 ctg CM1 23.84 CM2 85.88  na
+  GCA_017086605.1        T2   rt_full   40/60    0.667  x80.0   abs 40.0  others 0/25 0/1       0.11 Mb 1 ctg CM1 17.02 CM2 75.05  abnormal gene to sequence ratio; derived from metagenome; mi
+  GCA_024818035.1        T2   rt_full   39/63    0.619  x78.0   abs 39.0  others 0/21 0/4       0.11 Mb 1 ctg CM1 27.31 CM2 82.62  missing rRNA genes; missing tRNA genes
+  GCA_024818655.1        T2   rt_full   38/61    0.623  x76.0   abs 38.0  others 0/21 0/3       0.11 Mb 1 ctg CM1 24.9 CM2 87.13  missing rRNA genes; missing tRNA genes
+  GCF_024820135.1        T1   rt_full   38/62    0.613  x76.0   abs 38.0  others 0/20 0/6       0.11 Mb 1 ctg CM1 27.77 CM2 84.28  na
+  GCA_024820175.1        T2   rt_full   38/60    0.633  x76.0   abs 38.0  others 0/20 0/3       0.11 Mb 1 ctg CM1 24.96 CM2 85.99  missing rRNA genes; missing tRNA genes
+  GCA_047338565.1        T1   rt_full   38/80    0.475  x76.0   abs 38.0  others 0/18 0/13      0.12 Mb 1 ctg CM1 8.1 CM2 47.37  derived from metagenome; genome length too small
+  GCA_031254045.1        T1   rt_full  317/1095  0.289  x72.3   abs 317.0 others 1/199 0/83     1.08 Mb 21 ctg CM1 58.44 CM2 49.35  derived from metagenome; genus undefined
+  GCA_024818095.1        T2   rt_full   36/55    0.655  x72.0   abs 36.0  others 0/20 0/5       0.11 Mb 1 ctg CM1 22.82 CM2 85.29  missing rRNA genes; missing tRNA genes
+  GCA_051515685.1        T1   rt_full   36/55    0.655  x72.0   abs 36.0  others 0/25 0/3       0.11 Mb 1 ctg CM1 22.8 CM2 83.54  derived from metagenome
+  GCA_000442605.1        T2   rt_full   36/64    0.562  x72.0   abs 36.0  others 0/23 0/4       0.11 Mb 1 ctg CM1 9.6 CM2 94.39  abnormal gene to sequence ratio; derived from metagenome; mi
+  GCA_030688485.1        T1   rt_full  343/1020  0.336  x71.4   abs 343.0 others 1/139 0/98     1.07 Mb 97 ctg CM1 53.39 CM2 41.97  derived from metagenome; genus undefined
+  GCA_029910415.1        T1   rt_full   33/71    0.465  x66.0   abs 33.0  others 0/24 0/26      0.12 Mb 1 ctg CM1 3.13 CM2 30.93  derived from metagenome; genome length too small
+  GCA_017442645.1        T1   rt_full  343/1236  0.278  x65.7   abs 343.0 others 0/204 1/58     1.29 Mb 38 ctg CM1 67.98 CM2 38.94  derived from metagenome; genus undefined
+
+== TAA: 2 flagged
+  SYN_CAA2TAA30_Ecoli    ctrl rt_full 3284/4495  0.731  x25.6   abs 410.5 others 8/147 8/415    4.64 Mb 1 ctg CM1  CM2   
+  SYN_CAA2TAA05_Ecoli    ctrl rt_full  831/2211  0.376  x13.4   abs 92.3  others 9/156 9/491    4.64 Mb 1 ctg CM1  CM2   
+
+== TAG: 0 near-miss (not called)
+
+== TGA: 9 near-miss (not called)
+  GCA_002774995.1        T2   rt_full  209/475   0.44   x7.7    abs 11.0  others 19/292 3/99    1.57 Mb 118 ctg CM1 16.96 CM2 73.6  Automated annotation fails to meet RefSeq quality standards;
+  GCF_024820055.1        T1   rt_full   42/67    0.627  x7.4    abs 21.0  others 2/23 0/3       0.11 Mb 1 ctg CM1 27.61 CM2 86.22  na
+  GCA_016453045.1        T2   rt_full  176/513   0.343  x7.3    abs 35.2  others 5/135 5/81     0.97 Mb 1 ctg CM1 70.35 CM2 36.1  abnormal gene to sequence ratio; annotation fails completene
+  GCA_002844665.1        T2   rt_full   24/40    0.6    x6.7    abs 24.0  others 1/7 0/6        0.08 Mb 1 ctg CM1 3.89 CM2 6.34  abnormal gene to sequence ratio; genome length too small; mi
+  GCA_016452465.1        T2   rt_full  140/455   0.308  x6.7    abs 28.0  others 5/134 4/68     0.98 Mb 1 ctg CM1 66.6 CM2 32.77  abnormal gene to sequence ratio; annotation fails completene
+  GCA_002762275.1        T2   rt_full  120/329   0.365  x5.9    abs 10.0  others 12/164 1/51    1.17 Mb 106 ctg CM1 19.03 CM2 82.48  Automated annotation fails to meet RefSeq quality standards;
+  GCA_026810525.1        T2   rt_full  202/616   0.328  x5.6    abs 25.2  others 8/156 4/50     0.95 Mb 1 ctg CM1 81.35 CM2 46.45  abnormal gene to sequence ratio; many frameshifted proteins
+  GCA_016453545.1        T2   rt_full  150/462   0.325  x5.1    abs 16.7  others 5/140 9/84     0.97 Mb 1 ctg CM1 65.52 CM2 34.38  abnormal gene to sequence ratio; annotation fails completene
+  GCF_025215355.1        T1   rt_full  178/597   0.298  x4.3    abs 17.8  others 10/174 6/59    1.01 Mb 1 ctg CM1 67.43 CM2 47.2  na
+
+== TAA: 0 near-miss (not called)

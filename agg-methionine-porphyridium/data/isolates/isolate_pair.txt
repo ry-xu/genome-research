@@ -1,0 +1,43 @@
+# codon_pair.py: codon in the other isolate at each codon's aligned positions (14 shared genes + orfs, protein-level global alignment, table 4)
+## A=NC_062302.1 (SAG 1380-2), B=MT483995.1 (CCMP1948): AGG
+# shared genes ['atp6', 'atp9', 'cob', 'cox1', 'cox2', 'cox3', 'nad1', 'nad2', 'nad3', 'nad4', 'nad4l', 'nad5', 'nad6', 'rps3']
+# codons identical at aligned positions: 2850/4320
+# codon in B at A AGG {'AGG': 37, 'ATG': 17, 'GGA': 1, 'ATA': 1, 'TGG': 1, 'ACA': 1}
+## A=NC_062302.1 (SAG 1380-2), B=MT483995.1 (CCMP1948): ATG
+# shared genes ['atp6', 'atp9', 'cob', 'cox1', 'cox2', 'cox3', 'nad1', 'nad2', 'nad3', 'nad4', 'nad4l', 'nad5', 'nad6', 'rps3']
+# codons identical at aligned positions: 2850/4320
+# codon in B at A ATG {'ATG': 42, 'AGG': 16, 'ATA': 5, 'GTA': 3, 'ATT': 1, 'ACT': 1, 'TTA': 1, 'TTG': 1, 'GTC': 1}
+## A=NC_062302.1 (SAG 1380-2), B=MT483995.1 (CCMP1948): AGA
+# shared genes ['atp6', 'atp9', 'cob', 'cox1', 'cox2', 'cox3', 'nad1', 'nad2', 'nad3', 'nad4', 'nad4l', 'nad5', 'nad6', 'rps3']
+# codons identical at aligned positions: 2850/4320
+# codon in B at A AGA {'AGA': 12, 'CGA': 10, 'TGA': 1, 'CAA': 1}
+## A=NC_062302.1 (SAG 1380-2), B=MT483995.1 (CCMP1948): CGA
+# shared genes ['atp6', 'atp9', 'cob', 'cox1', 'cox2', 'cox3', 'nad1', 'nad2', 'nad3', 'nad4', 'nad4l', 'nad5', 'nad6', 'rps3']
+# codons identical at aligned positions: 2850/4320
+# codon in B at A CGA {'CGA': 6, 'CGC': 2, 'AGA': 2, 'CGT': 2}
+## A=NC_062302.1 (SAG 1380-2), B=MT483995.1 (CCMP1948): CGT
+# shared genes ['atp6', 'atp9', 'cob', 'cox1', 'cox2', 'cox3', 'nad1', 'nad2', 'nad3', 'nad4', 'nad4l', 'nad5', 'nad6', 'rps3']
+# codons identical at aligned positions: 2850/4320
+# codon in B at A CGT {'CGT': 23, 'CGA': 8, 'CGC': 5, 'AGA': 2, 'AAA': 1}
+## A=NC_062302.1 (SAG 1380-2), B=MT483995.1 (CCMP1948): CGC
+# shared genes ['atp6', 'atp9', 'cob', 'cox1', 'cox2', 'cox3', 'nad1', 'nad2', 'nad3', 'nad4', 'nad4l', 'nad5', 'nad6', 'rps3']
+# codons identical at aligned positions: 2850/4320
+# codon in B at A CGC {'CGT': 3}
+## A=NC_062302.1 (SAG 1380-2), B=MT483995.1 (CCMP1948): CGG
+# shared genes ['atp6', 'atp9', 'cob', 'cox1', 'cox2', 'cox3', 'nad1', 'nad2', 'nad3', 'nad4', 'nad4l', 'nad5', 'nad6', 'rps3']
+# codons identical at aligned positions: 2850/4320
+# codon in B at A CGG {}
+## A=NC_062302.1 (SAG 1380-2), B=MT483995.1 (CCMP1948): ATA
+# shared genes ['atp6', 'atp9', 'cob', 'cox1', 'cox2', 'cox3', 'nad1', 'nad2', 'nad3', 'nad4', 'nad4l', 'nad5', 'nad6', 'rps3']
+# codons identical at aligned positions: 2850/4320
+# codon in B at A ATA {'ATA': 104, 'ATT': 31, 'TTA': 9, 'GTA': 8, 'ACA': 6, 'ATC': 5, 'ATG': 3, 'GTG': 3, 'CTA': 3, 'GTT': 3, 'GTC': 2, 'TTG': 2, 'CTT': 2, 'ACT': 1, 'AGT': 1, 'GGA': 1, 'CAA': 1, 'TAT': 1}
+## reverse A=MT483995.1, B=NC_062302.1: AGG
+# codon in B at A AGG {'AGG': 37, 'ATG': 16, 'AAG': 1, 'TTG': 1, 'AGC': 1, 'ACA': 1}
+## reverse A=MT483995.1, B=NC_062302.1: ATG
+# codon in B at A ATG {'ATG': 42, 'AGG': 17, 'ATT': 5, 'ATA': 3, 'ACG': 2, 'GTC': 1, 'GTT': 1, 'GTA': 1, 'TTG': 1, 'TTA': 1}
+## reverse A=MT483995.1, B=NC_062302.1: AGA
+# codon in B at A AGA {'AGA': 12, 'CGA': 2, 'CGT': 2, 'AAA': 1}
+## reverse A=MT483995.1, B=NC_062302.1: CGA
+# codon in B at A CGA {'AGA': 10, 'CGT': 8, 'CGA': 6, 'AGT': 1, 'CAA': 1}
+## reverse A=MT483995.1, B=NC_062302.1: CGT
+# codon in B at A CGT {'CGT': 23, 'CGC': 3, 'CGA': 2}

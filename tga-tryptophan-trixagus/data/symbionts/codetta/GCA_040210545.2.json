@@ -1,0 +1,282 @@
+{
+ "acc": "GCA_040210545.2",
+ "size": 163408,
+ "gc": 0.12615661411925977,
+ "n_domains": 105,
+ "n_pfams": 92,
+ "code": "F?LLS?S?Y???C?WWL?L?PPPPH?QQR?R?I?IMTTTTNNKKS?R?V?VVAAAADDEEGGGG",
+ "nonstandard": [
+  {
+   "codon": "TGA",
+   "std": "*",
+   "call": "W",
+   "post": 0.9999999999999998,
+   "n": 17,
+   "margin_vs_std": 35.76365331341419,
+   "top3": "W:35.8,?:0.0,L:-12.7"
+  }
+ ],
+ "trnas": [
+  {
+   "contig": "CP157893.2",
+   "start": 1955,
+   "end": 2038,
+   "strand": "+",
+   "product": "tRNA-Leu",
+   "anticodon": "(pos:1987..1989)",
+   "note": "",
+   "attr": "ID=rna-ABNO52_00010;Parent=gene-ABNO52_00010;anticodon=(pos:1987..1989);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=ABNO52_00010;product=tRNA-Leu"
+  },
+  {
+   "contig": "CP157893.2",
+   "start": 4918,
+   "end": 4988,
+   "strand": "+",
+   "product": "tRNA-Cys",
+   "anticodon": "(pos:4950..4952)",
+   "note": "",
+   "attr": "ID=rna-ABNO52_00030;Parent=gene-ABNO52_00030;anticodon=(pos:4950..4952);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=ABNO52_00030;product=tRNA-Cys"
+  },
+  {
+   "contig": "CP157893.2",
+   "start": 5020,
+   "end": 5091,
+   "strand": "-",
+   "product": "tRNA-Met",
+   "anticodon": "(pos:complement(5057..5059))",
+   "note": "",
+   "attr": "ID=rna-ABNO52_00035;Parent=gene-ABNO52_00035;anticodon=(pos:complement(5057..5059));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=ABNO52_00035;product=tRNA-Met"
+  },
+  {
+   "contig": "CP157893.2",
+   "start": 5097,
+   "end": 5168,
+   "strand": "-",
+   "product": "tRNA-Asn",
+   "anticodon": "(pos:complement(5134..5136))",
+   "note": "",
+   "attr": "ID=rna-ABNO52_00040;Parent=gene-ABNO52_00040;anticodon=(pos:complement(5134..5136));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=ABNO52_00040;product=tRNA-Asn"
+  },
+  {
+   "contig": "CP157893.2",
+   "start": 14713,
+   "end": 14786,
+   "strand": "+",
+   "product": "tRNA-Ile",
+   "anticodon": "(pos:14747..14749)",
+   "note": "",
+   "attr": "ID=rna-ABNO52_00090;Parent=gene-ABNO52_00090;anticodon=(pos:14747..14749);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=ABNO52_00090;product=tRNA-Ile"
+  },
+  {
+   "contig": "CP157893.2",
+   "start": 14802,
+   "end": 14873,
+   "strand": "+",
+   "product": "tRNA-Ala",
+   "anticodon": "(pos:14834..14836)",
+   "note": "",
+   "attr": "ID=rna-ABNO52_00095;Parent=gene-ABNO52_00095;anticodon=(pos:14834..14836);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=ABNO52_00095;product=tRNA-Ala"
+  },
+  {
+   "contig": "CP157893.2",
+   "start": 20888,
+   "end": 20977,
+   "strand": "-",
+   "product": "tRNA-Ser",
+   "anticodon": "(pos:complement(20939..20941))",
+   "note": "",
+   "attr": "ID=rna-ABNO52_00125;Parent=gene-ABNO52_00125;anticodon=(pos:complement(20939..20941));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=ABNO52_00125;product=tRNA-Ser"
+  },
+  {
+   "contig": "CP157893.2",
+   "start": 36049,
+   "end": 36132,
+   "strand": "+",
+   "product": "tRNA-Ser",
+   "anticodon": "(pos:36081..36083)",
+   "note": "",
+   "attr": "ID=rna-ABNO52_00225;Parent=gene-ABNO52_00225;anticodon=(pos:36081..36083);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=ABNO52_00225;product=tRNA-Ser"
+  },
+  {
+   "contig": "CP157893.2",
+   "start": 36135,
+   "end": 36210,
+   "strand": "+",
+   "product": "tRNA-Pro",
+   "anticodon": "(pos:36171..36173)",
+   "note": "",
+   "attr": "ID=rna-ABNO52_00230;Parent=gene-ABNO52_00230;anticodon=(pos:36171..36173);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=ABNO52_00230;product=tRNA-Pro"
+  },
+  {
+   "contig": "CP157893.2",
+   "start": 36220,
+   "end": 36292,
+   "strand": "+",
+   "product": "tRNA-Arg",
+   "anticodon": "(pos:36253..36255)",
+   "note": "",
+   "attr": "ID=rna-ABNO52_00235;Parent=gene-ABNO52_00235;anticodon=(pos:36253..36255);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=ABNO52_00235;product=tRNA-Arg"
+  },
+  {
+   "contig": "CP157893.2",
+   "start": 41032,
+   "end": 41103,
+   "strand": "-",
+   "product": "tRNA-His",
+   "anticodon": "(pos:complement(41069..41071))",
+   "note": "",
+   "attr": "ID=rna-ABNO52_00285;Parent=gene-ABNO52_00285;anticodon=(pos:complement(41069..41071));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=ABNO52_00285;product=tRNA-His"
+  },
+  {
+   "contig": "CP157893.2",
+   "start": 45905,
+   "end": 45975,
+   "strand": "-",
+   "product": "tRNA-Gln",
+   "anticodon": "(pos:complement(45941..45943))",
+   "note": "",
+   "attr": "ID=rna-ABNO52_00315;Parent=gene-ABNO52_00315;anticodon=(pos:complement(45941..45943));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=ABNO52_00315;product=tRNA-Gln"
+  },
+  {
+   "contig": "CP157893.2",
+   "start": 57949,
+   "end": 58021,
+   "strand": "-",
+   "product": "tRNA-Lys",
+   "anticodon": "(pos:complement(57986..57988))",
+   "note": "",
+   "attr": "ID=rna-ABNO52_00390;Parent=gene-ABNO52_00390;anticodon=(pos:complement(57986..57988));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=ABNO52_00390;product=tRNA-Lys"
+  },
+  {
+   "contig": "CP157893.2",
+   "start": 64481,
+   "end": 64551,
+   "strand": "+",
+   "product": "tRNA-Gly",
+   "anticodon": "(pos:64513..64515)",
+   "note": "",
+   "attr": "ID=rna-ABNO52_00440;Parent=gene-ABNO52_00440;anticodon=(pos:64513..64515);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=ABNO52_00440;product=tRNA-Gly"
+  },
+  {
+   "contig": "CP157893.2",
+   "start": 64558,
+   "end": 64640,
+   "strand": "+",
+   "product": "tRNA-Leu",
+   "anticodon": "(pos:64591..64593)",
+   "note": "",
+   "attr": "ID=rna-ABNO52_00445;Parent=gene-ABNO52_00445;anticodon=(pos:64591..64593);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=ABNO52_00445;product=tRNA-Leu"
+  },
+  {
+   "contig": "CP157893.2",
+   "start": 68745,
+   "end": 68817,
+   "strand": "-",
+   "product": "tRNA-Arg",
+   "anticodon": "(pos:complement(68782..68784))",
+   "note": "",
+   "attr": "ID=rna-ABNO52_00480;Parent=gene-ABNO52_00480;anticodon=(pos:complement(68782..68784));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=ABNO52_00480;product=tRNA-Arg"
+  },
+  {
+   "contig": "CP157893.2",
+   "start": 75806,
+   "end": 75877,
+   "strand": "+",
+   "product": "tRNA-Asp",
+   "anticodon": "(pos:75838..75840)",
+   "note": "",
+   "attr": "ID=rna-ABNO52_00515;Parent=gene-ABNO52_00515;anticodon=(pos:75838..75840);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=ABNO52_00515;product=tRNA-Asp"
+  },
+  {
+   "contig": "CP157893.2",
+   "start": 95578,
+   "end": 95648,
+   "strand": "-",
+   "product": "tRNA-Trp",
+   "anticodon": "(pos:complement(95614..95616))",
+   "note": "",
+   "attr": "ID=rna-ABNO52_00650;Parent=gene-ABNO52_00650;anticodon=(pos:complement(95614..95616));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=ABNO52_00650;product=tRNA-Trp"
+  },
+  {
+   "contig": "CP157893.2",
+   "start": 96878,
+   "end": 96948,
+   "strand": "-",
+   "product": "tRNA-Gly",
+   "anticodon": "(pos:complement(96914..96916))",
+   "note": "",
+   "attr": "ID=rna-ABNO52_00660;Parent=gene-ABNO52_00660;anticodon=(pos:complement(96914..96916));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=ABNO52_00660;product=tRNA-Gly"
+  },
+  {
+   "contig": "CP157893.2",
+   "start": 96952,
+   "end": 97036,
+   "strand": "-",
+   "product": "tRNA-Tyr",
+   "anticodon": "(pos:complement(97000..97002))",
+   "note": "",
+   "attr": "ID=rna-ABNO52_00665;Parent=gene-ABNO52_00665;anticodon=(pos:complement(97000..97002));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=ABNO52_00665;product=tRNA-Tyr"
+  },
+  {
+   "contig": "CP157893.2",
+   "start": 97045,
+   "end": 97116,
+   "strand": "-",
+   "product": "tRNA-Thr",
+   "anticodon": "(pos:complement(97082..97084))",
+   "note": "",
+   "attr": "ID=rna-ABNO52_00670;Parent=gene-ABNO52_00670;anticodon=(pos:complement(97082..97084));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=ABNO52_00670;product=tRNA-Thr"
+  },
+  {
+   "contig": "CP157893.2",
+   "start": 124596,
+   "end": 124669,
+   "strand": "-",
+   "product": "tRNA-Val",
+   "anticodon": "(pos:complement(124633..124635))",
+   "note": "",
+   "attr": "ID=rna-ABNO52_00900;Parent=gene-ABNO52_00900;anticodon=(pos:complement(124633..124635));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=ABNO52_00900;product=tRNA-Val"
+  },
+  {
+   "contig": "CP157893.2",
+   "start": 137819,
+   "end": 137891,
+   "strand": "-",
+   "product": "tRNA-Met",
+   "anticodon": "(pos:complement(137856..137858))",
+   "note": "",
+   "attr": "ID=rna-ABNO52_00995;Parent=gene-ABNO52_00995;anticodon=(pos:complement(137856..137858));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=ABNO52_00995;product=tRNA-Met"
+  },
+  {
+   "contig": "CP157893.2",
+   "start": 139036,
+   "end": 139108,
+   "strand": "-",
+   "product": "tRNA-Ile",
+   "anticodon": "(pos:complement(139073..139075))",
+   "note": "",
+   "attr": "ID=rna-ABNO52_01010;Parent=gene-ABNO52_01010;anticodon=(pos:complement(139073..139075));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=ABNO52_01010;product=tRNA-Ile"
+  },
+  {
+   "contig": "CP157893.2",
+   "start": 142413,
+   "end": 142483,
+   "strand": "-",
+   "product": "tRNA-Glu",
+   "anticodon": "(pos:complement(142449..142451))",
+   "note": "",
+   "attr": "ID=rna-ABNO52_01030;Parent=gene-ABNO52_01030;anticodon=(pos:complement(142449..142451));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=ABNO52_01030;product=tRNA-Glu"
+  },
+  {
+   "contig": "CP157893.2",
+   "start": 155118,
+   "end": 155190,
+   "strand": "-",
+   "product": "tRNA-Phe",
+   "anticodon": "(pos:complement(155155..155157))",
+   "note": "",
+   "attr": "ID=rna-ABNO52_01105;Parent=gene-ABNO52_01105;anticodon=(pos:complement(155155..155157));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=ABNO52_01105;product=tRNA-Phe"
+  }
+ ],
+ "seconds": 80.67889308929443
+}

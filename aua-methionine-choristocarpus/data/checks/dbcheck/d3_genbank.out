@@ -1,0 +1,190 @@
+
+===== ON552980: ON552980.1 len=32351 Choristocarpus tenellus mitochondrion, complete genome
+  organism: Choristocarpus tenellus | date: 05-MAR-2025
+  taxonomy: Eukaryota; Sar; Stramenopiles; Ochrophyta; PX clade; Phaeophyceae; Sphacelariales; Choristocarpaceae; Choristocarpus
+  REF: Organelle phylogenomic analysis reveals isogamous ancestral polymorphisms in brown algal evolution | Unpublished
+  REF: Direct Submission | Submitted (19-MAY-2022) Department of Biological Sciences, Sungkyunkwan University, 32354B, Science Building 2, Suwon-si, Kyeonggi-do 16419, Republic of Korea
+  COMMENT: (none)
+  source quals: {'organism': ['Choristocarpus tenellus'], 'organelle': ['mitochondrion'], 'mol_type': ['genomic DNA'], 'geo_loc_name': ['France: Villefranche-sur-Mer'], 'collection_date': ['01-Sep-1980']} ['taxon:116065']
+  CDS count=35 transl_table values: {'(absent)': 35}
+  /note qualifiers (0):
+  raw-text hits 'AUA': 0
+  raw-text hits 'ATA': 1
+  raw-text hits 'genetic code': 0
+  raw-text hits 'transl_table': 0
+  raw-text hits 'isoleucine': 0
+  raw-text hits 'methionine': 0
+  raw-text hits 'code': 0
+  ATA codons in annotated CDS: 227; CDS whose stored /translation != table-1 translation (ignoring first aa): 0
+  tRNA features: 22
+     [2624:2701](+)               product=tRNA-Met               gene=trnM-CAU   anticodon=- note=-
+     [2770:2853](+)               product=tRNA-Leu               gene=trnL-UAA   anticodon=- note=-
+     [2858:2931](+)               product=tRNA-Met               gene=trnM-CAU   anticodon=- note=-
+     [2941:3016](+)               product=tRNA-His               gene=trnH-GUG   anticodon=- note=-
+     [3031:3102](+)               product=tRNA-Cys               gene=trnC-GCA   anticodon=- note=-
+     [3108:3183](+)               product=tRNA-Asn               gene=trnN-GUU   anticodon=- note=-
+     [3198:3270](+)               product=tRNA-Phe               gene=trnF-GAA   anticodon=- note=-
+     [7562:7637](+)               product=tRNA-Trp               gene=trnW-CCA   anticodon=- note=-
+     [7774:7846](+)               product=tRNA-Gln               gene=trnQ-UUG   anticodon=- note=-
+     [7846:7927](+)               product=tRNA-Leu               gene=trnL-UAG   anticodon=- note=-
+     [9061:9142](+)               product=tRNA-Leu               gene=trnL-CAA   anticodon=- note=-
+     [10057:10130](+)             product=tRNA-Gly               gene=trnG-GCC   anticodon=- note=-
+     [13889:13973](+)             product=tRNA-Tyr               gene=trnY-GUA   anticodon=- note=-
+     [15615:15692](+)             product=tRNA-Arg               gene=trnR-UCU   anticodon=- note=-
+     [18861:18934](+)             product=tRNA-Ile               gene=trnI-GAU   anticodon=- note=-
+     [19721:19794](+)             product=tRNA-Lys               gene=trnK-UUU   anticodon=- note=-
+     [24471:24544](+)             product=tRNA-Glu               gene=trnE-UUC   anticodon=- note=-
+     [30033:30107](+)             product=tRNA-Pro               gene=trnP-UGG   anticodon=- note=-
+     [31866:31938](+)             product=tRNA-Ala               gene=trnA-UGC   anticodon=- note=-
+     [31948:32035](+)             product=tRNA-Ser               gene=trnS-UGA   anticodon=- note=-
+     [32042:32130](+)             product=tRNA-Ser               gene=trnS-GCU   anticodon=- note=-
+     [32146:32220](+)             product=tRNA-Val               gene=trnV-UAC   anticodon=- note=-
+
+===== NC_085326: NC_085326.1 len=32351 Choristocarpus tenellus mitochondrion, complete genome
+  organism: Choristocarpus tenellus | date: 01-FEB-2024
+  taxonomy: Eukaryota; Sar; Stramenopiles; Ochrophyta; PX clade; Phaeophyceae; Sphacelariales; Choristocarpaceae; Choristocarpus
+  REF: Organelle phylogenomic analysis reveals isogamous ancestral polymorphisms in brown algal evolution | Unpublished
+  REF: Direct Submission | Submitted (31-JAN-2024) National Center for Biotechnology Information, NIH, Bethesda, MD 20894, USA
+  REF: Direct Submission | Submitted (19-MAY-2022) Department of Biological Sciences, Sungkyunkwan University, 32354B, Science Building 2, Suwon-si, Kyeonggi-do 16419, Republic of Korea
+  COMMENT: PROVISIONAL REFSEQ: This record has not yet been subject to final NCBI review. The reference sequence is identical to ON552980. COMPLETENESS: full length.
+  source quals: {'organism': ['Choristocarpus tenellus'], 'organelle': ['mitochondrion'], 'mol_type': ['genomic DNA'], 'geo_loc_name': ['France: Villefranche-sur-Mer'], 'collection_date': ['01-Sep-1980']} ['taxon:116065']
+  CDS count=35 transl_table values: {'(absent)': 35}
+  /note qualifiers (0):
+  raw-text hits 'AUA': 0
+  raw-text hits 'ATA': 1
+  raw-text hits 'genetic code': 0
+  raw-text hits 'transl_table': 0
+  raw-text hits 'isoleucine': 0
+  raw-text hits 'methionine': 0
+  raw-text hits 'code': 0
+  ATA codons in annotated CDS: 227; CDS whose stored /translation != table-1 translation (ignoring first aa): 0
+  tRNA features: 22
+     [2624:2701](+)               product=tRNA-Met               gene=trnM-CAU   anticodon=- note=-
+     [2770:2853](+)               product=tRNA-Leu               gene=trnL-UAA   anticodon=- note=-
+     [2858:2931](+)               product=tRNA-Met               gene=trnM-CAU   anticodon=- note=-
+     [2941:3016](+)               product=tRNA-His               gene=trnH-GUG   anticodon=- note=-
+     [3031:3102](+)               product=tRNA-Cys               gene=trnC-GCA   anticodon=- note=-
+     [3108:3183](+)               product=tRNA-Asn               gene=trnN-GUU   anticodon=- note=-
+     [3198:3270](+)               product=tRNA-Phe               gene=trnF-GAA   anticodon=- note=-
+     [7562:7637](+)               product=tRNA-Trp               gene=trnW-CCA   anticodon=- note=-
+     [7774:7846](+)               product=tRNA-Gln               gene=trnQ-UUG   anticodon=- note=-
+     [7846:7927](+)               product=tRNA-Leu               gene=trnL-UAG   anticodon=- note=-
+     [9061:9142](+)               product=tRNA-Leu               gene=trnL-CAA   anticodon=- note=-
+     [10057:10130](+)             product=tRNA-Gly               gene=trnG-GCC   anticodon=- note=-
+     [13889:13973](+)             product=tRNA-Tyr               gene=trnY-GUA   anticodon=- note=-
+     [15615:15692](+)             product=tRNA-Arg               gene=trnR-UCU   anticodon=- note=-
+     [18861:18934](+)             product=tRNA-Ile               gene=trnI-GAU   anticodon=- note=-
+     [19721:19794](+)             product=tRNA-Lys               gene=trnK-UUU   anticodon=- note=-
+     [24471:24544](+)             product=tRNA-Glu               gene=trnE-UUC   anticodon=- note=-
+     [30033:30107](+)             product=tRNA-Pro               gene=trnP-UGG   anticodon=- note=-
+     [31866:31938](+)             product=tRNA-Ala               gene=trnA-UGC   anticodon=- note=-
+     [31948:32035](+)             product=tRNA-Ser               gene=trnS-UGA   anticodon=- note=-
+     [32042:32130](+)             product=tRNA-Ser               gene=trnS-GCU   anticodon=- note=-
+     [32146:32220](+)             product=tRNA-Val               gene=trnV-UAC   anticodon=- note=-
+
+===== CAXNAD020000071.1: CAXNAD020000071.1 len=32342 Choristocarpus tenellus strain KU-1152 genome assembly, contig: Cten_MITOCHONDRIA, whole genome shotgun sequence
+  organism: Choristocarpus tenellus | date: 19-MAR-2025
+  taxonomy: Eukaryota; Sar; Stramenopiles; Ochrophyta; PX clade; Phaeophyceae; Sphacelariales; Choristocarpaceae; Choristocarpus
+  REF: Direct Submission | Submitted (19-JUL-2024) Genoscope CEA, 2 rue Gaston Cremieux CP5706 91057 Evry cedex, France, France
+  REF: Direct Submission | Submitted (14-MAR-2025) Genoscope CEA, 2 rue Gaston Cremieux CP5706 91057 Evry cedex, France, France
+  COMMENT: (none)
+  source quals: {'organism': ['Choristocarpus tenellus'], 'mol_type': ['genomic DNA'], 'submitter_seqid': ['Cten_MITOCHONDRIA'], 'strain': ['KU-1152'], 'geo_loc_name': ['France'], 'collection_date': ['1980-09-01'], 'note': ['contig: Cten_MITOCHONDRIA']} ['taxon:116065']
+  CDS count=35 transl_table values: {'(absent)': 35}
+  /note qualifiers (36):
+     ?: contig: Cten_MITOCHONDRIA
+     ?: unnamed protein product
+     ?: unnamed protein product
+     ?: unnamed protein product
+     ?: unnamed protein product
+     ?: unnamed protein product
+     ?: unnamed protein product
+     ?: unnamed protein product
+     ?: unnamed protein product
+     ?: unnamed protein product
+     ?: unnamed protein product
+     ?: unnamed protein product
+     ?: unnamed protein product
+     ?: unnamed protein product
+     ?: unnamed protein product
+     ?: unnamed protein product
+     ?: unnamed protein product
+     ?: unnamed protein product
+     ?: unnamed protein product
+     ?: unnamed protein product
+     ?: unnamed protein product
+     ?: unnamed protein product
+     ?: unnamed protein product
+     ?: unnamed protein product
+     ?: unnamed protein product
+     ?: unnamed protein product
+     ?: unnamed protein product
+     ?: unnamed protein product
+     ?: unnamed protein product
+     ?: unnamed protein product
+     ?: unnamed protein product
+     ?: unnamed protein product
+     ?: unnamed protein product
+     ?: unnamed protein product
+     ?: unnamed protein product
+     ?: unnamed protein product
+  raw-text hits 'AUA': 0
+  raw-text hits 'ATA': 1
+  raw-text hits 'genetic code': 0
+  raw-text hits 'transl_table': 0
+  raw-text hits 'isoleucine': 0
+  raw-text hits 'methionine': 0
+  raw-text hits 'code': 0
+  ATA codons in annotated CDS: 229; CDS whose stored /translation != table-1 translation (ignoring first aa): 0
+  tRNA features: 23
+     [0:16](+)                    product=?                      gene=-          anticodon=- note=-
+     [1165:1246](+)               product=?                      gene=-          anticodon=- note=-
+     [2159:2232](+)               product=?                      gene=-          anticodon=- note=-
+     [5983:6067](+)               product=?                      gene=-          anticodon=- note=-
+     [7709:7786](+)               product=?                      gene=-          anticodon=- note=-
+     [10955:11028](+)             product=?                      gene=-          anticodon=- note=-
+     [11815:11888](+)             product=?                      gene=-          anticodon=- note=-
+     [16562:16635](+)             product=?                      gene=-          anticodon=- note=-
+     [22121:22195](+)             product=?                      gene=-          anticodon=- note=-
+     [23954:24026](+)             product=?                      gene=-          anticodon=- note=-
+     [24036:24123](+)             product=?                      gene=-          anticodon=- note=-
+     [24130:24218](+)             product=?                      gene=-          anticodon=- note=-
+     [24234:24308](+)             product=?                      gene=-          anticodon=- note=-
+     [27062:27139](+)             product=?                      gene=-          anticodon=- note=-
+     [27208:27291](+)             product=?                      gene=-          anticodon=- note=-
+     [27296:27369](+)             product=?                      gene=-          anticodon=- note=-
+     [27379:27454](+)             product=?                      gene=-          anticodon=- note=-
+     [27469:27540](+)             product=?                      gene=-          anticodon=- note=-
+     [27546:27621](+)             product=?                      gene=-          anticodon=- note=-
+     [27636:27708](+)             product=?                      gene=-          anticodon=- note=-
+     [31993:32068](+)             product=?                      gene=-          anticodon=- note=-
+     [32205:32277](+)             product=?                      gene=-          anticodon=- note=-
+     [32277:32342](+)             product=?                      gene=-          anticodon=- note=-
+
+===== CAXNAE020000396.1: CAXNAE020000396.1 len=34744 Discosporangium mesarthrocarpum strain MT17-79 genome assembly, contig: D-mesarthrocarpus_Contig396, whole genome shotgun sequence
+  organism: Discosporangium mesarthrocarpum | date: 19-MAR-2025
+  taxonomy: Eukaryota; Sar; Stramenopiles; Ochrophyta; PX clade; Phaeophyceae; Sphacelariales; Discosporangiaceae; Discosporangium
+  REF: Direct Submission | Submitted (19-JUL-2024) Genoscope CEA, 2 rue Gaston Cremieux CP5706 91057 Evry cedex, France, France
+  REF: Direct Submission | Submitted (14-MAR-2025) Genoscope CEA, 2 rue Gaston Cremieux CP5706 91057 Evry cedex, France, France
+  COMMENT: (none)
+  source quals: {'organism': ['Discosporangium mesarthrocarpum'], 'mol_type': ['genomic DNA'], 'submitter_seqid': ['D-mesarthrocarpus_Contig396'], 'strain': ['MT17-79'], 'geo_loc_name': ['Malta'], 'note': ['contig: D-mesarthrocarpus_Contig396']} ['taxon:376270']
+  CDS count=9 transl_table values: {'(absent)': 9}
+  /note qualifiers (10):
+     ?: contig: D-mesarthrocarpus_Contig396
+     ?: unnamed protein product
+     ?: unnamed protein product
+     ?: unnamed protein product
+     ?: unnamed protein product
+     ?: unnamed protein product
+     ?: unnamed protein product
+     ?: unnamed protein product
+     ?: unnamed protein product
+     ?: unnamed protein product
+  raw-text hits 'AUA': 0
+  raw-text hits 'ATA': 0
+  raw-text hits 'genetic code': 0
+  raw-text hits 'transl_table': 0
+  raw-text hits 'isoleucine': 0
+  raw-text hits 'methionine': 0
+  raw-text hits 'code': 0
+  ATA codons in annotated CDS: 55; CDS whose stored /translation != table-1 translation (ignoring first aa): 0
+  tRNA features: 0

@@ -1,0 +1,124 @@
+IQ-TREE 3.1.4 built Sep 10 2026
+
+Input file name: concat.faa
+Type of analysis: tree reconstruction
+Random seed number: 512992
+
+REFERENCES
+----------
+
+To cite IQ-TREE 3 please use:
+
+Thomas K.F. Wong, Nhan Ly-Trong, Huaiyan Ren, Piyumal Demotte, Hector Banos,
+Andrew J. Roger, Edward Susko, Chris Bielow, Nicola De Maio, Nick Goldman,
+Matthew W. Hahn, Mario dos Reis, Le Sy Vinh, Gavin Huttley, Robert Lanfear, Bui Quang Minh (2026)
+IQ-TREE 3: Phylogenomic Inference Software using Complex Evolutionary Models.
+Molecular Biology and Evolution, msag117.
+https://doi.org/10.1093/molbev/msag117
+
+SEQUENCE ALIGNMENT
+------------------
+
+NOTE: Alignment sequence type is auto-detected. If in doubt, specify it via -st option.
+Input data: 8 sequences with 34439 amino-acid sites
+Number of constant sites: 12028 (= 34.9255% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 12028 (= 34.9255% of all sites)
+Number of parsimony informative sites: 10080
+Number of distinct site patterns: 15977
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: LG+F+G4
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.0154
+  pi(R) = 0.0216
+  pi(N) = 0.1222
+  pi(D) = 0.0269
+  pi(C) = 0.0095
+  pi(Q) = 0.0145
+  pi(E) = 0.0283
+  pi(G) = 0.0382
+  pi(H) = 0.0098
+  pi(I) = 0.1691
+  pi(L) = 0.0913
+  pi(K) = 0.1910
+  pi(M) = 0.0124
+  pi(F) = 0.0540
+  pi(P) = 0.0184
+  pi(S) = 0.0449
+  pi(T) = 0.0295
+  pi(W) = 0.0044
+  pi(Y) = 0.0739
+  pi(V) = 0.0246
+
+Model of rate heterogeneity: Gamma with 4 categories
+Gamma shape alpha: 0.5594
+
+ Category  Relative_rate  Proportion
+  1         0.0449         0.2500
+  2         0.2889         0.2500
+  3         0.8591         0.2500
+  4         2.8071         0.2500
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -315467.5341 (s.e. 1034.4758)
+Unconstrained log-likelihood (without tree): -278809.5610
+Number of free parameters (#branches + #model parameters): 33
+Akaike information criterion (AIC) score: 631001.0681
+Corrected Akaike information criterion (AICc) score: 631001.1334
+Bayesian information criterion (BIC) score: 631279.8173
+
+Total tree length (sum of branch lengths): 4.6428
+Sum of internal branch lengths: 0.4542 (9.7820% of tree length)
+
+NOTE: Tree is UNROOTED although outgroup taxon 'Tcar_carinifrons' is drawn at root
+
++---Tcar_carinifrons
+|
+|        +--------Tser_sericeus
+|     +--|
+|     |  +---------------------Ttur_turgidus
+|  +--|
+|  |  +--Tder_dermestoides
++--|
+|  |  +--------Tduv_duvalii
+|  +--|
+|     |     +------------------Aulonothroscus_AUS03
+|     +-----|
+|           +------------------------------------------------S_bostrichidophilus
+|
++---Tmey
+
+Tree in newick format:
+
+(Tcar_carinifrons:0.1503355946,(((Tser_sericeus:0.3146975750,Ttur_turgidus:0.7585971436):0.0914742000,Tder_dermestoides:0.1124054256):0.0005875000,(Tduv_duvalii:0.3334939159,(Aulonothroscus_AUS03:0.6795715696,S_bostrichidophilus:1.6990594864):0.2329993774):0.1000708334):0.0290278246,Tmey:0.1405063391);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t au/constr.treefile -m "LG+F+G4{0.55938}" --length 34439
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s concat.faa --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s concat.faa --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Wed Nov 11 17:46:00 2026
+Total CPU time used: 295.598 seconds (0h:4m:55s)
+Total wall-clock time used: 1078.76 seconds (0h:17m:58s)
+

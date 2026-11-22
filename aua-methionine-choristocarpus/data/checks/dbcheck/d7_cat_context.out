@@ -1,0 +1,46 @@
+-- Choristocarpus (RefSeq) tRNA order (tRNAscan -O, begin:type-anticodon):
+   2626:Met-CAT 2771:Leu-TAA 2859:Met-CAT 2942:His-GTG 3032:Cys-GCA 3110:Asn-GTT 3199:Phe-GAA 7564:Trp-CCA 7775:Gln-TTG 7847:Leu-TAG 9062:Leu-CAA 10058:Gly-GCC 13891:Tyr-GTA 15617:Arg-TCT 18773:Ile-AAT 18862:Ile-GAT 19722:Lys-TTT 24472:Glu-TTC 30034:Pro-TGG 31867:Ala-TGC 31950:Ser-TGA 32043:Ser-GCT 32148:Val-TAC
+   CAT 2626-2700 (len 75) neighbours: (start) | Leu-TAA
+      Sacc SaanoM_t24 tRNA-Met 63/75=0.840; Desm trnM(cau)f 56/75=0.747; Desm trnI(cau) 51/73=0.699; Desm trnM(cau)e 50/73=0.685; Sacc SaanoM_t04 tRNA-Met 48/73=0.658; Sacc SaanoM_t11 tRNA-Ile 45/73=0.616
+   CAT 2859-2931 (len 73) neighbours: Leu-TAA | His-GTG
+      Desm trnM(cau)e 51/73=0.699; Sacc SaanoM_t04 tRNA-Met 49/73=0.671; Sacc SaanoM_t24 tRNA-Met 44/75=0.587; Desm trnM(cau)f 44/75=0.587; Desm trnI(cau) 40/73=0.548; Sacc SaanoM_t11 tRNA-Ile 34/73=0.466
+-- Choristocarpus (Genoscope WGS) tRNA order (tRNAscan -O, begin:type-anticodon):
+   1166:Leu-CAA 2160:Gly-GCC 5985:Tyr-GTA 7711:Arg-TCT 10867:Ile-AAT 10956:Ile-GAT 11816:Lys-TTT 16563:Glu-TTC 22122:Pro-TGG 23955:Ala-TGC 24038:Ser-TGA 24131:Ser-GCT 24236:Val-TAC 27064:Met-CAT 27209:Leu-TAA 27297:Met-CAT 27380:His-GTG 27470:Cys-GCA 27548:Asn-GTT 27637:Phe-GAA 31995:Trp-CCA 32206:Gln-TTG
+   CAT 27064-27138 (len 75) neighbours: Val-TAC | Leu-TAA
+      Sacc SaanoM_t24 tRNA-Met 63/75=0.840; Desm trnM(cau)f 56/75=0.747; Desm trnI(cau) 51/73=0.699; Desm trnM(cau)e 50/73=0.685; Sacc SaanoM_t04 tRNA-Met 48/73=0.658; Sacc SaanoM_t11 tRNA-Ile 45/73=0.616
+   CAT 27297-27369 (len 73) neighbours: Leu-TAA | His-GTG
+      Desm trnM(cau)e 51/73=0.699; Sacc SaanoM_t04 tRNA-Met 49/73=0.671; Sacc SaanoM_t24 tRNA-Met 44/75=0.587; Desm trnM(cau)f 44/75=0.587; Desm trnI(cau) 40/73=0.548; Sacc SaanoM_t11 tRNA-Ile 34/73=0.466
+-- Discosporangium (WGS contig) tRNA order (tRNAscan -O, begin:type-anticodon):
+   1991:Ile-GAT 6601:Glu-TTC 10704:Ser-GCT 10804:Ser-TGA 12247:Pro-TGG 14055:Ala-TGC 14153:Val-TAC 16956:Met-CAT 17046:Leu-TAA 17181:His-GTG 17269:Cys-GCA 17347:Asn-GTT 17430:Phe-GAA 21715:Trp-CCA 21921:Gln-TTG 21993:Leu-TAG 23237:Leu-CAA 24279:Gly-GCC 28146:Tyr-GTA 29822:Undet-NNN 32937:Leu-TAA 33023:Met-CAT 33100:Lys-TTT 33176:Met-CAT 34354:Arg-TCT
+   CAT 16956-17030 (len 75) neighbours: Val-TAC | Leu-TAA
+      Sacc SaanoM_t24 tRNA-Met 65/75=0.867; Desm trnM(cau)f 61/75=0.813; Desm trnI(cau) 49/73=0.671; Desm trnM(cau)e 47/73=0.644; Sacc SaanoM_t11 tRNA-Ile 46/73=0.630; Sacc SaanoM_t04 tRNA-Met 46/73=0.630
+   CAT 33023-33095 (len 73) neighbours: Leu-TAA | Lys-TTT
+      Sacc SaanoM_t04 tRNA-Met 49/73=0.671; Desm trnI(cau) 49/73=0.671; Sacc SaanoM_t11 tRNA-Ile 47/73=0.644; Desm trnM(cau)e 46/73=0.630; Sacc SaanoM_t24 tRNA-Met 46/75=0.613; Desm trnM(cau)f 43/75=0.573
+   CAT 33176-33248 (len 73) neighbours: Lys-TTT | Arg-TCT
+      Sacc SaanoM_t04 tRNA-Met 52/73=0.712; Desm trnM(cau)e 51/73=0.699; Desm trnI(cau) 47/73=0.644; Desm trnM(cau)f 48/75=0.640; Sacc SaanoM_t11 tRNA-Ile 45/73=0.616; Sacc SaanoM_t24 tRNA-Met 45/75=0.600
+-- Saccharina tRNA order (tRNAscan -O, begin:type-anticodon):
+   2748:Lys-TTT 2937:Ala-TGC 3021:Val-TAC 3464:Met-CAT 3576:Leu-TAA 3665:His-GTG 3741:Cys-GCA 3814:Asn-GTT 3926:Phe-GAA 8088:Trp-CCA 8353:Met-CAT 8444:Gln-TTG 8518:Leu-TAG 9875:Leu-CAA 10903:Gly-GCC 14578:Tyr-GTA 17865:Arg-TCT 21120:Ile-GAT 21230:Glu-TTC 28442:Ser-AGA 33174:Ser-GCT 33266:Asp-GTC 33809:Ser-TGA 36010:Met-CAT 37457:Pro-TGG
+   CAT 3464-3536 (len 73) neighbours: Val-TAC | Leu-TAA
+      Sacc SaanoM_t04 tRNA-Met 73/73=1.000; Desm trnM(cau)e 70/73=0.959; Desm trnI(cau) 49/73=0.671; Sacc SaanoM_t11 tRNA-Ile 48/73=0.658; Sacc SaanoM_t24 tRNA-Met 46/75=0.613; Desm trnM(cau)f 44/75=0.587
+   CAT 8353-8425 (len 73) neighbours: Trp-CCA | Gln-TTG
+      Sacc SaanoM_t11 tRNA-Ile 73/73=1.000; Desm trnI(cau) 67/73=0.918; Desm trnM(cau)e 49/73=0.671; Sacc SaanoM_t04 tRNA-Met 46/73=0.630; Sacc SaanoM_t24 tRNA-Met 44/75=0.587; Desm trnM(cau)f 40/75=0.533
+   CAT 36010-36084 (len 75) neighbours: Ser-TGA | Pro-TGG
+      Sacc SaanoM_t24 tRNA-Met 75/75=1.000; Desm trnM(cau)f 65/75=0.867; Desm trnM(cau)e 48/73=0.658; Desm trnI(cau) 48/73=0.658; Sacc SaanoM_t04 tRNA-Met 46/73=0.630; Sacc SaanoM_t11 tRNA-Ile 44/73=0.603
+-- Phaeostrophion tRNA order (tRNAscan -O, begin:type-anticodon):
+   6033:Undet-NNN 6847:Gly-GCC 7914:Ser-TGA 9345:Pro-TGG 9424:Asn-GTT 9564:Ala-TGC 16142:Val-TAC 17294:Met-CAT 17377:Leu-TAA 17471:His-GTG 17547:Cys-GCA 17647:Lys-TTT 17731:Phe-GAA 22072:Trp-CCA 22257:Met-CAT 22349:Gln-TTG 22433:Leu-TAG 23868:Leu-CAA 24881:Gly-TCC 29008:Tyr-GTA 33726:Ile-GAT 33906:Arg-TCT 44916:Asp-GTC 45009:Ser-GCT 46360:Met-CAT 47790:Undet-NNN 49402:Glu-TTC 49570:Met-CAT
+   CAT 17294-17366 (len 73) neighbours: Val-TAC | Leu-TAA
+      Desm trnM(cau)e 59/73=0.808; Sacc SaanoM_t04 tRNA-Met 58/73=0.795; Sacc SaanoM_t24 tRNA-Met 46/75=0.613; Desm trnM(cau)f 45/75=0.600; Sacc SaanoM_t11 tRNA-Ile 8/73=0.110; Desm trnI(cau) 4/73=0.055
+   CAT 22257-22329 (len 73) neighbours: Trp-CCA | Gln-TTG
+      Desm trnI(cau) 64/73=0.877; Sacc SaanoM_t11 tRNA-Ile 63/73=0.863; Desm trnM(cau)e 50/73=0.685; Sacc SaanoM_t04 tRNA-Met 48/73=0.658; Sacc SaanoM_t24 tRNA-Met 47/75=0.627; Desm trnM(cau)f 45/75=0.600
+   CAT 46360-46433 (len 74) neighbours: Ser-GCT | Undet-NNN
+      Sacc SaanoM_t24 tRNA-Met 60/75=0.800; Desm trnM(cau)f 59/75=0.787; Sacc SaanoM_t04 tRNA-Met 45/73=0.616; Desm trnM(cau)e 42/73=0.575; Sacc SaanoM_t11 tRNA-Ile 32/73=0.438; Desm trnI(cau) 31/73=0.425
+   CAT 49570-49643 (len 74) neighbours: Glu-TTC | (end)
+      Desm trnM(cau)f 60/75=0.800; Sacc SaanoM_t24 tRNA-Met 58/75=0.773; Sacc SaanoM_t04 tRNA-Met 44/73=0.603; Desm trnM(cau)e 41/73=0.562; Sacc SaanoM_t11 tRNA-Ile 31/73=0.425; Desm trnI(cau) 2/73=0.027
+-- Desmarestia tRNA order (tRNAscan -O, begin:type-anticodon):
+   2726:Lys-TTT 3953:Val-TAC 4412:Met-CAT 4493:Leu-TAA 4582:His-GTG 4657:Cys-GCA 4730:Asn-GTT 4833:Phe-GAA 8987:Trp-CCA 9300:Met-CAT 9387:Gln-TTG 9461:Leu-TAG 10751:Leu-CAA 11778:Gly-GCC 15403:Tyr-GTA 19024:Arg-TCT 22332:Ile-GAT 22454:Glu-TTC 29894:Lys-TTT 34593:Ser-GCT 34719:Asp-GTC 34844:Ala-TGC 35344:Ser-TGA 37536:Met-CAT 38884:Pro-TGG
+   CAT 4412-4484 (len 73) neighbours: Val-TAC | Leu-TAA
+      Desm trnM(cau)e 73/73=1.000; Sacc SaanoM_t04 tRNA-Met 70/73=0.959; Sacc SaanoM_t11 tRNA-Ile 49/73=0.671; Desm trnI(cau) 49/73=0.671; Sacc SaanoM_t24 tRNA-Met 48/75=0.640; Desm trnM(cau)f 43/75=0.573
+   CAT 9300-9372 (len 73) neighbours: Trp-CCA | Gln-TTG
+      Desm trnI(cau) 73/73=1.000; Sacc SaanoM_t11 tRNA-Ile 67/73=0.918; Desm trnM(cau)e 49/73=0.671; Sacc SaanoM_t04 tRNA-Met 47/73=0.644; Sacc SaanoM_t24 tRNA-Met 48/75=0.640; Desm trnM(cau)f 44/75=0.587
+   CAT 37536-37610 (len 75) neighbours: Ser-TGA | Pro-TGG
+      Desm trnM(cau)f 75/75=1.000; Sacc SaanoM_t24 tRNA-Met 65/75=0.867; Desm trnI(cau) 46/73=0.630; Sacc SaanoM_t04 tRNA-Met 44/73=0.603; Desm trnM(cau)e 43/73=0.589; Sacc SaanoM_t11 tRNA-Ile 40/73=0.548

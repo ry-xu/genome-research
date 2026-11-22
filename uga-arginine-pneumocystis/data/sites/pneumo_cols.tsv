@@ -1,0 +1,10 @@
+acc	organism_tax	TGA_strictR	TGA_strictW	TGA_all	TGA_allR	TGG_strictW	TGG_strictR	Arg_strictR	Arg_strictW
+NC_020332.1	Pneumocystis	1	0	3	1	35	0	45	0
+NC_060318.1	Pneumocystis	0	0	4	0	37	0	47	0
+NC_060319.1	Pneumocystis	0	0	1	1	37	0	47	0
+NC_060320.1	Pneumocystis	0	0	2	0	36	0	45	0
+NC_020331.1	Pneumocystis	23	0	36	32	37	0	21	0
+NC_013660.2	Pneumocystis	4	0	5	4	35	0	41	0
+MT726212.1	Pneumocystis	0	0	1	0	37	0	48	0
+MT726214.1	Pneumocystis	0	0	0	0	37	0	46	0
+PP484879.1	Pneumocystis	0	0	0	0	37	0	47	0

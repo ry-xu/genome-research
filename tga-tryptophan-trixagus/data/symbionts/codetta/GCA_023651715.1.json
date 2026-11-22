@@ -1,0 +1,332 @@
+{
+ "acc": "GCA_023651715.1",
+ "size": 180307,
+ "gc": 0.19550544349359703,
+ "n_domains": 117,
+ "n_pfams": 95,
+ "code": "F?LLS?S?Y???CCWWL???PPP?H?Q?R???I?IMT?T?N?K?S?R?V?V?A?A?D?EEGGGG",
+ "nonstandard": [
+  {
+   "codon": "TGA",
+   "std": "*",
+   "call": "W",
+   "post": 1.0,
+   "n": 28,
+   "margin_vs_std": 100.38130169918968,
+   "top3": "W:100.4,?:0.0,Y:-17.9"
+  }
+ ],
+ "trnas": [
+  {
+   "contig": "JAKMAI010000007.1",
+   "start": 2023,
+   "end": 2094,
+   "strand": "-",
+   "product": "tRNA-Glu",
+   "anticodon": "(pos:complement(2059..2061))",
+   "note": "",
+   "attr": "ID=rna-L7J86_00580;Parent=gene-L7J86_00580;anticodon=(pos:complement(2059..2061));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=L7J86_00580;product=tRNA-Glu"
+  },
+  {
+   "contig": "JAKMAI010000007.1",
+   "start": 37681,
+   "end": 37754,
+   "strand": "-",
+   "product": "tRNA-Lys",
+   "anticodon": "(pos:complement(37718..37720))",
+   "note": "",
+   "attr": "ID=rna-L7J86_00710;Parent=gene-L7J86_00710;anticodon=(pos:complement(37718..37720));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=L7J86_00710;product=tRNA-Lys"
+  },
+  {
+   "contig": "JAKMAI010000007.1",
+   "start": 37759,
+   "end": 37832,
+   "strand": "-",
+   "product": "tRNA-Val",
+   "anticodon": "(pos:complement(37796..37798))",
+   "note": "",
+   "attr": "ID=rna-L7J86_00715;Parent=gene-L7J86_00715;anticodon=(pos:complement(37796..37798));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=L7J86_00715;product=tRNA-Val"
+  },
+  {
+   "contig": "JAKMAI010000007.1",
+   "start": 38164,
+   "end": 38237,
+   "strand": "-",
+   "product": "tRNA-Pro",
+   "anticodon": "(pos:complement(38201..38203))",
+   "note": "",
+   "attr": "ID=rna-L7J86_00725;Parent=gene-L7J86_00725;anticodon=(pos:complement(38201..38203));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=L7J86_00725;product=tRNA-Pro"
+  },
+  {
+   "contig": "JAKMAI010000007.1",
+   "start": 38240,
+   "end": 38313,
+   "strand": "-",
+   "product": "tRNA-His",
+   "anticodon": "(pos:complement(38278..38280))",
+   "note": "",
+   "attr": "ID=rna-L7J86_00730;Parent=gene-L7J86_00730;anticodon=(pos:complement(38278..38280));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=L7J86_00730;product=tRNA-His"
+  },
+  {
+   "contig": "JAKMAI010000007.1",
+   "start": 38326,
+   "end": 38397,
+   "strand": "-",
+   "product": "tRNA-Asn",
+   "anticodon": "(pos:complement(38363..38365))",
+   "note": "",
+   "attr": "ID=rna-L7J86_00735;Parent=gene-L7J86_00735;anticodon=(pos:complement(38363..38365));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=L7J86_00735;product=tRNA-Asn"
+  },
+  {
+   "contig": "JAKMAI010000007.1",
+   "start": 55102,
+   "end": 55175,
+   "strand": "+",
+   "product": "tRNA-Met",
+   "anticodon": "(pos:55136..55138)",
+   "note": "",
+   "attr": "ID=rna-L7J86_00830;Parent=gene-L7J86_00830;anticodon=(pos:55136..55138);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=L7J86_00830;product=tRNA-Met"
+  },
+  {
+   "contig": "JAKMAI010000007.1",
+   "start": 55183,
+   "end": 55268,
+   "strand": "+",
+   "product": "tRNA-Leu",
+   "anticodon": "(pos:55217..55219)",
+   "note": "",
+   "attr": "ID=rna-L7J86_00835;Parent=gene-L7J86_00835;anticodon=(pos:55217..55219);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=L7J86_00835;product=tRNA-Leu"
+  },
+  {
+   "contig": "JAKMAI010000007.1",
+   "start": 55271,
+   "end": 55344,
+   "strand": "+",
+   "product": "tRNA-Gln",
+   "anticodon": "(pos:55305..55307)",
+   "note": "",
+   "attr": "ID=rna-L7J86_00840;Parent=gene-L7J86_00840;anticodon=(pos:55305..55307);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=L7J86_00840;product=tRNA-Gln"
+  },
+  {
+   "contig": "JAKMAI010000007.1",
+   "start": 90731,
+   "end": 90802,
+   "strand": "+",
+   "product": "tRNA-Ile",
+   "anticodon": "(pos:90763..90765)",
+   "note": "",
+   "attr": "ID=rna-L7J86_00980;Parent=gene-L7J86_00980;anticodon=(pos:90763..90765);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=L7J86_00980;product=tRNA-Ile"
+  },
+  {
+   "contig": "JAKMAI010000007.1",
+   "start": 91409,
+   "end": 91480,
+   "strand": "-",
+   "product": "tRNA-Ile",
+   "anticodon": "(pos:complement(91446..91448))",
+   "note": "",
+   "attr": "ID=rna-L7J86_00990;Parent=gene-L7J86_00990;anticodon=(pos:complement(91446..91448));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=L7J86_00990;product=tRNA-Ile"
+  },
+  {
+   "contig": "JAKMAI010000001.1",
+   "start": 4457,
+   "end": 4530,
+   "strand": "-",
+   "product": "tRNA-Arg",
+   "anticodon": "(pos:complement(4494..4496))",
+   "note": "",
+   "attr": "ID=rna-L7J86_00035;Parent=gene-L7J86_00035;anticodon=(pos:complement(4494..4496));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=L7J86_00035;product=tRNA-Arg"
+  },
+  {
+   "contig": "JAKMAI010000001.1",
+   "start": 10676,
+   "end": 10758,
+   "strand": "+",
+   "product": "tRNA-Ser",
+   "anticodon": "(pos:10708..10710)",
+   "note": "",
+   "attr": "ID=rna-L7J86_00065;Parent=gene-L7J86_00065;anticodon=(pos:10708..10710);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=L7J86_00065;product=tRNA-Ser"
+  },
+  {
+   "contig": "JAKMAI010000001.1",
+   "start": 10765,
+   "end": 10839,
+   "strand": "+",
+   "product": "tRNA-Arg",
+   "anticodon": "(pos:10800..10802)",
+   "note": "",
+   "attr": "ID=rna-L7J86_00070;Parent=gene-L7J86_00070;anticodon=(pos:10800..10802);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=L7J86_00070;product=tRNA-Arg"
+  },
+  {
+   "contig": "JAKMAI010000001.1",
+   "start": 10908,
+   "end": 10980,
+   "strand": "+",
+   "product": "tRNA-Thr",
+   "anticodon": "(pos:10941..10943)",
+   "note": "",
+   "attr": "ID=rna-L7J86_00075;Parent=gene-L7J86_00075;anticodon=(pos:10941..10943);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=L7J86_00075;product=tRNA-Thr"
+  },
+  {
+   "contig": "JAKMAI010000001.1",
+   "start": 10985,
+   "end": 11067,
+   "strand": "+",
+   "product": "tRNA-Tyr",
+   "anticodon": "(pos:11019..11021)",
+   "note": "",
+   "attr": "ID=rna-L7J86_00080;Parent=gene-L7J86_00080;anticodon=(pos:11019..11021);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=L7J86_00080;product=tRNA-Tyr"
+  },
+  {
+   "contig": "JAKMAI010000001.1",
+   "start": 11096,
+   "end": 11167,
+   "strand": "+",
+   "product": "tRNA-Gly",
+   "anticodon": "(pos:11129..11131)",
+   "note": "",
+   "attr": "ID=rna-L7J86_00085;Parent=gene-L7J86_00085;anticodon=(pos:11129..11131);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=L7J86_00085;product=tRNA-Gly"
+  },
+  {
+   "contig": "JAKMAI010000001.1",
+   "start": 11172,
+   "end": 11244,
+   "strand": "+",
+   "product": "tRNA-Thr",
+   "anticodon": "(pos:11205..11207)",
+   "note": "",
+   "attr": "ID=rna-L7J86_00090;Parent=gene-L7J86_00090;anticodon=(pos:11205..11207);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=L7J86_00090;product=tRNA-Thr"
+  },
+  {
+   "contig": "JAKMAI010000003.1",
+   "start": 3920,
+   "end": 3993,
+   "strand": "+",
+   "product": "tRNA-Ile",
+   "anticodon": "(pos:3954..3956)",
+   "note": "",
+   "attr": "ID=rna-L7J86_00315;Parent=gene-L7J86_00315;anticodon=(pos:3954..3956);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=L7J86_00315;product=tRNA-Ile"
+  },
+  {
+   "contig": "JAKMAI010000003.1",
+   "start": 3997,
+   "end": 4069,
+   "strand": "+",
+   "product": "tRNA-Ala",
+   "anticodon": "(pos:4030..4032)",
+   "note": "",
+   "attr": "ID=rna-L7J86_00320;Parent=gene-L7J86_00320;anticodon=(pos:4030..4032);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=L7J86_00320;product=tRNA-Ala"
+  },
+  {
+   "contig": "JAKMAI010000003.1",
+   "start": 7515,
+   "end": 7587,
+   "strand": "-",
+   "product": "tRNA-Phe",
+   "anticodon": "(pos:complement(7552..7554))",
+   "note": "",
+   "attr": "ID=rna-L7J86_00345;Parent=gene-L7J86_00345;anticodon=(pos:complement(7552..7554));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=L7J86_00345;product=tRNA-Phe"
+  },
+  {
+   "contig": "JAKMAI010000004.1",
+   "start": 5632,
+   "end": 5704,
+   "strand": "+",
+   "product": "tRNA-Trp",
+   "anticodon": "(pos:5665..5667)",
+   "note": "",
+   "attr": "ID=rna-L7J86_00390;Parent=gene-L7J86_00390;anticodon=(pos:5665..5667);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=L7J86_00390;product=tRNA-Trp"
+  },
+  {
+   "contig": "JAKMAI010000004.1",
+   "start": 5793,
+   "end": 5865,
+   "strand": "+",
+   "product": "tRNA-Trp",
+   "anticodon": "(pos:5826..5828)",
+   "note": "",
+   "attr": "ID=rna-L7J86_00395;Parent=gene-L7J86_00395;anticodon=(pos:5826..5828);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=L7J86_00395;product=tRNA-Trp"
+  },
+  {
+   "contig": "JAKMAI010000004.1",
+   "start": 6300,
+   "end": 6372,
+   "strand": "-",
+   "product": "tRNA-Trp",
+   "anticodon": "(pos:complement(6337..6339))",
+   "note": "",
+   "attr": "ID=rna-L7J86_00400;Parent=gene-L7J86_00400;anticodon=(pos:complement(6337..6339));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=L7J86_00400;product=tRNA-Trp"
+  },
+  {
+   "contig": "JAKMAI010000005.1",
+   "start": 3824,
+   "end": 3898,
+   "strand": "+",
+   "product": "tRNA-Asp",
+   "anticodon": "(pos:3859..3861)",
+   "note": "",
+   "attr": "ID=rna-L7J86_00420;Parent=gene-L7J86_00420;anticodon=(pos:3859..3861);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=L7J86_00420;product=tRNA-Asp"
+  },
+  {
+   "contig": "JAKMAI010000005.1",
+   "start": 8476,
+   "end": 8547,
+   "strand": "+",
+   "product": "tRNA-Asn",
+   "anticodon": "(pos:8508..8510)",
+   "note": "",
+   "attr": "ID=rna-L7J86_00450;Parent=gene-L7J86_00450;anticodon=(pos:8508..8510);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=L7J86_00450;product=tRNA-Asn"
+  },
+  {
+   "contig": "JAKMAI010000005.1",
+   "start": 8560,
+   "end": 8633,
+   "strand": "+",
+   "product": "tRNA-His",
+   "anticodon": "(pos:8593..8595)",
+   "note": "",
+   "attr": "ID=rna-L7J86_00455;Parent=gene-L7J86_00455;anticodon=(pos:8593..8595);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=L7J86_00455;product=tRNA-His"
+  },
+  {
+   "contig": "JAKMAI010000005.1",
+   "start": 8636,
+   "end": 8709,
+   "strand": "+",
+   "product": "tRNA-Pro",
+   "anticodon": "(pos:8670..8672)",
+   "note": "",
+   "attr": "ID=rna-L7J86_00460;Parent=gene-L7J86_00460;anticodon=(pos:8670..8672);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=L7J86_00460;product=tRNA-Pro"
+  },
+  {
+   "contig": "JAKMAI010000005.1",
+   "start": 9388,
+   "end": 9461,
+   "strand": "+",
+   "product": "tRNA-Val",
+   "anticodon": "(pos:9422..9424)",
+   "note": "",
+   "attr": "ID=rna-L7J86_00475;Parent=gene-L7J86_00475;anticodon=(pos:9422..9424);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=L7J86_00475;product=tRNA-Val"
+  },
+  {
+   "contig": "JAKMAI010000005.1",
+   "start": 9466,
+   "end": 9539,
+   "strand": "+",
+   "product": "tRNA-Lys",
+   "anticodon": "(pos:9500..9502)",
+   "note": "",
+   "attr": "ID=rna-L7J86_00480;Parent=gene-L7J86_00480;anticodon=(pos:9500..9502);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=L7J86_00480;product=tRNA-Lys"
+  },
+  {
+   "contig": "JAKMAI010000006.1",
+   "start": 6914,
+   "end": 6985,
+   "strand": "-",
+   "product": "tRNA-Ile",
+   "anticodon": "(pos:complement(6951..6953))",
+   "note": "",
+   "attr": "ID=rna-L7J86_00530;Parent=gene-L7J86_00530;anticodon=(pos:complement(6951..6953));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=L7J86_00530;product=tRNA-Ile"
+  }
+ ],
+ "seconds": 97.15550422668457
+}

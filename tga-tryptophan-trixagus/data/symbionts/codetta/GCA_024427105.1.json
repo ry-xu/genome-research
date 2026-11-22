@@ -1,0 +1,232 @@
+{
+ "acc": "GCA_024427105.1",
+ "size": 598514,
+ "gc": 0.3127779801307906,
+ "n_domains": 452,
+ "n_pfams": 366,
+ "code": "FFLLSSSSYY??CCWWLLLLPPPPHHQQRRRRIIIMTTTTNNKKSSRRVVVVAAAADDEEGGGG",
+ "nonstandard": [
+  {
+   "codon": "TGA",
+   "std": "*",
+   "call": "W",
+   "post": 1.0,
+   "n": 334,
+   "margin_vs_std": 476.90234138373626,
+   "top3": "W:476.9,?:0.0,Y:-112.1"
+  }
+ ],
+ "trnas": [
+  {
+   "contig": "JAKSVR010000001.1",
+   "start": 31248,
+   "end": 31322,
+   "strand": "+",
+   "product": "tRNA-Gln",
+   "anticodon": "(pos:31280..31282)",
+   "note": "",
+   "attr": "ID=rna-MJ219_00290;Parent=gene-MJ219_00290;anticodon=(pos:31280..31282);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=MJ219_00290;product=tRNA-Gln"
+  },
+  {
+   "contig": "JAKSVR010000010.1",
+   "start": 24762,
+   "end": 24838,
+   "strand": "+",
+   "product": "tRNA-Ile",
+   "anticodon": "(pos:24796..24798)",
+   "note": "",
+   "attr": "ID=rna-MJ219_03430;Parent=gene-MJ219_03430;anticodon=(pos:24796..24798);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=MJ219_03430;product=tRNA-Ile"
+  },
+  {
+   "contig": "JAKSVR010000010.1",
+   "start": 24844,
+   "end": 24920,
+   "strand": "+",
+   "product": "tRNA-Ala",
+   "anticodon": "(pos:24878..24880)",
+   "note": "",
+   "attr": "ID=rna-MJ219_03435;Parent=gene-MJ219_03435;anticodon=(pos:24878..24880);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=MJ219_03435;product=tRNA-Ala"
+  },
+  {
+   "contig": "JAKSVR010000011.1",
+   "start": 13,
+   "end": 86,
+   "strand": "-",
+   "product": "tRNA-Gly",
+   "anticodon": "(pos:complement(52..54))",
+   "note": "",
+   "attr": "ID=rna-MJ219_03440;Parent=gene-MJ219_03440;anticodon=(pos:complement(52..54));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=MJ219_03440;product=tRNA-Gly"
+  },
+  {
+   "contig": "JAKSVR010000011.1",
+   "start": 92,
+   "end": 177,
+   "strand": "-",
+   "product": "tRNA-Leu",
+   "anticodon": "(pos:complement(142..144))",
+   "note": "",
+   "attr": "ID=rna-MJ219_03445;Parent=gene-MJ219_03445;anticodon=(pos:complement(142..144));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=MJ219_03445;product=tRNA-Leu"
+  },
+  {
+   "contig": "JAKSVR010000011.1",
+   "start": 183,
+   "end": 257,
+   "strand": "-",
+   "product": "tRNA-Lys",
+   "anticodon": "(pos:complement(223..225))",
+   "note": "",
+   "attr": "ID=rna-MJ219_03450;Parent=gene-MJ219_03450;anticodon=(pos:complement(223..225));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=MJ219_03450;product=tRNA-Lys"
+  },
+  {
+   "contig": "JAKSVR010000011.1",
+   "start": 264,
+   "end": 338,
+   "strand": "-",
+   "product": "tRNA-Gln",
+   "anticodon": "(pos:complement(304..306))",
+   "note": "",
+   "attr": "ID=rna-MJ219_03455;Parent=gene-MJ219_03455;anticodon=(pos:complement(304..306));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=MJ219_03455;product=tRNA-Gln"
+  },
+  {
+   "contig": "JAKSVR010000011.1",
+   "start": 344,
+   "end": 428,
+   "strand": "-",
+   "product": "tRNA-Tyr",
+   "anticodon": "(pos:complement(392..394))",
+   "note": "",
+   "attr": "ID=rna-MJ219_03460;Parent=gene-MJ219_03460;anticodon=(pos:complement(392..394));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=MJ219_03460;product=tRNA-Tyr"
+  },
+  {
+   "contig": "JAKSVR010000014.1",
+   "start": 4033,
+   "end": 4109,
+   "strand": "-",
+   "product": "tRNA-Arg",
+   "anticodon": "(pos:complement(4073..4075))",
+   "note": "",
+   "attr": "ID=rna-MJ219_03980;Parent=gene-MJ219_03980;anticodon=(pos:complement(4073..4075));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=MJ219_03980;product=tRNA-Arg"
+  },
+  {
+   "contig": "JAKSVR010000015.1",
+   "start": 6394,
+   "end": 6469,
+   "strand": "-",
+   "product": "tRNA-Val",
+   "anticodon": "(pos:complement(6434..6436))",
+   "note": "",
+   "attr": "ID=rna-MJ219_04115;Parent=gene-MJ219_04115;anticodon=(pos:complement(6434..6436));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=MJ219_04115;product=tRNA-Val"
+  },
+  {
+   "contig": "JAKSVR010000015.1",
+   "start": 6477,
+   "end": 6553,
+   "strand": "-",
+   "product": "tRNA-Glu",
+   "anticodon": "(pos:complement(6517..6519))",
+   "note": "",
+   "attr": "ID=rna-MJ219_04120;Parent=gene-MJ219_04120;anticodon=(pos:complement(6517..6519));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=MJ219_04120;product=tRNA-Glu"
+  },
+  {
+   "contig": "JAKSVR010000015.1",
+   "start": 6560,
+   "end": 6634,
+   "strand": "-",
+   "product": "tRNA-Asn",
+   "anticodon": "(pos:complement(6600..6602))",
+   "note": "",
+   "attr": "ID=rna-MJ219_04125;Parent=gene-MJ219_04125;anticodon=(pos:complement(6600..6602));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=MJ219_04125;product=tRNA-Asn"
+  },
+  {
+   "contig": "JAKSVR010000016.1",
+   "start": 6507,
+   "end": 6580,
+   "strand": "+",
+   "product": "tRNA-Gly",
+   "anticodon": "(pos:6539..6541)",
+   "note": "",
+   "attr": "ID=rna-MJ219_04305;Parent=gene-MJ219_04305;anticodon=(pos:6539..6541);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=MJ219_04305;product=tRNA-Gly"
+  },
+  {
+   "contig": "JAKSVR010000016.1",
+   "start": 13823,
+   "end": 13900,
+   "strand": "+",
+   "product": "tRNA-His",
+   "anticodon": "(pos:13857..13859)",
+   "note": "",
+   "attr": "ID=rna-MJ219_04375;Parent=gene-MJ219_04375;anticodon=(pos:13857..13859);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=MJ219_04375;product=tRNA-His"
+  },
+  {
+   "contig": "JAKSVR010000019.1",
+   "start": 13306,
+   "end": 13378,
+   "strand": "+",
+   "product": "tRNA-Lys",
+   "anticodon": "(pos:13339..13341)",
+   "note": "",
+   "attr": "ID=rna-MJ219_04745;Parent=gene-MJ219_04745;anticodon=(pos:13339..13341);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=MJ219_04745;product=tRNA-Lys"
+  },
+  {
+   "contig": "JAKSVR010000003.1",
+   "start": 29136,
+   "end": 29209,
+   "strand": "-",
+   "product": "tRNA-Trp",
+   "anticodon": "(pos:complement(29175..29177))",
+   "note": "",
+   "attr": "ID=rna-MJ219_01710;Parent=gene-MJ219_01710;anticodon=(pos:complement(29175..29177));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=MJ219_01710;product=tRNA-Trp"
+  },
+  {
+   "contig": "JAKSVR010000003.1",
+   "start": 29211,
+   "end": 29286,
+   "strand": "-",
+   "product": "tRNA-Glu",
+   "anticodon": "(pos:complement(29251..29253))",
+   "note": "",
+   "attr": "ID=rna-MJ219_01715;Parent=gene-MJ219_01715;anticodon=(pos:complement(29251..29253));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=MJ219_01715;product=tRNA-Glu"
+  },
+  {
+   "contig": "JAKSVR010000004.1",
+   "start": 24651,
+   "end": 24726,
+   "strand": "-",
+   "product": "tRNA-Thr",
+   "anticodon": "(pos:complement(24691..24693))",
+   "note": "",
+   "attr": "ID=rna-MJ219_01975;Parent=gene-MJ219_01975;anticodon=(pos:complement(24691..24693));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=MJ219_01975;product=tRNA-Thr"
+  },
+  {
+   "contig": "JAKSVR010000005.1",
+   "start": 12447,
+   "end": 12524,
+   "strand": "+",
+   "product": "tRNA-Arg",
+   "anticodon": "(pos:12482..12484)",
+   "note": "",
+   "attr": "ID=rna-MJ219_02180;Parent=gene-MJ219_02180;anticodon=(pos:12482..12484);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=MJ219_02180;product=tRNA-Arg"
+  },
+  {
+   "contig": "JAKSVR010000005.1",
+   "start": 31823,
+   "end": 31912,
+   "strand": "+",
+   "product": "tRNA-Ser",
+   "anticodon": "(pos:31856..31858)",
+   "note": "",
+   "attr": "ID=rna-MJ219_02340;Parent=gene-MJ219_02340;anticodon=(pos:31856..31858);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=MJ219_02340;product=tRNA-Ser"
+  },
+  {
+   "contig": "JAKSVR010000006.1",
+   "start": 3712,
+   "end": 3797,
+   "strand": "+",
+   "product": "tRNA-Leu",
+   "anticodon": "(pos:3745..3747)",
+   "note": "",
+   "attr": "ID=rna-MJ219_02370;Parent=gene-MJ219_02370;anticodon=(pos:3745..3747);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.7;locus_tag=MJ219_02370;product=tRNA-Leu"
+  }
+ ],
+ "seconds": 156.94595623016357
+}

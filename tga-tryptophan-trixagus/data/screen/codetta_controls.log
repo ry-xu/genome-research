@@ -1,0 +1,12 @@
+loaded 19632 profiles in 2s
+18410 profiles after exclusions
+452 domains from 366 Pfams in 157s
+code: FFLLSSSSYY??CCWWLLLLPPPPHHQQRRRRIIIMTTTTNNKKSSRRVVVVAAAADDEEGGGG
+NONSTANDARD {'codon': 'TGA', 'std': '*', 'call': 'W', 'post': 1.0, 'n': 334, 'margin_vs_std': 476.90234138373626, 'top3': 'W:476.9,?:0.0,Y:-112.1'}
+21 tRNAs in GFF; done in 164s
+loaded 19632 profiles in 2s
+18410 profiles after exclusions
+1888 domains from 1033 Pfams in 545s
+code: FFLLSSSSYY?ECC?WLLLLPPPPHHQQRRRRIIIMTTTTNNKKSSRRVVVVAAAADDEEGGGG
+NONSTANDARD {'codon': 'TAG', 'std': '*', 'call': 'E', 'post': 1.0, 'n': 129, 'margin_vs_std': 132.15360631145919, 'top3': 'E:132.2,Q:26.6,?:0.0'}
+0 tRNAs in GFF; done in 546s

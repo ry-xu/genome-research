@@ -1,0 +1,20 @@
+acc	kind	tt	tt_src	organism	order	class	ATA_M	ATA_I	ATT_M	ATT_I	ATG_M	ATG_I
+NC_053319.1	mito	1	taxonomy	Cavernulicola chilensis	Cavernulicolales	Bangiophyceae	13	2	1	40	20	6
+MT270119.1	mito	1	taxonomy	Cyanidiococcus yangmingshanensis	Cyanidiales	Bangiophyceae	15	7	2	59	12	3
+NC_053320.1	mito	1	taxonomy	Cyanidium caldarium	Cyanidiales	Bangiophyceae	20	8	1	55	8	4
+MZ748314.1	mito	1	taxonomy	Cyanidioschyzonaceae sp. 2 FvB-2021	Cyanidiales	Bangiophyceae	15	7	2	59	12	3
+AP044106.1	mito	1	taxonomy	Cyanidium caldarium	Cyanidiales	Bangiophyceae	19	8	1	55	9	4
+AP044084.1	mito	1	taxonomy	Cyanidiococcus yangmingshanensis	Cyanidiales	Bangiophyceae	15	7	2	59	12	3
+CM015709.1	mito	1	taxonomy	Schizochytrium sp. TIO01	Thraustochytrida	Bigyra	14	3	1	47	30	2
+CM014806.1	mito	1	taxonomy	Aurantiochytrium acetophilum	Thraustochytrida	Bigyra	14	3	1	50	30	2
+CM072268.1	mito	1	taxonomy	Aurantiochytrium limacinum	Thraustochytrida	Bigyra	14	3	1	49	30	2
+KU183024.1	mito	23	record	Schizochytrium sp. TIO1101	Thraustochytrida	Bigyra	14	3	1	47	30	2
+NC_085326.1	mito	1	taxonomy	Choristocarpus tenellus	Sphacelariales	Phaeophyceae	39	2	2	103	12	0
+NC_013935.1	mito	1	taxonomy	Pycnococcus provasolii	Pseudoscourfieldiales	Pseudoscourfieldiophyceae	14	4	1	41	20	0
+OR830334.1	mito	1	taxonomy	Pseudoscourfieldia marina	Pseudoscourfieldiales	Pseudoscourfieldiophyceae	14	4	1	41	20	0
+PV826132.1	mito	1	taxonomy	Sphaerosorus coelastroides	Mischococcales	Xanthophyceae	35	1	1	74	7	2
+NC_042489.1	plastid	11	record	Chloroparvula pacifica	Chloropicales	Chloropicophyceae	16	3	2	251	107	7
+AP017371.1	plastid	11	record	Dinophyceae sp. MRD-151	""	Dinophyceae	65	5	3	192	20	2
+LC716140.1	plastid	1	default	Dinophyceae sp. MGD	""	Dinophyceae	65	5	3	192	20	2
+LC716139.1	plastid	1	default	Dinophyceae sp. TGD	""	Dinophyceae	52	6	1	184	34	2
+NC_027093.1	plastid	11	record	Lepidodinium chlorophorum	Gymnodiniales	Dinophyceae	52	3	3	150	36	2

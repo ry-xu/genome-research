@@ -1,0 +1,256 @@
+== Counts of predicted tRNAs per tool
+Choristocarpus (RefSeq)          tRNAscan-O=23 tRNAscan-G=22 tRNAscan-B=21 ARAGORN=22 ARAGORN-ps=22
+Choristocarpus (Genoscope WGS)   tRNAscan-O=22 tRNAscan-G=21 tRNAscan-B=21 ARAGORN=22 ARAGORN-ps=22
+Discosporangium (WGS contig)     tRNAscan-O=25 tRNAscan-G=24 tRNAscan-B=23 ARAGORN=24 ARAGORN-ps=24
+Saccharina                       tRNAscan-O=25 tRNAscan-G=25 tRNAscan-B=24 ARAGORN=24 ARAGORN-ps=25
+Phaeostrophion                   tRNAscan-O=28 tRNAscan-G=27 tRNAscan-B=28 ARAGORN=28 ARAGORN-ps=28
+Desmarestia                      tRNAscan-O=25 tRNAscan-G=24 tRNAscan-B=24 ARAGORN=25 ARAGORN-ps=25
+
+== tRNAs with anticodon CAT/TAT/AAT/GAT, all tools (begin, end, type, anticodon, score, note)
+-- Choristocarpus (RefSeq) (NC_085326)
+   tscanO  # 1   2626-2700   Met   CAT  score=59.9  
+   tscanO  # 3   2859-2931   Met   CAT  score=57.3  
+   tscanO  #15  18773-18841  Ile   AAT  score=20.2  
+   tscanO  #16  18862-18933  Ile   GAT  score=67.2  
+   tscanG  # 1   2626-2700   Met   CAT  score=58.9  
+   tscanG  # 3   2859-2931   Met   CAT  score=53.2  
+   tscanG  #15  18862-18933  Ile   GAT  score=61.1  
+   tscanB  # 1   2626-2700   Met   CAT  score=57.2  Pro  58.9  IPD:-12.40
+   tscanB  # 3   2859-2931   Met   CAT  score=49.1  Lys  47.1  IPD:-7.30
+   tscanB  #14  18862-18933  Ile   GAT  score=64.0  Ile  84.5  
+   aragorn      2625-2701   Met   CAT plus
+   aragorn      2859-2931   Met   CAT plus
+   aragorn     18862-18934  Ile   GAT plus
+   aragorn_ps   2625-2701   Met   CAT plus
+   aragorn_ps   2859-2931   Met   CAT plus
+   aragorn_ps  18862-18934  Ile   GAT plus
+-- Choristocarpus (Genoscope WGS) (CAXNAD020000071.1)
+   tscanO  # 5  10867-10935  Ile   AAT  score=20.2  
+   tscanO  # 6  10956-11027  Ile   GAT  score=67.2  
+   tscanO  #14  27064-27138  Met   CAT  score=59.9  
+   tscanO  #16  27297-27369  Met   CAT  score=57.3  
+   tscanG  # 5  10956-11027  Ile   GAT  score=61.1  
+   tscanG  #13  27064-27138  Met   CAT  score=58.9  
+   tscanG  #15  27297-27369  Met   CAT  score=53.2  
+   tscanB  # 5  10956-11027  Ile   GAT  score=64.0  Ile  84.5  
+   tscanB  #13  27064-27138  Met   CAT  score=57.2  Pro  58.9  IPD:-12.40
+   tscanB  #15  27297-27369  Met   CAT  score=49.1  Lys  47.1  IPD:-7.30
+   aragorn     10956-11028  Ile   GAT plus
+   aragorn     27063-27139  Met   CAT plus
+   aragorn     27297-27369  Met   CAT plus
+   aragorn_ps  10956-11028  Ile   GAT plus
+   aragorn_ps  27063-27139  Met   CAT plus
+   aragorn_ps  27297-27369  Met   CAT plus
+-- Discosporangium (WGS contig) (CAXNAE020000396.1)
+   tscanO  # 1   1991-2062   Ile   GAT  score=58.0  
+   tscanO  # 8  16956-17030  Met   CAT  score=60.0  
+   tscanO  #22  33023-33095  Met   CAT  score=73.1  
+   tscanO  #24  33176-33248  Met   CAT  score=60.4  
+   tscanG  # 1   1991-2067   Ile   GAT  score=53.2  
+   tscanG  # 8  16956-17032  Met   CAT  score=59.8  
+   tscanG  #21  33023-33095  Met   CAT  score=67.3  
+   tscanG  #23  33176-33248  Met   CAT  score=65.6  
+   tscanB  # 1   1991-2062   Ile   GAT  score=54.5  Phe  56.0  IPD:-0.70
+   tscanB  # 8  16956-17030  Met   CAT  score=58.9  Pro  50.2  IPD:-6.80
+   tscanB  #20  33023-33095  Ile2  CAT  score=67.8  Lys  67.2  IPD:-2.70
+   tscanB  #22  33176-33248  Met   CAT  score=63.1  Met  59.9  
+   aragorn      1991-2062   Ile   GAT plus
+   aragorn     16956-17030  Met   CAT plus
+   aragorn     33023-33095  Met   CAT plus
+   aragorn     33175-33249  Met   CAT plus
+   aragorn_ps   1991-2062   Ile   GAT plus
+   aragorn_ps  16956-17030  Met   CAT plus
+   aragorn_ps  33023-33095  Met   CAT plus
+   aragorn_ps  33175-33249  Met   CAT plus
+-- Saccharina (NC_013473.1)
+   tscanO  # 4   3464-3536   Met   CAT  score=57.3  
+   tscanO  #11   8353-8425   Met   CAT  score=59.3  
+   tscanO  #18  21120-21191  Ile   GAT  score=68.1  
+   tscanO  #24  36010-36084  Met   CAT  score=59.1  
+   tscanG  # 4   3464-3536   Met   CAT  score=51.4  
+   tscanG  #11   8353-8425   Met   CAT  score=47.5  
+   tscanG  #18  21120-21191  Ile   GAT  score=66.7  
+   tscanG  #24  36010-36085  Met   CAT  score=55.3  
+   tscanB  # 4   3464-3536   Met   CAT  score=49.0  Met  57.5  
+   tscanB  #11   8353-8425   Met   CAT  score=45.1  Arg  46.7  IPD:-24.60
+   tscanB  #18  21120-21191  Ile   GAT  score=64.1  Ile  84.6  
+   tscanB  #23  36010-36084  fMet  CAT  score=52.0  fMet  68.2  
+   aragorn      3464-3536   Met   CAT plus
+   aragorn      8353-8425   Met   CAT plus
+   aragorn     21120-21191  Ile   GAT plus
+   aragorn     36009-36085  Met   CAT plus
+   aragorn_ps   3464-3536   Met   CAT plus
+   aragorn_ps   8353-8425   Met   CAT plus
+   aragorn_ps  21120-21191  Ile   GAT plus
+   aragorn_ps  36009-36085  Met   CAT plus
+-- Phaeostrophion (ON552993.1)
+   tscanO  # 8  17294-17366  Met   CAT  score=48.0  
+   tscanO  #15  22257-22329  Met   CAT  score=56.2  
+   tscanO  #21  33726-33797  Ile   GAT  score=58.5  
+   tscanO  #25  46360-46433  Met   CAT  score=59.2  
+   tscanO  #28  49570-49643  Met   CAT  score=60.1  
+   tscanG  # 8  17294-17366  Met   CAT  score=43.0  
+   tscanG  #14  22257-22329  Met   CAT  score=45.0  
+   tscanG  #20  33726-33797  Ile   GAT  score=55.0  
+   tscanG  #24  46360-46433  Met   CAT  score=61.9  
+   tscanG  #27  49570-49643  Met   CAT  score=57.8  
+   tscanB  # 8  17294-17366  Met   CAT  score=45.6  Met  41.4  
+   tscanB  #15  22257-22329  Met   CAT  score=40.6  Arg  42.5  IPD:-24.50
+   tscanB  #21  33726-33797  Ile   GAT  score=56.1  Ile  69.6  
+   tscanB  #25  46360-46433  fMet  CAT  score=57.9  fMet  62.1  
+   tscanB  #28  49570-49643  fMet  CAT  score=56.6  fMet  61.3  
+   aragorn     17294-17366  Met   CAT plus
+   aragorn     22257-22330  Met   CAT plus
+   aragorn     33725-33798  Ile   GAT plus
+   aragorn     46360-46433  Met   CAT plus
+   aragorn     49570-49643  Met   CAT plus
+   aragorn_ps  17294-17366  Met   CAT plus
+   aragorn_ps  22257-22330  Met   CAT plus
+   aragorn_ps  33725-33798  Ile   GAT plus
+   aragorn_ps  46360-46433  Met   CAT plus
+   aragorn_ps  49570-49643  Met   CAT plus
+-- Desmarestia (NC_007684.1)
+   tscanO  # 3   4412-4484   Met   CAT  score=58.6  
+   tscanO  #10   9300-9372   Met   CAT  score=61.2  
+   tscanO  #17  22332-22403  Ile   GAT  score=67.3  
+   tscanO  #24  37536-37610  Met   CAT  score=66.4  
+   tscanG  # 3   4412-4484   Met   CAT  score=53.3  
+   tscanG  #10   9300-9372   Met   CAT  score=52.0  
+   tscanG  #17  22332-22403  Ile   GAT  score=64.9  
+   tscanG  #23  37537-37614  Met   CAT  score=58.0  
+   tscanB  # 3   4412-4484   Met   CAT  score=48.4  Met  55.4  
+   tscanB  #10   9300-9372   Met   CAT  score=49.5  Arg  52.2  IPD:-32.00
+   tscanB  #17  22332-22403  Ile   GAT  score=61.5  Ile  76.9  
+   tscanB  #23  37536-37610  fMet  CAT  score=60.1  fMet  65.2  
+   aragorn      4412-4484   Met   CAT plus
+   aragorn      9300-9372   Met   CAT plus
+   aragorn     22332-22403  Ile   GAT plus
+   aragorn     37536-37610  Met   CAT plus
+   aragorn_ps   4412-4484   Met   CAT plus
+   aragorn_ps   9300-9372   Met   CAT plus
+   aragorn_ps  22332-22403  Ile   GAT plus
+   aragorn_ps  37536-37610  Met   CAT plus
+
+== Reference CAT tRNAs: {'Desm trnM(cau)e': 73, 'Desm trnI(cau)': 73, 'Desm trnM(cau)f': 75, 'Sacc SaanoM_t04 tRNA-Met': 73, 'Sacc SaanoM_t11 tRNA-Ile': 73, 'Sacc SaanoM_t24 tRNA-Met': 75}
+
+== Every CAT tRNA (tRNAscan -B) vs reference CAT tRNAs: identity = matches/aligned (ungapped-pair) columns
+   isotype scores from tRNAscan -B isotype-specific CMs: Met, fMet, Ile, Ile2 and best isotype
+-- Choristocarpus (RefSeq)        2626-2700 type=Met Met=46.5 fMet=55.2 Ile=52.3 Ile2=41.0 best=Pro(58.9)
+      0.840 (63/75)  Sacc SaanoM_t24 tRNA-Met
+      0.750 (51/68)  Desm trnI(cau)
+      0.747 (56/75)  Desm trnM(cau)f
+      0.694 (50/72)  Desm trnM(cau)e
+      0.658 (48/73)  Sacc SaanoM_t04 tRNA-Met
+      0.643 (45/70)  Sacc SaanoM_t11 tRNA-Ile
+-- Choristocarpus (RefSeq)        2859-2931 type=Met Met=39.8 fMet=29.0 Ile=39.5 Ile2=33.4 best=Lys(47.1)
+      0.833 (40/48)  Desm trnI(cau)
+      0.756 (34/45)  Sacc SaanoM_t11 tRNA-Ile
+      0.708 (51/72)  Desm trnM(cau)e
+      0.677 (44/65)  Desm trnM(cau)f
+      0.671 (49/73)  Sacc SaanoM_t04 tRNA-Met
+      0.603 (44/73)  Sacc SaanoM_t24 tRNA-Met
+-- Choristocarpus (Genoscope WGS) 27064-27138 type=Met Met=46.5 fMet=55.2 Ile=52.3 Ile2=41.0 best=Pro(58.9)
+      0.840 (63/75)  Sacc SaanoM_t24 tRNA-Met
+      0.750 (51/68)  Desm trnI(cau)
+      0.747 (56/75)  Desm trnM(cau)f
+      0.694 (50/72)  Desm trnM(cau)e
+      0.658 (48/73)  Sacc SaanoM_t04 tRNA-Met
+      0.643 (45/70)  Sacc SaanoM_t11 tRNA-Ile
+-- Choristocarpus (Genoscope WGS) 27297-27369 type=Met Met=39.8 fMet=29.0 Ile=39.5 Ile2=33.4 best=Lys(47.1)
+      0.833 (40/48)  Desm trnI(cau)
+      0.756 (34/45)  Sacc SaanoM_t11 tRNA-Ile
+      0.708 (51/72)  Desm trnM(cau)e
+      0.677 (44/65)  Desm trnM(cau)f
+      0.671 (49/73)  Sacc SaanoM_t04 tRNA-Met
+      0.603 (44/73)  Sacc SaanoM_t24 tRNA-Met
+-- Discosporangium (WGS contig)   16956-17030 type=Met Met=43.4 fMet=44.3 Ile=47.0 Ile2=42.9 best=Pro(50.2)
+      0.878 (65/74)  Sacc SaanoM_t24 tRNA-Met
+      0.813 (61/75)  Desm trnM(cau)f
+      0.721 (49/68)  Desm trnI(cau)
+      0.676 (46/68)  Sacc SaanoM_t11 tRNA-Ile
+      0.662 (47/71)  Desm trnM(cau)e
+      0.648 (46/71)  Sacc SaanoM_t04 tRNA-Met
+-- Discosporangium (WGS contig)   33023-33095 type=Ile2 Met=57.8 fMet=22.7 Ile=56.4 Ile2=64.5 best=Lys(67.2)
+      0.731 (49/67)  Desm trnI(cau)
+      0.712 (47/66)  Sacc SaanoM_t11 tRNA-Ile
+      0.671 (49/73)  Sacc SaanoM_t04 tRNA-Met
+      0.657 (46/70)  Sacc SaanoM_t24 tRNA-Met
+      0.630 (46/73)  Desm trnM(cau)e
+      0.614 (43/70)  Desm trnM(cau)f
+-- Discosporangium (WGS contig)   33176-33248 type=Met Met=59.9 fMet=1.5 Ile=46.7 Ile2=41.2 best=Met(59.9)
+      0.750 (48/64)  Desm trnM(cau)f
+      0.712 (52/73)  Sacc SaanoM_t04 tRNA-Met
+      0.699 (51/73)  Desm trnM(cau)e
+      0.691 (47/68)  Desm trnI(cau)
+      0.672 (45/67)  Sacc SaanoM_t11 tRNA-Ile
+      0.634 (45/71)  Sacc SaanoM_t24 tRNA-Met
+-- Saccharina                     3464-3536 type=Met Met=57.5 fMet=29.6 Ile=42.8 Ile2=39.3 best=Met(57.5)
+      1.000 (73/73)  Sacc SaanoM_t04 tRNA-Met
+      0.959 (70/73)  Desm trnM(cau)e
+      0.778 (49/63)  Desm trnI(cau)
+      0.750 (48/64)  Sacc SaanoM_t11 tRNA-Ile
+      0.630 (46/73)  Sacc SaanoM_t24 tRNA-Met
+      0.620 (44/71)  Desm trnM(cau)f
+-- Saccharina                     8353-8425 type=Met Met=22.1 fMet=-999.0 Ile=36.2 Ile2=41.2 best=Arg(46.7)
+      1.000 (73/73)  Sacc SaanoM_t11 tRNA-Ile
+      0.918 (67/73)  Desm trnI(cau)
+      0.772 (44/57)  Sacc SaanoM_t24 tRNA-Met
+      0.766 (49/64)  Desm trnM(cau)e
+      0.719 (46/64)  Sacc SaanoM_t04 tRNA-Met
+      0.635 (40/63)  Desm trnM(cau)f
+-- Saccharina                     36010-36084 type=fMet Met=47.7 fMet=68.2 Ile=60.0 Ile2=47.3 best=fMet(68.2)
+      1.000 (75/75)  Sacc SaanoM_t24 tRNA-Met
+      0.867 (65/75)  Desm trnM(cau)f
+      0.772 (44/57)  Sacc SaanoM_t11 tRNA-Ile
+      0.706 (48/68)  Desm trnI(cau)
+      0.667 (48/72)  Desm trnM(cau)e
+      0.630 (46/73)  Sacc SaanoM_t04 tRNA-Met
+-- Phaeostrophion                 17294-17366 type=Met Met=41.4 fMet=5.3 Ile=27.1 Ile2=15.4 best=Met(41.4)
+      0.819 (59/72)  Desm trnM(cau)e
+      0.800 (4/5)  Desm trnI(cau)
+      0.795 (58/73)  Sacc SaanoM_t04 tRNA-Met
+      0.639 (46/72)  Sacc SaanoM_t24 tRNA-Met
+      0.625 (45/72)  Desm trnM(cau)f
+      0.615 (8/13)  Sacc SaanoM_t11 tRNA-Ile
+-- Phaeostrophion                 22257-22329 type=Met Met=18.0 fMet=-999.0 Ile=40.7 Ile2=29.7 best=Arg(42.5)
+      0.877 (64/73)  Desm trnI(cau)
+      0.863 (63/73)  Sacc SaanoM_t11 tRNA-Ile
+      0.758 (50/66)  Desm trnM(cau)e
+      0.738 (48/65)  Sacc SaanoM_t04 tRNA-Met
+      0.671 (47/70)  Sacc SaanoM_t24 tRNA-Met
+      0.643 (45/70)  Desm trnM(cau)f
+-- Phaeostrophion                 46360-46433 type=fMet Met=42.5 fMet=62.1 Ile=51.5 Ile2=39.1 best=fMet(62.1)
+      0.822 (60/73)  Sacc SaanoM_t24 tRNA-Met
+      0.808 (59/73)  Desm trnM(cau)f
+      0.627 (32/51)  Sacc SaanoM_t11 tRNA-Ile
+      0.616 (45/73)  Sacc SaanoM_t04 tRNA-Met
+      0.596 (31/52)  Desm trnI(cau)
+      0.575 (42/73)  Desm trnM(cau)e
+-- Phaeostrophion                 49570-49643 type=fMet Met=36.1 fMet=61.3 Ile=43.3 Ile2=17.5 best=fMet(61.3)
+      1.000 (2/2)  Desm trnI(cau)
+      0.857 (60/70)  Desm trnM(cau)f
+      0.795 (58/73)  Sacc SaanoM_t24 tRNA-Met
+      0.633 (31/49)  Sacc SaanoM_t11 tRNA-Ile
+      0.603 (44/73)  Sacc SaanoM_t04 tRNA-Met
+      0.562 (41/73)  Desm trnM(cau)e
+-- Desmarestia                    4412-4484 type=Met Met=55.4 fMet=30.2 Ile=38.9 Ile2=34.9 best=Met(55.4)
+      1.000 (73/73)  Desm trnM(cau)e
+      0.959 (70/73)  Sacc SaanoM_t04 tRNA-Met
+      0.766 (49/64)  Sacc SaanoM_t11 tRNA-Ile
+      0.742 (49/66)  Desm trnI(cau)
+      0.667 (48/72)  Sacc SaanoM_t24 tRNA-Met
+      0.597 (43/72)  Desm trnM(cau)f
+-- Desmarestia                    9300-9372 type=Met Met=20.2 fMet=-999.0 Ile=36.5 Ile2=39.2 best=Arg(52.2)
+      1.000 (73/73)  Desm trnI(cau)
+      0.918 (67/73)  Sacc SaanoM_t11 tRNA-Ile
+      0.742 (49/66)  Desm trnM(cau)e
+      0.734 (47/64)  Sacc SaanoM_t04 tRNA-Met
+      0.721 (44/61)  Desm trnM(cau)f
+      0.706 (48/68)  Sacc SaanoM_t24 tRNA-Met
+-- Desmarestia                    37536-37610 type=fMet Met=44.0 fMet=65.2 Ile=54.4 Ile2=51.9 best=fMet(65.2)
+      1.000 (75/75)  Desm trnM(cau)f
+      0.867 (65/75)  Sacc SaanoM_t24 tRNA-Met
+      0.676 (46/68)  Desm trnI(cau)
+      0.635 (40/63)  Sacc SaanoM_t11 tRNA-Ile
+      0.620 (44/71)  Sacc SaanoM_t04 tRNA-Met
+      0.597 (43/72)  Desm trnM(cau)e

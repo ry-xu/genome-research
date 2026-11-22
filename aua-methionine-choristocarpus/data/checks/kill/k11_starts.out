@@ -1,0 +1,4 @@
+POS_NC_085326 annotated start codons {'ATG': 35}
+NEG_Saccharina annotated start codons {'ATG': 38}
+NEG_Petalonia annotated start codons {'ATG': 39, 'TTG': 1}
+NEG_Sargassum annotated start codons {'ATG': 37}

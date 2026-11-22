@@ -1,0 +1,127 @@
+IQ-TREE single-core version 3.1.4 for MacOS ARM 64-bit built Sep 10 2026
+Developed by Bui Quang Minh, Thomas Wong, Nhan Ly-Trong, Huaiyan Ren
+Contributed by Lam-Tung Nguyen, Dominik Schrempf, Chris Bielow,
+Olga Chernomor, Michael Woodhams, Diep Thi Hoang, Heiko Schmidt
+
+Host:    mini (SSE4.2, 32 GB RAM)
+Command: iqtree3 -s lab/work/qc-rejected-codes/results/throscidae_tree/concat.faa -m LG+F+G4 -B 1000 -T 1 --redo -o S_bostrichidophilus --quiet
+Seed:    717956 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Wed Nov 11 16:40:14 2026
+Kernel:  SSE2
+
+NOTE: Consider using the multicore version because your CPU has 12 cores!
+
+Reading alignment file lab/work/qc-rejected-codes/results/throscidae_tree/concat.faa ... Fasta format detected
+Reading fasta file: done in 0.00178981 secs using 89.62% CPU
+Alignment most likely contains protein sequences
+Constructing alignment: done in 0.017637 secs using 57.67% CPU
+WARNING: 42 sites contain only gaps or ambiguous characters.
+Alignment has 8 sequences with 34439 columns, 15977 distinct patterns
+10080 parsimony-informative, 12331 singleton sites, 12028 constant sites
+                      Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 0.000164986 secs using 99.4% CPU
+   1  Tcar_carinifrons        9.02%    failed      0.00%
+   2  Tser_sericeus          14.03%    passed     79.00%
+   3  Tder_dermestoides      16.94%    failed      0.00%
+   4  Ttur_turgidus           9.21%    failed      0.00%
+   5  Tduv_duvalii            8.81%    failed      0.61%
+   6  Tmey                   12.49%    passed     74.50%
+   7  Aulonothroscus_AUS03    8.59%    failed      0.00%
+   8  S_bostrichidophilus    11.51%    failed      0.00%
+****  TOTAL                  11.33%  6 sequences failed composition chi2 test (p-value<5%; df=19)
+Checking for duplicate sequences: done in 0.000177145 secs using 98.22% CPU
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.006 seconds
+Generating 1000 samples for ultrafast bootstrap (seed: 717956)...
+
+NOTE: 140 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -316101.281
+2. Current log-likelihood: -311749.882
+3. Current log-likelihood: -311630.532
+4. Current log-likelihood: -311627.075
+Optimal log-likelihood: -311626.947
+Gamma shape alpha: 0.644
+Parameters optimization took 4 rounds (22.322 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.026222 secs using 23.34% CPU
+Computing ML distances took 0.026903 sec (of wall-clock time) 0.006475 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 1.21593e-05 secs using 57.57% CPU
+Constructing RapidNJ tree: done in 9.05991e-06 secs using 77.26% CPU
+Computing RapidNJ tree took 0.000046 sec (of wall-clock time) 0.000020 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -313115.740
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 3.752 second
+Computing log-likelihood of 47 initial trees ... 60.333 seconds
+Current best score: -311626.947
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -311572.773
+Iteration 10 / LogL: -311574.744 / Time: 0h:4m:52s
+Iteration 20 / LogL: -311572.994 / Time: 0h:7m:49s
+Finish initializing candidate tree set (1)
+Current best tree score: -311572.773 / CPU time: 441.516
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+UPDATE BEST LOG-LIKELIHOOD: -311572.773
+Iteration 30 / LogL: -311572.773 / Time: 0h:9m:33s (0h:23m:24s left)
+UPDATE BEST LOG-LIKELIHOOD: -311572.773
+Iteration 40 / LogL: -311573.216 / Time: 0h:11m:35s (0h:18m:8s left)
+Iteration 50 / LogL: -311574.584 / Time: 0h:13m:40s (0h:14m:13s left)
+Log-likelihood cutoff on original alignment: -311692.197
+Iteration 60 / LogL: -311572.989 / Time: 0h:15m:41s (0h:10m:54s left)
+Iteration 70 / LogL: -311573.422 / Time: 0h:17m:27s (0h:7m:50s left)
+Iteration 80 / LogL: -311573.041 / Time: 0h:19m:5s (0h:5m:4s left)
+UPDATE BEST LOG-LIKELIHOOD: -311572.773
+UPDATE BEST LOG-LIKELIHOOD: -311572.773
+Iteration 90 / LogL: -311572.989 / Time: 0h:20m:58s (0h:2m:35s left)
+Iteration 100 / LogL: -311572.789 / Time: 0h:22m:55s (0h:0m:13s left)
+Log-likelihood cutoff on original alignment: -311685.148
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 1.000
+UPDATE BEST LOG-LIKELIHOOD: -311572.773
+TREE SEARCH COMPLETED AFTER 102 ITERATIONS / Time: 0h:23m:15s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -311572.773
+Optimal log-likelihood: -311572.773
+Gamma shape alpha: 0.642
+Parameters optimization took 1 rounds (4.150 sec)
+BEST SCORE FOUND : -311572.773
+Creating bootstrap support values...
+Split supports printed to NEXUS file lab/work/qc-rejected-codes/results/throscidae_tree/concat.faa.splits.nex
+Total tree length: 3.871
+
+Total number of iterations: 102
+CPU time used for tree search: 404.783 sec (0h:6m:44s)
+Wall-clock time used for tree search: 1367.155 sec (0h:22m:47s)
+Total CPU time used: 415.130 sec (0h:6m:55s)
+Total wall-clock time used: 1399.820 sec (0h:23m:19s)
+
+Computing bootstrap consensus tree...
+Reading input file lab/work/qc-rejected-codes/results/throscidae_tree/concat.faa.splits.nex...
+8 taxa and 17 splits.
+Consensus tree written to lab/work/qc-rejected-codes/results/throscidae_tree/concat.faa.contree
+Reading input trees file lab/work/qc-rejected-codes/results/throscidae_tree/concat.faa.contree
+Log-likelihood of consensus tree: -311574.708
+
+Analysis results written to: 
+  IQ-TREE report:                lab/work/qc-rejected-codes/results/throscidae_tree/concat.faa.iqtree
+  Maximum-likelihood tree:       lab/work/qc-rejected-codes/results/throscidae_tree/concat.faa.treefile
+  Likelihood distances:          lab/work/qc-rejected-codes/results/throscidae_tree/concat.faa.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          lab/work/qc-rejected-codes/results/throscidae_tree/concat.faa.splits.nex
+  Consensus tree:                lab/work/qc-rejected-codes/results/throscidae_tree/concat.faa.contree
+  Screen log file:               lab/work/qc-rejected-codes/results/throscidae_tree/concat.faa.log
+
+Date and Time: Wed Nov 11 17:03:42 2026

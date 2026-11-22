@@ -1,0 +1,302 @@
+{
+ "acc": "GCA_004296495.1",
+ "size": 200316,
+ "gc": 0.15315801034365703,
+ "n_domains": 167,
+ "n_pfams": 154,
+ "code": "FFLLSSS?YY??CC?WL?L?P?PPHHQQR???IIIMTTTTNNKKS?RRVVVVAAAADDEEGGGG",
+ "nonstandard": [],
+ "trnas": [
+  {
+   "contig": "AP018161.1",
+   "start": 26179,
+   "end": 26251,
+   "strand": "+",
+   "product": "tRNA-Phe",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARRFE1_00220;Parent=gene-NARRFE1_00220;gbkey=tRNA;locus_tag=NARRFE1_00220;product=tRNA-Phe"
+  },
+  {
+   "contig": "AP018161.1",
+   "start": 30034,
+   "end": 30104,
+   "strand": "-",
+   "product": "tRNA-Ala",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARRFE1_00270;Parent=gene-NARRFE1_00270;gbkey=tRNA;locus_tag=NARRFE1_00270;product=tRNA-Ala"
+  },
+  {
+   "contig": "AP018161.1",
+   "start": 30110,
+   "end": 30183,
+   "strand": "-",
+   "product": "tRNA-Ile",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARRFE1_00280;Parent=gene-NARRFE1_00280;gbkey=tRNA;locus_tag=NARRFE1_00280;product=tRNA-Ile"
+  },
+  {
+   "contig": "AP018161.1",
+   "start": 36979,
+   "end": 37051,
+   "strand": "-",
+   "product": "tRNA-Met",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARRFE1_00350;Parent=gene-NARRFE1_00350;gbkey=tRNA;locus_tag=NARRFE1_00350;product=tRNA-Met"
+  },
+  {
+   "contig": "AP018161.1",
+   "start": 44890,
+   "end": 44962,
+   "strand": "+",
+   "product": "tRNA-Thr",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARRFE1_00460;Parent=gene-NARRFE1_00460;gbkey=tRNA;locus_tag=NARRFE1_00460;product=tRNA-Thr"
+  },
+  {
+   "contig": "AP018161.1",
+   "start": 44975,
+   "end": 45061,
+   "strand": "+",
+   "product": "tRNA-Ser",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARRFE1_00470;Parent=gene-NARRFE1_00470;gbkey=tRNA;locus_tag=NARRFE1_00470;product=tRNA-Ser"
+  },
+  {
+   "contig": "AP018161.1",
+   "start": 49130,
+   "end": 49204,
+   "strand": "+",
+   "product": "tRNA-Asp",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARRFE1_00510;Parent=gene-NARRFE1_00510;gbkey=tRNA;locus_tag=NARRFE1_00510;product=tRNA-Asp"
+  },
+  {
+   "contig": "AP018161.1",
+   "start": 51612,
+   "end": 51683,
+   "strand": "+",
+   "product": "tRNA-Asn",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARRFE1_00550;Parent=gene-NARRFE1_00550;gbkey=tRNA;locus_tag=NARRFE1_00550;product=tRNA-Asn"
+  },
+  {
+   "contig": "AP018161.1",
+   "start": 51689,
+   "end": 51761,
+   "strand": "+",
+   "product": "tRNA-His",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARRFE1_00560;Parent=gene-NARRFE1_00560;gbkey=tRNA;locus_tag=NARRFE1_00560;product=tRNA-His"
+  },
+  {
+   "contig": "AP018161.1",
+   "start": 51782,
+   "end": 51855,
+   "strand": "+",
+   "product": "tRNA-Pro",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARRFE1_00570;Parent=gene-NARRFE1_00570;gbkey=tRNA;locus_tag=NARRFE1_00570;product=tRNA-Pro"
+  },
+  {
+   "contig": "AP018161.1",
+   "start": 53352,
+   "end": 53426,
+   "strand": "+",
+   "product": "tRNA-Val",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARRFE1_00590;Parent=gene-NARRFE1_00590;gbkey=tRNA;locus_tag=NARRFE1_00590;product=tRNA-Val"
+  },
+  {
+   "contig": "AP018161.1",
+   "start": 53429,
+   "end": 53502,
+   "strand": "+",
+   "product": "tRNA-Lys",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARRFE1_00600;Parent=gene-NARRFE1_00600;gbkey=tRNA;locus_tag=NARRFE1_00600;product=tRNA-Lys"
+  },
+  {
+   "contig": "AP018161.1",
+   "start": 68781,
+   "end": 68852,
+   "strand": "-",
+   "product": "tRNA-Met",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARRFE1_00730;Parent=gene-NARRFE1_00730;gbkey=tRNA;locus_tag=NARRFE1_00730;product=tRNA-Met"
+  },
+  {
+   "contig": "AP018161.1",
+   "start": 82318,
+   "end": 82404,
+   "strand": "-",
+   "product": "tRNA-Ser",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARRFE1_00890;Parent=gene-NARRFE1_00890;gbkey=tRNA;locus_tag=NARRFE1_00890;product=tRNA-Ser"
+  },
+  {
+   "contig": "AP018161.1",
+   "start": 90844,
+   "end": 90926,
+   "strand": "-",
+   "product": "tRNA-Leu",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARRFE1_00970;Parent=gene-NARRFE1_00970;gbkey=tRNA;locus_tag=NARRFE1_00970;product=tRNA-Leu"
+  },
+  {
+   "contig": "AP018161.1",
+   "start": 90930,
+   "end": 91001,
+   "strand": "-",
+   "product": "tRNA-Cys",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARRFE1_00980;Parent=gene-NARRFE1_00980;gbkey=tRNA;locus_tag=NARRFE1_00980;product=tRNA-Cys"
+  },
+  {
+   "contig": "AP018161.1",
+   "start": 91004,
+   "end": 91077,
+   "strand": "-",
+   "product": "tRNA-Gly",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARRFE1_00990;Parent=gene-NARRFE1_00990;gbkey=tRNA;locus_tag=NARRFE1_00990;product=tRNA-Gly"
+  },
+  {
+   "contig": "AP018161.1",
+   "start": 108783,
+   "end": 108856,
+   "strand": "-",
+   "product": "tRNA-Gln",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARRFE1_01200;Parent=gene-NARRFE1_01200;gbkey=tRNA;locus_tag=NARRFE1_01200;product=tRNA-Gln"
+  },
+  {
+   "contig": "AP018161.1",
+   "start": 108860,
+   "end": 108933,
+   "strand": "-",
+   "product": "tRNA-Leu",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARRFE1_01210;Parent=gene-NARRFE1_01210;gbkey=tRNA;locus_tag=NARRFE1_01210;product=tRNA-Leu"
+  },
+  {
+   "contig": "AP018161.1",
+   "start": 108936,
+   "end": 109009,
+   "strand": "-",
+   "product": "tRNA-Met",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARRFE1_01220;Parent=gene-NARRFE1_01220;gbkey=tRNA;locus_tag=NARRFE1_01220;product=tRNA-Met"
+  },
+  {
+   "contig": "AP018161.1",
+   "start": 116695,
+   "end": 116766,
+   "strand": "-",
+   "product": "tRNA-Arg",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARRFE1_01300;Parent=gene-NARRFE1_01300;gbkey=tRNA;locus_tag=NARRFE1_01300;product=tRNA-Arg"
+  },
+  {
+   "contig": "AP018161.1",
+   "start": 126007,
+   "end": 126092,
+   "strand": "+",
+   "product": "tRNA-Ser",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARRFE1_01380;Parent=gene-NARRFE1_01380;gbkey=tRNA;locus_tag=NARRFE1_01380;product=tRNA-Ser"
+  },
+  {
+   "contig": "AP018161.1",
+   "start": 126095,
+   "end": 126167,
+   "strand": "+",
+   "product": "tRNA-Arg",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARRFE1_01390;Parent=gene-NARRFE1_01390;gbkey=tRNA;locus_tag=NARRFE1_01390;product=tRNA-Arg"
+  },
+  {
+   "contig": "AP018161.1",
+   "start": 126230,
+   "end": 126303,
+   "strand": "+",
+   "product": "tRNA-Thr",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARRFE1_01400;Parent=gene-NARRFE1_01400;gbkey=tRNA;locus_tag=NARRFE1_01400;product=tRNA-Thr"
+  },
+  {
+   "contig": "AP018161.1",
+   "start": 126321,
+   "end": 126406,
+   "strand": "+",
+   "product": "tRNA-Tyr",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARRFE1_01410;Parent=gene-NARRFE1_01410;gbkey=tRNA;locus_tag=NARRFE1_01410;product=tRNA-Tyr"
+  },
+  {
+   "contig": "AP018161.1",
+   "start": 126418,
+   "end": 126488,
+   "strand": "+",
+   "product": "tRNA-Gly",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARRFE1_01420;Parent=gene-NARRFE1_01420;gbkey=tRNA;locus_tag=NARRFE1_01420;product=tRNA-Gly"
+  },
+  {
+   "contig": "AP018161.1",
+   "start": 126519,
+   "end": 126591,
+   "strand": "+",
+   "product": "tRNA-Thr",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARRFE1_01430;Parent=gene-NARRFE1_01430;gbkey=tRNA;locus_tag=NARRFE1_01430;product=tRNA-Thr"
+  },
+  {
+   "contig": "AP018161.1",
+   "start": 195045,
+   "end": 195117,
+   "strand": "+",
+   "product": "tRNA-Glu",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARRFE1_02240;Parent=gene-NARRFE1_02240;gbkey=tRNA;locus_tag=NARRFE1_02240;product=tRNA-Glu"
+  },
+  {
+   "contig": "AP018161.1",
+   "start": 198283,
+   "end": 198355,
+   "strand": "+",
+   "product": "tRNA-Trp",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARRFE1_02270;Parent=gene-NARRFE1_02270;gbkey=tRNA;locus_tag=NARRFE1_02270;product=tRNA-Trp"
+  }
+ ],
+ "seconds": 89.98620915412903
+}

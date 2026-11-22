@@ -1,0 +1,3 @@
+Tremellomycetes AGG pooled			0	0	80	3146	1.0e+00
+Exobasidiomycetes AGG pooled			0	0	39	1280	1.0e+00
+Cystobasidiomycetes AGG pooled			0	0	12	296	1.0e+00

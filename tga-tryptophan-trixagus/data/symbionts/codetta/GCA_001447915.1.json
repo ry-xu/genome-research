@@ -1,0 +1,312 @@
+{
+ "acc": "GCA_001447915.1",
+ "size": 190657,
+ "gc": 0.240038393554918,
+ "n_domains": 228,
+ "n_pfams": 194,
+ "code": "FFLLSSSSYY??CC?WL?L?PPPPHHQQRRRRIIIMTTTTNNKKSSRRVVVVAAAADDEEGGGG",
+ "nonstandard": [],
+ "trnas": [
+  {
+   "contig": "CP013212.1",
+   "start": 4025,
+   "end": 4100,
+   "strand": "+",
+   "product": "tRNA-Gly",
+   "anticodon": "",
+   "note": "tRNA-Gly-GCC%3B trnG",
+   "attr": "ID=rna-ASU30_004;Parent=gene-ASU30_004;Note=tRNA-Gly-GCC%3B trnG;gbkey=tRNA;locus_tag=ASU30_004;product=tRNA-Gly"
+  },
+  {
+   "contig": "CP013212.1",
+   "start": 4104,
+   "end": 4190,
+   "strand": "+",
+   "product": "tRNA-Leu",
+   "anticodon": "",
+   "note": "tRNA-Leu-TAA%3B trnL",
+   "attr": "ID=rna-ASU30_005;Parent=gene-ASU30_005;Note=tRNA-Leu-TAA%3B trnL;gbkey=tRNA;locus_tag=ASU30_005;product=tRNA-Leu"
+  },
+  {
+   "contig": "CP013212.1",
+   "start": 19154,
+   "end": 19231,
+   "strand": "+",
+   "product": "tRNA-Val",
+   "anticodon": "",
+   "note": "tRNA-Val-TAC%3B trnV",
+   "attr": "ID=rna-ASU30_025;Parent=gene-ASU30_025;Note=tRNA-Val-TAC%3B trnV;gbkey=tRNA;locus_tag=ASU30_025;product=tRNA-Val"
+  },
+  {
+   "contig": "CP013212.1",
+   "start": 33600,
+   "end": 33673,
+   "strand": "+",
+   "product": "tRNA-Asp",
+   "anticodon": "",
+   "note": "tRNA-Asp-GTC%3B trnD",
+   "attr": "ID=rna-ASU30_035;Parent=gene-ASU30_035;Note=tRNA-Asp-GTC%3B trnD;gbkey=tRNA;locus_tag=ASU30_035;product=tRNA-Asp"
+  },
+  {
+   "contig": "CP013212.1",
+   "start": 33686,
+   "end": 33761,
+   "strand": "-",
+   "product": "tRNA-Lys",
+   "anticodon": "",
+   "note": "tRNA-Lys-TTT%3B trnK",
+   "attr": "ID=rna-ASU30_036;Parent=gene-ASU30_036;Note=tRNA-Lys-TTT%3B trnK;gbkey=tRNA;locus_tag=ASU30_036;product=tRNA-Lys"
+  },
+  {
+   "contig": "CP013212.1",
+   "start": 46441,
+   "end": 46529,
+   "strand": "+",
+   "product": "tRNA-Ser",
+   "anticodon": "",
+   "note": "tRNA-Ser-TGA%3B trnS",
+   "attr": "ID=rna-ASU30_048;Parent=gene-ASU30_048;Note=tRNA-Ser-TGA%3B trnS;gbkey=tRNA;locus_tag=ASU30_048;product=tRNA-Ser"
+  },
+  {
+   "contig": "CP013212.1",
+   "start": 58756,
+   "end": 58831,
+   "strand": "-",
+   "product": "tRNA-Arg",
+   "anticodon": "",
+   "note": "tRNA-Arg-TCT%3B trnR",
+   "attr": "ID=rna-ASU30_058;Parent=gene-ASU30_058;Note=tRNA-Arg-TCT%3B trnR;gbkey=tRNA;locus_tag=ASU30_058;product=tRNA-Arg"
+  },
+  {
+   "contig": "CP013212.1",
+   "start": 58835,
+   "end": 58909,
+   "strand": "-",
+   "product": "tRNA-Pro",
+   "anticodon": "",
+   "note": "tRNA-Pro-TGG%3B trnP",
+   "attr": "ID=rna-ASU30_059;Parent=gene-ASU30_059;Note=tRNA-Pro-TGG%3B trnP;gbkey=tRNA;locus_tag=ASU30_059;product=tRNA-Pro"
+  },
+  {
+   "contig": "CP013212.1",
+   "start": 58921,
+   "end": 59006,
+   "strand": "-",
+   "product": "tRNA-Ser",
+   "anticodon": "",
+   "note": "tRNA-Ser-GCT%3B trnS",
+   "attr": "ID=rna-ASU30_060;Parent=gene-ASU30_060;Note=tRNA-Ser-GCT%3B trnS;gbkey=tRNA;locus_tag=ASU30_060;product=tRNA-Ser"
+  },
+  {
+   "contig": "CP013212.1",
+   "start": 61283,
+   "end": 61369,
+   "strand": "-",
+   "product": "tRNA-Leu",
+   "anticodon": "",
+   "note": "tRNA-Leu-TAG%3B trnL",
+   "attr": "ID=rna-ASU30_064;Parent=gene-ASU30_064;Note=tRNA-Leu-TAG%3B trnL;gbkey=tRNA;locus_tag=ASU30_064;product=tRNA-Leu"
+  },
+  {
+   "contig": "CP013212.1",
+   "start": 68355,
+   "end": 68437,
+   "strand": "+",
+   "product": "tRNA-Ser",
+   "anticodon": "",
+   "note": "tRNA-Ser-GGA%3B trnS",
+   "attr": "ID=rna-ASU30_069;Parent=gene-ASU30_069;Note=tRNA-Ser-GGA%3B trnS;gbkey=tRNA;locus_tag=ASU30_069;product=tRNA-Ser"
+  },
+  {
+   "contig": "CP013212.1",
+   "start": 68466,
+   "end": 68542,
+   "strand": "+",
+   "product": "tRNA-Met",
+   "anticodon": "",
+   "note": "tRNA-Met-CAT%3B trnM",
+   "attr": "ID=rna-ASU30_070;Parent=gene-ASU30_070;Note=tRNA-Met-CAT%3B trnM;gbkey=tRNA;locus_tag=ASU30_070;product=tRNA-Met"
+  },
+  {
+   "contig": "CP013212.1",
+   "start": 69141,
+   "end": 69217,
+   "strand": "+",
+   "product": "tRNA-Arg",
+   "anticodon": "",
+   "note": "tRNA-Arg-CCT%3B trnR",
+   "attr": "ID=rna-ASU30_073;Parent=gene-ASU30_073;Note=tRNA-Arg-CCT%3B trnR;gbkey=tRNA;locus_tag=ASU30_073;product=tRNA-Arg"
+  },
+  {
+   "contig": "CP013212.1",
+   "start": 79378,
+   "end": 79456,
+   "strand": "-",
+   "product": "tRNA-Leu",
+   "anticodon": "",
+   "note": "tRNA-Leu-GAG%3B trnL",
+   "attr": "ID=rna-ASU30_088;Parent=gene-ASU30_088;Note=tRNA-Leu-GAG%3B trnL;gbkey=tRNA;locus_tag=ASU30_088;product=tRNA-Leu"
+  },
+  {
+   "contig": "CP013212.1",
+   "start": 79866,
+   "end": 79939,
+   "strand": "+",
+   "product": "tRNA-Met",
+   "anticodon": "",
+   "note": "tRNA-Met-CAT%3B trnM",
+   "attr": "ID=rna-ASU30_090;Parent=gene-ASU30_090;Note=tRNA-Met-CAT%3B trnM;gbkey=tRNA;locus_tag=ASU30_090;product=tRNA-Met"
+  },
+  {
+   "contig": "CP013212.1",
+   "start": 97934,
+   "end": 98005,
+   "strand": "-",
+   "product": "tRNA-Glu",
+   "anticodon": "",
+   "note": "tRNA-Glu-TTC%3B trnE",
+   "attr": "ID=rna-ASU30_108;Parent=gene-ASU30_108;Note=tRNA-Glu-TTC%3B trnE;gbkey=tRNA;locus_tag=ASU30_108;product=tRNA-Glu"
+  },
+  {
+   "contig": "CP013212.1",
+   "start": 99573,
+   "end": 99646,
+   "strand": "-",
+   "product": "tRNA-Gln",
+   "anticodon": "",
+   "note": "tRNA-Gln-TTG%3B trnQ",
+   "attr": "ID=rna-ASU30_111;Parent=gene-ASU30_111;Note=tRNA-Gln-TTG%3B trnQ;gbkey=tRNA;locus_tag=ASU30_111;product=tRNA-Gln"
+  },
+  {
+   "contig": "CP013212.1",
+   "start": 125066,
+   "end": 125138,
+   "strand": "-",
+   "product": "tRNA-Arg",
+   "anticodon": "",
+   "note": "tRNA-Arg-ACG%3B trnR",
+   "attr": "ID=rna-ASU30_153;Parent=gene-ASU30_153;Note=tRNA-Arg-ACG%3B trnR;gbkey=tRNA;locus_tag=ASU30_153;product=tRNA-Arg"
+  },
+  {
+   "contig": "CP013212.1",
+   "start": 147932,
+   "end": 148007,
+   "strand": "+",
+   "product": "tRNA-Met",
+   "anticodon": "",
+   "note": "tRNA-Met-CAT%3B trnM",
+   "attr": "ID=rna-ASU30_176;Parent=gene-ASU30_176;Note=tRNA-Met-CAT%3B trnM;gbkey=tRNA;locus_tag=ASU30_176;product=tRNA-Met"
+  },
+  {
+   "contig": "CP013212.1",
+   "start": 148006,
+   "end": 148083,
+   "strand": "+",
+   "product": "tRNA-Asn",
+   "anticodon": "",
+   "note": "tRNA-Asn-GTT%3B trnN",
+   "attr": "ID=rna-ASU30_177;Parent=gene-ASU30_177;Note=tRNA-Asn-GTT%3B trnN;gbkey=tRNA;locus_tag=ASU30_177;product=tRNA-Asn"
+  },
+  {
+   "contig": "CP013212.1",
+   "start": 152646,
+   "end": 152719,
+   "strand": "-",
+   "product": "tRNA-Cys",
+   "anticodon": "",
+   "note": "tRNA-Cys-GCA%3B trnC",
+   "attr": "ID=rna-ASU30_182;Parent=gene-ASU30_182;Note=tRNA-Cys-GCA%3B trnC;gbkey=tRNA;locus_tag=ASU30_182;product=tRNA-Cys"
+  },
+  {
+   "contig": "CP013212.1",
+   "start": 169093,
+   "end": 169164,
+   "strand": "+",
+   "product": "tRNA-Phe",
+   "anticodon": "",
+   "note": "tRNA-Phe-GAA%3B trnF",
+   "attr": "ID=rna-ASU30_199;Parent=gene-ASU30_199;Note=tRNA-Phe-GAA%3B trnF;gbkey=tRNA;locus_tag=ASU30_199;product=tRNA-Phe"
+  },
+  {
+   "contig": "CP013212.1",
+   "start": 171776,
+   "end": 171852,
+   "strand": "-",
+   "product": "tRNA-His",
+   "anticodon": "",
+   "note": "tRNA-His-GTG%3B trnH",
+   "attr": "ID=rna-ASU30_205;Parent=gene-ASU30_205;Note=tRNA-His-GTG%3B trnH;gbkey=tRNA;locus_tag=ASU30_205;product=tRNA-His"
+  },
+  {
+   "contig": "CP013212.1",
+   "start": 183596,
+   "end": 183673,
+   "strand": "-",
+   "product": "tRNA-Trp",
+   "anticodon": "",
+   "note": "tRNA-Trp-CCA%3B trnW",
+   "attr": "ID=rna-ASU30_213;Parent=gene-ASU30_213;Note=tRNA-Trp-CCA%3B trnW;gbkey=tRNA;locus_tag=ASU30_213;product=tRNA-Trp"
+  },
+  {
+   "contig": "CP013212.1",
+   "start": 184890,
+   "end": 184962,
+   "strand": "-",
+   "product": "tRNA-Thr",
+   "anticodon": "",
+   "note": "tRNA-Thr-GGT%3B trnT",
+   "attr": "ID=rna-ASU30_215;Parent=gene-ASU30_215;Note=tRNA-Thr-GGT%3B trnT;gbkey=tRNA;locus_tag=ASU30_215;product=tRNA-Thr"
+  },
+  {
+   "contig": "CP013212.1",
+   "start": 184969,
+   "end": 185041,
+   "strand": "-",
+   "product": "tRNA-Gly",
+   "anticodon": "",
+   "note": "tRNA-Gly-TCC%3B trnG",
+   "attr": "ID=rna-ASU30_216;Parent=gene-ASU30_216;Note=tRNA-Gly-TCC%3B trnG;gbkey=tRNA;locus_tag=ASU30_216;product=tRNA-Gly"
+  },
+  {
+   "contig": "CP013212.1",
+   "start": 185043,
+   "end": 185128,
+   "strand": "-",
+   "product": "tRNA-Tyr",
+   "anticodon": "",
+   "note": "tRNA-Tyr-GTA%3B trnY",
+   "attr": "ID=rna-ASU30_217;Parent=gene-ASU30_217;Note=tRNA-Tyr-GTA%3B trnY;gbkey=tRNA;locus_tag=ASU30_217;product=tRNA-Tyr"
+  },
+  {
+   "contig": "CP013212.1",
+   "start": 185130,
+   "end": 185203,
+   "strand": "-",
+   "product": "tRNA-Thr",
+   "anticodon": "",
+   "note": "tRNA-Thr-TGT%3B trnT",
+   "attr": "ID=rna-ASU30_218;Parent=gene-ASU30_218;Note=tRNA-Thr-TGT%3B trnT;gbkey=tRNA;locus_tag=ASU30_218;product=tRNA-Thr"
+  },
+  {
+   "contig": "CP013212.1",
+   "start": 187431,
+   "end": 187504,
+   "strand": "+",
+   "product": "tRNA-Ile",
+   "anticodon": "",
+   "note": "tRNA-Ile-GAT%3B trnI",
+   "attr": "ID=rna-ASU30_221;Parent=gene-ASU30_221;Note=tRNA-Ile-GAT%3B trnI;gbkey=tRNA;locus_tag=ASU30_221;product=tRNA-Ile"
+  },
+  {
+   "contig": "CP013212.1",
+   "start": 187521,
+   "end": 187594,
+   "strand": "+",
+   "product": "tRNA-Ala",
+   "anticodon": "",
+   "note": "tRNA-Ala-TGC",
+   "attr": "ID=rna-ASU30_222;Parent=gene-ASU30_222;Note=tRNA-Ala-TGC;gbkey=tRNA;locus_tag=ASU30_222;product=tRNA-Ala"
+  }
+ ],
+ "seconds": 88.0413749217987
+}

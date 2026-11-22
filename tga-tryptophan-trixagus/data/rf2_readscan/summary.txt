@@ -1,0 +1,29 @@
+== SRR28034346_Tder (own proteome Tder_dermestoides)
+reads with a hit: 57727 ; best-hit genome: {'Tder_dermestoides': 28117, 'S_bostrichidophilus': 13476, 'Tmey': 4136, 'Tcar_carinifrons': 3514, 'Tser_sericeus': 2109, 'Tduv_duvalii': 1900, 'Aulonothroscus_AUS03': 1805, 'Ttur_turgidus': 1778, 'sp': 892}
+own proteins (>=100 aa): 137 median reads per aa 0.598 -> expected reads for a 345-aa RF2: 206; 10th pct 131
+reads whose best hit is an RF2: 898
+  sp|P07012|RF2_ECOLI          n=892 pident median 81.0 range 41.3-96.0
+  S_bostrichidophilus|0_75     n=6 pident median 44.4 range 39.0-51.4
+  of these, >=60% identity to a Shikimatogenerans RF2: 0
+== SRR28034353_Ttur (own proteome Ttur_turgidus)
+reads with a hit: 88689 ; best-hit genome: {'S_bostrichidophilus': 35522, 'Ttur_turgidus': 23660, 'Tser_sericeus': 5806, 'Aulonothroscus_AUS03': 5436, 'Tder_dermestoides': 4964, 'Tduv_duvalii': 4453, 'Tmey': 4004, 'Tcar_carinifrons': 3872, 'sp': 972}
+own proteins (>=100 aa): 114 median reads per aa 0.514 -> expected reads for a 345-aa RF2: 177; 10th pct 125
+reads whose best hit is an RF2: 1097
+  sp|P07012|RF2_ECOLI          n=972 pident median 68.0 range 44.4-85.3
+  S_bostrichidophilus|0_75     n=125 pident median 44.7 range 37.3-53.3
+  of these, >=60% identity to a Shikimatogenerans RF2: 0
+== SRR28034362_Tser (own proteome Tser_sericeus)
+reads with a hit: 7645 ; best-hit genome: {'Tser_sericeus': 4242, 'Tder_dermestoides': 1551, 'S_bostrichidophilus': 803, 'Ttur_turgidus': 280, 'Tmey': 237, 'Tcar_carinifrons': 181, 'Aulonothroscus_AUS03': 173, 'Tduv_duvalii': 140, 'sp': 38}
+own proteins (>=100 aa): 145 median reads per aa 0.078 -> expected reads for a 345-aa RF2: 27; 10th pct 15
+reads whose best hit is an RF2: 38
+  sp|P07012|RF2_ECOLI          n=38 pident median 94.0 range 52.0-100.0
+  of these, >=60% identity to a Shikimatogenerans RF2: 0
+== SRR28034348_Tcar (own proteome Tcar_carinifrons)
+reads with a hit: 21185 ; best-hit genome: {'Tcar_carinifrons': 11895, 'Tder_dermestoides': 7414, 'Tmey': 639, 'S_bostrichidophilus': 501, 'Tser_sericeus': 233, 'Tduv_duvalii': 186, 'Ttur_turgidus': 166, 'Aulonothroscus_AUS03': 118, 'sp': 33}
+own proteins (>=100 aa): 142 median reads per aa 0.222 -> expected reads for a 345-aa RF2: 77; 10th pct 43
+reads whose best hit is an RF2: 101
+  Tcar_carinifrons|0_130       n=64 pident median 100.0 range 65.3-100.0
+  S_bostrichidophilus|0_75     n=2 pident median 56.7 range 56.7-56.7
+  sp|P07012|RF2_ECOLI          n=33 pident median 88.0 range 39.1-100.0
+  Tmey|0_26                    n=2 pident median 81.6 range 81.6-81.6
+  of these, >=60% identity to a Shikimatogenerans RF2: 66

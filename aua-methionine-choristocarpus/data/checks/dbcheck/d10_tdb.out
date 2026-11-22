@@ -1,0 +1,84 @@
+== q1 organism='Choristocarpus tenellus', databases mttrna,mttrna_rna,trna,trna_rna: total_results=13 returned=13
+   Ala   TGC  db=mt-tRNA_DNA  ref=NC_085326.1; tRNAscan-SE score 2e-06  version=3
+   Asn   GTT  db=mt-tRNA_DNA  ref=NC_085326.1; tRNAscan-SE score 1.1e-10  version=3
+   Cys   GCA  db=mt-tRNA_DNA  ref=NC_085326.1; tRNAscan-SE score 1.9e-06  version=3
+   Gln   TTG  db=mt-tRNA_DNA  ref=NC_085326.1; tRNAscan-SE score 1.2e-08  version=3
+   Glu   TTC  db=mt-tRNA_DNA  ref=NC_085326.1; tRNAscan-SE score 1.3e-06  version=3
+   His   GTG  db=mt-tRNA_DNA  ref=NC_085326.1; tRNAscan-SE score 2.1e-05  version=3
+   Leu2  TAG  db=mt-tRNA_DNA  ref=NC_085326.1; tRNAscan-SE score 2.5e-09  version=3
+   Lys   TTT  db=mt-tRNA_DNA  ref=NC_085326.1; tRNAscan-SE score 1.5e-07  version=3
+   Met   CAT  db=mt-tRNA_DNA  ref=NC_085326.1; tRNAscan-SE score 2.1e-06  version=3
+   Phe   GAA  db=mt-tRNA_DNA  ref=NC_085326.1; tRNAscan-SE score 8.5e-08  version=3
+   Ser2  TGA  db=mt-tRNA_DNA  ref=NC_085326.1; tRNAscan-SE score 1.4e-08  version=3
+   Trp   CCA  db=mt-tRNA_DNA  ref=NC_085326.1; tRNAscan-SE score 2e-06  version=3
+   Tyr   GTA  db=mt-tRNA_DNA  ref=NC_085326.1; tRNAscan-SE score 9.1e-10  version=3
+   amino acids: {'Met': 1, 'His': 1, 'Cys': 1, 'Asn': 1, 'Phe': 1, 'Trp': 1, 'Gln': 1, 'Leu2': 1, 'Tyr': 1, 'Lys': 1, 'Glu': 1, 'Ala': 1, 'Ser2': 1}
+   CAT entries: [('Met', 'CAT')]
+   Ile entries: []
+
+== q3 organism='Discosporangium mesarthrocarpum': total_results=0
+
+== q2 clade='Phaeophyceae', anticodon=CAT: total_results=61 returned=61
+   (amino acid, db) counts: {('Met', 'mt-tRNA_DNA'): 61}
+   organisms: 61
+   Agarum clathratum                        ['Met']
+   Alaria marginata                         ['Met']
+   Alaria praelonga                         ['Met']
+   Aureophycus aleuticus                    ['Met']
+   Chorda asiatica                          ['Met']
+   Choristocarpus tenellus                  ['Met']
+   Cladosiphon okamuranus                   ['Met']
+   Coccophora langsdorfii                   ['Met']
+   Colpomenia peregrina                     ['Met']
+   Costaria costata                         ['Met']
+   Cutleria multifida                       ['Met']
+   Desmarestia aculeata                     ['Met']
+   Desmarestia viridis                      ['Met']
+   Dictyopteris divaricata                  ['Met']
+   Dictyota dichotoma                       ['Met']
+   Dictyotopsis propagulifera               ['Met']
+   Ecklonia cava                            ['Met']
+   Ectocarpus siliculosus                   ['Met']
+   Egregia menziesii                        ['Met']
+   Eisenia bicyclis                         ['Met']
+   Ishige okamurae                          ['Met']
+   Laminaria rodriguezii                    ['Met']
+   Laminaria solidungula                    ['Met']
+   Lessonia flavicans                       ['Met']
+   Lessonia nigrescens                      ['Met']
+   Lessonia spicata                         ['Met']
+   Macrocystis integrifolia                 ['Met']
+   Macrocystis pyrifera                     ['Met']
+   Microzonia abyssicola                    ['Met']
+   Myagropsis myagroides                    ['Met']
+   Nereocystis luetkeana                    ['Met']
+   Petalonia binghamiae                     ['Met']
+   Petalonia fascia                         ['Met']
+   Pleurocladia lacustris                   ['Met']
+   Saccharina angustata                     ['Met']
+   Saccharina coriacea                      ['Met']
+   Saccharina diabolica                     ['Met']
+   Saccharina japonica                      ['Met']
+   Saccharina japonica x Saccharina latissima ['Met']
+   Saccharina japonica x Saccharina longissima ['Met']
+   Saccharina longipedalis                  ['Met']
+   Saccharina longissima                    ['Met']
+   Saccharina ochotensis                    ['Met']
+   Saccharina religiosa                     ['Met']
+   Saccharina sculpera                      ['Met']
+   Saccharina sp.                           ['Met']
+   Saccharina sp. ye-B                      ['Met']
+   Saccharina sp. ye-C12                    ['Met']
+   Sargassum aquifolium                     ['Met']
+   Sargassum feldmannii                     ['Met']
+   Sargassum graminifolium                  ['Met']
+   Sargassum horneri                        ['Met']
+   Sargassum ilicifolium var. conduplicatum ['Met']
+   Sargassum macrocarpum                    ['Met']
+   Sargassum natans                         ['Met']
+   Sargassum nigrifolium                    ['Met']
+   Sargassum vachellianum                   ['Met']
+   Scytosiphon lomentaria                   ['Met']
+   Sporochnus bolleanus                     ['Met']
+   Turbinaria ornata                        ['Met']
+   Undaria peterseniana                     ['Met']

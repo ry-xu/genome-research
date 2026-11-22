@@ -1,0 +1,7 @@
+Trichosporonales	genomes 22	AGA@Ala 16 AGA@Arg 0 syn@Ala 0 syn@Arg 53	p 5.2e-16
+Tremellales	genomes 32	AGA@Ala 11 AGA@Arg 0 syn@Ala 0 syn@Arg 55	p 9.3e-13
+Tilletiales	genomes 8	AGA@Ala 6 AGA@Arg 1 syn@Ala 0 syn@Arg 51	p 1.7e-07
+Cystobasidiales	genomes 5	AGA@Ala 5 AGA@Arg 3 syn@Ala 0 syn@Arg 50	p 1.2e-05
+Sporidiobolales	genomes 21	AGA@Ala 1 AGA@Arg 0 syn@Ala 0 syn@Arg 51	p 0.019
+
+[exited with code 0]

@@ -1,0 +1,8 @@
+GCA_040211365.2 reads from SRR28034346 (first 4000000 spots): 35136 mapped reads (<= 3% mismatches)
+in-frame TGA sites: 174; covered by >= 3 reads: 168 (median depth 26)
+TGA in >= 90% of reads: 156; mixed: 12; TGA in <= 10%: 0
+other codons at non-fixed TGA sites: [('TAA', 19), ('TTA', 11), ('AGA', 5), ('AAA', 1)]
+control:
+in-frame TGG sites: 34; covered by >= 3 reads: 30 (median depth 27)
+TGG in >= 90% of reads: 27; mixed: 3; TGG in <= 10%: 0
+other codons at non-fixed TGG sites: [('TGA', 8), ('TAG', 7), ('TGT', 1)]

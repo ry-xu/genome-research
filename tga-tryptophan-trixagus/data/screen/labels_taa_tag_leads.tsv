@@ -1,0 +1,33 @@
+acc	stop	known	ncbi_gcode	organism	lineage	project	source
+GCA_000180335.1		CHECK	11	Salmonella enterica subsp. enterica serovar Typhi str. M223	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Salmonella;Salmonella enterica	PRJEA28305	
+GCA_000776525.1		CHECK	11	Escherichia coli	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli	PRJNA248737	patient with urinary tract infection
+GCA_000778615.1		CHECK	11	Escherichia coli	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli	PRJNA248737	patient with urinary tract infection
+GCA_000947375.1		CHECK	11	Escherichia coli	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli	PRJEB8306	
+GCA_001252575.1		CHECK	11	Shigella sonnei	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Shigella;Shigella sonnei	PRJEB2128	feces
+GCA_001256535.1		CHECK	11	Shigella sonnei	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Shigella;Shigella sonnei	PRJEB2128	feces
+GCA_001445715.1		CHECK	11	Escherichia coli K1	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli	PRJNA257959	Enteral feeding tube
+GCA_001445725.1		CHECK	11	Escherichia coli K1	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli	PRJNA257956	Enteral feeding tube
+GCA_002291365.1		CHECK	11	Brucella abortus	Bacteria;Pseudomonadota;Alphaproteobacteria;Hyphomicrobiales;Brucellaceae;Brucella;Brucella abortus	PRJNA400357	lymph node
+GCA_003149995.1		CHECK	11	Escherichia coli	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli	PRJNA397219	feces
+GCA_004402925.1		CHECK					
+GCA_009691035.1		CHECK					
+GCA_015694255.1		CHECK	11	Escherichia coli	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli	PRJNA669537	blood
+GCA_017539955.1		CHECK					
+GCA_019054195.1		CHECK	11	Escherichia coli	Bacteria;Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli	PRJNA739673	fester
+GCA_019653275.1		CHECK	11	bacterium	Bacteria;bacterium	PRJDB11069	marine water
+GCA_022754225.1		CHECK	11	Lactobacillus crispatus	Bacteria;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus crispatus	PRJNA799626	ectocervical mucosa
+GCA_022755025.1		CHECK	11	Lactobacillus crispatus	Bacteria;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus crispatus	PRJNA799626	ectocervical mucosa
+GCA_022755125.1		CHECK	11	Lactobacillus crispatus	Bacteria;Bacillota;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus crispatus	PRJNA799626	ectocervical mucosa
+GCA_024179055.1		CHECK					
+GCA_028388295.1		CHECK					
+GCA_029068825.1		CHECK					
+GCA_040947005.1		CHECK	11	Burkholderia sp.	Bacteria;Pseudomonadota;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;Burkholderia sp.	PRJNA1054523	Accessory glands from 6 females
+GCA_042683765.1		CHECK	11	Sphingobium scionense	Bacteria;Pseudomonadota;Alphaproteobacteria;Sphingomonadales;Sphingobiaceae;Sphingobium;Sphingobium scionense	PRJNA595761	missing
+GCA_046086445.1		CHECK					
+GCA_047430875.1		CHECK	11	Helicobacter pylori	Bacteria;Campylobacterota;Epsilonproteobacteria;Campylobacterales;Helicobacteraceae;Helicobacter;Helicobacter pylori	PRJNA1037030	stomach
+GCA_902513995.1		CHECK					
+GCA_902614515.1		CHECK					
+GCA_947474925.1		CHECK					
+GCA_947576365.1		CHECK					
+GCA_958434395.1		CHECK	11	Faecalibacterium prausnitzii	Bacteria;Bacillota;Clostridia;Eubacteriales;Oscillospiraceae;Faecalibacterium;Faecalibacterium prausnitzii	PRJEB63161	human feces metagenome
+GCA_964203585.1		CHECK					

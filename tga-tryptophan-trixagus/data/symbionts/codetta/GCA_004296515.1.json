@@ -1,0 +1,342 @@
+{
+ "acc": "GCA_004296515.1",
+ "size": 226299,
+ "gc": 0.17399988510775566,
+ "n_domains": 221,
+ "n_pfams": 191,
+ "code": "FFLLSSS?YY??CC?WL?L?PPPPHHQQR???I?IMTTTTNNKKS?RRV?V?AAAADDEEGGGG",
+ "nonstandard": [],
+ "trnas": [
+  {
+   "contig": "AP018160.1",
+   "start": 3570,
+   "end": 3654,
+   "strand": "-",
+   "product": "tRNA-Ser",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARPIN1_00030;Parent=gene-NARPIN1_00030;gbkey=tRNA;locus_tag=NARPIN1_00030;product=tRNA-Ser"
+  },
+  {
+   "contig": "AP018160.1",
+   "start": 26528,
+   "end": 26599,
+   "strand": "-",
+   "product": "tRNA-Trp",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARPIN1_00220;Parent=gene-NARPIN1_00220;gbkey=tRNA;locus_tag=NARPIN1_00220;product=tRNA-Trp"
+  },
+  {
+   "contig": "AP018160.1",
+   "start": 29697,
+   "end": 29768,
+   "strand": "-",
+   "product": "tRNA-Glu",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARPIN1_00250;Parent=gene-NARPIN1_00250;gbkey=tRNA;locus_tag=NARPIN1_00250;product=tRNA-Glu"
+  },
+  {
+   "contig": "AP018160.1",
+   "start": 31948,
+   "end": 32020,
+   "strand": "+",
+   "product": "tRNA-Phe",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARPIN1_00280;Parent=gene-NARPIN1_00280;gbkey=tRNA;locus_tag=NARPIN1_00280;product=tRNA-Phe"
+  },
+  {
+   "contig": "AP018160.1",
+   "start": 35400,
+   "end": 35473,
+   "strand": "-",
+   "product": "tRNA-Ile",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARPIN1_00320;Parent=gene-NARPIN1_00320;gbkey=tRNA;locus_tag=NARPIN1_00320;product=tRNA-Ile"
+  },
+  {
+   "contig": "AP018160.1",
+   "start": 66561,
+   "end": 66631,
+   "strand": "-",
+   "product": "tRNA-Gln",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARPIN1_00610;Parent=gene-NARPIN1_00610;gbkey=tRNA;locus_tag=NARPIN1_00610;product=tRNA-Gln"
+  },
+  {
+   "contig": "AP018160.1",
+   "start": 66644,
+   "end": 66717,
+   "strand": "-",
+   "product": "tRNA-Leu",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARPIN1_00620;Parent=gene-NARPIN1_00620;gbkey=tRNA;locus_tag=NARPIN1_00620;product=tRNA-Leu"
+  },
+  {
+   "contig": "AP018160.1",
+   "start": 66730,
+   "end": 66804,
+   "strand": "-",
+   "product": "tRNA-Met",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARPIN1_00630;Parent=gene-NARPIN1_00630;gbkey=tRNA;locus_tag=NARPIN1_00630;product=tRNA-Met"
+  },
+  {
+   "contig": "AP018160.1",
+   "start": 75947,
+   "end": 76018,
+   "strand": "-",
+   "product": "tRNA-Arg",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARPIN1_00730;Parent=gene-NARPIN1_00730;gbkey=tRNA;locus_tag=NARPIN1_00730;product=tRNA-Arg"
+  },
+  {
+   "contig": "AP018160.1",
+   "start": 87501,
+   "end": 87583,
+   "strand": "+",
+   "product": "tRNA-Ser",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARPIN1_00830;Parent=gene-NARPIN1_00830;gbkey=tRNA;locus_tag=NARPIN1_00830;product=tRNA-Ser"
+  },
+  {
+   "contig": "AP018160.1",
+   "start": 87586,
+   "end": 87659,
+   "strand": "+",
+   "product": "tRNA-Arg",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARPIN1_00840;Parent=gene-NARPIN1_00840;gbkey=tRNA;locus_tag=NARPIN1_00840;product=tRNA-Arg"
+  },
+  {
+   "contig": "AP018160.1",
+   "start": 87723,
+   "end": 87795,
+   "strand": "+",
+   "product": "tRNA-Thr",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARPIN1_00850;Parent=gene-NARPIN1_00850;gbkey=tRNA;locus_tag=NARPIN1_00850;product=tRNA-Thr"
+  },
+  {
+   "contig": "AP018160.1",
+   "start": 87822,
+   "end": 87904,
+   "strand": "+",
+   "product": "tRNA-Tyr",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARPIN1_00860;Parent=gene-NARPIN1_00860;gbkey=tRNA;locus_tag=NARPIN1_00860;product=tRNA-Tyr"
+  },
+  {
+   "contig": "AP018160.1",
+   "start": 87917,
+   "end": 87987,
+   "strand": "+",
+   "product": "tRNA-Gly",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARPIN1_00870;Parent=gene-NARPIN1_00870;gbkey=tRNA;locus_tag=NARPIN1_00870;product=tRNA-Gly"
+  },
+  {
+   "contig": "AP018160.1",
+   "start": 87998,
+   "end": 88072,
+   "strand": "+",
+   "product": "tRNA-Thr",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARPIN1_00880;Parent=gene-NARPIN1_00880;gbkey=tRNA;locus_tag=NARPIN1_00880;product=tRNA-Thr"
+  },
+  {
+   "contig": "AP018160.1",
+   "start": 142785,
+   "end": 142872,
+   "strand": "+",
+   "product": "tRNA-Ser",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARPIN1_01560;Parent=gene-NARPIN1_01560;gbkey=tRNA;locus_tag=NARPIN1_01560;product=tRNA-Ser"
+  },
+  {
+   "contig": "AP018160.1",
+   "start": 148365,
+   "end": 148435,
+   "strand": "+",
+   "product": "tRNA-Thr",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARPIN1_01630;Parent=gene-NARPIN1_01630;gbkey=tRNA;locus_tag=NARPIN1_01630;product=tRNA-Thr"
+  },
+  {
+   "contig": "AP018160.1",
+   "start": 148467,
+   "end": 148555,
+   "strand": "+",
+   "product": "tRNA-Ser",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARPIN1_01640;Parent=gene-NARPIN1_01640;gbkey=tRNA;locus_tag=NARPIN1_01640;product=tRNA-Ser"
+  },
+  {
+   "contig": "AP018160.1",
+   "start": 153075,
+   "end": 153148,
+   "strand": "+",
+   "product": "tRNA-Asp",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARPIN1_01690;Parent=gene-NARPIN1_01690;gbkey=tRNA;locus_tag=NARPIN1_01690;product=tRNA-Asp"
+  },
+  {
+   "contig": "AP018160.1",
+   "start": 156363,
+   "end": 156434,
+   "strand": "+",
+   "product": "tRNA-Asn",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARPIN1_01720;Parent=gene-NARPIN1_01720;gbkey=tRNA;locus_tag=NARPIN1_01720;product=tRNA-Asn"
+  },
+  {
+   "contig": "AP018160.1",
+   "start": 156442,
+   "end": 156514,
+   "strand": "+",
+   "product": "tRNA-His",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARPIN1_01730;Parent=gene-NARPIN1_01730;gbkey=tRNA;locus_tag=NARPIN1_01730;product=tRNA-His"
+  },
+  {
+   "contig": "AP018160.1",
+   "start": 156565,
+   "end": 156638,
+   "strand": "+",
+   "product": "tRNA-Pro",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARPIN1_01740;Parent=gene-NARPIN1_01740;gbkey=tRNA;locus_tag=NARPIN1_01740;product=tRNA-Pro"
+  },
+  {
+   "contig": "AP018160.1",
+   "start": 158133,
+   "end": 158206,
+   "strand": "+",
+   "product": "tRNA-Val",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARPIN1_01760;Parent=gene-NARPIN1_01760;gbkey=tRNA;locus_tag=NARPIN1_01760;product=tRNA-Val"
+  },
+  {
+   "contig": "AP018160.1",
+   "start": 158211,
+   "end": 158284,
+   "strand": "+",
+   "product": "tRNA-Lys",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARPIN1_01770;Parent=gene-NARPIN1_01770;gbkey=tRNA;locus_tag=NARPIN1_01770;product=tRNA-Lys"
+  },
+  {
+   "contig": "AP018160.1",
+   "start": 174285,
+   "end": 174357,
+   "strand": "-",
+   "product": "tRNA-Met",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARPIN1_01900;Parent=gene-NARPIN1_01900;gbkey=tRNA;locus_tag=NARPIN1_01900;product=tRNA-Met"
+  },
+  {
+   "contig": "AP018160.1",
+   "start": 177088,
+   "end": 177171,
+   "strand": "+",
+   "product": "tRNA-Leu",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARPIN1_01920;Parent=gene-NARPIN1_01920;gbkey=tRNA;locus_tag=NARPIN1_01920;product=tRNA-Leu"
+  },
+  {
+   "contig": "AP018160.1",
+   "start": 186651,
+   "end": 186721,
+   "strand": "+",
+   "product": "tRNA-Gly",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARPIN1_02050;Parent=gene-NARPIN1_02050;gbkey=tRNA;locus_tag=NARPIN1_02050;product=tRNA-Gly"
+  },
+  {
+   "contig": "AP018160.1",
+   "start": 186726,
+   "end": 186796,
+   "strand": "+",
+   "product": "tRNA-Cys",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARPIN1_02060;Parent=gene-NARPIN1_02060;gbkey=tRNA;locus_tag=NARPIN1_02060;product=tRNA-Cys"
+  },
+  {
+   "contig": "AP018160.1",
+   "start": 186803,
+   "end": 186883,
+   "strand": "+",
+   "product": "tRNA-Leu",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARPIN1_02070;Parent=gene-NARPIN1_02070;gbkey=tRNA;locus_tag=NARPIN1_02070;product=tRNA-Leu"
+  },
+  {
+   "contig": "AP018160.1",
+   "start": 209568,
+   "end": 209647,
+   "strand": "+",
+   "product": "tRNA-Leu",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARPIN1_02370;Parent=gene-NARPIN1_02370;gbkey=tRNA;locus_tag=NARPIN1_02370;product=tRNA-Leu"
+  },
+  {
+   "contig": "AP018160.1",
+   "start": 209692,
+   "end": 209765,
+   "strand": "+",
+   "product": "tRNA-Met",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARPIN1_02380;Parent=gene-NARPIN1_02380;gbkey=tRNA;locus_tag=NARPIN1_02380;product=tRNA-Met"
+  },
+  {
+   "contig": "AP018160.1",
+   "start": 221073,
+   "end": 221144,
+   "strand": "+",
+   "product": "tRNA-Ala",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARPIN1_02480;Parent=gene-NARPIN1_02480;gbkey=tRNA;locus_tag=NARPIN1_02480;product=tRNA-Ala"
+  },
+  {
+   "contig": "AP018160.1",
+   "start": 224244,
+   "end": 224315,
+   "strand": "+",
+   "product": "tRNA-Trp",
+   "anticodon": "",
+   "note": "",
+   "attr": "ID=rna-NARPIN1_02510;Parent=gene-NARPIN1_02510;gbkey=tRNA;locus_tag=NARPIN1_02510;product=tRNA-Trp"
+  }
+ ],
+ "seconds": 70.04292106628418
+}

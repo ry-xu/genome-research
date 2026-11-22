@@ -1,0 +1,70 @@
+atp9	67	AGG	mito_Oth_atp9:66	M		1	1	{}
+cob	67	AGG	mito_Vir_cob:75	M	strict	1	1	{}
+cob	219	AGG	mito_Vir_cob:227	F		1	1	{}
+cob	293	AGG	mito_Vir_cob:301	I		1	1	{}
+cob	294	AGG	mito_Vir_cob:302	A		1	1	{}
+cox1	61	AGG	mito_Vir_cox1:67	G		1	1	{}
+cox1	78	AGG	mito_Vir_cox1:84	M	strict	7	7	{}
+cox1	191	AGG	mito_Vir_cox1:197	M		4	4	{}
+cox1	289	AGG	mito_Vir_cox1:295	M	strict	2	2	{}
+cox1	304	AGG	mito_Vir_cox1:310	M	strict	2	2	{}
+cox1	309	AGG	mito_Vir_cox1:315	L		1	1	{}
+cox1	339	AGG	mito_Vir_cox1:345	M		7	7	{}
+cox1	448	AGG	mito_Vir_cox1:454	M		5	5	{}
+cox1	475	AGG	mito_Vir_cox1:481	V		2	2	{}
+cox3	93	AGG	mito_Oth_cox3:100	M		2	2	{}
+nad1	238	AGG	mito_Oth_nad1:239	I		3	3	{}
+nad1	241	AGG	mito_Oth_nad1:242	M		1	1	{}
+nad2	14	AGG	mito_Oth_nad2:92	L		0	0	{}
+nad2	23	AGG	mito_Oth_nad2:101	L		0	0	{}
+nad2	38	AGG	mito_Oth_nad2:117	L		0	0	{}
+nad2	101	AGG	mito_Oth_nad2:181	S		0	0	{}
+nad2	130	AGG	mito_Oth_nad2:210	L		0	0	{}
+nad2	138	AGG	mito_Oth_nad2:218	L		0	0	{}
+nad2	243	AGG	mito_Oth_nad2:327	T		0	0	{}
+nad2	338	AGG	mito_Oth_nad2:426	L		1	1	{}
+nad2	359	AGG	mito_Oth_nad2:445	L		0	0	{}
+nad2	377	AGG	mito_Oth_nad2:463	A		1	1	{}
+nad2	422	AGG	mito_Oth_nad2:508	G		0	0	{}
+nad4	47	AGG	mito_Oth_nad4:45	L		0	0	{}
+nad4	55	AGG	mito_Oth_nad4:53	F		0	0	{}
+nad4	227	AGG	mito_Oth_nad4:225	M		0	0	{}
+nad4	228	AGG	mito_Oth_nad4:226	I		0	0	{}
+nad4	248	AGG	mito_Oth_nad4:246	I		0	0	{}
+nad4	313	AGG	mito_Oth_nad4:311	M	strict	1	1	{}
+nad4	335	AGG	mito_Oth_nad4:333	M		0	0	{}
+nad4	348	AGG	mito_Oth_nad4:346	A		0	0	{}
+nad4	371	AGG	mito_Oth_nad4:369	M		0	0	{}
+nad4	379	AGG	mito_Oth_nad4:377	L		0	0	{}
+nad4L	9	AGG	mito_Oth_nad4l:9	N		0	0	{}
+nad4L	34	AGG	mito_Oth_nad4l:34	M		0	0	{}
+nad4L	39	AGG	mito_Oth_nad4l:39	M		0	0	{}
+nad5	35	AGG	mito_Oth_nad5:36	V		0	0	{}
+nad5	43	AGG	mito_Oth_nad5:44	F		0	0	{}
+nad5	84	AGG	mito_Oth_nad5:85	M		0	0	{}
+nad5	103	AGG	mito_Oth_nad5:104	M	strict	0	0	{}
+nad5	123	AGG	mito_Oth_nad5:124	M	strict	0	0	{}
+nad5	230	AGG	mito_Oth_nad5:231	V		0	0	{}
+nad5	615	AGG	mito_Oth_nad5:616	L		0	0	{}
+nad6	24	AGG	mito_Oth_nad6:35	S		2	2	{}
+nad6	48	AGG	mito_Oth_nad6:59	L		2	2	{}
+rps3	179	AGG	mito_Oth_rps3:157	K		0	0	{}
+rps3	225	AGG	mito_Oth_rps3:189	R		0	0	{}
+-- totals (codon, consensus): reads, same, top other triplets
+('AGA', '*')	14	14	1.000	{}
+('AGG', 'A')	2	2	1.000	{}
+('AGG', 'F')	1	1	1.000	{}
+('AGG', 'G')	1	1	1.000	{}
+('AGG', 'I')	4	4	1.000	{}
+('AGG', 'K')	0	0	-	{}
+('AGG', 'L')	4	4	1.000	{}
+('AGG', 'M')	33	33	1.000	{}
+('AGG', 'N')	0	0	-	{}
+('AGG', 'R')	0	0	-	{}
+('AGG', 'S')	2	2	1.000	{}
+('AGG', 'T')	0	0	-	{}
+('AGG', 'V')	2	2	1.000	{}
+('ATA', '*')	112	111	0.991	{'ATG': 1}
+('ATG', '*')	68	68	1.000	{}
+('CGA', '*')	16	16	1.000	{}
+('CGT', '*')	18	18	1.000	{}

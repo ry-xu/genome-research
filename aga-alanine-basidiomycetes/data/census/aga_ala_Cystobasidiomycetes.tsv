@@ -1,0 +1,9 @@
+AGA (std R) vs synonyms ['CGT', 'CGC', 'CGA', 'CGG', 'AGG'] at strict A / R columns; 6 genomes
+acc	table	genus	codon@Y	codon@STD	syn@Y	syn@STD	p
+MT366950.1	4	Cystobasidium	3	3	0	46	9.0e-04
+BK072865.1	4	Cystobasidiaceae	3	0	0	50	4.3e-05
+BK072866.1	4	Cystobasidium	2	0	0	50	7.5e-04
+BK072867.1	4	Cystobasidium	2	0	0	49	7.8e-04
+BK072868.1	4	Cystobasidium	2	0	0	49	7.8e-04
+CM018325.1	4	Symmetrospora	0	0	0	49	1.0e+00
+pooled			12	3	0	293	3.7e-19

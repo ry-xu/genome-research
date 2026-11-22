@@ -1,0 +1,162 @@
+IQ-TREE 3.1.4 built Sep 10 2026
+
+Input file name: concat.faa
+Type of analysis: tree reconstruction
+Random seed number: 899579
+
+REFERENCES
+----------
+
+To cite IQ-TREE 3 please use:
+
+Thomas K.F. Wong, Nhan Ly-Trong, Huaiyan Ren, Piyumal Demotte, Hector Banos,
+Andrew J. Roger, Edward Susko, Chris Bielow, Nicola De Maio, Nick Goldman,
+Matthew W. Hahn, Mario dos Reis, Le Sy Vinh, Gavin Huttley, Robert Lanfear, Bui Quang Minh (2026)
+IQ-TREE 3: Phylogenomic Inference Software using Complex Evolutionary Models.
+Molecular Biology and Evolution, msag117.
+https://doi.org/10.1093/molbev/msag117
+
+SEQUENCE ALIGNMENT
+------------------
+
+NOTE: Alignment sequence type is auto-detected. If in doubt, specify it via -st option.
+Input data: 8 sequences with 34439 amino-acid sites
+Number of constant sites: 12028 (= 34.9255% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 12028 (= 34.9255% of all sites)
+Number of parsimony informative sites: 10080
+Number of distinct site patterns: 15977
+
+SUBSTITUTION PROCESS
+--------------------
+
+Mixture model of substitution: MIX{LG+F+F,LG+FC20pi1,LG+FC20pi2,LG+FC20pi3,LG+FC20pi4,LG+FC20pi5,LG+FC20pi6,LG+FC20pi7,LG+FC20pi8,LG+FC20pi9,LG+FC20pi10,LG+FC20pi11,LG+FC20pi12,LG+FC20pi13,LG+FC20pi14,LG+FC20pi15,LG+FC20pi16,LG+FC20pi17,LG+FC20pi18,LG+FC20pi19,LG+FC20pi20}+G4
+
+  No  Component      Rate    Weight   Parameters
+   1  LG+F          1.0000   0.9293   LG+F+F
+   2  LG+FC20pi1    1.0000   0.0094   LG+FC20pi1
+   3  LG+FC20pi2    1.0000   0.0055   LG+FC20pi2
+   4  LG+FC20pi3    1.0000   0.0121   LG+FC20pi3
+   5  LG+FC20pi4    1.0000   0.0000   LG+FC20pi4
+   6  LG+FC20pi5    1.0000   0.0011   LG+FC20pi5
+   7  LG+FC20pi6    1.0000   0.0000   LG+FC20pi6
+   8  LG+FC20pi7    1.0000   0.0015   LG+FC20pi7
+   9  LG+FC20pi8    1.0000   0.0000   LG+FC20pi8
+  10  LG+FC20pi9    1.0000   0.0000   LG+FC20pi9
+  11  LG+FC20pi10   1.0000   0.0096   LG+FC20pi10
+  12  LG+FC20pi11   1.0000   0.0000   LG+FC20pi11
+  13  LG+FC20pi12   1.0000   0.0000   LG+FC20pi12
+  14  LG+FC20pi13   1.0000   0.0034   LG+FC20pi13
+  15  LG+FC20pi14   1.0000   0.0137   LG+FC20pi14
+  16  LG+FC20pi15   1.0000   0.0028   LG+FC20pi15
+  17  LG+FC20pi16   1.0000   0.0085   LG+FC20pi16
+  18  LG+FC20pi17   1.0000   0.0021   LG+FC20pi17
+  19  LG+FC20pi18   1.0000   0.0000   LG+FC20pi18
+  20  LG+FC20pi19   1.0000   0.0000   LG+FC20pi19
+  21  LG+FC20pi20   1.0000   0.0010   LG+FC20pi20
+
+Model for mixture component 1: LG+F
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.0154
+  pi(R) = 0.0216
+  pi(N) = 0.1222
+  pi(D) = 0.0269
+  pi(C) = 0.0095
+  pi(Q) = 0.0145
+  pi(E) = 0.0283
+  pi(G) = 0.0382
+  pi(H) = 0.0098
+  pi(I) = 0.1691
+  pi(L) = 0.0913
+  pi(K) = 0.1910
+  pi(M) = 0.0124
+  pi(F) = 0.0540
+  pi(P) = 0.0184
+  pi(S) = 0.0449
+  pi(T) = 0.0295
+  pi(W) = 0.0044
+  pi(Y) = 0.0739
+  pi(V) = 0.0246
+
+
+Model of rate heterogeneity: Gamma with 4 categories
+Gamma shape alpha: 0.6207
+
+ Category  Relative_rate  Proportion
+  1         0.0574         0.2500
+  2         0.3236         0.2500
+  3         0.8915         0.2500
+  4         2.7275         0.2500
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+STARTING TREE
+-------------
+
+Log-likelihood of the tree: -310811.3973 (s.e. 1007.2158)
+Unconstrained log-likelihood (without tree): -278809.5610
+Number of free parameters (#branches + #model parameters): 53
+Akaike information criterion (AIC) score: 621728.7946
+Corrected Akaike information criterion (AICc) score: 621728.9610
+Bayesian information criterion (BIC) score: 622176.4826
+
+Total tree length (sum of branch lengths): 4.1682
+Sum of internal branch lengths: 0.4984 (11.9572% of tree length)
+
+NOTE: Tree is UNROOTED although outgroup taxon 'Tcar_carinifrons' is drawn at root
+
++--Tcar_carinifrons
+|
+|     +-------Tser_sericeus
+|  +--|
+|  |  +-------Tduv_duvalii
++--|
+|  |      +-------------Ttur_turgidus
+|  +------|
+|         |  +----------------Aulonothroscus_AUS03
+|         +--|
+|            +----------------------------------------------S_bostrichidophilus
+|
+|  +--Tder_dermestoides
++--|
+   +---Tmey
+
+Tree in newick format:
+
+(Tcar_carinifrons:0.1358689914,((Tser_sericeus:0.2804597483,Tduv_duvalii:0.3029217113):0.0463220400,(Ttur_turgidus:0.4818777849,(Aulonothroscus_AUS03:0.6006659422,S_bostrichidophilus:1.6311336751):0.0610610866):0.2603064363):0.1072123399,(Tder_dermestoides:0.0989275300,Tmey:0.1379274021):0.0234951486);
+
+
+USER TREES
+----------
+
+See c20au/test.trees for trees with branch lengths.
+
+Tree      logL    deltaL  bp-RELL    p-KH     p-SH       c-ELW       p-AU
+-------------------------------------------------------------------------
+  1 -310765.3932       0   0.887 +  0.885 +      1 +     0.887 +        1 + 
+  2 -310811.3975  46.004   0.113 +  0.115 +  0.422 +     0.113 +    0.109 + 
+  3 -314268.9321  3503.5       0 -      0 -      0 -         0 -    2e-53 - 
+
+deltaL  : logL difference from the maximal logl in the set.
+bp-RELL : bootstrap proportion using RELL method (Kishino et al. 1990).
+p-KH    : p-value of one sided Kishino-Hasegawa test (1989).
+p-SH    : p-value of Shimodaira-Hasegawa test (2000).
+c-ELW   : Expected Likelihood Weight (Strimmer & Rambaut 2002).
+p-AU    : p-value of approximately unbiased (AU) test (Shimodaira, 2002).
+
+Plus signs denote the 95% confidence sets.
+Minus signs denote significant exclusion.
+All tests performed 10000 resamplings using the RELL method.
+
+ALISIM COMMAND
+--------------
+Currently, we only support exporting AliSim commands automatically from the analysis for common models of DNA, Protein, Binary, and Morphological data. To simulate data from other models (mixture, lie-markov, etc), please refer to the User Manual of AliSim. Thanks!
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Wed Nov 11 18:34:58 2026
+Total CPU time used: 287 seconds (0h:4m:47s)
+Total wall-clock time used: 1.16e+03 seconds (0h:19m:20s)
+

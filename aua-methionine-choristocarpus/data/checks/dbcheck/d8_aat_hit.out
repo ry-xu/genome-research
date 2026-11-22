@@ -1,0 +1,15 @@
+query NC_085326 trna15 (18773, 18841) len 69 TAATGTGTCACTTAATAAGGTCGATTTTATAATATATAATATCGGAGGTTCAAATCCTCCTCACATTAA
+NC_085326.1.trna15 (18773-18841)	Length: 69 bp
+Type: Ile	Anticodon: AAT at 31-33 (18803-18805)	Score: 20.2
+         *    |    *    |    *    |    *    |    *    |    *    |    *   
+Seq: TAATGTGTCACTTAATAAGGTCgATTTTATAATATATAATATCGGAGGTTCAAATCCTCCtCACATTAA
+Str: >>>>>>>..>>>>....<<<<..>>>.>.......<.<<<...>>>>>.......<<<<<.<<<<<<<.
+top 8 matches (matches / longer length):
+   1.000 (69)  Choristocarpus (Genoscope WGS) 10867-10935 Ile-AAT
+   0.640 (48)  Phaeostrophion 17471-17545 His-GTG
+   0.630 (46)  Choristocarpus (RefSeq) 3110-3182 Asn-GTT
+   0.630 (46)  Discosporangium (WGS contig) 33176-33248 Met-CAT
+   0.630 (46)  Choristocarpus (Genoscope WGS) 27548-27620 Asn-GTT
+   0.614 (51)  Phaeostrophion 29008-29090 Tyr-GTA
+   0.612 (52)  Saccharina 33809-33893 Ser-TGA
+   0.611 (44)  Discosporangium (WGS contig) 14055-14126 Ala-TGC

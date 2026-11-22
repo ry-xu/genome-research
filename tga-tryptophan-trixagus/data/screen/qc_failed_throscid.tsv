@@ -1,0 +1,8 @@
+Accession	NCBI species	GTDB taxonomy	CM1 completeness (%)	CM1 contamination (%)	CM1 quality	CM1 strain heterogeneity at 100%	CM2 completeness (%)	CM2 contamination (%)	CM2 quality	Markers (%)	No. contigs	N50 contigs	Ambiguous bases	Failed CM1 completeness	Failed CM1 contamination	Failed CM1 quality	Failed CM2 completeness	Failed CM2 contamination	Failed CM2 quality	Failed marker percentage	Failed no. contigs	Failed N50 contigs	Failed ambiguous bases	NCBI exclude from RefSeq	Marked in GTDB ledger
+GB_GCA_040211755.2	s__	d__Bacteria; p__; c__; o__; f__; g__; s__	37.05	0.00	37.05	-	68.08	0.20	67.08	36.67	1	162319	0	0	0	0	0	0	0	1	0	0	0	derived from metagenome	False
+GB_GCA_040210545.2	s__	d__Bacteria; p__; c__; o__; f__; g__; s__	30.41	0.00	30.41	-	57.02	0.06	56.72	22.50	1	163308	0	0	0	0	0	0	0	1	0	0	0	derived from metagenome	False
+GB_GCA_040211365.2	s__	d__Bacteria; p__; c__; o__; f__; g__; s__	31.95	0.00	31.95	-	50.11	0.21	49.06	23.33	20	33090	898	1	0	0	0	0	1	1	0	0	0	derived from metagenome	False
+GB_GCA_037094695.1	s__	d__Bacteria; p__; c__; o__; f__; g__; s__	38.26	0.00	38.26	-	86.27	0.17	85.42	36.67	1	161204	0	0	0	0	0	0	0	1	0	0	0	derived from metagenome	False
+GB_GCA_040210955.2	s__	d__Bacteria; p__; c__; o__; f__; g__; s__	37.41	0.00	37.41	-	70.93	0.12	70.33	36.67	5	30370	6	0	0	0	0	0	0	1	0	0	0	derived from metagenome	False
+GB_GCA_040409785.2	s__	d__Bacteria; p__; c__; o__; f__; g__; s__	28.42	0.00	28.42	-	63.10	0.13	62.45	25.83	1	133156	0	0	0	0	0	0	0	1	0	0	0	derived from metagenome	False
+GB_GCA_040212085.2	s__	d__Bacteria; p__; c__; o__; f__; g__; s__	34.01	0.00	34.01	-	87.16	0.15	86.41	35.83	1	155925	11	0	0	0	0	0	0	1	0	0	0	derived from metagenome	False

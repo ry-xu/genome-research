@@ -1,0 +1,127 @@
+
+== target ChorNC (32351 nt): 22 tRNA-like loci (hits >= 50 nt; queries exclude the target's own species)
+  2627-2700 + best Cutleria|35861|MetF 86.486%/74 e=2.06e-21 anticodon(mapped)=CAT | classes hit: MetF | no IleCAU query hit
+  2771-2854 + best Cutleria|3367|trnL-UAA 92.0%/75 e=3.11e-26 anticodon(mapped)=TAA | classes hit: tRNA-Leu,trnL,trnL(caa),trnL(uaa),trnL-CAA,trnL-UAA | no IleCAU query hit
+  2862-2930 + best Cutleria|7822|trnW-CCA 78.788%/66 e=1.14e-11 anticodon(mapped)=CAT | classes hit: MetE,tRNA-Trp,trnW,trnW(cca),trnW-CCA | no IleCAU query hit
+  2947-3008 + best Protohalopteris|2931|tRNA-Thr 91.935%/62 e=2.00e-21 anticodon(mapped)=TGT | classes hit: tRNA-Thr,trnH,trnH(gug),trnH-GUG,trnK(uuu) | no IleCAU query hit
+  3039-3102 + best Saccharina|3741|trnC 77.049%/61 e=8.77e-07 anticodon(mapped)=TGC | classes hit: tRNA-Cys,trnC,trnC(gca),trnC-GCA | no IleCAU query hit
+  3109-3182 + best Cutleria|3606|trnN-GUU 81.081%/74 e=5.36e-16 anticodon(mapped)=GTT | classes hit: tRNA-Asn,tRNA-Phe,trnN,trnN(guu),trnN-GUU,trnR-UCU | no IleCAU query hit
+  3203-3265 + best Fucus|4025|trnF(gaa) 87.719%/57 e=6.31e-15 anticodon(mapped)=GAA | classes hit: tRNA-Ile,tRNA-Phe,trnF,trnF(gaa),trnF-GAA,trnI-GAU | no IleCAU query hit
+  7565-7637 + best Saccharina|8088|trnW 88.889%/72 e=4.54e-23 anticodon(mapped)=CCA | classes hit: MetE,tRNA-Trp,trnD(guc),trnW,trnW(cca),trnW-CCA | no IleCAU query hit
+  7775-7846 + best Cutleria|8136|trnQ-UUG 94.444%/72 e=1.72e-28 anticodon(mapped)=TTG | classes hit: tRNA-Gln,trnQ,trnQ(uug),trnQ-UUG | no IleCAU query hit
+  7847-7927 + best Cutleria|8211|trnL-UAG 90.123%/81 e=6.72e-28 anticodon(mapped)=TAG | classes hit: tRNA-Leu,trnL,trnL(uag),trnL-UAG | no IleCAU query hit
+  9062-9142 + best Phaeostrophion|23868|trnL-CAA 86.585%/82 e=5.24e-23 anticodon(mapped)=CAA | classes hit: tRNA-Leu,trnL,trnL(caa),trnL(uaa),trnL-CAA | no IleCAU query hit
+  10058-10131 + best Cutleria|10567|trnG-GCC 94.521%/73 e=5.01e-29 anticodon(mapped)=GCC | classes hit: tRNA-Asp,tRNA-Gly,tRNA-Ile,tRNA-Thr,tRNA-Val,trnA,trnA(ugc),trnA-UGC,trnD,trnD(guc),trnD-GUC,trnG,trnG(gcc),trnG-GCC,trnG-UCC,trnH,trnH(gug),trnH-GUG,trnI,trnI(gau),trnI-GAU,trnV(uac),trnV-UAC | no IleCAU query hit
+  13890-13972 + best Saccharina|14578|trnY 92.683%/82 e=3.77e-31 anticodon(mapped)=TGT | classes hit: tRNA-Ser,tRNA-Tyr,trnY,trnY(gua),trnY-GUA | no IleCAU query hit
+  15617-15723 + best Saccharina|17865|trnR 78.505%/107 e=3.81e-20 anticodon(mapped)=TCT | classes hit: tRNA-Arg,tRNA-Lys,trnK,trnK(uuu),trnK-UUU,trnR,trnR(ucu),trnR-UCU | no IleCAU query hit
+  18862-18933 + best Phaeostrophion|33725|trnI-GAU 83.333%/72 e=1.24e-17 anticodon(mapped)=GAT | classes hit: tRNA-Ile,tRNA-Val,trnG(gcc),trnI,trnI(gau),trnI-GAU,trnN,trnN(guu),trnN-GUU,trnP(ugg),trnP-UGG,trnV(uac),trnV-UAC | no IleCAU query hit
+  19725-19789 + best Saccharina|2748|trnK 82.143%/56 e=1.41e-10 anticodon(mapped)=TTT | classes hit: tRNA-Asp,tRNA-Lys,tRNA-Phe,trnA,trnD,trnD(guc),trnD-GUC,trnF,trnF(gaa),trnF-GAA,trnK,trnK(uuu),trnK-UUU,trnW,trnW(cca) | no IleCAU query hit
+  24472-24542 + best Phaeostrophion|49402|trnE-UUC 90.625%/64 e=1.90e-21 anticodon(mapped)=TTC | classes hit: tRNA-Glu,trnE,trnE(uuc),trnE-UUC,trnF-AAA | no IleCAU query hit
+  30034-30106 + best Saccharina|37457|trnP 84.615%/65 e=1.78e-15 anticodon(mapped)=TTG | classes hit: tRNA-Thr,trnG,trnH,trnP,trnP(ugg),trnP-UGG | no IleCAU query hit
+  31867-31938 + best Desmarestia|34844|trnA(ugc) 77.778%/72 e=3.98e-11 anticodon(mapped)=TGC | classes hit: tRNA-Ala,tRNA-Val,trnA,trnA(ugc),trnA-UGC,trnG(gcc),trnG-GCC | no IleCAU query hit
+  31949-32033 + best Cutleria|33750|trnS-UGA 91.667%/84 e=1.36e-30 anticodon(mapped)=TGA | classes hit: tRNA-Ser,trnS,trnS(uga),trnS-UGA | no IleCAU query hit
+  32043-32130 + best Phaeostrophion|45009|trnS-GCU 80.682%/88 e=3.60e-19 anticodon(mapped)=GCT | classes hit: trnS,trnS(gcu),trnS-GCU | no IleCAU query hit
+  32149-32218 + best Protohalopteris|3200|tRNA-Val 85.294%/68 e=3.43e-18 anticodon(mapped)=TAC | classes hit: tRNA-Val,trnA,trnI-GAU,trnV,trnV(uac),trnV-UAC | no IleCAU query hit
+
+== target ChorWGS (32342 nt): 22 tRNA-like loci (hits >= 50 nt; queries exclude the target's own species)
+  1166-1246 + best Phaeostrophion|23868|trnL-CAA 86.585%/82 e=5.24e-23 anticodon(mapped)=CAA | classes hit: tRNA-Leu,trnL,trnL(caa),trnL(uaa),trnL-CAA | no IleCAU query hit
+  2160-2233 + best Cutleria|10567|trnG-GCC 94.521%/73 e=5.01e-29 anticodon(mapped)=GCC | classes hit: tRNA-Asp,tRNA-Gly,tRNA-Ile,tRNA-Thr,tRNA-Val,trnA,trnA(ugc),trnA-UGC,trnD,trnD(guc),trnD-GUC,trnG,trnG(gcc),trnG-GCC,trnG-UCC,trnH,trnH(gug),trnH-GUG,trnI,trnI(gau),trnI-GAU,trnV(uac),trnV-UAC | no IleCAU query hit
+  5984-6066 + best Saccharina|14578|trnY 92.683%/82 e=3.77e-31 anticodon(mapped)=TGT | classes hit: tRNA-Ser,tRNA-Tyr,trnY,trnY(gua),trnY-GUA | no IleCAU query hit
+  7711-7817 + best Saccharina|17865|trnR 78.505%/107 e=3.81e-20 anticodon(mapped)=TCT | classes hit: tRNA-Arg,tRNA-Lys,trnK,trnK(uuu),trnK-UUU,trnR,trnR(ucu),trnR-UCU | no IleCAU query hit
+  10956-11027 + best Phaeostrophion|33725|trnI-GAU 83.333%/72 e=1.24e-17 anticodon(mapped)=GAT | classes hit: tRNA-Ile,tRNA-Val,trnG(gcc),trnI,trnI(gau),trnI-GAU,trnN,trnN(guu),trnN-GUU,trnP(ugg),trnP-UGG,trnV(uac),trnV-UAC | no IleCAU query hit
+  11819-11883 + best Saccharina|2748|trnK 82.143%/56 e=1.41e-10 anticodon(mapped)=TTT | classes hit: tRNA-Asp,tRNA-Lys,tRNA-Phe,trnA,trnD,trnD(guc),trnD-GUC,trnF,trnF(gaa),trnF-GAA,trnK,trnK(uuu),trnK-UUU,trnW,trnW(cca) | no IleCAU query hit
+  16563-16633 + best Phaeostrophion|49402|trnE-UUC 90.625%/64 e=1.90e-21 anticodon(mapped)=TTC | classes hit: tRNA-Glu,trnE,trnE(uuc),trnE-UUC,trnF-AAA | no IleCAU query hit
+  22122-22194 + best Saccharina|37457|trnP 84.615%/65 e=1.78e-15 anticodon(mapped)=TTG | classes hit: tRNA-Thr,trnG,trnH,trnP,trnP(ugg),trnP-UGG | no IleCAU query hit
+  23955-24026 + best Desmarestia|34844|trnA(ugc) 77.778%/72 e=3.98e-11 anticodon(mapped)=TGC | classes hit: tRNA-Ala,tRNA-Val,trnA,trnA(ugc),trnA-UGC,trnG(gcc),trnG-GCC | no IleCAU query hit
+  24037-24121 + best Cutleria|33750|trnS-UGA 91.667%/84 e=1.35e-30 anticodon(mapped)=TGA | classes hit: tRNA-Ser,trnS,trnS(uga),trnS-UGA | no IleCAU query hit
+  24131-24218 + best Phaeostrophion|45009|trnS-GCU 80.682%/88 e=3.60e-19 anticodon(mapped)=GCT | classes hit: trnS,trnS(gcu),trnS-GCU | no IleCAU query hit
+  24237-24306 + best Protohalopteris|3200|tRNA-Val 85.294%/68 e=3.43e-18 anticodon(mapped)=TAC | classes hit: tRNA-Val,trnA,trnI-GAU,trnV,trnV(uac),trnV-UAC | no IleCAU query hit
+  27065-27138 + best Cutleria|35861|MetF 86.486%/74 e=2.06e-21 anticodon(mapped)=CAT | classes hit: MetF | no IleCAU query hit
+  27209-27292 + best Cutleria|3367|trnL-UAA 92.0%/75 e=3.11e-26 anticodon(mapped)=TAA | classes hit: tRNA-Leu,trnL,trnL(caa),trnL(uaa),trnL-CAA,trnL-UAA | no IleCAU query hit
+  27300-27368 + best Cutleria|7822|trnW-CCA 78.788%/66 e=1.14e-11 anticodon(mapped)=CAT | classes hit: MetE,tRNA-Trp,trnW,trnW(cca),trnW-CCA | no IleCAU query hit
+  27385-27446 + best Protohalopteris|2931|tRNA-Thr 91.935%/62 e=2.00e-21 anticodon(mapped)=TGT | classes hit: tRNA-Thr,trnH,trnH(gug),trnH-GUG,trnK(uuu) | no IleCAU query hit
+  27477-27540 + best Saccharina|3741|trnC 77.049%/61 e=8.76e-07 anticodon(mapped)=TGC | classes hit: tRNA-Cys,trnC,trnC(gca),trnC-GCA | no IleCAU query hit
+  27547-27620 + best Cutleria|3606|trnN-GUU 81.081%/74 e=5.35e-16 anticodon(mapped)=GTT | classes hit: tRNA-Asn,tRNA-Phe,trnN,trnN(guu),trnN-GUU,trnR-UCU | no IleCAU query hit
+  27641-27703 + best Fucus|4025|trnF(gaa) 87.719%/57 e=6.30e-15 anticodon(mapped)=GAA | classes hit: tRNA-Ile,tRNA-Phe,trnF,trnF(gaa),trnF-GAA,trnI-GAU | no IleCAU query hit
+  31996-32068 + best Saccharina|8088|trnW 88.889%/72 e=4.54e-23 anticodon(mapped)=CCA | classes hit: MetE,tRNA-Trp,trnD(guc),trnW,trnW(cca),trnW-CCA | no IleCAU query hit
+  32206-32277 + best Cutleria|8136|trnQ-UUG 94.444%/72 e=1.72e-28 anticodon(mapped)=TTG | classes hit: tRNA-Gln,trnQ,trnQ(uug),trnQ-UUG | no IleCAU query hit
+  32278-32342 + best Cutleria|8211|trnL-UAG 92.308%/65 e=5.16e-23 anticodon(mapped)=TAG | classes hit: tRNA-Leu,trnL,trnL(uag),trnL-UAG | no IleCAU query hit
+
+== target Dmes (34744 nt): 24 tRNA-like loci (hits >= 50 nt; queries exclude the target's own species)
+  1991-2060 + best ChorNC|18862|trnI-GAU 86.957%/69 e=8.81e-20 anticodon(mapped)=GAT | classes hit: tRNA-Ile,trnI-GAU,trnV,trnV-UAC | no IleCAU query hit
+  6601-6671 + best ChorNC|24472|trnE-UUC 85.915%/71 e=8.81e-20 anticodon(mapped)=TTC | classes hit: tRNA-Glu,trnE,trnE(uuc),trnE-UUC | no IleCAU query hit
+  10704-10789 + best Desmarestia|34593|trnS(gcu) 82.955%/88 e=3.18e-20 anticodon(mapped)=GCT | classes hit: trnS,trnS(gcu),trnS-GCU,trnS-UGA | no IleCAU query hit
+  10804-10887 + best Desmarestia|35344|trnS(uga) 89.286%/84 e=9.19e-27 anticodon(mapped)=TGA | classes hit: tRNA-Ser,trnS,trnS(uga),trnS-UGA | no IleCAU query hit
+  12247-12320 + best ChorNC|30034|trnP-UGG 84.375%/64 e=5.66e-16 anticodon(mapped)=TGG | classes hit: trnP,trnP(ugg),trnP-UGG | no IleCAU query hit
+  14054-14126 + best ChorNC|31867|trnA-UGC 86.111%/72 e=2.48e-20 anticodon(mapped)=TGC | classes hit: tRNA-Ala,tRNA-Val,trnA(ugc),trnA-UGC,trnV-UAC | no IleCAU query hit
+  14153-14225 + best ChorNC|32147|trnV-UAC 84.932%/73 e=3.13e-19 anticodon(mapped)=TAC | classes hit: tRNA-Val,trnA,trnA(ugc),trnA-UGC,trnI-GAU,trnN(guu),trnV,trnV(uac),trnV-UAC | no IleCAU query hit
+  16955-17028 + best ChorNC|2625|MetF 91.667%/72 e=1.01e-25 anticodon(mapped)=CAT | classes hit: MetF | no IleCAU query hit
+  17046-17127 + best Fucus|3709|trnL(uaa) 94.203%/69 e=8.92e-27 anticodon(mapped)=TAA | classes hit: tRNA-Leu,trnL,trnL(caa),trnL(uaa),trnL-CAA,trnL-UAA | no IleCAU query hit
+  17180-17255 + best Protohalopteris|2931|tRNA-Thr 88.571%/70 e=6.14e-22 anticodon(mapped)=TGT | classes hit: tRNA-Gly,tRNA-Thr,trnD,trnD(guc),trnD-GUC,trnG-GCC,trnH,trnH(gug),trnH-GUG | no IleCAU query hit
+  17275-17340 + best ChorNC|3032|trnC-GCA 83.333%/66 e=2.28e-14 anticodon(mapped)=GCA | classes hit: tRNA-Cys,trnC,trnC(gca),trnC-GCA | no IleCAU query hit
+  17346-17420 + best Protohalopteris|3081|tRNA-Asn 84.932%/73 e=3.07e-19 anticodon(mapped)=GTT | classes hit: tRNA-Asn,tRNA-Asp,tRNA-Phe,trnD,trnF,trnF(gaa),trnF-GAA,trnK-UUU,trnN,trnN(guu),trnN-GUU | no IleCAU query hit
+  17429-17503 + best Phaeostrophion|17730|trnF-GAA 84.0%/75 e=3.18e-19 anticodon(mapped)=GAA | classes hit: tRNA-Asn,tRNA-Ile,tRNA-Phe,trnF,trnF(gaa),trnF-GAA,trnI-GAU,trnN,trnN(guu),trnN-GUU,trnR(ucu) | no IleCAU query hit
+  21714-21788 + best Saccharina|8088|trnW 91.667%/72 e=9.41e-26 anticodon(mapped)=CCA | classes hit: MetE,tRNA-Asp,tRNA-Gly,tRNA-Phe,tRNA-Trp,trnA(ugc),trnD,trnD(guc),trnD-GUC,trnF,trnF(gaa),trnG,trnG(gcc),trnG-GCC,trnM-CAU,trnW,trnW(cca),trnW-CCA | no IleCAU query hit
+  21920-21992 + best Saccharina|8444|trnQ 98.592%/71 e=9.87e-32 anticodon(mapped)=TTT | classes hit: tRNA-Gln,trnQ,trnQ(uug),trnQ-UUG | no IleCAU query hit
+  21993-22073 + best Cutleria|8211|trnL-UAG 96.296%/81 e=2.21e-34 anticodon(mapped)=TAG | classes hit: tRNA-Leu,trnL,trnL(uag),trnL-UAG | no IleCAU query hit
+  23237-23316 + best Cutleria|9547|trnL-CAA 89.333%/75 e=1.32e-24 anticodon(mapped)=CAA | classes hit: tRNA-Leu,trnL,trnL(caa),trnL-CAA | no IleCAU query hit
+  24279-24352 + best ChorNC|10058|trnG-GCC 91.781%/73 e=2.69e-26 anticodon(mapped)=GCC | classes hit: tRNA-Asp,tRNA-Gly,tRNA-Phe,tRNA-Thr,tRNA-Val,trnA,trnA(ugc),trnA-UGC,trnD(guc),trnD-GUC,trnG,trnG(gcc),trnG-GCC,trnG-UCC,trnH,trnH-GUG,trnI,trnI(gau),trnI-GAU,trnN,trnN(guu),trnN-GUU,trnV-UAC | no IleCAU query hit
+  28145-28230 + best ChorNC|13890|trnY-GUA 90.476%/84 e=2.16e-28 anticodon(mapped)=GTA | classes hit: tRNA-Ser,tRNA-Tyr,trnS,trnS-GCU,trnS-UGA,trnY,trnY(gua),trnY-GUA | no IleCAU query hit
+  29859-29915 + best Saccharina|17865|trnR 77.193%/57 e=1.24e-07 anticodon(mapped)= | classes hit: trnR | no IleCAU query hit
+  33026-33095 + best Saccharina|8088|trnW 82.456%/57 e=3.51e-12 anticodon(mapped)=CAT | classes hit: IleCAU,MetE,tRNA-Lys,tRNA-Trp,trnK-UUU,trnN-GUU,trnW,trnW(cca),trnW-CCA | best IleCAU query: Fucus|8394|IleCAU 73.684%/57 e=4.00e-05
+  33103-33169 + best Saccharina|2748|trnK 92.063%/63 e=6.04e-22 anticodon(mapped)=TTT | classes hit: tRNA-Asn,tRNA-Lys,tRNA-Phe,trnF,trnK,trnK(uuu),trnK-UUU,trnN,trnN(guu),trnN-GUU,trnR,trnR(ucu),trnR-UCU | no IleCAU query hit
+  33179-33245 + best Cutleria|3287|MetE 77.273%/66 e=5.21e-10 anticodon(mapped)=CAT | classes hit: MetE,trnK-UUU,trnM-CAU | no IleCAU query hit
+  34354-34420 + best Protohalopteris|21077|tRNA-Arg 80.392%/51 e=7.73e-08 anticodon(mapped)=TCT | classes hit: tRNA-Arg,trnR,trnR-UCU | no IleCAU query hit
+
+== target Phaeostrophion (50483 nt): 26 tRNA-like loci (hits >= 50 nt; queries exclude the target's own species)
+  6846-6919 + best Cutleria|10567|trnG-GCC 90.541%/74 e=4.94e-25 anticodon(mapped)=GCC | classes hit: tRNA-Asp,tRNA-Gly,trnA,trnA(ugc),trnA-UGC,trnD,trnD(guc),trnD-GUC,trnG,trnG(gcc),trnG-GCC,trnW(cca),trnW-CCA | no IleCAU query hit
+  7913-7995 + best ChorNC|31949|trnS-UGA 94.737%/76 e=2.18e-30 anticodon(mapped)=TGA | classes hit: tRNA-Ser,trnS,trnS(uga),trnS-UGA | no IleCAU query hit
+  9345-9417 + best Desmarestia|38884|trnP(ugg) 90.278%/72 e=5.71e-24 anticodon(mapped)=TGG | classes hit: trnA,trnP,trnP(ugg),trnP-UGG | no IleCAU query hit
+  9423-9496 + best Protohalopteris|3081|tRNA-Asn 82.192%/73 e=2.31e-16 anticodon(mapped)=GTT | classes hit: tRNA-Asn,trnN,trnN(guu),trnN-GUU | no IleCAU query hit
+  9564-9637 + best Protohalopteris|687|tRNA-Ala 87.838%/74 e=2.51e-22 anticodon(mapped)=TGC | classes hit: tRNA-Ala,tRNA-Gly,tRNA-Val,trnA,trnA(ugc),trnA-UGC,trnG(gcc),trnV,trnV(uac),trnV-UAC | no IleCAU query hit
+  16142-16214 + best Protohalopteris|3200|tRNA-Val 87.671%/73 e=1.03e-20 anticodon(mapped)=TAC | classes hit: tRNA-Gly,tRNA-Ile,tRNA-Val,trnA,trnA(ugc),trnA-UGC,trnG,trnH-GUG,trnV,trnV(uac),trnV-UAC | no IleCAU query hit
+  17294-17365 + best Desmarestia|4412|MetE 84.127%/63 e=2.82e-15 anticodon(mapped)=CAT | classes hit: MetE,tRNA-Val,trnK(uuu) | no IleCAU query hit
+  17377-17459 + best Protohalopteris|2838|tRNA-Leu 87.952%/83 e=5.59e-25 anticodon(mapped)=TAA | classes hit: tRNA-Leu,trnL,trnL(caa),trnL(uaa),trnL-UAA | no IleCAU query hit
+  17470-17545 + best Protohalopteris|2931|tRNA-Thr 92.105%/76 e=1.16e-26 anticodon(mapped)=TGT | classes hit: MetF,tRNA-Gly,tRNA-Thr,trnG,trnG(gcc),trnG-GCC,trnH,trnH(gug),trnH-GUG | no IleCAU query hit
+  17547-17619 + best Protohalopteris|3008|tRNA-Cys 94.521%/73 e=7.56e-29 anticodon(mapped)=TGC | classes hit: tRNA-Cys,trnC,trnC(gca),trnC-GCA | no IleCAU query hit
+  17647-17720 + best Saccharina|2748|trnK 93.243%/74 e=9.37e-28 anticodon(mapped)=TTT | classes hit: MetE,tRNA-Asn,tRNA-Lys,tRNA-Phe,trnF,trnK,trnK(uuu),trnK-UUU,trnN,trnN(guu),trnN-GUU,trnR(ucu),trnR-UCU | no IleCAU query hit
+  17731-17803 + best Protohalopteris|3528|tRNA-Phe 93.151%/73 e=3.21e-27 anticodon(mapped)=GAA | classes hit: tRNA-Asp,tRNA-Ile,tRNA-Phe,trnF,trnF(gaa),trnF-GAA,trnI,trnI(gau),trnI-GAU,trnK,trnK(uuu),trnK-UUU,trnN,trnN(guu),trnN-GUU | no IleCAU query hit
+  22073-22145 + best Saccharina|8088|trnW 88.571%/70 e=8.63e-22 anticodon(mapped)=CCA | classes hit: tRNA-Lys,tRNA-Trp,trnK,trnK-UUU,trnW,trnW(cca),trnW-CCA | no IleCAU query hit
+  22256-22324 + best Cutleria|8055|IleCAU 94.203%/69 e=1.16e-26 anticodon(mapped)=CAT | classes hit: IleCAU | best IleCAU query: Cutleria|8055|IleCAU 94.203%/69 e=1.16e-26
+  22349-22420 + best Protohalopteris|7890|tRNA-Gln 95.833%/72 e=2.13e-29 anticodon(mapped)=TTT | classes hit: tRNA-Gln,trnQ,trnQ(uug),trnQ-UUG | no IleCAU query hit
+  22433-22513 + best Cutleria|8211|trnL-UAG 93.827%/81 e=1.64e-31 anticodon(mapped)=TAG | classes hit: tRNA-Leu,trnL,trnL(uag),trnL-UAG | no IleCAU query hit
+  23868-23949 + best Protohalopteris|9315|tRNA-Leu 92.683%/82 e=5.80e-31 anticodon(mapped)=TCA | classes hit: tRNA-Leu,trnL,trnL(caa),trnL-CAA | no IleCAU query hit
+  24880-24954 + best Cutleria|10567|trnG-GCC 89.333%/75 e=1.72e-24 anticodon(mapped)=TCC | classes hit: tRNA-Asp,tRNA-Gly,trnA,trnA(ugc),trnA-UGC,trnD,trnD(guc),trnG,trnG(gcc),trnG-GCC | no IleCAU query hit
+  29007-29090 + best Protohalopteris|14412|tRNA-Tyr 92.771%/83 e=1.69e-31 anticodon(mapped)=TGT | classes hit: tRNA-Tyr,trnS,trnS(gcu),trnS-GCU,trnY,trnY(gua),trnY-GUA | no IleCAU query hit
+  33726-33797 + best ChorNC|18862|trnI-GAU 83.333%/72 e=1.90e-17 anticodon(mapped)=GAT | classes hit: tRNA-Ile,tRNA-Val,trnF-GAA,trnI,trnI(gau),trnI-GAU,trnV(uac),trnV-UAC | no IleCAU query hit
+  33905-33978 + best Protohalopteris|21077|tRNA-Arg 93.056%/72 e=1.12e-26 anticodon(mapped)=TCT | classes hit: tRNA-Arg,trnN-GUU,trnR,trnR(ucu),trnR-UCU | no IleCAU query hit
+  44915-44989 + best Protohalopteris|39831|tRNA-Asp 85.915%/71 e=1.28e-19 anticodon(mapped)=GTC | classes hit: tRNA-Asp,tRNA-Gly,trnD,trnD(guc),trnD-GUC,trnG,trnG(gcc),trnG-GCC,trnK-UUU | no IleCAU query hit
+  45009-45096 + best Desmarestia|34593|trnS(gcu) 88.235%/85 e=3.99e-27 anticodon(mapped)=GCT | classes hit: trnS,trnS(gcu),trnS-GCU | no IleCAU query hit
+  46366-46427 + best Desmarestia|37536|MetF 88.136%/59 e=8.36e-16 anticodon(mapped)=CAT | classes hit: MetF | no IleCAU query hit
+  49403-49473 + best Protohalopteris|3336|tRNA-Glu 92.958%/71 e=3.85e-26 anticodon(mapped)=TTC | classes hit: tRNA-Glu,trnE,trnE(uuc),trnE-UUC,trnF-AAA | no IleCAU query hit
+  49572-49637 + best Saccharina|36010|MetF 84.375%/64 e=1.02e-14 anticodon(mapped)=CAT | classes hit: MetF | no IleCAU query hit
+
+== target Protohalopteris (41306 nt): 23 tRNA-like loci (hits >= 50 nt; queries exclude the target's own species)
+  687-760 + best Desmarestia|34844|trnA(ugc) 91.781%/73 e=3.90e-25 anticodon(mapped)=TGC | classes hit: trnA,trnA(ugc),trnA-UGC,trnG(gcc),trnG-GCC,trnV,trnV(uac),trnV-UAC | no IleCAU query hit
+  892-965 + best Saccharina|2748|trnK 95.946%/74 e=1.48e-30 anticodon(mapped)=TTT | classes hit: MetE,trnF,trnK,trnK(uuu),trnK-UUU,trnR-UCU,trnW-CCA | no IleCAU query hit
+  2763-2834 + best Saccharina|3464|MetE 93.056%/72 e=9.18e-27 anticodon(mapped)=CAT | classes hit: MetE,trnK(uuu),trnM-CAU,trnW,trnW(cca),trnW-CCA | no IleCAU query hit
+  2838-2922 + best Desmarestia|4493|trnL(uaa) 92.857%/84 e=4.07e-32 anticodon(mapped)=TAA | classes hit: trnL,trnL(caa),trnL(uaa),trnL-CAA,trnL-UAA | no IleCAU query hit
+  2931-3005 + best Phaeostrophion|17471|trnH-GUG 92.0%/75 e=3.37e-26 anticodon(mapped)=GTG | classes hit: trnG,trnG-GCC,trnH,trnH(gug),trnH-GUG,trnK(uuu),trnP-UGG | no IleCAU query hit
+  3008-3080 + best Phaeostrophion|17547|trnC-GCA 94.521%/73 e=6.19e-29 anticodon(mapped)=GCA | classes hit: trnC,trnC(gca),trnC-GCA | no IleCAU query hit
+  3080-3154 + best Cutleria|3606|trnN-GUU 90.667%/75 e=1.16e-25 anticodon(mapped)=GTT | classes hit: trnF,trnF(gaa),trnK,trnK(uuu),trnK-UUU,trnN,trnN(guu),trnN-GUU,trnR | no IleCAU query hit
+  3200-3271 + best Desmarestia|3953|trnV(uac) 87.5%/72 e=2.42e-21 anticodon(mapped)=TAC | classes hit: MetE,trnA,trnA(ugc),trnA-UGC,trnD(guc),trnG,trnG(gcc),trnG-GCC,trnI,trnI-GAU,trnK(uuu),trnK-UUU,trnN,trnN(guu),trnN-GUU,trnP,trnP(ugg),trnP-UGG,trnV,trnV(uac),trnV-UAC | no IleCAU query hit
+  3335-3407 + best Phaeostrophion|49402|trnE-UUC 92.958%/71 e=3.15e-26 anticodon(mapped)=TTC | classes hit: trnE,trnE(uuc),trnE-UUC | no IleCAU query hit
+  3528-3601 + best Phaeostrophion|17730|trnF-GAA 93.243%/74 e=7.80e-28 anticodon(mapped)=GAA | classes hit: trnD,trnD(guc),trnF,trnF(gaa),trnF-GAA,trnI,trnI(gau),trnI-GAU,trnK,trnK(uuu),trnK-UUU,trnN,trnN(guu),trnN-GUU | no IleCAU query hit
+  7608-7681 + best Desmarestia|8987|trnW(cca) 95.89%/73 e=5.08e-30 anticodon(mapped)=CCA | classes hit: MetE,trnD(guc),trnD-GUC,trnM-CAU,trnW,trnW(cca),trnW-CCA | no IleCAU query hit
+  7792-7866 + best Phaeostrophion|22257|IleCAU 96.825%/63 e=3.26e-26 anticodon(mapped)=CAT | classes hit: IleCAU | best IleCAU query: Phaeostrophion|22257|IleCAU 96.825%/63 e=3.26e-26
+  7890-7962 + best Phaeostrophion|22349|trnQ-UUG 95.833%/72 e=1.74e-29 anticodon(mapped)=TTG | classes hit: trnQ,trnQ(uug),trnQ-UUG | no IleCAU query hit
+  7964-8045 + best Cutleria|8211|trnL-UAG 95.122%/82 e=1.12e-32 anticodon(mapped)=TAG | classes hit: trnL,trnL(uag),trnL-UAG | no IleCAU query hit
+  9315-9396 + best Phaeostrophion|23868|trnL-CAA 92.683%/82 e=4.81e-31 anticodon(mapped)=CAA | classes hit: trnL,trnL(caa),trnL(uaa),trnL-CAA | no IleCAU query hit
+  10368-10441 + best Cutleria|10567|trnG-GCC 93.243%/74 e=7.80e-28 anticodon(mapped)=GCC | classes hit: trnA,trnA(ugc),trnA-UGC,trnD,trnD(guc),trnD-GUC,trnG,trnG(gcc),trnG-GCC,trnG-UCC,trnH-GUG,trnI,trnI(gau),trnI-GAU,trnV,trnV(uac),trnV-UAC,trnW(cca) | no IleCAU query hit
+  14411-14494 + best Phaeostrophion|29007|trnY-GUA 92.857%/84 e=4.13e-32 anticodon(mapped)=GTA | classes hit: trnS(gcu),trnS-GCU,trnY,trnY(gua),trnY-GUA | no IleCAU query hit
+  20975-21041 + best Cutleria|20474|trnI-GAU 92.982%/57 e=2.95e-20 anticodon(mapped)=GAT | classes hit: trnF-GAA,trnG-GCC,trnI,trnI(gau),trnI-GAU,trnN,trnN(guu),trnN-GUU,trnV(uac),trnV-UAC | no IleCAU query hit
+  21077-21148 + best Phaeostrophion|33906|trnR-UCU 93.056%/72 e=9.18e-27 anticodon(mapped)=TCT | classes hit: trnR,trnR(ucu),trnR-UCU | no IleCAU query hit
+  35851-35920 + best Saccharina|21230|trnE 79.71%/69 e=4.10e-12 anticodon(mapped)=TTT | classes hit: trnE,trnE(uuc),trnE-UUC,trnF-AAA | no IleCAU query hit
+  39831-39903 + best Desmarestia|34719|trnD(guc) 90.141%/71 e=1.66e-23 anticodon(mapped)=GTC | classes hit: MetE,trnA,trnA(ugc),trnD,trnD(guc),trnD-GUC,trnF,trnF(gaa),trnF-GAA,trnG,trnG(gcc),trnG-GCC,trnG-UCC,trnH(gug),trnH-GUG,trnK(uuu),trnK-UUU,trnN,trnN(guu),trnN-GUU,trnW,trnW(cca),trnW-CCA | no IleCAU query hit
+  40290-40376 + best Fucus|32777|trnS(uga) 86.047%/86 e=5.66e-24 anticodon(mapped)=TGA | classes hit: trnS,trnS(uga),trnS-UGA,trnY-GUA | no IleCAU query hit
+  40916-40987 + best Saccharina|36010|MetF 86.301%/73 e=1.08e-19 anticodon(mapped)=CAT | classes hit: MetF | no IleCAU query hit

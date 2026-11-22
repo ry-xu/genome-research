@@ -1,0 +1,63 @@
+# Pneumocystis mitochondrial RNA-seq at TGA sites (2026-11-11 14:50; src/tga_arg/tally_rna.py; reads_codons.py MIN_MAPQ=0 MAX_DIV=0.05)
+## P. jirovecii NC_020331.1, ERR135872-ERR135881 (10 runs summed)
+atp6	174	TGA	mito_Fun_atp6:175	R	strict	15	15	{}
+atp8	41	TGA	mito_Fun_atp8:42	R	strict	32	31	{'TTA': 1}
+cob	69	TGA	mito_Fun_cob:106	R	strict	105	105	{}
+cob	98	TGA	mito_Fun_cob:135	R		102	102	{}
+cob	177	TGA	mito_Fun_cob:214	R	strict	163	161	{'TAA': 1, 'TTA': 1}
+cob	282	TGA	mito_Fun_cob:319	R		146	138	{'TTA': 4, 'TAA': 1, 'TGG': 1}
+cob	311	TGA	mito_Fun_cob:348	R		182	179	{'TTA': 2, 'TTG': 1}
+cob	313	TGA	mito_Fun_cob:350	R		183	182	{'TTA': 1}
+cox1	171	TGA	mito_Vir_cox1:191	R	strict	94	93	{'TAA': 1}
+cox1	212	TGA	mito_Vir_cox1:232	R	strict	106	106	{}
+cox1	300	TGA	mito_Vir_cox1:320	R	strict	193	192	{'TGG': 1}
+cox1	437	TGA	mito_Vir_cox1:457	R	strict	253	253	{}
+cox1	478	TGA	mito_Vir_cox1:498	K		107	107	{}
+cox2	164	TGA	mito_Fun_cox2:171	R		47	45	{'TTA': 1, 'TGT': 1}
+cox2	201	TGA	mito_Fun_cox2:208	R	strict	58	58	{}
+cox2	211	TGA	mito_Fun_cox2:218	R	strict	48	48	{}
+cox3	159	TGA	mito_Fun_cox3:164	R	strict	97	97	{}
+nad1	136	TGA	mito_Fun_nad1:143	R	strict	102	101	{'CGA': 1}
+nad1	197	TGA	mito_Fun_nad1:204	R	strict	223	223	{}
+nad1	289	TGA	mito_Fun_nad1:289	R	strict	74	72	{'TTA': 1, 'TGC': 1}
+nad1	296	TGA	mito_Fun_nad1:296	R	strict	52	52	{}
+nad2	26	TGA	mito_Fun_nad2:33	R	strict	381	379	{'TTA': 1, 'TAA': 1}
+nad2	279	TGA	mito_Fun_nad2:307	R		126	124	{'TGG': 1, 'GGA': 1}
+nad2	282	TGA	mito_Fun_nad2:310	R	strict	130	0	{'AGA': 129, 'ATA': 1}
+nad4	146	TGA	mito_Fun_nad4:182	R		648	646	{'TTA': 1, 'TNA': 1}
+nad4	182	TGA	mito_Fun_nad4:218	S		635	629	{'TTA': 6}
+nad4	244	TGA	mito_Fun_nad4:280	R	strict	400	398	{'CAA': 1, 'TTA': 1}
+nad4	337	TGA	mito_Fun_nad4:373	R	strict	330	326	{'TTA': 1, 'CAA': 1, 'TGT': 1}
+nad4	347	TGA	mito_Fun_nad4:383	R		336	332	{'TTA': 3, 'CGA': 1}
+nad4	389	TGA	mito_Fun_nad4:425	R		335	333	{'CGA': 1, 'TTA': 1}
+nad4	433	TGA	mito_Fun_nad4:469	R	strict	464	461	{'TTA': 2, 'AGA': 1}
+nad5	156	TGA	mito_Fun_nad5:160	R	strict	505	500	{'TTA': 3, 'TAA': 1, 'TGC': 1}
+nad5	171	TGA	mito_Fun_nad5:175	R	strict	591	587	{'TTA': 2, 'TTT': 2}
+nad5	261	TGA	mito_Fun_nad5:265	R	strict	777	770	{'TTA': 5, 'TGC': 1, 'TCA': 1}
+nad5	299	TGA	mito_Fun_nad5:303	K		663	657	{'TTA': 3, 'T-A': 1, 'AGA': 1}
+nad5	537	TGA	mito_Fun_nad5:547	Y		234	229	{'TTA': 3, 'AGA': 1, 'CGA': 1}
+-- totals (codon, consensus): reads, same, top other triplets
+('AGA', '*')	2777	2756	0.992	{'ATA': 7, 'AGG': 4, 'AAA': 3, 'ACA': 2}
+('CGA', '*')	1206	1149	0.953	{'TGA': 43, 'CTA': 7, 'AGA': 3, 'CAA': 2}
+('CGT', '*')	2166	2146	0.991	{'AGT': 10, 'CTT': 4, 'CCT': 1, 'TTT': 1}
+('TGA', 'K')	770	764	0.992	{'TTA': 3, 'T-A': 1, 'AGA': 1, 'TGG': 1}
+('TGA', 'R')	7298	7109	0.974	{'AGA': 130, 'TTA': 31, 'TAA': 6, 'TGG': 3}
+('TGA', 'S')	635	629	0.991	{'TTA': 6}
+('TGA', 'Y')	234	229	0.979	{'TTA': 3, 'AGA': 1, 'CGA': 1}
+('TGG', '*')	16125	15810	0.980	{'TTG': 183, 'TGT': 72, 'TAG': 10, 'TCG': 9}
+## P. carinii NC_013660.2, SRR2156857
+cox1	172	TGA	mito_Vir_cox1:191	R	strict	17	17	{}
+cox3	155	TGA	mito_Fun_cox3:164	R	strict	22	22	{}
+nad4	344	TGA	mito_Fun_nad4:373	R	strict	8	8	{}
+nad4	421	TGA	mito_Fun_nad4:450	R	strict	3	3	{}
+nad5	447	TGA	mito_Fun_nad5:551	S		5	5	{}
+-- totals (codon, consensus): reads, same, top other triplets
+('AGA', '*')	593	591	0.997	{'TGA': 1, 'AGG': 1}
+('AGG', '*')	18	18	1.000	{}
+('CGA', '*')	255	255	1.000	{}
+('CGC', '*')	2	2	1.000	{}
+('CGG', '*')	26	25	0.962	{'GGG': 1}
+('CGT', '*')	81	81	1.000	{}
+('TGA', 'R')	50	50	1.000	{}
+('TGA', 'S')	5	5	1.000	{}
+('TGG', '*')	868	863	0.994	{'CGG': 2, 'TAG': 1, 'T-G': 1, 'TTG': 1}

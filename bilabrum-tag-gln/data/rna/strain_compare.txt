@@ -1,0 +1,3 @@
+LLXJ vs ALZF: shared codons 21347, identical read codon 20907 (0.9794); of 1693 where LLXJ differs from the genome, ALZF has the same codon at 1483
+LLXJ vs JIWJ: shared codons 29551, identical read codon 29059 (0.9834); of 2522 where LLXJ differs from the genome, JIWJ has the same codon at 2257
+ALZF vs JIWJ: shared codons 17908, identical read codon 17733 (0.9902); of 1375 where ALZF differs from the genome, JIWJ has the same codon at 1235

@@ -1,0 +1,232 @@
+{
+ "acc": "GCA_040409785.2",
+ "size": 133256,
+ "gc": 0.12668847931800445,
+ "n_domains": 91,
+ "n_pfams": 83,
+ "code": "F?LLS?S?YY??C?WW????PPPPH?Q?R???I?IMT?T?NNKKS?RRV?VVAAAAD?EEGGGG",
+ "nonstandard": [
+  {
+   "codon": "TGA",
+   "std": "*",
+   "call": "W",
+   "post": 1.0,
+   "n": 14,
+   "margin_vs_std": 46.55985475075922,
+   "top3": "W:46.6,?:0.0,F:-9.1"
+  }
+ ],
+ "trnas": [
+  {
+   "contig": "CP158689.2",
+   "start": 7027,
+   "end": 7100,
+   "strand": "+",
+   "product": "tRNA-Ile",
+   "anticodon": "(pos:7061..7063)",
+   "note": "",
+   "attr": "ID=rna-ABUS76_00050;Parent=gene-ABUS76_00050;anticodon=(pos:7061..7063);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=ABUS76_00050;product=tRNA-Ile"
+  },
+  {
+   "contig": "CP158689.2",
+   "start": 7121,
+   "end": 7192,
+   "strand": "+",
+   "product": "tRNA-Ala",
+   "anticodon": "(pos:7153..7155)",
+   "note": "",
+   "attr": "ID=rna-ABUS76_00055;Parent=gene-ABUS76_00055;anticodon=(pos:7153..7155);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=ABUS76_00055;product=tRNA-Ala"
+  },
+  {
+   "contig": "CP158689.2",
+   "start": 24524,
+   "end": 24611,
+   "strand": "+",
+   "product": "tRNA-Ser",
+   "anticodon": "(pos:24559..24561)",
+   "note": "",
+   "attr": "ID=rna-ABUS76_00150;Parent=gene-ABUS76_00150;anticodon=(pos:24559..24561);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=ABUS76_00150;product=tRNA-Ser"
+  },
+  {
+   "contig": "CP158689.2",
+   "start": 24614,
+   "end": 24689,
+   "strand": "+",
+   "product": "tRNA-Pro",
+   "anticodon": "(pos:24650..24652)",
+   "note": "",
+   "attr": "ID=rna-ABUS76_00155;Parent=gene-ABUS76_00155;anticodon=(pos:24650..24652);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=ABUS76_00155;product=tRNA-Pro"
+  },
+  {
+   "contig": "CP158689.2",
+   "start": 24695,
+   "end": 24767,
+   "strand": "+",
+   "product": "tRNA-Arg",
+   "anticodon": "(pos:24728..24730)",
+   "note": "",
+   "attr": "ID=rna-ABUS76_00160;Parent=gene-ABUS76_00160;anticodon=(pos:24728..24730);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=ABUS76_00160;product=tRNA-Arg"
+  },
+  {
+   "contig": "CP158689.2",
+   "start": 29604,
+   "end": 29676,
+   "strand": "-",
+   "product": "tRNA-His",
+   "anticodon": "(pos:complement(29641..29643))",
+   "note": "",
+   "attr": "ID=rna-ABUS76_00205;Parent=gene-ABUS76_00205;anticodon=(pos:complement(29641..29643));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=ABUS76_00205;product=tRNA-His"
+  },
+  {
+   "contig": "CP158689.2",
+   "start": 42470,
+   "end": 42542,
+   "strand": "-",
+   "product": "tRNA-Lys",
+   "anticodon": "(pos:complement(42507..42509))",
+   "note": "",
+   "attr": "ID=rna-ABUS76_00290;Parent=gene-ABUS76_00290;anticodon=(pos:complement(42507..42509));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=ABUS76_00290;product=tRNA-Lys"
+  },
+  {
+   "contig": "CP158689.2",
+   "start": 48604,
+   "end": 48674,
+   "strand": "+",
+   "product": "tRNA-Gly",
+   "anticodon": "(pos:48636..48638)",
+   "note": "",
+   "attr": "ID=rna-ABUS76_00345;Parent=gene-ABUS76_00345;anticodon=(pos:48636..48638);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=ABUS76_00345;product=tRNA-Gly"
+  },
+  {
+   "contig": "CP158689.2",
+   "start": 48685,
+   "end": 48767,
+   "strand": "+",
+   "product": "tRNA-Leu",
+   "anticodon": "(pos:48718..48720)",
+   "note": "",
+   "attr": "ID=rna-ABUS76_00350;Parent=gene-ABUS76_00350;anticodon=(pos:48718..48720);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=ABUS76_00350;product=tRNA-Leu"
+  },
+  {
+   "contig": "CP158689.2",
+   "start": 55350,
+   "end": 55421,
+   "strand": "+",
+   "product": "tRNA-Asp",
+   "anticodon": "(pos:55382..55384)",
+   "note": "",
+   "attr": "ID=rna-ABUS76_00395;Parent=gene-ABUS76_00395;anticodon=(pos:55382..55384);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=ABUS76_00395;product=tRNA-Asp"
+  },
+  {
+   "contig": "CP158689.2",
+   "start": 75063,
+   "end": 75134,
+   "strand": "-",
+   "product": "tRNA-Trp",
+   "anticodon": "(pos:complement(75099..75101))",
+   "note": "",
+   "attr": "ID=rna-ABUS76_00515;Parent=gene-ABUS76_00515;anticodon=(pos:complement(75099..75101));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=ABUS76_00515;product=tRNA-Trp"
+  },
+  {
+   "contig": "CP158689.2",
+   "start": 76333,
+   "end": 76403,
+   "strand": "-",
+   "product": "tRNA-Gly",
+   "anticodon": "(pos:complement(76369..76371))",
+   "note": "",
+   "attr": "ID=rna-ABUS76_00525;Parent=gene-ABUS76_00525;anticodon=(pos:complement(76369..76371));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=ABUS76_00525;product=tRNA-Gly"
+  },
+  {
+   "contig": "CP158689.2",
+   "start": 76408,
+   "end": 76492,
+   "strand": "-",
+   "product": "tRNA-Tyr",
+   "anticodon": "(pos:complement(76456..76458))",
+   "note": "",
+   "attr": "ID=rna-ABUS76_00530;Parent=gene-ABUS76_00530;anticodon=(pos:complement(76456..76458));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=ABUS76_00530;product=tRNA-Tyr"
+  },
+  {
+   "contig": "CP158689.2",
+   "start": 76495,
+   "end": 76568,
+   "strand": "-",
+   "product": "tRNA-Thr",
+   "anticodon": "(pos:complement(76532..76534))",
+   "note": "",
+   "attr": "ID=rna-ABUS76_00535;Parent=gene-ABUS76_00535;anticodon=(pos:complement(76532..76534));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=ABUS76_00535;product=tRNA-Thr"
+  },
+  {
+   "contig": "CP158689.2",
+   "start": 99525,
+   "end": 99597,
+   "strand": "-",
+   "product": "tRNA-Val",
+   "anticodon": "(pos:complement(99562..99564))",
+   "note": "",
+   "attr": "ID=rna-ABUS76_00755;Parent=gene-ABUS76_00755;anticodon=(pos:complement(99562..99564));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=ABUS76_00755;product=tRNA-Val"
+  },
+  {
+   "contig": "CP158689.2",
+   "start": 108936,
+   "end": 109009,
+   "strand": "-",
+   "product": "tRNA-Met",
+   "anticodon": "(pos:complement(108973..108975))",
+   "note": "",
+   "attr": "ID=rna-ABUS76_00845;Parent=gene-ABUS76_00845;anticodon=(pos:complement(108973..108975));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=ABUS76_00845;product=tRNA-Met"
+  },
+  {
+   "contig": "CP158689.2",
+   "start": 112344,
+   "end": 112414,
+   "strand": "-",
+   "product": "tRNA-Glu",
+   "anticodon": "(pos:complement(112380..112382))",
+   "note": "",
+   "attr": "ID=rna-ABUS76_00875;Parent=gene-ABUS76_00875;anticodon=(pos:complement(112380..112382));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=ABUS76_00875;product=tRNA-Glu"
+  },
+  {
+   "contig": "CP158689.2",
+   "start": 121885,
+   "end": 121957,
+   "strand": "-",
+   "product": "tRNA-Phe",
+   "anticodon": "(pos:complement(121922..121924))",
+   "note": "",
+   "attr": "ID=rna-ABUS76_00930;Parent=gene-ABUS76_00930;anticodon=(pos:complement(121922..121924));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=ABUS76_00930;product=tRNA-Phe"
+  },
+  {
+   "contig": "CP158689.2",
+   "start": 132731,
+   "end": 132802,
+   "strand": "+",
+   "product": "tRNA-Cys",
+   "anticodon": "(pos:132764..132766)",
+   "note": "",
+   "attr": "ID=rna-ABUS76_00995;Parent=gene-ABUS76_00995;anticodon=(pos:132764..132766);gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=ABUS76_00995;product=tRNA-Cys"
+  },
+  {
+   "contig": "CP158689.2",
+   "start": 132826,
+   "end": 132897,
+   "strand": "-",
+   "product": "tRNA-Met",
+   "anticodon": "(pos:complement(132863..132865))",
+   "note": "",
+   "attr": "ID=rna-ABUS76_01000;Parent=gene-ABUS76_01000;anticodon=(pos:complement(132863..132865));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=ABUS76_01000;product=tRNA-Met"
+  },
+  {
+   "contig": "CP158689.2",
+   "start": 132904,
+   "end": 132975,
+   "strand": "-",
+   "product": "tRNA-Asn",
+   "anticodon": "(pos:complement(132941..132943))",
+   "note": "",
+   "attr": "ID=rna-ABUS76_01005;Parent=gene-ABUS76_01005;anticodon=(pos:complement(132941..132943));gbkey=tRNA;inference=COORDINATES: profile:tRNAscan-SE:2.0.12;locus_tag=ABUS76_01005;product=tRNA-Asn"
+  }
+ ],
+ "seconds": 63.73066592216492
+}

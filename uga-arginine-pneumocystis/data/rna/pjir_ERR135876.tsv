@@ -1,0 +1,154 @@
+gene	codon_index	codon	model_col	cons	share	strict	reads	same	other
+cox1	3	TGG	mito_Vir_cox1:23	W	0.99	1	4	4	{}
+cox1	35	AGA	mito_Vir_cox1:55	R	1.00	1	2	2	{}
+cox1	80	TGG	mito_Vir_cox1:100	W	0.65	0	4	4	{}
+cox1	95	AGA	mito_Vir_cox1:115	R	1.00	1	5	5	{}
+cox1	102	TGG	mito_Vir_cox1:122	W	0.97	1	6	6	{}
+cox1	125	TGG	mito_Vir_cox1:145	W	0.99	1	10	10	{}
+cox1	171	TGA	mito_Vir_cox1:191	R	0.99	1	8	8	{}
+cox1	185	TGG	mito_Vir_cox1:205	W	0.99	1	13	13	{}
+cox1	212	TGA	mito_Vir_cox1:232	R	1.00	1	11	11	{}
+cox1	235	TGG	mito_Vir_cox1:255	W	0.85	0	11	11	{}
+cox1	286	TGG	mito_Vir_cox1:306	W	0.96	1	15	14	{'CGG': 1}
+cox1	300	TGA	mito_Vir_cox1:320	R	0.99	1	19	18	{'TGG': 1}
+cox1	321	TGG	mito_Vir_cox1:341	W	0.99	1	15	15	{}
+cox1	331	CGA	mito_Vir_cox1:351	R	0.32	0	18	18	{}
+cox1	391	TGG	mito_Vir_cox1:411	F	0.68	0	23	23	{}
+cox1	394	TGG	mito_Vir_cox1:414	W	0.99	1	27	25	{'TTG': 2}
+cox1	413	TGG	mito_Vir_cox1:433	W	0.95	1	31	31	{}
+cox1	436	AGA	mito_Vir_cox1:456	R	1.00	1	24	23	{'GGA': 1}
+cox1	437	TGA	mito_Vir_cox1:457	R	1.00	1	26	26	{}
+cox1	448	TGG	mito_Vir_cox1:468	W	0.95	1	23	22	{'TGT': 1}
+cox1	478	TGA	mito_Vir_cox1:498	K	0.38	0	12	12	{}
+cox1	485	TGG	mito_Vir_cox1:505	W	0.99	1	10	10	{}
+cox1	507	TGG	mito_Vir_cox1:516	W	0.98	1	18	18	{}
+atp8	29	TGG	mito_Fun_atp8:30	Y	0.79	0	7	7	{}
+atp8	33	AGA	mito_Fun_atp8:34	R	0.37	0	5	5	{}
+atp8	41	TGA	mito_Fun_atp8:42	R	0.99	1	6	6	{}
+atp6	64	TGG	mito_Fun_atp6:65	W	0.91	1	3	3	{}
+atp6	85	CGA	mito_Fun_atp6:86	S	0.23	0	2	2	{}
+atp6	174	TGA	mito_Fun_atp6:175	R	0.98	1	2	2	{}
+atp6	181	CGA	mito_Fun_atp6:182	R	0.99	1	3	3	{}
+cox3	19	TGG	mito_Fun_cox3:22	W	0.99	1	3	3	{}
+cox3	45	TGG	mito_Fun_cox3:50	L	0.31	0	2	2	{}
+cox3	60	TGG	mito_Fun_cox3:65	W	1.00	1	3	3	{}
+cox3	62	AGA	mito_Fun_cox3:67	R	0.87	0	3	3	{}
+cox3	102	TGG	mito_Fun_cox3:107	W	0.99	1	14	14	{}
+cox3	119	TGG	mito_Fun_cox3:124	W	0.99	1	14	13	{'TTG': 1}
+cox3	130	TGG	mito_Fun_cox3:135	F	0.80	0	11	11	{}
+cox3	159	TGA	mito_Fun_cox3:164	R	0.96	1	18	18	{}
+cox3	223	TGG	mito_Fun_cox3:228	W	0.53	0	10	9	{'TGT': 1}
+cox3	224	AGA	mito_Fun_cox3:229	R	0.98	1	12	12	{}
+cox3	226	TGG	mito_Fun_cox3:231	L	0.47	0	11	11	{}
+cox3	245	TGG	mito_Fun_cox3:250	W	0.95	1	15	15	{}
+cox3	252	TGG	mito_Fun_cox3:257	W	1.00	1	15	15	{}
+cox3	261	TGG	mito_Fun_cox3:266	Y	0.67	0	20	20	{}
+cox3	262	TGG	mito_Fun_cox3:267	W	0.99	1	19	19	{}
+atp9	36	CGA	mito_Fun_atp9:37	R	0.98	1	16	16	{}
+nad4L	18	AGA	mito_Fun_nad4l:26	R	0.91	1	6	6	{}
+nad4L	80	CGA	mito_Fun_nad4l:88	R	0.93	1	37	37	{}
+nad5	60	TGG	mito_Fun_nad5:64	L	0.80	0	20	19	{'TGT': 1}
+nad5	63	TGG	mito_Fun_nad5:67	W	0.99	1	20	20	{}
+nad5	73	TGG	mito_Fun_nad5:77	W	0.95	1	20	20	{}
+nad5	111	AGA	mito_Fun_nad5:115	R	1.00	1	55	55	{}
+nad5	139	TGG	mito_Fun_nad5:143	W	0.99	1	45	44	{'TGT': 1}
+nad5	153	TGG	mito_Fun_nad5:157	W	0.84	0	57	57	{}
+nad5	156	TGA	mito_Fun_nad5:160	R	0.99	1	51	51	{}
+nad5	171	TGA	mito_Fun_nad5:175	R	0.98	1	71	70	{'TTT': 1}
+nad5	186	TGG	mito_Fun_nad5:190	W	0.60	0	78	77	{'TGT': 1}
+nad5	231	TGG	mito_Fun_nad5:235	W	1.00	1	94	93	{'TTG': 1}
+nad5	261	TGA	mito_Fun_nad5:265	R	1.00	1	81	79	{'TTA': 2}
+nad5	268	TGG	mito_Fun_nad5:272	Y	0.86	0	87	85	{'TTG': 1, 'GGG': 1}
+nad5	299	TGA	mito_Fun_nad5:303	K	0.54	0	81	81	{}
+nad5	356	AGA	mito_Fun_nad5:360	R	0.99	1	52	52	{}
+nad5	363	TGG	mito_Fun_nad5:367	K	0.19	0	48	47	{'TTG': 1}
+nad5	439	CGA	mito_Fun_nad5:448	K	0.44	0	7	7	{}
+nad5	453	TGG	mito_Fun_nad5:462	I	0.38	0	11	10	{'TTG': 1}
+nad5	462	TGG	mito_Fun_nad5:471	F	0.89	0	8	7	{'TGT': 1}
+nad5	537	TGA	mito_Fun_nad5:547	Y	0.56	0	18	17	{'TTA': 1}
+nad5	546	CGA	mito_Fun_nad5:556	R	0.57	0	22	22	{}
+nad5	567	TGG	mito_Fun_nad5:577	Q	0.47	0	33	32	{'TTG': 1}
+nad5	570	CGT	mito_Fun_nad5:580	K	0.88	0	35	35	{}
+nad5	605	AGA	mito_Fun_nad5:615	T	0.85	0	35	35	{}
+nad4	42	TGG	mito_Fun_nad4:73	W	0.43	0	32	32	{}
+nad4	51	TGG	mito_Fun_nad4:85	F	0.92	1	28	28	{}
+nad4	85	TGG	mito_Fun_nad4:124	W	0.75	0	51	50	{'TTG': 1}
+nad4	144	CGT	mito_Fun_nad4:180	R	0.51	0	90	88	{'CTT': 1, 'AGT': 1}
+nad4	146	TGA	mito_Fun_nad4:182	R	0.75	0	91	91	{}
+nad4	161	TGG	mito_Fun_nad4:197	F	0.85	0	88	86	{'TTG': 2}
+nad4	178	TGG	mito_Fun_nad4:214	F	0.76	0	73	73	{}
+nad4	182	TGA	mito_Fun_nad4:218	S	0.42	0	73	73	{}
+nad4	195	TGG	mito_Fun_nad4:231	F	0.57	0	74	74	{}
+nad4	214	TGG	mito_Fun_nad4:250	W	1.00	1	67	66	{'TTG': 1}
+nad4	244	TGA	mito_Fun_nad4:280	R	0.99	1	56	56	{}
+nad4	278	AGA	mito_Fun_nad4:314	R	0.75	0	48	48	{}
+nad4	337	TGA	mito_Fun_nad4:373	R	0.98	1	35	34	{'CAA': 1}
+nad4	341	CGT	mito_Fun_nad4:377	R	0.99	1	37	37	{}
+nad4	347	TGA	mito_Fun_nad4:383	R	0.82	0	37	36	{'CGA': 1}
+nad4	389	TGA	mito_Fun_nad4:425	R	0.62	0	39	39	{}
+nad4	410	TGG	mito_Fun_nad4:446	Y	0.48	0	65	65	{}
+nad4	414	CGT	mito_Fun_nad4:450	R	0.95	1	71	70	{'-GT': 1}
+nad4	433	TGA	mito_Fun_nad4:469	R	0.94	1	56	56	{}
+nad4	454	TGG	mito_Fun_nad4:490	P	0.33	0	60	58	{'TTG': 1, 'TCG': 1}
+cob	1	AGA	mito_Fun_cob:38	R	0.87	0	6	6	{}
+cob	29	TGG	mito_Fun_cob:66	W	0.97	1	10	10	{}
+cob	69	TGA	mito_Fun_cob:106	R	0.99	1	15	15	{}
+cob	75	TGG	mito_Fun_cob:112	W	0.94	1	14	14	{}
+cob	78	CGT	mito_Fun_cob:115	R	0.97	1	13	13	{}
+cob	98	TGA	mito_Fun_cob:135	R	0.85	0	17	17	{}
+cob	106	CGA	mito_Fun_cob:143	K	0.51	0	14	14	{}
+cob	109	AGA	mito_Fun_cob:146	R	0.95	1	15	15	{}
+cob	113	TGG	mito_Fun_cob:150	W	0.92	1	15	15	{}
+cob	141	TGG	mito_Fun_cob:178	W	0.91	1	21	21	{}
+cob	155	TGG	mito_Fun_cob:192	W	0.61	0	22	21	{'TGT': 1}
+cob	165	TGG	mito_Fun_cob:202	W	0.88	0	20	19	{'TTG': 1}
+cob	177	TGA	mito_Fun_cob:214	R	0.96	1	20	19	{'TTA': 1}
+cob	217	CGT	mito_Fun_cob:254	R	0.86	0	16	16	{}
+cob	272	TGG	mito_Fun_cob:309	W	0.88	0	15	15	{}
+cob	282	TGA	mito_Fun_cob:319	R	0.84	0	9	9	{}
+cob	311	TGA	mito_Fun_cob:348	R	0.69	0	20	20	{}
+cob	313	TGA	mito_Fun_cob:350	R	0.83	0	21	21	{}
+cob	318	AGA	mito_Fun_cob:355	R	0.82	0	21	20	{'AGG': 1}
+cob	326	TGG	mito_Fun_cob:363	W	0.49	0	18	17	{'TTG': 1}
+nad2	19	TGG	mito_Fun_nad2:26	D	0.55	0	41	41	{}
+nad2	26	TGA	mito_Fun_nad2:33	R	0.97	1	41	41	{}
+nad2	67	TGG	mito_Fun_nad2:74	I	0.26	0	54	54	{}
+nad2	216	TGG	mito_Fun_nad2:238	W	0.98	1	5	5	{}
+nad2	231	TGG	mito_Fun_nad2:253	F	0.50	0	8	8	{}
+nad2	242	TGG	mito_Fun_nad2:264	I	0.60	0	11	9	{'TGT': 1, 'TCG': 1}
+nad2	255	TGG	mito_Fun_nad2:283	W	0.65	0	8	8	{}
+nad2	279	TGA	mito_Fun_nad2:307	R	0.79	0	11	11	{}
+nad2	282	TGA	mito_Fun_nad2:310	R	0.95	1	10	0	{'AGA': 10}
+nad2	305	TGG	mito_Fun_nad2:333	E	0.68	0	19	19	{}
+nad2	360	TGG	mito_Fun_nad2:394	L	0.35	0	66	66	{}
+nad3	48	CGT	mito_Fun_nad3:50	R	0.98	1	3	3	{}
+cox2	19	TGG	mito_Fun_cox2:24	W	0.86	0	2	2	{}
+cox2	54	TGG	mito_Fun_cox2:59	W	0.96	1	2	2	{}
+cox2	61	TGG	mito_Fun_cox2:66	R	0.28	0	2	2	{}
+cox2	62	AGA	mito_Fun_cox2:67	N	0.57	0	3	3	{}
+cox2	83	TGG	mito_Fun_cox2:90	W	1.00	1	3	3	{}
+cox2	122	TGG	mito_Fun_cox2:129	W	1.00	1	6	6	{}
+cox2	124	TGG	mito_Fun_cox2:131	W	1.00	1	6	6	{}
+cox2	157	AGA	mito_Fun_cox2:164	R	1.00	1	5	5	{}
+cox2	164	TGA	mito_Fun_cox2:171	R	0.73	0	6	6	{}
+cox2	174	AGA	mito_Fun_cox2:181	R	0.98	1	9	9	{}
+cox2	201	TGA	mito_Fun_cox2:208	R	0.99	1	6	6	{}
+cox2	211	TGA	mito_Fun_cox2:218	R	1.00	1	7	7	{}
+cox2	245	TGG	mito_Fun_cox2:252	W	0.95	1	7	7	{}
+nad6	27	AGA	mito_Fun_nad6:42	K	0.74	0	9	8	{'ATA': 1}
+nad1	25	CGT	mito_Fun_nad1:32	R	1.00	1	2	2	{}
+nad1	33	CGA	mito_Fun_nad1:40	R	0.99	1	2	0	{'TGA': 2}
+nad1	34	CGT	mito_Fun_nad1:41	R	1.00	1	2	2	{}
+nad1	86	TGG	mito_Fun_nad1:93	W	0.48	0	8	8	{}
+nad1	91	TGG	mito_Fun_nad1:98	F	0.47	0	8	8	{}
+nad1	98	TGG	mito_Fun_nad1:105	S	0.47	0	8	8	{}
+nad1	123	TGG	mito_Fun_nad1:130	W	0.98	1	17	17	{}
+nad1	136	TGA	mito_Fun_nad1:143	R	1.00	1	17	17	{}
+nad1	175	TGG	mito_Fun_nad1:182	W	0.90	0	22	21	{'TTG': 1}
+nad1	197	TGA	mito_Fun_nad1:204	R	1.00	1	26	26	{}
+nad1	287	TGG	mito_Fun_nad1:287	W	0.92	1	8	8	{}
+nad1	289	TGA	mito_Fun_nad1:289	R	0.99	1	8	8	{}
+nad1	294	AGA	mito_Fun_nad1:294	R	1.00	1	5	5	{}
+nad1	296	TGA	mito_Fun_nad1:296	R	0.97	1	4	4	{}
+nad1	305	TGG	mito_Fun_nad1:305	W	1.00	1	0	0	{}
+nad1	315	TGG	mito_Fun_nad1:315	F	0.66	0	0	0	{}

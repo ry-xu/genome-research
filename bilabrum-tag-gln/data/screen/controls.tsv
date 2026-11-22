@@ -1,0 +1,68 @@
+unit	role	expect	basis
+GCA_047372885.1	pos	TAA:Q,TAG:Q	Tetrahymena, code 6
+GCA_054733055.1	pos	TAA:Q,TAG:Q	Paramecium, code 6
+GCA_000711775.1	pos	TAA:Q,TAG:Q	Oxytricha, code 6
+GCA_000751175.1	pos	TAA:Q,TAG:Q	Stylonychia, code 6
+GCA_001273305.2	pos	TAA:Q,TAG:Q	Sterkiella, code 6
+GCA_000220395.1	pos	TAA:Q,TAG:Q	Ichthyophthirius, code 6
+GCA_001447515.1	pos	TAA:Q,TAG:Q	Pseudocohnilembus, code 6
+GCA_037039885.1	pos	TAA:Q,TAG:Q	Miamiensis, code 6
+MMETSP1018	pos	TAA:Q,TAG:Q	Anophryoides, code 6
+ICTI01	pos	TAA:Q,TAG:Q	Hexamita (diplomonad), code 6
+GCA_963988835.2	pos	TAA:Q,TAG:Q	Hexamita inflata genome, code 6
+ICTH01	pos	TAA:Q,TAG:Q	Trepomonas (diplomonad), code 6
+GDID01	pos	TAA:Q,TAG:Q	Trepomonas (diplomonad), code 6
+HCDB01	pos	TAA:Q,TAG:Q	Acetabularia (dasycladalean), code 6
+GCA_963931725.1	pos	TAA:Q,TAG:Q	Acetabularia genome, code 6
+GCA_008636045.1	pos	TAA:Q,TAG:Q	Streblomastix (oxymonad), code 6
+GCA_032356065.1	pos	TAA:Q,TAG:Q	Blastophysa (Ulvophyceae), code 6
+GKLN01	pos	TGA:C	Euplotes, code 10
+HBJK01	pos	TGA:C	Euplotes, code 10
+MMETSP0205	pos	TGA:C	Euplotes, code 10
+MMETSP0206	pos	TGA:C	Euplotes, code 10
+GKLK01	pos	TGA:C	Euplotes, code 10
+MMETSP0213	pos	TGA:C	Euplotes, code 10
+GKLI01	pos	TGA:C	Euplotes, code 10
+GKLH01	pos	TGA:C	Euplotes, code 10
+GKLO01	pos	TGA:C	Euplotes, code 10
+GKLP01	pos	TGA:C	Moneuplotes, code 10
+MMETSP1380	pos	TGA:C	Moneuplotes, code 10
+GKLL01	pos	TGA:C	Moneuplotes, code 10
+GCA_977035975.1	pos	TGA:C	Euplotes genome, code 10
+GCA_946863485.1	pos	TGA:C	Moneuplotes genome, code 10
+MMETSP0210	pos	TAA:Q,TAG:Q,TGA:W	Condylostoma, code 28
+GCA_920105805.1	pos	TAA:Q,TAG:Q,TGA:W	Condylostoma genome, code 28
+MMETSP0467	pos	TAA:Y,TAG:Y	Mesodinium pulex, code 29
+MMETSP0798	pos	TAA:Y,TAG:Y	Myrionecta (Mesodinium) rubra, code 29
+GKBQ01	pos	TAA:Y,TAG:Y	Mesodinium rubrum, code 29
+GCA_059928065.1	pos	TAA:Y,TAG:Y	Mesodinium rubrum genome, code 29
+GLAO01	pos	TAA:E,TAG:E,TGA:W	Blastocrithidia, code 31
+GLAN01	pos	TAA:E,TAG:E,TGA:W	Blastocrithidia, code 31
+GCA_028554745.1	pos	TAA:E,TAG:E,TGA:W	Blastocrithidia nonstop genome, code 31
+MMETSP1395	pos	TGA:W	Blepharisma, UGA Trp
+GCA_914767885.1	pos	TGA:W	Blepharisma stoltei genome, UGA Trp
+GCA_061353255.1	neg		Stentor coeruleus genome, standard code (NCBI taxonomy says 10)
+GGGV01	neg		Stentor polymorphus, standard code (NCBI taxonomy says 10)
+GCA_000002435.2	neg		Giardia, standard
+GCA_000497125.2	pos	TAA:Q,TAG:Q	Spironucleus salmonicida; code 6 in Spironucleus (Keeling & Doolittle 1997), NCBI 6. Role set at 21:16 AFTER its score was seen (it was scored with the control batch as neg?); thresholds were not tuned on it
+GCA_917563935.1	neg		Trypanosoma evansi, standard
+GCA_002921335.1	neg		Paratrypanosoma, standard
+HAMJ01	neg		Leishmania, standard
+HBDK01	neg		Leishmania, standard
+GJNJ01	neg		Diplonema, standard
+GJQA01	neg		Diplonema, standard
+GCA_964019335.1	neg		Diplonema genome, standard
+GCA_000002765.3	neg		Plasmodium falciparum genome, standard
+HBVV01	neg		Plasmodium falciparum, standard
+GCA_000006565.2	neg		Toxoplasma genome, standard
+GCA_003324165.2	neg		Naegleria genome, standard
+IADA01	neg		Naegleria, standard
+MMETSP0045	neg		Bigelowiella, standard
+MMETSP0802	neg		Micromonas, standard
+MMETSP0878	neg		Thalassiosira weissflogii, standard
+MMETSP0994	neg		Emiliania, standard
+MMETSP0046	neg		Guillardia, standard
+GCA_000315625.1	neg		Guillardia genome, standard
+HACO01	neg		Phytophthora, standard
+GCA_025722995.1	neg		Phytophthora genome, standard
+MMETSP0232	neg		Debaryomyces (CTG Ser, stops standard)

@@ -1,0 +1,38 @@
+
+== cten_WGS: ATA@M rows 88, strands {'+': 85, '-': 3}
+  - pos 3060: sliced ATA (tsv ATA) refs 8/8 genes 12_rpl16;14_rpl16;15_rpl16;18_rpl16 | Desmarestia 15_rpl16 pos 86: ALAAR[M]GKGKG
+  - pos 4248: sliced ATA (tsv ATA) refs 8/8 genes 14_rps19;16_rps19;17_rps19;20_rps19 | Desmarestia 17_rps19 pos 61: KIKPE[M]VGHKL
+  - pos 4543: sliced ATA (tsv ATA) refs 8/8 genes 15_rpl2;17_rpl2;18_rpl2;21_rpl2 | Desmarestia 18_rpl2 pos 208: VRGVA[M]NPVDH
+  + pos 7498: sliced ATA (tsv ATA) refs 7/8 genes 19_atp6;22_atp6;23_atp6;25_atp6 | Desmarestia 23_atp6 pos 199: FAWAM[M]GSGGL
+  + pos 19734: sliced ATA (tsv ATA) refs 8/8 genes 28_nad11;31_nad11;32_nad11;34_nad11;37_n | Desmarestia 32_nad11 pos 47: AGNCR[M]CLVEV
+  + pos 445: sliced ATA (tsv ATA) refs 6/7 genes 10_rps7;13_rps7;8_rps7;9_rps7 | Desmarestia 10_rps7 pos 35: MINLL[M]RDGKR
+
+== POS_NC_085326: ATA@M rows 88, strands {'+': 85, '-': 3}
+  - pos 10962: sliced ATA (tsv ATA) refs 8/8 genes 12_rpl16;14_rpl16;15_rpl16;18_rpl16 | Desmarestia 15_rpl16 pos 86: ALAAR[M]GKGKG
+  - pos 12154: sliced ATA (tsv ATA) refs 8/8 genes 14_rps19;16_rps19;17_rps19;20_rps19 | Desmarestia 17_rps19 pos 61: KIKPE[M]VGHKL
+  - pos 12449: sliced ATA (tsv ATA) refs 8/8 genes 15_rpl2;17_rpl2;18_rpl2;21_rpl2 | Desmarestia 18_rpl2 pos 208: VRGVA[M]NPVDH
+  + pos 25698: sliced ATA (tsv ATA) refs 8/8 genes 26_nad5;29_nad5;30_nad5;31_nad5;35_nad5 | Desmarestia 30_nad5 pos 383: FTYAM[M]VIGSL
+  + pos 15350: sliced ATA (tsv ATA) refs 8/8 genes 19_atp6;22_atp6;23_atp6;25_atp6 | Desmarestia 23_atp6 pos 181: RLFAN[M]MAGHT
+  + pos 24804: sliced ATA (tsv ATA) refs 8/8 genes 26_nad5;29_nad5;30_nad5;31_nad5;35_nad5 | Desmarestia 30_nad5 pos 85: SLTVV[M]LIVVT
+
+== NEG_Saccharina: ATG@M rows 137, strands {'+': 131, '-': 6}
+  - pos 11581: sliced ATG (tsv ATG) refs 7/7 genes 12_rpl16;14_rpl16;15_rpl16;18_rpl16 | Desmarestia 15_rpl16 pos 86: ALAAR[M]GKGKG
+  - pos 11942: sliced ATG (tsv ATG) refs 6/7 genes 13_rps3;15_rps3;16_rps3;19_rps3 | Desmarestia 16_rps3 pos 242: YQMGQ[M]PLSQI
+  - pos 12781: sliced ATG (tsv ATG) refs 7/7 genes 14_rps19;16_rps19;17_rps19;20_rps19 | Desmarestia 17_rps19 pos 52: HNGRD[M]VDRKI
+  + pos 31973: sliced ATG (tsv ATG) refs 7/7 genes 28_nad11;31_nad11;32_nad11;34_nad11;37_n | Desmarestia 32_nad11 pos 178: HSEIG[M]FKENV
+  + pos 36567: sliced ATG (tsv ATG) refs 7/7 genes 34_nad7;37_nad7;38_nad7;51_nad7 | Desmarestia 38_nad7 pos 127: VGCHA[M]DVGAM
+  + pos 29317: sliced ATG (tsv ATG) refs 7/7 genes 26_nad5;29_nad5;30_nad5;31_nad5;35_nad5 | Desmarestia 30_nad5 pos 262: IHAAT[M]VTAGV
+
+== NEG_Petalonia: ATG@M rows 135, strands {'+': 129, '-': 6}
+  - pos 11796: sliced ATG (tsv ATG) refs 7/7 genes 12_rpl16;14_rpl16;15_rpl16 | Desmarestia 15_rpl16 pos 86: ALAAR[M]GKGKG
+  - pos 12404: sliced ATG (tsv ATG) refs 5/7 genes 13_rps3;15_rps3;16_rps3 | Desmarestia 16_rps3 pos 160: YARTG[M]QLLSL
+  - pos 12158: sliced ATG (tsv ATG) refs 6/7 genes 13_rps3;15_rps3;16_rps3 | Desmarestia 16_rps3 pos 242: YQMGQ[M]PLSQI
+  + pos 30547: sliced ATG (tsv ATG) refs 7/7 genes 26_nad5;29_nad5;30_nad5;31_nad5 | Desmarestia 30_nad5 pos 383: FTYAM[M]VIGSL
+  + pos 15135: sliced ATG (tsv ATG) refs 7/7 genes 18_cox3;20_cox3;21_cox3 | Desmarestia 21_cox3 pos 99: IVSEV[M]FFFAF
+  + pos 37472: sliced ATG (tsv ATG) refs 7/7 genes 34_nad7;37_nad7;38_nad7 | Desmarestia 38_nad7 pos 272: VRVEE[M]RQSLS
+
+== (b) substitution model: if ATA were Ile, ATA@M sites are Met->Ile changes; their Ile codon should follow Chor Ile usage
+cten_WGS: Ile-column codons ATA/ATT/ATC = 6/245/13 (ATA share 0.023); M-column Ile-codons ATA/ATT/ATC = 88/3/2; expected ATA 2.1 of 93; binomial P(>= obs) = 1.1e-137; M-column Ile-codon share 0.674; ATG+ATA at M 115 of 138 M cols
+dmes_WGS: Ile-column codons ATA/ATT/ATC = 51/190/10 (ATA share 0.203); M-column Ile-codons ATA/ATT/ATC = 3/6/0; expected ATA 1.8 of 9; binomial P(>= obs) = 0.27; M-column Ile-codon share 0.066; ATG+ATA at M 116 of 137 M cols
+NEG_Phaeostrophion: Ile-column codons ATA/ATT/ATC = 69/126/28 (ATA share 0.309); M-column Ile-codons ATA/ATT/ATC = 2/5/0; expected ATA 2.2 of 7; binomial P(>= obs) = 0.69; M-column Ile-codon share 0.052; ATG+ATA at M 100 of 134 M cols
+NEG_Saccharina: Ile-column codons ATA/ATT/ATC = 116/233/25 (ATA share 0.310); M-column Ile-codons ATA/ATT/ATC = 1/2/0; expected ATA 0.9 of 3; binomial P(>= obs) = 0.672; M-column Ile-codon share 0.021; ATG+ATA at M 138 of 142 M cols

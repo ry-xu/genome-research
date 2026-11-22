@@ -1,0 +1,50 @@
+clade	status	pairs	basis
+Ciliophora	group		many independent stop->sense origins; a ciliate call outside the rows below is at least label 'lineage' (notes/known-nuclear-stop-codes.md)
+Oligohymenophorea	known	TAA:Q,TAG:Q,TAA:K,TAG:E	Horowitz1985; Tourancheau1995; Lukes2025 (most of the class; PL0344 has TAA=K, TAG=E: McGowan2023)
+Peritrichia	known	TAA:E,TAG:E	SanchezSilva2003; Heaphy2016 (code 30)
+Stichotrichia	known	TAA:Q,TAG:Q,TGA:R	NCBIgc; Heaphy2016; Chen2023 (TGA=Arg/* in several genera)
+Oligotrichia	known	TAA:Q,TAG:Q	Heaphy2016; Chen2023
+Choreotrichia	known	TAA:Q,TAG:Q	Heaphy2016
+Uronychiidae	known	TAA:Q,TAG:Q,TGA:R	ChenW2021; Chen2023 (Uronychia, Diophrys; Diophrys TGA=Cys unresolved)
+Certesia	known	TAA:Q,TAG:Q	ChenW2021
+Euplotidae	known	TGA:C	Meyer1991; NCBIgc code 10
+Licnophora	known	TAA:E,TAG:Q,TGA:R	Maturova2026 (abstract)
+Protocruzia	candidate	TAG:Q	Chen2023 (P. tuzeti); P. adherens standard (Heaphy2016)
+Mesodiniidae	known	TAA:Y,TAG:Y	Swart2016; Heaphy2016; NCBIgc code 29
+Blepharisma	known	TGA:W	Lozupone2001; Swart2016; Singh2023
+Condylostentor	known	TGA:W	Chen2023
+Condylostoma	known	TAA:Q,TAG:Q,TGA:W	Swart2016; Heaphy2016; NCBIgc code 28
+Peritromus	known	TAA:Q,TAG:Q,TGA:C	Chen2023
+Karyorelictea	known	TAA:Q,TAG:Q,TGA:W	Swart2016; Seah2022; NCBIgc code 27
+Plagiopyla	known	TAA:Q,TAG:Q,TGA:W	McGowan2023 (TGA=Trp rare)
+Palmarella	known	TAA:Q,TAG:Q	Rotterova2024; Lukes2025
+Colpodea	known	TAA:Q,TAG:Q	Lukes2025 clade statement, no genera named; Colpoda aspera and Platyophrya standard (Heaphy2016)
+Nassophorea	known	TAA:Q,TAG:Q	Lukes2025 clade statement, no genera named
+Phyllopharyngea	known	TAG:L,TAG:Q	McGowan2024 (TARA MAGs TAG=Leu; Hartmannula, Trochilia TAG=Gln)
+Balantidium	known	TGA:L	Maturova2026 (B. ctenopharyngodoni only)
+Tiarina	candidate	TAA:Q,TAG:Q	Heaphy2016 (TAG uncertain); not in Lukes2025
+Zosterodasys	candidate	TGA:W	Chen2023 (unresolved)
+Brachonella	candidate	TAG:Q,TAG:E,TAG:Y,TAG:L	Chen2023 (100 in-frame TAG, meaning not established)
+Fornicata	group		Hexamitinae and Iotanema
+Hexamitinae	known	TAA:Q,TAG:Q	KeelingDoolittle1996; KeelingDoolittle1997; NCBIgc code 6 (Giardiinae standard)
+Iotanema	known	TAG:Q	Panek2017
+Heterolobosea	group		Dactylomonas
+Dactylomonas	known	TAG:Q	Panek2025; Lukes2025
+Trypanosomatidae	group		Blastocrithidia (Obscuromonas standard)
+Blastocrithidia	known	TAA:E,TAG:E,TGA:W	Zahonova2016; Kachale2023; Zahonova2025; NCBIgc code 31
+Syndiniales	group		Amoebophrya ex Karlodinium
+Amoebophrya	known	TAA:Q,TAG:Q,TGA:W	Bachvaroff2019; DeMontigny2025 (strain ex Karlodinium; ex Akashiwo standard)
+Sainouroidea	known	TAG:L	Panek2017 (exLh)
+Oxymonadida	group		Streblomastix and the Cryptocercus oxymonad
+Streblomastix	known	TAA:Q,TAG:Q	KeelingLeander2003
+Ulvophyceae	group		Dasycladales, Cladophorales, Trentepohliales, Blastophysa, Scotinosphaera
+Dasycladales	known	TAA:Q,TAG:Q	Schneider1989; Gile2009; Cocquyt2010; NCBIgc code 6
+Cladophorales	known	TAA:Q,TAG:Q	Gile2009; Cocquyt2010
+Trentepohliales	known	TAA:Q,TAG:Q	Cocquyt2010
+Blastophysa	known	TAA:Q,TAG:Q	Cocquyt2010; NCBIgc code 6
+Scotinosphaera	known	TAG:S	Li2021
+Amoeboaphelidium	known	TAA:Q,TAG:Q	Karpov2013; Panek2017
+Euplotes	candidate	TAA:Q,TAG:Q	Wang2020 (one gene); Heaphy2016 (E. focardii TAA/TAG '?'); in-frame TAA/TAG are mostly +1 frameshift sites
+Diophrys	candidate	TGA:C	Chen2023 ('masked by noise')
+Colpoda	candidate	TGA:W	Lozupone2001; C. aspera standard (Heaphy2016)
+Cryptocaryon	known	TAA:Q,TAG:Q	Parasitology 2007 i-antigen gene (TAA/TAG read as Gln); added 22:04 after GEEV01 was read, not in the ledger table

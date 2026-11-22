@@ -1,0 +1,2 @@
+resp(nad,cox,cob,atp)  codons  5065 ATG  40 ATA 136 ATT+C 428 | relatives Met  142.9 Ile  403.1 | ATA=Met: Met 1.23x Ile 1.06x | ATA=Ile: Met 0.28x Ile 1.40x
+ribo+tatC              codons  2774 ATG  11 ATA  91 ATT+C 187 | relatives Met   24.5 Ile  207.2 | ATA=Met: Met 4.16x Ile 0.90x | ATA=Ile: Met 0.45x Ile 1.34x

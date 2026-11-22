@@ -1,0 +1,14 @@
+[project]
+name = "uga-arginine-pneumocystis"
+version = "0.1.0"
+description = "Analysis code and data: Pneumocystis jirovecii mitochondria read UGA as arginine"
+requires-python = ">=3.11"
+dependencies = [
+    "biopython",
+    "matplotlib",
+    "numpy",
+    "pyhmmer",
+]
+
+[tool.uv]
+package = false

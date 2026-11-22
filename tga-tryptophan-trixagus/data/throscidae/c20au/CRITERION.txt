@@ -1,0 +1,15 @@
+Written 2026-11-11 18:15 before running. Replaces the full LG+C20+F+G4 tree search (c20/), which managed 4 search
+iterations in ~1 h and needs >= 100 with UFBoot (~10 h); stopped at iteration 4.
+Test: iqtree3 -m LG+C20+F+G4 -z c20au/trees.tre -n 0 -zb 10000 -au on three fixed trees:
+  1 the LG+F+G4 ML tree (concat.faa.treefile; Ttur branches outside Aulonothroscus),
+  2 the C20 search's best tree at iteration 4 (c20/concat.faa.treefile; Ttur sister to the other Trixagus),
+  3 the best LG tree with readers (Tser, Tder, Ttur) constrained monophyletic (au/constr.treefile).
+Reader monophyly is rejected under C20 if tree 3 has AU p < 0.05.
+Ttur's placement: report logL difference and AU p of trees 1 vs 2; whichever is worse is rejected only if p < 0.05,
+otherwise Ttur's placement stays unresolved.
+Tree 3 was optimised under LG, not C20, so it is not the best constrained tree under C20.
+
+Note appended 2026-11-11 19:07 after the run (second fact-check): tree 2 is NOT the C20 search's best tree at iteration 4.
+c20/concat.faa.treefile was written at 17:17:07 with the checkpoint at iteration 0, so it is the search's starting tree
+(C20 logL -310811.5, log line 48). The search's best at iteration 4 (-310765.122, log line 74) matches tree 1's C20 logL
+(-310765.39), i.e. the LG topology. The rule and numbers above stand; only tree 2's description was wrong.

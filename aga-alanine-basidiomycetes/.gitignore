@@ -1,0 +1,17 @@
+# not included (see src/README.md): census files, profile models, genomes, reads, spectra, protein database
+data/codes/
+*.census.npz
+*.npz
+*.hmm
+*.bam
+*.bai
+*.raw
+*.mzML
+db.fasta
+results/
+scratch/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
