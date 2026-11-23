@@ -1,0 +1,18 @@
+accession	source	genus	environment	motif_205_207	p143_ecoli	p201_ecoli	p329_ecoli	p341_ecoli	contig	start_1based	end_1based	strand	protein_len_aa	raw_dna_len_nt	fs_fixed_cds_len_nt	frameshift_aa_pos	stop_codon	internal_TTA_count
+GCA_982529355.1	predator-prey co-culture from subarctic peatland soil (Demina et al. 2025)	catalogue		SPY	G	F	M	Q	CEWPKR010000002.1	650106	651252	+	381	1147	1146	23	TGA	0
+GCA_964396175.1	wastewater	CAYNEK01		SPY	G	F	M	Q	CAYNEK010000085.1	11231	12377	+	381	1147	1146	23	TGA	0
+GCA_035762175.1	agricultural soil	DASTPP01		SPY	G	F	M	Q	DASTPP010000221.1	20132	21278	+	381	1147	1146	23	TGA	0
+GCA_020849655.1	partial nitritation anammox bioreactor (Sjolunda WWTP)	JADLFU01		SPY	G	F	M	Q	JADLFU010000133.1	8525	9674	-	382	1150	1149	23	TGA	0
+GCA_963169165.1	anammox biofilm reactor (Klagshamn WWTP)	JADLFU01		SPY	G	F	M	Q	CAUJFL010000153.1	11248	12397	-	382	1150	1149	23	TGA	0
+GCA_963169955.1	anammox biofilm reactor (same sample and read run as GB_GCA_963169165.1)	JADLFU01 (non-rep)		SPY	G	F	M	Q	CAUJEP010000066.1	8685	9834	-	382	1150	1149	23	TGA	0
+GCA_025057345.1	green biofilm, alkaline hot spring	JANWXX01		SPY	G	F	M	Q	JANWXX010000127.1	9357	10503	+	381	1147	1146	23	TGA	0
+GCA_025453595.1	wetland (Prado Wetlands)	JANWXX01		SPY	G	F	M	Q	JALOQB010000050.1	351	1497	+	381	1147	1146	23	TGA	0
+GCA_964605685.1	hot spring	JANWXX01		SPY	G	F	M	Q	CAZSDX010000478.1	3714	4860	-	381	1147	1146	23	TGA	0
+GCA_033578855.1	hybrid reassembly of the GB_GCA_025057345.1 samples	JANWXX01 (non-rep)		SPY	G	F	M	Q	JAVQWS010000071.1	4420	5566	-	381	1147	1146	23	TGA	0
+GCA_060838245.1	wastewater plant	catalogue		SPY	G	F	M	Q	JCCPUA010001473.1	1679	2834	+	384	1156	1155	26	TGA	0
+MAG.1207	anammox system	catalogue		SPY	G	F	M	Q	MAG.1207-contigs_68701	102674	103820	+	381	1147	1146	23	TGA	0
+bin242	activated sludge	catalogue		SPY	G	F	M	Q	116_bin242	9014	10160	-	381	1147	1146	23	TGA	0
+bin496	activated sludge	catalogue		SPY	G	F	M	Q	374_bin496	2662	3817	-	384	1156	1155	26	TGA	0
+spire_mag_00879468	wastewater	catalogue		SPY	G	F	M	Q	k141_4920	123	1278	-	384	1156	1155	26	TGA	0
+GCA_046351315.1	wastewater	JAXLYQ01		SPF	G	F	M	Q	JAXLYQ010000005.1	60348	61491	-	380	1144	1143	23	TGA	0
+bin474	activated sludge	catalogue		SPF	G	F	M	Q	31_bin474	43195	44338	+	380	1144	1143	23	TGA	0
