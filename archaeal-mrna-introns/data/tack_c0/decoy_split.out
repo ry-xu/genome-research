@@ -1,0 +1,13 @@
+both vary with split (majority) 1 9 19 /25 canonical
+both vary with split (majority) 1 10 9 /25 canonical
+both vary with split (majority) 1 11 1 /25 canonical
+both vary with split (majority) 4 10 9 /25 canonical
+both vary with split (majority) 4 11 1 /25 canonical
+both vary with split (majority) 5 9 1 /25 canonical
+both vary with split (majority) 5 11 4 /25 canonical
+both vary with split (majority) 6 9 1 /25 canonical
+both vary with split (majority) 6 10 14 /25 canonical
+both vary with split (majority) 7 9 13 /25 canonical
+both vary with split (majority) 7 10 11 /25 canonical
+both vary with split (majority) 7 11 9 /25 canonical
+groups {'AT': 12, 'GC': 13} | decoys both vary 34 | both columns exactly on split 0 | majority base differs by group 12

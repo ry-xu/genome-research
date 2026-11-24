@@ -1,0 +1,58 @@
+GCA_049570475.1 CP186953.1+ len 22 slide L0/R0 motif (4, 1, 5) relaxed | MFE dG -48.7 helix 4/4 bulge5 True bulge3 True | helix pairs CG GC GC TG | 5' cacggtat|ACGGAT 3' CGGCCGAA|ttagcc
+GCA_038801655.1 JAULTB010000013.1- len 22 slide L0/R0 motif (4, 1, 5) relaxed | MFE dG -46.0 helix 4/4 bulge5 True bulge3 True | helix pairs CG GC GC TG | 5' cacggtat|ACGGAT 3' CGGCCGAA|ttagcc
+GCA_030522375.1 CP130488.1- len 23 slide L0/R0 motif (4, 1, 5) relaxed | MFE dG -47.6 helix 4/4 bulge5 True bulge3 True | helix pairs CG GC GC TG | 5' cacggtat|ACGGGT 3' CGGCCGAA|ttagcc
+GCA_038801705.1 JAULTC010000002.1+ len 20 slide L0/R0 motif (4, 1, 5) relaxed | MFE dG -41.7 helix 4/4 bulge5 True bulge3 True | helix pairs CG GC GC TG | 5' cacggtat|ACGGAT 3' CGGCCGAA|ttagcc
+GCA_029907755.1 JARYLH010000154.1- len 23 slide L0/R0 motif (4, 1, 5) relaxed | MFE dG -47.2 helix 4/4 bulge5 True bulge3 True | helix pairs CG GC GC TG | 5' cacggtat|GCGGAT 3' CGGCCGAA|ttagcc
+GCA_030055545.1 JASFYK010000074.1- len 23 slide L0/R0 motif (4, 1, 5) relaxed | MFE dG -43.3 helix 4/4 bulge5 True bulge3 True | helix pairs CG GC GC TG | 5' cacggtat|ACGGAT 3' CGGCCGAA|ttagtc
+GCA_037478935.1 JBBFLR010000014.1+ len 24 slide L0/R0 motif (4, 1, 5) relaxed | MFE dG -45.7 helix 4/4 bulge5 True bulge3 True | helix pairs CG GC GC TG | 5' cacggtat|GCGGAT 3' CGGCCGAA|ttagcc
+GCA_937930465.1 CALGKV010000094.1+ len 23 slide L0/R0 motif (4, 1, 6) relaxed | MFE dG -45.6 helix 4/4 bulge5 True bulge3 True | helix pairs CG GC GC TG | 5' cacggtat|GCGGAT 3' CGGCCGAA|ttagct
+GCA_030055575.1 JASFYL010000070.1+ len 24 slide L0/R0 motif (4, 3, 7) strict | MFE dG -46.0 helix 4/4 bulge5 True bulge3 True | helix pairs CG GC GC TG | 5' tacggtat|GCGGAT 3' CGGCCGAG|ttagcc
+GCA_038801785.1 JAULTD010000001.1- len 33 slide L0/R0 motif (4, 3, 4) strict | MFE dG -49.7 helix 4/4 bulge5 False bulge3 True | helix pairs CG GC GC TG | 5' tacggtat|GCGGCC 3' CGGCCGAG|ttagct
+GCA_964576015.1 CAZNTO010000002.1- len 20 slide L0/R0 motif (4, 3, 5) strict | MFE dG -42.6 helix 4/4 bulge5 True bulge3 True | helix pairs CG GC GC TG | 5' tacggtat|ACGACC 3' CGGCCGAA|ttagct
+GCA_014361445.1 JACIVQ010000030.1+ len 20 slide L0/R0 motif (4, 1, 5) relaxed | MFE dG -45.4 helix 4/4 bulge5 True bulge3 True | helix pairs CG GC GC TG | 5' cacggtat|GCGACC 3' CGGCCGAG|ttagcc
+GCA_016882195.1 VGLU01000005.1+ len 33 slide L0/R0 motif (4, 3, 5) strict | MFE dG -49.8 helix 4/4 bulge5 True bulge3 True | helix pairs CG GC GC TG | 5' tacggtat|ACGACC 3' CGGCCGAG|ttagct
+GCA_004347955.1 QNVH01000001.1+ len 20 slide L0/R0 motif (4, 1, 4) relaxed | MFE dG -43.4 helix 4/4 bulge5 True bulge3 True | helix pairs CG GC GC TG | 5' cacggtat|GCGACC 3' CGGCCGAG|ttagct
+GCA_020832905.1 JAJHRG010000001.1+ len 20 slide L0/R0 motif (4, 3, 5) strict | MFE dG -49.3 helix 4/4 bulge5 True bulge3 True | helix pairs CG GC GC TG | 5' tacggtat|ACGACT 3' CGGCCGAA|ttagcc
+GCA_964654895.1 CAZZJY010000064.1- len 20 slide L0/R0 motif (4, 1, 5) relaxed | MFE dG -43.7 helix 4/4 bulge5 True bulge3 True | helix pairs CG GC GC TG | 5' cacggtat|GCGACT 3' CGGCCGAG|ttagcc
+GCA_026414165.1 JAOAJN010000007.1- len 20 slide L0/R0 motif (4, 3, 4) strict | MFE dG -44.4 helix 4/4 bulge5 True bulge3 True | helix pairs CG GC GC TG | 5' tacggtat|ACGACC 3' CGGCCGAA|ttagcc
+GCA_964477685.1 CAYZHK010000002.1- len 21 slide L0/R0 motif (4, 1, 4) relaxed | MFE dG -48.0 helix 4/4 bulge5 True bulge3 True | helix pairs CG GC GC TG | 5' cacggtat|GCGGCC 3' CGGCCGAA|ttagcc
+GCA_029887795.1 JARXPE010000004.1- len 20 slide L0/R0 motif (4, 3, 4) strict | MFE dG -44.3 helix 4/4 bulge5 True bulge3 True | helix pairs CG GC GC TG | 5' tacggtat|ACGACC 3' CGGCCGAA|ttagct
+GCA_049970435.1 JBMFMY010000047.1- len 20 slide L0/R0 motif (4, 3, 4) strict | MFE dG -45.1 helix 4/4 bulge5 True bulge3 True | helix pairs CG GC GC TG | 5' tacggtat|ACGACA 3' CGGCCGAA|ttagct
+GCA_004348015.1 QNVI01000024.1- len 20 slide L0/R0 motif (4, 3, 5) strict | MFE dG -49.3 helix 4/4 bulge5 True bulge3 True | helix pairs CG GC GC TG | 5' tacggtat|ACGACT 3' CGGCCGAA|ttagct
+GCA_964595415.1 CAZQQB010000003.1- len 20 slide L0/R0 motif (4, 3, 5) strict | MFE dG -41.9 helix 4/4 bulge5 True bulge3 True | helix pairs CG GC GC TG | 5' tacggtat|GCGACT 3' CGGCCGAA|ttagct
+GCA_029887765.1 JARXPF010000001.1- len 22 slide L0/R0 motif (4, 3, 6) strict | MFE dG -36.8 helix 4/4 bulge5 True bulge3 True | helix pairs CG GC GC TG | 5' tacggtat|ACGGCT 3' CGGCCGAA|ttagct
+GCA_964617245.1 CAZTWF010000085.1+ len 20 slide L0/R0 motif (4, 3, 5) strict | MFE dG -45.9 helix 4/4 bulge5 True bulge3 True | helix pairs CG GC GC TG | 5' tacggtat|ACGACT 3' CGGCCGAA|ttagct
+GCA_025057955.1 JANXER010000010.1- len 22 slide L0/R0 motif (4, 3, 5) strict | MFE dG -36.3 helix 4/4 bulge5 True bulge3 True | helix pairs CG GC GC TG | 5' tacggtat|GCGGTC 3' CGGCCGAA|ttagct
+
+helix position: pairs seen across species (covariation if >1 canonical pair at a position)
+0 ['CG'] all paired
+1 ['GC'] all paired
+2 ['GC'] all paired
+3 ['TG'] all paired
+
+inner helix: first 5 pairs (insert nt 2-6 with nt L-6..L-10), motif length n, pairs of n present in MFE
+GCA_049570475.1 CG GC GC AT TG n 5 MFE 5 all canonical(5) True
+GCA_038801655.1 CG GC GC AT TG n 5 MFE 5 all canonical(5) True
+GCA_030522375.1 CG GC GC GT TA n 5 MFE 5 all canonical(5) True
+GCA_038801705.1 CG GC GC AT TA n 5 MFE 5 all canonical(5) True
+GCA_029907755.1 CG GC GC AT TG n 5 MFE 5 all canonical(5) True
+GCA_030055545.1 CG GC GC AT TG n 5 MFE 5 all canonical(5) True
+GCA_037478935.1 CG GC GC AT TG n 5 MFE 5 all canonical(5) True
+GCA_937930465.1 CG GC GC AT TG n 6 MFE 6 all canonical(5) True
+GCA_030055575.1 CG GC GC AT TA n 7 MFE 7 all canonical(5) True
+GCA_038801785.1 CG GC GC CG CT n 4 MFE 0 all canonical(5) False
+GCA_964576015.1 CG GC AT CG CG n 5 MFE 5 all canonical(5) True
+GCA_014361445.1 CG GC AT CG CG n 5 MFE 5 all canonical(5) True
+GCA_016882195.1 CG GC AT CG CG n 5 MFE 5 all canonical(5) True
+GCA_004347955.1 CG GC AT CG CA n 4 MFE 4 all canonical(5) False
+GCA_020832905.1 CG GC AT CG TA n 5 MFE 5 all canonical(5) True
+GCA_964654895.1 CG GC AT CG TA n 5 MFE 5 all canonical(5) True
+GCA_026414165.1 CG GC AT CG CA n 4 MFE 4 all canonical(5) False
+GCA_964477685.1 CG GC GC CG CA n 4 MFE 4 all canonical(5) False
+GCA_029887795.1 CG GC AT CG CA n 4 MFE 4 all canonical(5) False
+GCA_049970435.1 CG GC AT CG AA n 4 MFE 4 all canonical(5) False
+GCA_004348015.1 CG GC AT CG TA n 5 MFE 5 all canonical(5) True
+GCA_964595415.1 CG GC AT CG TA n 5 MFE 5 all canonical(5) True
+GCA_029887765.1 CG GC GC CG TA n 6 MFE 6 all canonical(5) True
+GCA_964617245.1 CG GC AT CG TA n 5 MFE 5 all canonical(5) True
+GCA_025057955.1 CG GC GC TA CG n 5 MFE 5 all canonical(5) True

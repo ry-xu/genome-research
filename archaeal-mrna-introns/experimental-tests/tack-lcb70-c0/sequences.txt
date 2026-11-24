@@ -1,0 +1,26 @@
+# c0 package sequences (mRNA sense = CP186953.1 plus strand). Made by pkg/make_pkg.py
+
+insert (22 nt): ACGGATCTAGAGTCCGGCCGAA
+unspliced junction region: agccagaagttgtgcccagcttcacggtatACGGATCTAGAGTCCGGCCGAAttagcctgggctgcaacttcgcctgcatcc
+spliced junction:          agccagaagttgtgcccagcttcacggtat|ttagcctgggctgcaacttcgcctgcatcc
+
+# RT-PCR primers (5'->3'). Tm: basic formula. Nearest-neighbour Tm (primer3 defaults, 50 mM Na+, 1.5 mM Mg2+):
+#   F 64.9, R 65.2, J 65.5, U 66.3 C (review/primers_v2/nn.out, u_alt.out). Worst dimer: F self -6.2 kcal/mol.
+F  AGGATTGGGGAGTCCATAATGCGC  24 nt  Tm 59.1  3'15-mer genome hits 1
+R  ACCTTTAGCCAGAACGGGATGTGC  24 nt  Tm 59.1  3'15-mer genome hits 1
+J  TGTGCCCAGCTTCACGGTATTTAGC  25 nt  Tm 59.3  spliced only: 3' end 5 nt past the junction; 3'15-mer hits in the unspliced genome 0
+U  GCCCAGCTTCACGGTATACGGATCTAG  27 nt  Tm 62.8  unspliced only: 3' end after insert nt 10 of 22; 3'15-mer genome hits 1
+products: F+R spliced 359 bp / unspliced 381 bp; J+R 210 bp; U+R 229 bp
+3'-dimer check: no primer's 3' 5-mer is complementary to any stretch of F, R, J or U (itself included)
+
+# The c0 site in all 9 Methanosuratincola species reps (out/an/msur5.txt, msur5_frame.txt): insert between ...CACGGTAT and TTAGC...
+GCA_049570475.1 M. verstraetei   22 nt ACGGATCTAGAGTCCGGCCGAA    (RNA: 45 of 51 templates joined)
+GCA_038801655.1                  22 nt ACGGATCTAAAGTCCGGCCGAA
+GCA_030522375.1 M. petrocarbonis 23 nt ACGGGTGAGAGAATCCGGCCGAA   (RNA: 5 of 10 templates joined)
+GCA_038801705.1                  20 nt ACGGATGAGATCCGGCCGAA
+GCA_029907755.1                  23 nt GCGGATGAAAGAGTCCGGCCGAA
+GCA_030055545.1                  23 nt ACGGATGAGAAAGTCCGGCCGAA
+GCA_037478935.1                  24 nt GCGGATAAAAAAAGTCCGGCCGAA
+GCA_937930465.1                  23 nt GCGGATTCTAAAGTCCGGCCGAA
+GCA_030055575.1                  24 nt GCGGATCTTAGGGATCCGGCCGAG  (upstream flank ...TTTACGGTAT)
+Every insert puts a stop codon in the unspliced reading frame (including the two 24-nt ones); removal restores one ORF.

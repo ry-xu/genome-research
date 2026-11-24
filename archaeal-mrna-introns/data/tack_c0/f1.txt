@@ -1,0 +1,84 @@
+S1: 2 of 2 runs done
+S2: 9 of 9 runs done
+S3: 2 of 2 runs done
+== words by study x class (all phyla, event groups)
+shape: (8, 6)
+┌───────┬──────────────────┬─────────────┬────────────────┬─────────┬──────────────┐
+│ study ┆ cls2             ┆ not covered ┆ partly removed ┆ removed ┆ read through │
+│ ---   ┆ ---              ┆ ---         ┆ ---            ┆ ---     ┆ ---          │
+│ str   ┆ str              ┆ u32         ┆ u32            ┆ u32     ┆ u32          │
+╞═══════╪══════════════════╪═════════════╪════════════════╪═════════╪══════════════╡
+│ S1    ┆ cut BHB TRUB     ┆ 1           ┆ 0              ┆ 5       ┆ 0            │
+│ S1    ┆ cut non-BHB      ┆ 3           ┆ 0              ┆ 0       ┆ 0            │
+│ S1    ┆ decoy            ┆ 11          ┆ 0              ┆ 0       ┆ 1            │
+│ S1    ┆ tRNA intron      ┆ 60          ┆ 2              ┆ 22      ┆ 5            │
+│ S2    ┆ cut BHB non-TRUB ┆ 1           ┆ 0              ┆ 1       ┆ 0            │
+│ S2    ┆ cut non-BHB      ┆ 0           ┆ 0              ┆ 0       ┆ 1            │
+│ S2    ┆ decoy            ┆ 2           ┆ 0              ┆ 0       ┆ 3            │
+│ S2    ┆ tRNA intron      ┆ 9           ┆ 3              ┆ 0       ┆ 19           │
+└───────┴──────────────────┴─────────────┴────────────────┴─────────┴──────────────┘
+== G1 diagnostic (A2): tRNA introns with joined+through >= 5 (spliced_clean: read check done, none explained)
+shape: (2, 5)
+┌───────┬─────────┬─────────┬─────────┬───────────────┐
+│ study ┆ covered ┆ spliced ┆ removed ┆ spliced_clean │
+│ ---   ┆ ---     ┆ ---     ┆ ---     ┆ ---           │
+│ str   ┆ u32     ┆ u32     ┆ u32     ┆ u32           │
+╞═══════╪═════════╪═════════╪═════════╪═══════════════╡
+│ S1    ┆ 12      ┆ 7       ┆ 5       ┆ 0             │
+│ S2    ┆ 22      ┆ 3       ┆ 0       ┆ 2             │
+└───────┴─────────┴─────────┴─────────┴───────────────┘
+== Gate (A2 = G2): crenarchaeal cbf5, covered ones
+shape: (5, 8)
+┌───────┬────────────────────┬───────────┬────────────────────────────┬─────┬────────┬─────────┬─────────┐
+│ study ┆ id                 ┆ n_members ┆ species                    ┆ L   ┆ joined ┆ through ┆ word    │
+│ ---   ┆ ---                ┆ ---       ┆ ---                        ┆ --- ┆ ---    ┆ ---     ┆ ---     │
+│ str   ┆ str                ┆ i64       ┆ str                        ┆ str ┆ i64    ┆ i64     ┆ str     │
+╞═══════╪════════════════════╪═══════════╪════════════════════════════╪═════╪════════╪═════════╪═════════╡
+│ S1    ┆ GCA_015520735.1:c0 ┆ 1         ┆ JAADCY01 sp015520735       ┆ 31  ┆ 4      ┆ 0       ┆ removed │
+│ S1    ┆ GCA_038816475.1:c0 ┆ 1         ┆ UBA285 sp038816475         ┆ 27  ┆ 3      ┆ 0       ┆ removed │
+│ S1    ┆ GCA_038821645.1:c0 ┆ 1         ┆ Ignisphaera sp038821645    ┆ 33  ┆ 4      ┆ 0       ┆ removed │
+│ S1    ┆ GCA_038843015.1:c0 ┆ 1         ┆ Zestomicrobium sp038843015 ┆ 36  ┆ 3      ┆ 0       ┆ removed │
+│ S1    ┆ GCA_038896955.1:c0 ┆ 1         ┆ UBA285 sp038896955         ┆ 27  ┆ 9      ┆ 0       ┆ removed │
+└───────┴────────────────────┴───────────┴────────────────────────────┴─────┴────────┴─────────┴─────────┘
+  S1: cbf5 covered 5, spliced 5 -> GATED
+  S2: cbf5 covered 0, spliced 0 -> ungated
+== TACK cuts and their decoys by parent class (all studies)
+shape: (7, 6)
+┌───────┬──────────────────┬───────┬─────────────┬──────────────┬─────────┐
+│ study ┆ pcls             ┆ kind  ┆ not covered ┆ read through ┆ removed │
+│ ---   ┆ ---              ┆ ---   ┆ ---         ┆ ---          ┆ ---     │
+│ str   ┆ str              ┆ str   ┆ u32         ┆ u32          ┆ u32     │
+╞═══════╪══════════════════╪═══════╪═════════════╪══════════════╪═════════╡
+│ S1    ┆ cut BHB TRUB     ┆ cut   ┆ 1           ┆ 0            ┆ 5       │
+│ S1    ┆ cut BHB TRUB     ┆ decoy ┆ 6           ┆ 1            ┆ 0       │
+│ S1    ┆ cut BHB non-TRUB ┆ decoy ┆ 2           ┆ 0            ┆ 0       │
+│ S1    ┆ cut non-BHB      ┆ cut   ┆ 1           ┆ 0            ┆ 0       │
+│ S1    ┆ cut non-BHB      ┆ decoy ┆ 1           ┆ 0            ┆ 0       │
+│ S2    ┆ cut BHB non-TRUB ┆ cut   ┆ 0           ┆ 0            ┆ 1       │
+│ S2    ┆ cut BHB non-TRUB ┆ decoy ┆ 0           ┆ 2            ┆ 0       │
+└───────┴──────────────────┴───────┴─────────────┴──────────────┴─────────┘
+== Decoy bar (TACK non-TRUB BHB, all studies): spliced targets 1, spliced decoys 0 (decoys covered 2) -> PASS
+== Verdict (gated studies ['S1']): TACK non-TRUB BHB groups covered 0, spliced and DNA-clean 0 in 0 classes; not counted: {}
+   verdict: NOT TESTABLE (coverage)
+== Spliced TACK non-TRUB BHB events, all studies (ungated ones are leads only)
+shape: (1, 14)
+┌───────┬───────┬────────────────────┬───────────┬───┬────────┬─────────┬─────────┬─────────────────────────────────┐
+│ study ┆ gated ┆ id                 ┆ n_members ┆ … ┆ joined ┆ through ┆ word    ┆ dna                             │
+│ ---   ┆ ---   ┆ ---                ┆ ---       ┆   ┆ ---    ┆ ---     ┆ ---     ┆ ---                             │
+│ str   ┆ bool  ┆ str                ┆ i64       ┆   ┆ i64    ┆ i64     ┆ str     ┆ str                             │
+╞═══════╪═══════╪════════════════════╪═══════════╪═══╪════════╪═════════╪═════════╪═════════════════════════════════╡
+│ S2    ┆ false ┆ GCA_049570475.1:c0 ┆ 1         ┆ … ┆ 45     ┆ 6       ┆ removed ┆ DNA clean (census reads, metaG) │
+└───────┴───────┴────────────────────┴───────────┴───┴────────┴─────────┴─────────┴─────────────────────────────────┘
+== Other spliced cuts (everything except TACK non-TRUB BHB), reported only
+shape: (5, 12)
+┌───────┬────────────────────┬────────────────┬────────────────┬───┬─────┬────────┬─────────┬──────────────────────────┐
+│ study ┆ id                 ┆ phylum         ┆ class          ┆ … ┆ k   ┆ joined ┆ through ┆ dna                      │
+│ ---   ┆ ---                ┆ ---            ┆ ---            ┆   ┆ --- ┆ ---    ┆ ---     ┆ ---                      │
+│ str   ┆ str                ┆ str            ┆ str            ┆   ┆ str ┆ i64    ┆ i64     ┆ str                      │
+╞═══════╪════════════════════╪════════════════╪════════════════╪═══╪═════╪════════╪═════════╪══════════════════════════╡
+│ S1    ┆ GCA_015520735.1:c0 ┆ Thermoproteota ┆ Thermoprotei_A ┆ … ┆ 1   ┆ 4      ┆ 0       ┆ DNA clean (census reads) │
+│ S1    ┆ GCA_038816475.1:c0 ┆ Thermoproteota ┆ Thermoprotei_A ┆ … ┆ 1   ┆ 3      ┆ 0       ┆ DNA clean (census reads) │
+│ S1    ┆ GCA_038821645.1:c0 ┆ Thermoproteota ┆ Thermoprotei_A ┆ … ┆ 1   ┆ 4      ┆ 0       ┆ DNA clean (census reads) │
+│ S1    ┆ GCA_038843015.1:c0 ┆ Thermoproteota ┆ Thermoprotei_A ┆ … ┆ 1   ┆ 3      ┆ 0       ┆ DNA clean (census reads) │
+│ S1    ┆ GCA_038896955.1:c0 ┆ Thermoproteota ┆ Thermoprotei_A ┆ … ┆ 1   ┆ 9      ┆ 0       ┆ DNA clean (census reads) │
+└───────┴────────────────────┴────────────────┴────────────────┴───┴─────┴────────┴─────────┴──────────────────────────┘

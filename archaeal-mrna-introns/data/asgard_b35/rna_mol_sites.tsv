@@ -1,0 +1,8 @@
+site	place	class	gene_strand	fragments	templates	templates_sense	templates_antisense	sense_gap_start	sense_gap_len	sense_gap_templates	sense_gap_share	frame_restored
+L01	-200	through	-	26	20	8	12
+L01	0	through	-	31	24	9	15
+L01	200	through	-	19	18	5	13
+L02	-200	through	+	587	458	207	251
+L02	0	joined	+	497	385	188	197	4487605	31	185	0.984	True
+L02	0	through	+	32	26	10	16
+L02	200	through	+	604	507	245	262

@@ -1,0 +1,3 @@
+site	acc	contig	strand	pos	d	fam	joined	through	gap_start	gap_len	gap_n	gap_share	frame_restored	other_gaps	joined_m200	through_m200	joined_p200	through_p200
+L01	GCA_025839675.1	CP104013.1	1	2441405	51	HDRA	0	42			0				0	45	0	40
+L02	GCA_025839675.1	CP104013.1	0	4487605	31	RBLL	0	46			0				0	37	0	31

@@ -1,0 +1,15 @@
+excluded anchors 30
+loci DNA dG <= -3.6: 3735; with share >= 0.10: 0 (0.0000%); with >=1 removal read: 2; removal reads 3 / through 1195616
+  top [1191358.0, -4.4, 181.0, 2.0] 0.011
+  top [892060.0, -4.0, 9289.0, 1.0] 0.0
+  top [3538787.0, -11.0, 121.0, 0.0] 0.0
+  top [1777185.0, -10.9, 41.0, 0.0] 0.0
+  top [2665757.0, -10.4, 30.0, 0.0] 0.0
+  top [1191275.0, -10.2, 151.0, 0.0] 0.0
+  top [2336176.0, -9.5, 60.0, 0.0] 0.0
+  top [2871282.0, -9.3, 48.0, 0.0] 0.0
+C2 word: not general
+fraction of all loci at or below L02 DNA dG 0.207
+  DNA dG<=-5: loci 1284, share>=0.10 0, removal reads 0 / through 394643
+  DNA dG<=-7: loci 154, share>=0.10 0, removal reads 0 / through 45416
+  DNA dG<=-9: loci 15, share>=0.10 0, removal reads 0 / through 6480

@@ -1,0 +1,4 @@
+classes {'joined': 385, 'through': 26}
+reads 529 removal reads 497 p 0.9395
+families 391; with n>=2 100; expected mixed 13.47; observed 0; Poisson P(X<=obs) 1.41e-06
+C1 word: PCR-stage skip rejected

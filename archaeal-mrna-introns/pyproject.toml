@@ -1,0 +1,11 @@
+[project]
+name = "archaeal-mrna-introns"
+version = "0.1.0"
+description = "Analysis code, data, and experimental test plans: candidate mRNA introns in Asgard and TACK archaea"
+requires-python = ">=3.11"
+dependencies = [
+    "matplotlib",
+]
+
+[tool.uv]
+package = false

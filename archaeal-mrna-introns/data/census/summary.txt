@@ -1,0 +1,159 @@
+== tier main: placed kept cuts 2609 (+0 with 0 decoys, left out), k<=3 2530; BHB 996, decoy BHB 580/20092, exp 73.1; k>=4: 79 cuts, BHB 35, exp 3.2; Bonferroni m=40
+shape: (40, 14)
+┌───────────────────┬───────────────────┬─────────┬────────┬───┬─────────────┬─────────────────┬──────────────────┬──────┐
+│ phylum            ┆ cls               ┆ genomes ┆ placed ┆ … ┆ p_bonf      ┆ bhb_per_1k_loci ┆ genomes_with_bhb ┆ fams │
+│ ---               ┆ ---               ┆ ---     ┆ ---    ┆   ┆ ---         ┆ ---             ┆ ---              ┆ ---  │
+│ str               ┆ str               ┆ i64     ┆ i64    ┆   ┆ f64         ┆ f64             ┆ i64              ┆ i64  │
+╞═══════════════════╪═══════════════════╪═════════╪════════╪═══╪═════════════╪═════════════════╪══════════════════╪══════╡
+│ Thermoproteota    ┆ Bathyarchaeia     ┆ 225     ┆ 334    ┆ … ┆ 4.3276e-190 ┆ 1.051           ┆ 148              ┆ 20   │
+│ Asgardarchaeota   ┆ Lokiarchaeia      ┆ 161     ┆ 337    ┆ … ┆ 5.2008e-165 ┆ 0.857           ┆ 98               ┆ 50   │
+│ Thermoproteota    ┆ Thermoprotei_A    ┆ 217     ┆ 175    ┆ … ┆ 4.5294e-102 ┆ 0.61            ┆ 115              ┆ 5    │
+│ Nanobdellota      ┆ Nanobdellia       ┆ 617     ┆ 122    ┆ … ┆ 3.1033e-38  ┆ 0.199           ┆ 48               ┆ 4    │
+│ Thermoproteota    ┆ Methanomethylicia ┆ 36      ┆ 53     ┆ … ┆ 5.2577e-48  ┆ 1.486           ┆ 21               ┆ 7    │
+│ Asgardarchaeota   ┆ Jordiarchaeia     ┆ 11      ┆ 65     ┆ … ┆ 2.1736e-39  ┆ 2.822           ┆ 11               ┆ 12   │
+│ Thermoproteota    ┆ Nitrososphaeria   ┆ 264     ┆ 123    ┆ … ┆ 1.4127e-16  ┆ 0.154           ┆ 31               ┆ 5    │
+│ Asgardarchaeota   ┆ Hermodarchaeia    ┆ 19      ┆ 41     ┆ … ┆ 9.6340e-37  ┆ 1.757           ┆ 18               ┆ 7    │
+│ Thermoproteota    ┆ Thermoprotei      ┆ 76      ┆ 54     ┆ … ┆ 4.0989e-23  ┆ 0.437           ┆ 22               ┆ 9    │
+│ Asgardarchaeota   ┆ Odinarchaeia      ┆ 7       ┆ 34     ┆ … ┆ 2.9203e-27  ┆ 4.473           ┆ 7                ┆ 8    │
+│ Thermoproteota    ┆ CALKCG01          ┆ 9       ┆ 29     ┆ … ┆ 8.4168e-23  ┆ 2.826           ┆ 9                ┆ 7    │
+│ Asgardarchaeota   ┆ Baldrarchaeia     ┆ 5       ┆ 22     ┆ … ┆ 1.4603e-16  ┆ 3.209           ┆ 5                ┆ 5    │
+│ Asgardarchaeota   ┆ Sifarchaeia       ┆ 6       ┆ 21     ┆ … ┆ 3.5675e-19  ┆ 2.394           ┆ 5                ┆ 6    │
+│ Thermoproteota    ┆ Nitrososphaeria_A ┆ 40      ┆ 20     ┆ … ┆ 5.9941e-15  ┆ 0.466           ┆ 14               ┆ 5    │
+│ Aenigmatarchaeota ┆ Aenigmatarchaeia  ┆ 157     ┆ 53     ┆ … ┆ 4.8804e-8   ┆ 0.235           ┆ 12               ┆ 8    │
+│ Korarchaeota      ┆ Korarchaeia       ┆ 12      ┆ 15     ┆ … ┆ 5.0012e-12  ┆ 1.071           ┆ 5                ┆ 4    │
+│ Asgardarchaeota   ┆ Atabeyarchaeia    ┆ 3       ┆ 21     ┆ … ┆ 4.8351e-9   ┆ 2.864           ┆ 3                ┆ 6    │
+│ Asgardarchaeota   ┆ Thorarchaeia      ┆ 87      ┆ 46     ┆ … ┆ 0.004588    ┆ 0.106           ┆ 11               ┆ 6    │
+│ Halobacteriota    ┆ Halobacteria      ┆ 317     ┆ 198    ┆ … ┆ 1.0         ┆ 0.021           ┆ 11               ┆ 6    │
+│ Asgardarchaeota   ┆ Heimdallarchaeia  ┆ 83      ┆ 39     ┆ … ┆ 0.024255    ┆ 0.089           ┆ 9                ┆ 6    │
+│ Thermoproteota    ┆ EX4484-205        ┆ 11      ┆ 14     ┆ … ┆ 2.6606e-7   ┆ 0.952           ┆ 4                ┆ 4    │
+│ Asgardarchaeota   ┆ Wukongarchaeia    ┆ 3       ┆ 8      ┆ … ┆ 0.000925    ┆ 1.305           ┆ 2                ┆ 5    │
+│ Asgardarchaeota   ┆ Njordarchaeia     ┆ 14      ┆ 7      ┆ … ┆ 0.032428    ┆ 0.383           ┆ 4                ┆ 2    │
+│ Halobacteriota    ┆ Methanosarcinia   ┆ 197     ┆ 335    ┆ … ┆ 1.0         ┆ 0.014           ┆ 3                ┆ 4    │
+│ Micrarchaeota     ┆ Micrarchaeia      ┆ 176     ┆ 55     ┆ … ┆ 1.0         ┆ 0.05            ┆ 4                ┆ 3    │
+│ Thermoplasmatota  ┆ Thermoplasmata    ┆ 328     ┆ 86     ┆ … ┆ 1.0         ┆ 0.013           ┆ 4                ┆ 3    │
+│ Methanobacteriota ┆ Methanobacteria   ┆ 63      ┆ 42     ┆ … ┆ 1.0         ┆ 0.039           ┆ 3                ┆ 3    │
+│ AGJL01            ┆ Methanococci      ┆ 22      ┆ 30     ┆ … ┆ 1.0         ┆ 0.062           ┆ 2                ┆ 1    │
+│ Hadarchaeota      ┆ Hadarchaeia       ┆ 24      ┆ 4      ┆ … ┆ 0.380952    ┆ 0.108           ┆ 2                ┆ 2    │
+│ Halobacteriota    ┆ Archaeoglobi      ┆ 23      ┆ 13     ┆ … ┆ 1.0         ┆ 0.066           ┆ 2                ┆ 1    │
+│ JACRDV01          ┆ JACRDV01          ┆ 1       ┆ 2      ┆ … ┆ 0.784314    ┆ 2.09            ┆ 1                ┆ 2    │
+│ Korarchaeota      ┆ JAOZGF01          ┆ 3       ┆ 2      ┆ … ┆ 0.261438    ┆ 0.663           ┆ 2                ┆ 2    │
+│ Halobacteriota    ┆ Methanomicrobia   ┆ 68      ┆ 15     ┆ … ┆ 1.0         ┆ 0.011           ┆ 1                ┆ 1    │
+│ Iainarchaeota     ┆ Iainarchaeia      ┆ 59      ┆ 10     ┆ … ┆ 1.0         ┆ 0.034           ┆ 1                ┆ 1    │
+│ Thermoplasmatota  ┆ E2                ┆ 60      ┆ 25     ┆ … ┆ 1.0         ┆ 0.019           ┆ 1                ┆ 1    │
+│ Altiarchaeota     ┆ Altiarchaeia      ┆ 18      ┆ 0      ┆ … ┆ 1.0         ┆ 0.0             ┆ 0                ┆ 0    │
+│ Asgardarchaeota   ┆ Asgardarchaeia    ┆ 1       ┆ 0      ┆ … ┆ 1.0         ┆ 0.0             ┆ 0                ┆ 0    │
+│ B1Sed10-29        ┆ B1Sed10-29        ┆ 14      ┆ 2      ┆ … ┆ 1.0         ┆ 0.0             ┆ 0                ┆ 0    │
+│ CAYFZR01          ┆ CAYFZR01          ┆ 1       ┆ 1      ┆ … ┆ 1.0         ┆ 0.0             ┆ 0                ┆ 0    │
+│ CAYQAE01          ┆ CAYQAE01          ┆ 3       ┆ 0      ┆ … ┆ 1.0         ┆ 0.0             ┆ 0                ┆ 0    │
+└───────────────────┴───────────────────┴─────────┴────────┴───┴─────────────┴─────────────────┴──────────────────┴──────┘
+Asgard pooled obs 373 of 641 placed, exp 12.48, ratio 29.9; classes passing: 11; VERDICT BAR: MET
+  quality (i) compl>=90 contam<=5 Asgard: genomes 90, placed 184, obs 117, exp 3.20, ratio 36.5
+  quality (i) compl>=90 contam<=5 other : genomes 2059, placed 1222, obs 410, exp 41.68, ratio 9.8
+  quality (ii) rest Asgard: genomes 310, placed 457, obs 256, exp 9.34, ratio 27.4
+  quality (ii) rest other : genomes 1207, placed 667, obs 213, exp 18.99, ratio 11.2
+  quality (iii) <=10 contigs Asgard: genomes 11, placed 32, obs 24, exp 0.68, ratio 35.0
+  quality (iii) <=10 contigs other : genomes 816, placed 529, obs 108, exp 19.93, ratio 5.4
+  amendment 6: Asgard (i) 36.5 vs 3 and vs a third of Asgard (ii) 9.1 -> excess does not lean on lower-quality MAGs
+R7: 996 BHB cuts, 0 not mapped to a reference column
+shape: (30, 11)
+┌───────┬─────────┬───────┬──────┬───┬─────────────────────────────────┬───────┬──────────┬─────────┐
+│ fam   ┆ ref_sid ┆ phase ┆ rcol ┆ … ┆ class_list                      ┆ L_med ┆ dec_rate ┆ alike12 │
+│ ---   ┆ ---     ┆ ---   ┆ ---  ┆   ┆ ---                             ┆ ---   ┆ ---      ┆ ---     │
+│ str   ┆ i64     ┆ i64   ┆ i64  ┆   ┆ str                             ┆ f64   ┆ f64      ┆ f64     │
+╞═══════╪═════════╪═══════╪══════╪═══╪═════════════════════════════════╪═══════╪══════════╪═════════╡
+│ TRUB  ┆ 507016  ┆ 1     ┆ 81   ┆ … ┆ Atabeyarchaeia;Bathyarchaeia;C… ┆ 23.0  ┆ 0.014301 ┆ 0.45    │
+│ TRUB  ┆ 507016  ┆ 2     ┆ 80   ┆ … ┆ Bathyarchaeia;CALKCG01;Korarch… ┆ 23.0  ┆ 0.019231 ┆ 0.29    │
+│ PIMT  ┆ 320110  ┆ 1     ┆ 71   ┆ … ┆ Atabeyarchaeia;Baldrarchaeia;B… ┆ 31.0  ┆ 0.007267 ┆ 0.57    │
+│ IF2P  ┆ 196847  ┆ 2     ┆ 44   ┆ … ┆ Baldrarchaeia;Bathyarchaeia;CA… ┆ 29.5  ┆ 0.0      ┆ 0.25    │
+│ IF2P  ┆ 196847  ┆ 0     ┆ 45   ┆ … ┆ Baldrarchaeia;CALKCG01;EX4484-… ┆ 29.0  ┆ 0.007353 ┆ 0.12    │
+│ MTNA  ┆ 262963  ┆ 0     ┆ 157  ┆ … ┆ Bathyarchaeia;CALKCG01;Methano… ┆ 28.0  ┆ 0.00625  ┆ 0.35    │
+│ MTNA  ┆ 262963  ┆ 2     ┆ 157  ┆ … ┆ Bathyarchaeia;Methanomethylici… ┆ 27.0  ┆ 0.007353 ┆ 0.24    │
+│ GLYA  ┆ 163300  ┆ 1     ┆ 54   ┆ … ┆ Baldrarchaeia;Bathyarchaeia;JA… ┆ 32.0  ┆ 0.017857 ┆ 0.57    │
+│ DNAG  ┆ 106134  ┆ 1     ┆ 43   ┆ … ┆ Jordiarchaeia;Lokiarchaeia;Nit… ┆ 37.0  ┆ 0.007353 ┆ 0.94    │
+│ EF2   ┆ 117563  ┆ 2     ┆ 67   ┆ … ┆ Bathyarchaeia;Hermodarchaeia;M… ┆ 31.0  ┆ 0.0      ┆ 0.33    │
+│ Y674  ┆ 553284  ┆ 1     ┆ 123  ┆ … ┆ Jordiarchaeia;Lokiarchaeia;Met… ┆ 31.0  ┆ 0.013889 ┆ 0.44    │
+│ PIMT  ┆ 320110  ┆ 2     ┆ 70   ┆ … ┆ Baldrarchaeia;Bathyarchaeia;Jo… ┆ 31.0  ┆ 0.0      ┆ 0.0     │
+│ RTCB  ┆ 439547  ┆ 1     ┆ 95   ┆ … ┆ Aenigmatarchaeia;Lokiarchaeia;… ┆ 29.0  ┆ 0.0      ┆ 0.0     │
+│ RTCB  ┆ 439547  ┆ 1     ┆ 95   ┆ … ┆ Aenigmatarchaeia;Lokiarchaeia;… ┆ 30.0  ┆ 0.0      ┆ 0.0     │
+│ SAHH  ┆ 444317  ┆ 1     ┆ 370  ┆ … ┆ Atabeyarchaeia;Jordiarchaeia;T… ┆ 34.0  ┆ 0.041667 ┆ 0.0     │
+│ RTCB  ┆ 439547  ┆ 1     ┆ 71   ┆ … ┆ Iainarchaeia;Nanobdellia        ┆ 31.0  ┆ 0.008333 ┆ 0.0     │
+│ IF5A  ┆ 198214  ┆ 1     ┆ 41   ┆ … ┆ Bathyarchaeia;Nitrososphaeria   ┆ 25.0  ┆ 0.0      ┆ 0.22    │
+│ KAE1B ┆ 210423  ┆ 2     ┆ 80   ┆ … ┆ Jordiarchaeia;Odinarchaeia      ┆ 27.0  ┆ 0.03125  ┆ 0.75    │
+│ RTCB  ┆ 439547  ┆ 2     ┆ 69   ┆ … ┆ Aenigmatarchaeia;Nanobdellia    ┆ 31.0  ┆ 0.017857 ┆ 0.0     │
+│ GLYA  ┆ 163300  ┆ 0     ┆ 55   ┆ … ┆ Bathyarchaeia;Nitrososphaeria   ┆ 31.0  ┆ 0.020833 ┆ 0.0     │
+│ RTCB  ┆ 439547  ┆ 0     ┆ 97   ┆ … ┆ Aenigmatarchaeia;Nanobdellia    ┆ 31.0  ┆ 0.0      ┆ 0.0     │
+│ PORC  ┆ 326494  ┆ 0     ┆ 41   ┆ … ┆ Baldrarchaeia;Thermoprotei      ┆ 28.0  ┆ 0.03125  ┆ 0.5     │
+│ RTCB  ┆ 439547  ┆ 1     ┆ 95   ┆ … ┆ Lokiarchaeia;Nanobdellia        ┆ 29.0  ┆ 0.0      ┆ 0.0     │
+│ IF5A  ┆ 198214  ┆ 2     ┆ 40   ┆ … ┆ Aenigmatarchaeia;CALKCG01       ┆ 31.5  ┆ 0.03125  ┆ 0.0     │
+│ GLYA  ┆ 163300  ┆ 2     ┆ 54   ┆ … ┆ Bathyarchaeia;Nitrososphaeria   ┆ 29.0  ┆ 0.0      ┆ 0.75    │
+│ RFCS  ┆ 364631  ┆ 2     ┆ 51   ┆ … ┆ Lokiarchaeia;Sifarchaeia        ┆ 31.0  ┆ 0.0      ┆ 0.0     │
+│ NIKMN ┆ 281758  ┆ 2     ┆ 206  ┆ … ┆ Bathyarchaeia;Halobacteria      ┆ 47.0  ┆ 0.041667 ┆ 0.67    │
+│ TBP   ┆ 486171  ┆ 1     ┆ 136  ┆ … ┆ Nitrososphaeria_A;Thermoprotei  ┆ 28.0  ┆ 0.0      ┆ 0.67    │
+│ EF2   ┆ 117563  ┆ 0     ┆ 98   ┆ … ┆ Aenigmatarchaeia;Lokiarchaeia   ┆ 31.0  ┆ 0.0      ┆ 0.0     │
+│ GATE  ┆ 152078  ┆ 1     ┆ 85   ┆ … ┆ Bathyarchaeia;Heimdallarchaeia  ┆ 35.0  ┆ 0.0      ┆ 0.0     │
+└───────┴─────────┴───────┴──────┴───┴─────────────────────────────────┴───────┴──────────┴─────────┘
+== tier wide: placed kept cuts 231 (+0 with 0 decoys, left out), k<=3 204; BHB 112, decoy BHB 43/1627, exp 5.5; k>=4: 27 cuts, BHB 15, exp 2.1; Bonferroni m=12
+shape: (40, 14)
+┌───────────────────┬───────────────────────┬─────────┬────────┬───┬────────────┬─────────────────┬──────────────────┬──────┐
+│ phylum            ┆ cls                   ┆ genomes ┆ placed ┆ … ┆ p_bonf     ┆ bhb_per_1k_loci ┆ genomes_with_bhb ┆ fams │
+│ ---               ┆ ---                   ┆ ---     ┆ ---    ┆   ┆ ---        ┆ ---             ┆ ---              ┆ ---  │
+│ str               ┆ str                   ┆ i64     ┆ i64    ┆   ┆ f64        ┆ f64             ┆ i64              ┆ i64  │
+╞═══════════════════╪═══════════════════════╪═════════╪════════╪═══╪════════════╪═════════════════╪══════════════════╪══════╡
+│ Thermoproteota    ┆ Thermoprotei_A        ┆ 217     ┆ 49     ┆ … ┆ 1.7084e-37 ┆ 0.203           ┆ 39               ┆ 2    │
+│ Thermoproteota    ┆ Bathyarchaeia         ┆ 225     ┆ 38     ┆ … ┆ 4.1581e-20 ┆ 0.109           ┆ 21               ┆ 6    │
+│ Thermoproteota    ┆ Methanomethylicia     ┆ 36      ┆ 8      ┆ … ┆ 6.5168e-8  ┆ 0.221           ┆ 7                ┆ 2    │
+│ Thermoproteota    ┆ Thermoprotei          ┆ 76      ┆ 14     ┆ … ┆ 0.000296   ┆ 0.099           ┆ 7                ┆ 2    │
+│ Asgardarchaeota   ┆ Lokiarchaeia          ┆ 161     ┆ 13     ┆ … ┆ 0.001711   ┆ 0.022           ┆ 5                ┆ 4    │
+│ Thermoproteota    ┆ CALKCG01              ┆ 9       ┆ 5      ┆ … ┆ 0.00001    ┆ 0.614           ┆ 5                ┆ 2    │
+│ Asgardarchaeota   ┆ Hermodarchaeia        ┆ 19      ┆ 4      ┆ … ┆ 0.000204   ┆ 0.201           ┆ 4                ┆ 2    │
+│ Asgardarchaeota   ┆ Jordiarchaeia         ┆ 11      ┆ 5      ┆ … ┆ 0.001974   ┆ 0.257           ┆ 4                ┆ 3    │
+│ Thermoproteota    ┆ Nitrososphaeria_A     ┆ 40      ┆ 5      ┆ … ┆ 0.000403   ┆ 0.117           ┆ 4                ┆ 1    │
+│ Thermoproteota    ┆ EX4484-205            ┆ 11      ┆ 3      ┆ … ┆ 0.004103   ┆ 0.317           ┆ 3                ┆ 1    │
+│ Asgardarchaeota   ┆ Thorarchaeia          ┆ 87      ┆ 2      ┆ … ┆ 0.078431   ┆ 0.019           ┆ 2                ┆ 2    │
+│ Halobacteriota    ┆ Halobacteria          ┆ 317     ┆ 8      ┆ … ┆ 1.0        ┆ 0.004           ┆ 1                ┆ 1    │
+│ Aenigmatarchaeota ┆ Aenigmatarchaeia      ┆ 157     ┆ 3      ┆ … ┆ 1.0        ┆ 0.016           ┆ 1                ┆ 1    │
+│ Asgardarchaeota   ┆ Heimdallarchaeia      ┆ 83      ┆ 3      ┆ … ┆ 1.0        ┆ 0.01            ┆ 1                ┆ 1    │
+│ Asgardarchaeota   ┆ Njordarchaeia         ┆ 14      ┆ 2      ┆ … ┆ 1.0        ┆ 0.096           ┆ 1                ┆ 1    │
+│ Korarchaeota      ┆ Korarchaeia           ┆ 12      ┆ 2      ┆ … ┆ 1.0        ┆ 0.089           ┆ 1                ┆ 1    │
+│ Thermoplasmatota  ┆ Thermoplasmata        ┆ 328     ┆ 8      ┆ … ┆ 1.0        ┆ 0.003           ┆ 1                ┆ 1    │
+│ Thermoproteota    ┆ Nitrososphaeria       ┆ 264     ┆ 5      ┆ … ┆ 1.0        ┆ 0.004           ┆ 1                ┆ 1    │
+│ AGJL01            ┆ Methanococci          ┆ 22      ┆ 4      ┆ … ┆ 1.0        ┆ 0.0             ┆ 0                ┆ 0    │
+│ Altiarchaeota     ┆ Altiarchaeia          ┆ 18      ┆ 0      ┆ … ┆ 1.0        ┆ 0.0             ┆ 0                ┆ 0    │
+│ Asgardarchaeota   ┆ Asgardarchaeia        ┆ 1       ┆ 0      ┆ … ┆ 1.0        ┆ 0.0             ┆ 0                ┆ 0    │
+│ Asgardarchaeota   ┆ Atabeyarchaeia        ┆ 3       ┆ 1      ┆ … ┆ 1.0        ┆ 0.0             ┆ 0                ┆ 0    │
+│ Asgardarchaeota   ┆ Baldrarchaeia         ┆ 5       ┆ 0      ┆ … ┆ 1.0        ┆ 0.0             ┆ 0                ┆ 0    │
+│ Asgardarchaeota   ┆ Odinarchaeia          ┆ 7       ┆ 0      ┆ … ┆ 1.0        ┆ 0.0             ┆ 0                ┆ 0    │
+│ Asgardarchaeota   ┆ Sifarchaeia           ┆ 6       ┆ 0      ┆ … ┆ 1.0        ┆ 0.0             ┆ 0                ┆ 0    │
+│ Asgardarchaeota   ┆ Wukongarchaeia        ┆ 3       ┆ 0      ┆ … ┆ 1.0        ┆ 0.0             ┆ 0                ┆ 0    │
+│ B1Sed10-29        ┆ B1Sed10-29            ┆ 14      ┆ 0      ┆ … ┆ 1.0        ┆ 0.0             ┆ 0                ┆ 0    │
+│ CAYFZR01          ┆ CAYFZR01              ┆ 1       ┆ 0      ┆ … ┆ 1.0        ┆ 0.0             ┆ 0                ┆ 0    │
+│ CAYQAE01          ┆ CAYQAE01              ┆ 3       ┆ 0      ┆ … ┆ 1.0        ┆ 0.0             ┆ 0                ┆ 0    │
+│ EX4484-52         ┆ EX4484-52             ┆ 15      ┆ 0      ┆ … ┆ 1.0        ┆ 0.0             ┆ 0                ┆ 0    │
+│ Hadarchaeota      ┆ B88-G9                ┆ 1       ┆ 0      ┆ … ┆ 1.0        ┆ 0.0             ┆ 0                ┆ 0    │
+│ Hadarchaeota      ┆ Hadarchaeia           ┆ 24      ┆ 0      ┆ … ┆ 1.0        ┆ 0.0             ┆ 0                ┆ 0    │
+│ Halobacteriota    ┆ Archaeoglobi          ┆ 23      ┆ 1      ┆ … ┆ 1.0        ┆ 0.0             ┆ 0                ┆ 0    │
+│ Halobacteriota    ┆ Bog-38                ┆ 5       ┆ 0      ┆ … ┆ 1.0        ┆ 0.0             ┆ 0                ┆ 0    │
+│ Halobacteriota    ┆ JAWCLZ01              ┆ 2       ┆ 0      ┆ … ┆ 1.0        ┆ 0.0             ┆ 0                ┆ 0    │
+│ Halobacteriota    ┆ Methanocellia         ┆ 4       ┆ 0      ┆ … ┆ 1.0        ┆ 0.0             ┆ 0                ┆ 0    │
+│ Halobacteriota    ┆ Methanoliparia        ┆ 1       ┆ 0      ┆ … ┆ 1.0        ┆ 0.0             ┆ 0                ┆ 0    │
+│ Halobacteriota    ┆ Methanomicrobia       ┆ 68      ┆ 3      ┆ … ┆ 1.0        ┆ 0.0             ┆ 0                ┆ 0    │
+│ Halobacteriota    ┆ Methanonatronarchaeia ┆ 5       ┆ 1      ┆ … ┆ 1.0        ┆ 0.0             ┆ 0                ┆ 0    │
+│ Halobacteriota    ┆ Methanosarcinia       ┆ 197     ┆ 6      ┆ … ┆ 1.0        ┆ 0.0             ┆ 0                ┆ 0    │
+└───────────────────┴───────────────────────┴─────────┴────────┴───┴────────────┴─────────────────┴──────────────────┴──────┘
+Asgard pooled obs 17 of 30 placed, exp 0.57, ratio 29.8; classes passing: 2 (wide tier: reported only, no verdict)
+R7: 112 BHB cuts, 0 not mapped to a reference column
+shape: (3, 11)
+┌──────┬─────────┬───────┬──────┬───┬─────────────────────────────────┬───────┬──────────┬─────────┐
+│ fam  ┆ ref_sid ┆ phase ┆ rcol ┆ … ┆ class_list                      ┆ L_med ┆ dec_rate ┆ alike12 │
+│ ---  ┆ ---     ┆ ---   ┆ ---  ┆   ┆ ---                             ┆ ---   ┆ ---      ┆ ---     │
+│ str  ┆ i64     ┆ i64   ┆ i64  ┆   ┆ str                             ┆ f64   ┆ f64      ┆ f64     │
+╞══════╪═════════╪═══════╪══════╪═══╪═════════════════════════════════╪═══════╪══════════╪═════════╡
+│ TRUB ┆ 507016  ┆ 1     ┆ 81   ┆ … ┆ Bathyarchaeia;CALKCG01;EX4484-… ┆ 20.0  ┆ 0.013158 ┆ 0.33    │
+│ TRUB ┆ 507016  ┆ 2     ┆ 80   ┆ … ┆ Bathyarchaeia;Nitrososphaeria_… ┆ 20.0  ┆ 0.0      ┆ 0.21    │
+│ PIMT ┆ 320110  ┆ 1     ┆ 71   ┆ … ┆ Bathyarchaeia;CALKCG01          ┆ 31.0  ┆ 0.0      ┆ 0.0     │
+└──────┴─────────┴───────┴──────┴───┴─────────────────────────────────┴───────┴──────────┴─────────┘
+C2 A. pernix GCF_000011125.1 [{'tier': 'main', 'd': 38, 'dcol': -1, 'status': 'placed', 'L': 38, 'k': 1, 'bhb': True, 'strict': True}]
+C2 S. solfataricus (rep) GCF_900079115.1 [{'tier': 'main', 'd': 22, 'dcol': -5, 'status': 'placed', 'L': 22, 'k': 1, 'bhb': True, 'strict': True}]
+C2 S. acidocaldarius GCF_000012285.1 [{'tier': 'wide', 'd': 22, 'dcol': -7, 'status': 'placed', 'L': 22, 'k': 1, 'bhb': True, 'strict': False}]
+C2 M. sedula GCF_000016605.1 [{'tier': 'main', 'd': 19, 'dcol': -2, 'status': 'placed', 'L': 19, 'k': 1, 'bhb': True, 'strict': True}]
+C2 (amendment 7d): main tier 3 of 4 species (4 run) -> PASS; with wide tier 4 of 4 (reported only)

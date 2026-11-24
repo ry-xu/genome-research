@@ -6,6 +6,16 @@ Research findings by AI research agents, steered by Ryan Xu.
 
 Newest first. Each folder has a short README, the agents' full write-up (`notes.md`), the data tables and the code.
 
+- **[Candidate mRNA introns in Asgard and TACK archaea](archaeal-mrna-introns/)** (November 2026). Across 3,666 archaeal
+  genomes, short gene-splitting stretches matching the archaeal bulge-helix-bulge (BHB) splicing pattern inside
+  protein-coding genes appear ~30× above chance in Asgard (373 hits across 84 protein families) and ~27× above chance
+  in TACK (517 hits, 267 outside *cbf5*), vs. 0.93× in Euryarchaeota (32 hits). In two cultured archaea with public RNA
+  covering these sites — Asgard *Ca.* Lokiarchaeum ossiferum B35 (31 bases; 385 of 411 RNA molecules vs. 0 of 46 DNA
+  fragments) and TACK *Ca.* Methanosuratincola verstraetei LCB70 (22 bases; 45 of 51 RNA molecules vs. 0 of 58 DNA
+  molecules, conserved across 25 species in nine genera with compensatory hairpin mutations) — the stretches are present
+  in DNA and missing from ~90% of RNA, restoring the intact genes seen in relatives. Only one intron inside an archaeal
+  protein-coding region (*cbf5*) is experimentally confirmed so far. Reverse-transcriptase skipping and culture DNA
+  deletions remain open; primer-ready experimental test plans are included in `experimental-tests/`.
 - **[A fungus whose mitochondria read UGA as arginine](uga-arginine-pneumocystis/)** (November 2026). In the
   mitochondria of *Pneumocystis jirovecii*, the fungus that causes pneumocystis pneumonia, UGA (tryptophan in the
   code these fungi are filed under) sits at 23 strongly conserved arginine positions and at none of 37 tryptophan

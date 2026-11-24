@@ -1,0 +1,12 @@
+# not included (see src/README.md): census files, profile models, reads, BAMs
+*.census.npz
+*.hmm
+*.bam
+*.bai
+results/
+scratch/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
